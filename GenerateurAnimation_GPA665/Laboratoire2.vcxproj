@@ -98,14 +98,14 @@
       <Optimization>Disabled</Optimization>
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <WarningLevel>Level3</WarningLevel>
-      <MinimalRebuild>true</MinimalRebuild>
-      <DebugInformationFormat>OldStyle</DebugInformationFormat>
+      <MinimalRebuild>false</MinimalRebuild>
       <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <AssemblerListingLocation>.\Debug\</AssemblerListingLocation>
       <PrecompiledHeaderOutputFile>.\Debug\Laboratoire2.pch</PrecompiledHeaderOutputFile>
       <ObjectFileName>.\Debug\</ObjectFileName>
       <ProgramDataBaseFileName>.\Debug\</ProgramDataBaseFileName>
       <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <DebugInformationFormat>OldStyle</DebugInformationFormat>
     </ClCompile>
     <Midl>
       <SuppressStartupBanner>true</SuppressStartupBanner>
@@ -131,16 +131,22 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <None Include="forward_list.tpp">
+      <FileType>Document</FileType>
+    </None>
     <ClCompile Include="Laboratoire2.cpp" />
     <ClCompile Include="Media.cpp" />
     <ClCompile Include="Win32_AppWindow.cpp" />
     <ClCompile Include="Win32_GraphicWindow.cpp" />
+    <None Include="List.tpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Win32_resources.rc" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="forward_list.h" />
     <ClInclude Include="Laboratoire2.h" />
+    <ClInclude Include="List.h" />
     <ClInclude Include="Media.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="Scene_DC.h" />
