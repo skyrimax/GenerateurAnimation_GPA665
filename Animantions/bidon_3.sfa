@@ -1,0 +1,20 @@
+Jacques le tit bonhomme...
+INIT
+cpen 255 0 0
+cbru 0 0 255
+eras 255 255 255
+dell 150 0 210 60
+dell 165 15 175 25
+dell 185 15 195 25
+dell 160 35 200 45
+dell 130 60 230 160
+dell 170 70 190 90
+dell 170 100 190 120
+dell 170 130 190 150
+dell 100 160 260 320
+wait 1200
+FRAME
+allo fff
+dell 170 130 190 150
+dell 100 160 260 320
+END

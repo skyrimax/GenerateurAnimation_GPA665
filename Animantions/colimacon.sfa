@@ -1,0 +1,11534 @@
+e:\gpa-665\lab2\test.sfa
+INIT
+eras 255 255 255
+FRAME
+cpen 0 0 0
+dlin 242 199 237 80
+wait 5
+cpen 1 0 255
+dlin 244 201 239 82
+wait 3
+cpen 0 0 0
+dlin 245 200 234 80
+wait 5
+cpen 1 0 255
+dlin 247 202 236 82
+wait 3
+cpen 0 0 0
+dlin 247 199 232 80
+wait 5
+cpen 1 0 255
+dlin 249 201 234 82
+wait 3
+cpen 0 0 0
+dlin 250 199 229 81
+wait 5
+cpen 1 0 255
+dlin 252 201 231 83
+wait 3
+cpen 0 0 0
+dlin 253 199 226 81
+wait 5
+cpen 1 0 255
+dlin 255 201 228 83
+wait 3
+cpen 1 0 0
+dlin 255 199 224 82
+wait 5
+cpen 2 0 255
+dlin 257 201 226 84
+wait 3
+cpen 1 0 0
+dlin 258 198 221 83
+wait 5
+cpen 2 0 255
+dlin 260 200 223 85
+wait 3
+cpen 1 0 0
+dlin 260 197 219 84
+wait 5
+cpen 2 0 255
+dlin 262 199 221 86
+wait 3
+cpen 1 0 0
+dlin 263 197 216 85
+wait 5
+cpen 2 0 255
+dlin 265 199 218 87
+wait 3
+cpen 1 0 0
+dlin 265 196 214 86
+wait 5
+cpen 2 0 255
+dlin 267 198 216 88
+wait 3
+cpen 1 0 0
+dlin 267 195 212 88
+wait 5
+cpen 2 0 255
+dlin 269 197 214 90
+wait 3
+cpen 255 255 255
+dlin 242 199 237 80
+cpen 2 0 0
+dlin 270 194 209 89
+wait 5
+cpen 3 0 255
+dlin 272 196 211 91
+wait 3
+cpen 255 255 255
+dlin 245 200 234 80
+cpen 2 0 0
+dlin 272 193 207 91
+wait 5
+cpen 3 0 255
+dlin 274 195 209 93
+wait 3
+cpen 255 255 255
+dlin 247 199 232 80
+cpen 2 0 0
+dlin 274 191 205 92
+wait 5
+cpen 3 0 255
+dlin 276 193 207 94
+wait 3
+cpen 255 255 255
+dlin 250 199 229 81
+cpen 2 0 0
+dlin 276 190 203 94
+wait 5
+cpen 3 0 255
+dlin 278 192 205 96
+wait 3
+cpen 255 255 255
+dlin 253 199 226 81
+cpen 2 0 0
+dlin 278 189 200 96
+wait 5
+cpen 3 0 255
+dlin 280 191 202 98
+wait 3
+cpen 255 255 255
+dlin 255 199 224 82
+cpen 3 0 0
+dlin 280 187 198 98
+wait 5
+cpen 4 0 255
+dlin 282 189 200 100
+wait 3
+cpen 255 255 255
+dlin 258 198 221 83
+cpen 3 0 0
+dlin 282 185 197 100
+wait 5
+cpen 4 0 255
+dlin 284 187 199 102
+wait 3
+cpen 255 255 255
+dlin 260 197 219 84
+cpen 3 0 0
+dlin 284 184 195 102
+wait 5
+cpen 4 0 255
+dlin 286 186 197 104
+wait 3
+cpen 255 255 255
+dlin 263 197 216 85
+cpen 3 0 0
+dlin 286 182 193 104
+wait 5
+cpen 4 0 255
+dlin 288 184 195 106
+wait 3
+cpen 255 255 255
+dlin 265 196 214 86
+cpen 3 0 0
+dlin 288 180 191 106
+wait 5
+cpen 4 0 255
+dlin 290 182 193 108
+wait 3
+cpen 255 255 255
+dlin 267 195 212 88
+cpen 3 0 0
+dlin 289 178 190 108
+wait 5
+cpen 4 0 255
+dlin 291 180 192 110
+wait 3
+cpen 255 255 255
+dlin 270 194 209 89
+cpen 4 0 0
+dlin 291 176 188 111
+wait 5
+cpen 5 0 255
+dlin 293 178 190 113
+wait 3
+cpen 255 255 255
+dlin 272 193 207 91
+cpen 4 0 0
+dlin 292 174 187 113
+wait 5
+cpen 5 0 255
+dlin 294 176 189 115
+wait 3
+cpen 255 255 255
+dlin 274 191 205 92
+cpen 4 0 0
+dlin 293 172 185 116
+wait 5
+cpen 5 0 255
+dlin 295 174 187 118
+wait 3
+cpen 255 255 255
+dlin 276 190 203 94
+cpen 4 0 0
+dlin 294 170 184 118
+wait 5
+cpen 5 0 255
+dlin 296 172 186 120
+wait 3
+cpen 255 255 255
+dlin 278 189 200 96
+cpen 4 0 0
+dlin 296 167 183 121
+wait 5
+cpen 5 0 255
+dlin 298 169 185 123
+wait 3
+cpen 255 255 255
+dlin 280 187 198 98
+cpen 4 0 0
+dlin 297 165 182 123
+wait 5
+cpen 5 0 255
+dlin 299 167 184 125
+wait 3
+cpen 255 255 255
+dlin 282 185 197 100
+cpen 5 0 0
+dlin 297 163 181 126
+wait 5
+cpen 6 0 255
+dlin 299 165 183 128
+wait 3
+cpen 255 255 255
+dlin 284 184 195 102
+cpen 5 0 0
+dlin 298 160 180 129
+wait 5
+cpen 6 0 255
+dlin 300 162 182 131
+wait 3
+cpen 255 255 255
+dlin 286 182 193 104
+cpen 5 0 0
+dlin 299 158 180 132
+wait 5
+cpen 6 0 255
+dlin 301 160 182 134
+wait 3
+cpen 255 255 255
+dlin 288 180 191 106
+cpen 5 0 0
+dlin 299 156 179 134
+wait 5
+cpen 6 0 255
+dlin 301 158 181 136
+wait 3
+cpen 255 255 255
+dlin 289 178 190 108
+cpen 5 0 0
+dlin 300 153 178 137
+wait 5
+cpen 6 0 255
+dlin 302 155 180 139
+wait 3
+cpen 255 255 255
+dlin 291 176 188 111
+cpen 6 0 0
+dlin 300 151 178 140
+wait 5
+cpen 7 0 255
+dlin 302 153 180 142
+wait 3
+cpen 255 255 255
+dlin 292 174 187 113
+cpen 6 0 0
+dlin 300 148 178 143
+wait 5
+cpen 7 0 255
+dlin 302 150 180 145
+wait 3
+cpen 255 255 255
+dlin 293 172 185 116
+cpen 6 0 0
+dlin 300 146 178 146
+wait 5
+cpen 7 0 255
+dlin 302 148 180 148
+wait 3
+cpen 255 255 255
+dlin 294 170 184 118
+cpen 6 0 0
+dlin 300 143 178 148
+wait 5
+cpen 7 0 255
+dlin 302 145 180 150
+wait 3
+cpen 255 255 255
+dlin 296 167 183 121
+cpen 6 0 0
+dlin 300 141 178 151
+wait 5
+cpen 7 0 255
+dlin 302 143 180 153
+wait 3
+cpen 255 255 255
+dlin 297 165 182 123
+cpen 6 0 0
+dlin 300 138 178 154
+wait 5
+cpen 7 0 255
+dlin 302 140 180 156
+wait 3
+cpen 255 255 255
+dlin 297 163 181 126
+cpen 7 0 0
+dlin 299 136 178 157
+wait 5
+cpen 8 0 255
+dlin 301 138 180 159
+wait 3
+cpen 255 255 255
+dlin 298 160 180 129
+cpen 7 0 0
+dlin 299 133 179 160
+wait 5
+cpen 8 0 255
+dlin 301 135 181 162
+wait 3
+cpen 255 255 255
+dlin 299 158 180 132
+cpen 7 0 0
+dlin 298 131 179 163
+wait 5
+cpen 8 0 255
+dlin 300 133 181 165
+wait 3
+cpen 255 255 255
+dlin 299 156 179 134
+cpen 7 0 0
+dlin 297 128 180 165
+wait 5
+cpen 8 0 255
+dlin 299 130 182 167
+wait 3
+cpen 255 255 255
+dlin 300 153 178 137
+cpen 7 0 0
+dlin 297 126 181 168
+wait 5
+cpen 8 0 255
+dlin 299 128 183 170
+wait 3
+cpen 255 255 255
+dlin 300 151 178 140
+cpen 7 0 0
+dlin 296 124 182 171
+wait 5
+cpen 8 0 255
+dlin 298 126 184 173
+wait 3
+cpen 255 255 255
+dlin 300 148 178 143
+cpen 8 0 0
+dlin 295 121 183 173
+wait 5
+cpen 9 0 255
+dlin 297 123 185 175
+wait 3
+cpen 255 255 255
+dlin 300 146 178 146
+cpen 8 0 0
+dlin 293 119 184 176
+wait 5
+cpen 9 0 255
+dlin 295 121 186 178
+wait 3
+cpen 255 255 255
+dlin 300 143 178 148
+cpen 8 0 0
+dlin 292 117 185 178
+wait 5
+cpen 9 0 255
+dlin 294 119 187 180
+wait 3
+cpen 255 255 255
+dlin 300 141 178 151
+cpen 8 0 0
+dlin 291 115 187 181
+wait 5
+cpen 9 0 255
+dlin 293 117 189 183
+wait 3
+cpen 255 255 255
+dlin 300 138 178 154
+cpen 8 0 0
+dlin 289 113 188 183
+wait 5
+cpen 9 0 255
+dlin 291 115 190 185
+wait 3
+cpen 255 255 255
+dlin 299 136 178 157
+cpen 9 0 0
+dlin 288 111 190 186
+wait 5
+cpen 10 0 255
+dlin 290 113 192 188
+wait 3
+cpen 255 255 255
+dlin 299 133 179 160
+cpen 9 0 0
+dlin 286 109 191 188
+wait 5
+cpen 10 0 255
+dlin 288 111 193 190
+wait 3
+cpen 255 255 255
+dlin 298 131 179 163
+cpen 9 0 0
+dlin 284 107 193 190
+wait 5
+cpen 10 0 255
+dlin 286 109 195 192
+wait 3
+cpen 255 255 255
+dlin 297 128 180 165
+cpen 9 0 0
+dlin 282 105 195 192
+wait 5
+cpen 10 0 255
+dlin 284 107 197 194
+wait 3
+cpen 255 255 255
+dlin 297 126 181 168
+cpen 9 0 0
+dlin 280 103 197 194
+wait 5
+cpen 10 0 255
+dlin 282 105 199 196
+wait 3
+cpen 255 255 255
+dlin 296 124 182 171
+cpen 9 0 0
+dlin 278 102 199 196
+wait 5
+cpen 10 0 255
+dlin 280 104 201 198
+wait 3
+cpen 255 255 255
+dlin 295 121 183 173
+cpen 10 0 0
+dlin 276 100 201 198
+wait 5
+cpen 11 0 255
+dlin 278 102 203 200
+wait 3
+cpen 255 255 255
+dlin 293 119 184 176
+cpen 10 0 0
+dlin 274 99 203 200
+wait 5
+cpen 11 0 255
+dlin 276 101 205 202
+wait 3
+cpen 255 255 255
+dlin 292 117 185 178
+cpen 10 0 0
+dlin 272 97 205 202
+wait 5
+cpen 11 0 255
+dlin 274 99 207 204
+wait 3
+cpen 255 255 255
+dlin 291 115 187 181
+cpen 10 0 0
+dlin 269 96 207 203
+wait 5
+cpen 11 0 255
+dlin 271 98 209 205
+wait 3
+cpen 255 255 255
+dlin 289 113 188 183
+cpen 10 0 0
+dlin 267 95 209 205
+wait 5
+cpen 11 0 255
+dlin 269 97 211 207
+wait 3
+cpen 255 255 255
+dlin 288 111 190 186
+cpen 10 0 0
+dlin 264 94 212 206
+wait 5
+cpen 11 0 255
+dlin 266 96 214 208
+wait 3
+cpen 255 255 255
+dlin 286 109 191 188
+cpen 11 0 0
+dlin 262 93 214 208
+wait 5
+cpen 12 0 255
+dlin 264 95 216 210
+wait 3
+cpen 255 255 255
+dlin 284 107 193 190
+cpen 11 0 0
+dlin 259 92 217 209
+wait 5
+cpen 12 0 255
+dlin 261 94 219 211
+wait 3
+cpen 255 255 255
+dlin 282 105 195 192
+cpen 11 0 0
+dlin 257 91 219 210
+wait 5
+cpen 12 0 255
+dlin 259 93 221 212
+wait 3
+cpen 255 255 255
+dlin 280 103 197 194
+cpen 11 0 0
+dlin 254 91 222 211
+wait 5
+cpen 12 0 255
+dlin 256 93 224 213
+wait 3
+cpen 255 255 255
+dlin 278 102 199 196
+cpen 11 0 0
+dlin 251 90 224 212
+wait 5
+cpen 12 0 255
+dlin 253 92 226 214
+wait 3
+cpen 255 255 255
+dlin 276 100 201 198
+cpen 12 0 0
+dlin 249 90 227 212
+wait 5
+cpen 13 0 255
+dlin 251 92 229 214
+wait 3
+cpen 255 255 255
+dlin 274 99 203 200
+cpen 12 0 0
+dlin 246 89 230 213
+wait 5
+cpen 13 0 255
+dlin 248 91 232 215
+wait 3
+cpen 255 255 255
+dlin 272 97 205 202
+cpen 12 0 0
+dlin 243 89 232 214
+wait 5
+cpen 13 0 255
+dlin 245 91 234 216
+wait 3
+cpen 255 255 255
+dlin 269 96 207 203
+cpen 12 0 0
+dlin 240 89 235 214
+wait 5
+cpen 13 0 255
+dlin 242 91 237 216
+wait 3
+cpen 255 255 255
+dlin 267 95 209 205
+cpen 12 0 0
+dlin 238 89 238 214
+wait 5
+cpen 13 0 255
+dlin 240 91 240 216
+wait 3
+cpen 255 255 255
+dlin 264 94 212 206
+cpen 12 0 0
+dlin 235 89 240 214
+wait 5
+cpen 13 0 255
+dlin 237 91 242 216
+wait 3
+cpen 255 255 255
+dlin 262 93 214 208
+cpen 13 0 0
+dlin 232 90 243 214
+wait 5
+cpen 14 0 255
+dlin 234 92 245 216
+wait 3
+cpen 255 255 255
+dlin 259 92 217 209
+cpen 13 0 0
+dlin 229 90 246 214
+wait 5
+cpen 14 0 255
+dlin 231 92 248 216
+wait 3
+cpen 255 255 255
+dlin 257 91 219 210
+cpen 13 0 0
+dlin 227 91 248 214
+wait 5
+cpen 14 0 255
+dlin 229 93 250 216
+wait 3
+cpen 255 255 255
+dlin 254 91 222 211
+cpen 13 0 0
+dlin 224 91 251 214
+wait 5
+cpen 14 0 255
+dlin 226 93 253 216
+wait 3
+cpen 255 255 255
+dlin 251 90 224 212
+cpen 13 0 0
+dlin 221 92 253 213
+wait 5
+cpen 14 0 255
+dlin 223 94 255 215
+wait 3
+cpen 255 255 255
+dlin 249 90 227 212
+cpen 13 0 0
+dlin 218 93 256 213
+wait 5
+cpen 14 0 255
+dlin 220 95 258 215
+wait 3
+cpen 255 255 255
+dlin 246 89 230 213
+cpen 14 0 0
+dlin 216 94 259 212
+wait 5
+cpen 15 0 255
+dlin 218 96 261 214
+wait 3
+cpen 255 255 255
+dlin 243 89 232 214
+cpen 14 0 0
+dlin 213 95 261 211
+wait 5
+cpen 15 0 255
+dlin 215 97 263 213
+wait 3
+cpen 255 255 255
+dlin 240 89 235 214
+cpen 14 0 0
+dlin 210 96 264 210
+wait 5
+cpen 15 0 255
+dlin 212 98 266 212
+wait 3
+cpen 255 255 255
+dlin 238 89 238 214
+cpen 14 0 0
+dlin 208 98 266 209
+wait 5
+cpen 15 0 255
+dlin 210 100 268 211
+wait 3
+cpen 255 255 255
+dlin 235 89 240 214
+cpen 14 0 0
+dlin 205 99 268 208
+wait 5
+cpen 15 0 255
+dlin 207 101 270 210
+wait 3
+cpen 255 255 255
+dlin 232 90 243 214
+cpen 15 0 0
+dlin 203 101 271 207
+wait 5
+cpen 16 0 255
+dlin 205 103 273 209
+wait 3
+cpen 255 255 255
+dlin 229 90 246 214
+cpen 15 0 0
+dlin 201 102 273 206
+wait 5
+cpen 16 0 255
+dlin 203 104 275 208
+wait 3
+cpen 255 255 255
+dlin 227 91 248 214
+cpen 15 0 0
+dlin 198 104 275 204
+wait 5
+cpen 16 0 255
+dlin 200 106 277 206
+wait 3
+cpen 255 255 255
+dlin 224 91 251 214
+cpen 15 0 0
+dlin 196 106 277 203
+wait 5
+cpen 16 0 255
+dlin 198 108 279 205
+wait 3
+cpen 255 255 255
+dlin 221 92 253 213
+cpen 15 0 0
+dlin 194 108 279 201
+wait 5
+cpen 16 0 255
+dlin 196 110 281 203
+wait 3
+cpen 255 255 255
+dlin 218 93 256 213
+cpen 15 0 0
+dlin 192 110 281 199
+wait 5
+cpen 16 0 255
+dlin 194 112 283 201
+wait 3
+cpen 255 255 255
+dlin 216 94 259 212
+cpen 16 0 0
+dlin 190 112 283 197
+wait 5
+cpen 17 0 255
+dlin 192 114 285 199
+wait 3
+cpen 255 255 255
+dlin 213 95 261 211
+cpen 16 0 0
+dlin 188 114 285 196
+wait 5
+cpen 17 0 255
+dlin 190 116 287 198
+wait 3
+cpen 255 255 255
+dlin 210 96 264 210
+cpen 16 0 0
+dlin 186 117 286 194
+wait 5
+cpen 17 0 255
+dlin 188 119 288 196
+wait 3
+cpen 255 255 255
+dlin 208 98 266 209
+cpen 16 0 0
+dlin 184 119 288 192
+wait 5
+cpen 17 0 255
+dlin 186 121 290 194
+wait 3
+cpen 255 255 255
+dlin 205 99 268 208
+cpen 16 0 0
+dlin 183 121 290 189
+wait 5
+cpen 17 0 255
+dlin 185 123 292 191
+wait 3
+cpen 255 255 255
+dlin 203 101 271 207
+cpen 17 0 0
+dlin 181 124 291 187
+wait 5
+cpen 18 0 255
+dlin 183 126 293 189
+wait 3
+cpen 255 255 255
+dlin 201 102 273 206
+cpen 17 0 0
+dlin 180 127 292 185
+wait 5
+cpen 18 0 255
+dlin 182 129 294 187
+wait 3
+cpen 255 255 255
+dlin 198 104 275 204
+cpen 17 0 0
+dlin 179 129 293 183
+wait 5
+cpen 18 0 255
+dlin 181 131 295 185
+wait 3
+cpen 255 255 255
+dlin 196 106 277 203
+cpen 17 0 0
+dlin 177 132 295 180
+wait 5
+cpen 18 0 255
+dlin 179 134 297 182
+wait 3
+cpen 255 255 255
+dlin 194 108 279 201
+cpen 17 0 0
+dlin 176 135 295 178
+wait 5
+cpen 18 0 255
+dlin 178 137 297 180
+wait 3
+cpen 255 255 255
+dlin 192 110 281 199
+cpen 17 0 0
+dlin 175 137 296 176
+wait 5
+cpen 18 0 255
+dlin 177 139 298 178
+wait 3
+cpen 255 255 255
+dlin 190 112 283 197
+cpen 18 0 0
+dlin 174 140 297 173
+wait 5
+cpen 19 0 255
+dlin 176 142 299 175
+wait 3
+cpen 255 255 255
+dlin 188 114 285 196
+cpen 18 0 0
+dlin 174 143 298 170
+wait 5
+cpen 19 0 255
+dlin 176 145 300 172
+wait 3
+cpen 255 255 255
+dlin 186 117 286 194
+cpen 18 0 0
+dlin 173 146 298 168
+wait 5
+cpen 19 0 255
+dlin 175 148 300 170
+wait 3
+cpen 255 255 255
+dlin 184 119 288 192
+cpen 18 0 0
+dlin 172 149 299 165
+wait 5
+cpen 19 0 255
+dlin 174 151 301 167
+wait 3
+cpen 255 255 255
+dlin 183 121 290 189
+cpen 18 0 0
+dlin 172 152 299 163
+wait 5
+cpen 19 0 255
+dlin 174 154 301 165
+wait 3
+cpen 255 255 255
+dlin 181 124 291 187
+cpen 18 0 0
+dlin 172 155 299 160
+wait 5
+cpen 19 0 255
+dlin 174 157 301 162
+wait 3
+cpen 255 255 255
+dlin 180 127 292 185
+cpen 19 0 0
+dlin 171 158 299 158
+wait 5
+cpen 20 0 255
+dlin 173 160 301 160
+wait 3
+cpen 255 255 255
+dlin 179 129 293 183
+cpen 19 0 0
+dlin 171 160 299 155
+wait 5
+cpen 20 0 255
+dlin 173 162 301 157
+wait 3
+cpen 255 255 255
+dlin 177 132 295 180
+cpen 19 0 0
+dlin 171 163 299 152
+wait 5
+cpen 20 0 255
+dlin 173 165 301 154
+wait 3
+cpen 255 255 255
+dlin 176 135 295 178
+cpen 19 0 0
+dlin 172 166 298 150
+wait 5
+cpen 20 0 255
+dlin 174 168 300 152
+wait 3
+cpen 255 255 255
+dlin 175 137 296 176
+cpen 19 0 0
+dlin 172 169 298 147
+wait 5
+cpen 20 0 255
+dlin 174 171 300 149
+wait 3
+cpen 255 255 255
+dlin 174 140 297 173
+cpen 20 0 0
+dlin 172 172 297 144
+wait 5
+cpen 21 0 255
+dlin 174 174 299 146
+wait 3
+cpen 255 255 255
+dlin 174 143 298 170
+cpen 20 0 0
+dlin 173 175 297 142
+wait 5
+cpen 21 0 255
+dlin 175 177 299 144
+wait 3
+cpen 255 255 255
+dlin 173 146 298 168
+cpen 20 0 0
+dlin 174 178 296 139
+wait 5
+cpen 21 0 255
+dlin 176 180 298 141
+wait 3
+cpen 255 255 255
+dlin 172 149 299 165
+cpen 20 0 0
+dlin 174 181 295 137
+wait 5
+cpen 21 0 255
+dlin 176 183 297 139
+wait 3
+cpen 255 255 255
+dlin 172 152 299 163
+cpen 20 0 0
+dlin 175 183 294 134
+wait 5
+cpen 21 0 255
+dlin 177 185 296 136
+wait 3
+cpen 255 255 255
+dlin 172 155 299 160
+cpen 20 0 0
+dlin 176 186 292 132
+wait 5
+cpen 21 0 255
+dlin 178 188 294 134
+wait 3
+cpen 255 255 255
+dlin 171 158 299 158
+cpen 21 0 0
+dlin 177 189 291 130
+wait 5
+cpen 22 0 255
+dlin 179 191 293 132
+wait 3
+cpen 255 255 255
+dlin 171 160 299 155
+cpen 21 0 0
+dlin 179 191 290 127
+wait 5
+cpen 22 0 255
+dlin 181 193 292 129
+wait 3
+cpen 255 255 255
+dlin 171 163 299 152
+cpen 21 0 0
+dlin 180 194 288 125
+wait 5
+cpen 22 0 255
+dlin 182 196 290 127
+wait 3
+cpen 255 255 255
+dlin 172 166 298 150
+cpen 21 0 0
+dlin 181 196 287 123
+wait 5
+cpen 22 0 255
+dlin 183 198 289 125
+wait 3
+cpen 255 255 255
+dlin 172 169 298 147
+cpen 21 0 0
+dlin 183 199 285 121
+wait 5
+cpen 22 0 255
+dlin 185 201 287 123
+wait 3
+cpen 255 255 255
+dlin 172 172 297 144
+cpen 21 0 0
+dlin 185 201 283 119
+wait 5
+cpen 22 0 255
+dlin 187 203 285 121
+wait 3
+cpen 255 255 255
+dlin 173 175 297 142
+cpen 22 0 0
+dlin 186 204 281 117
+wait 5
+cpen 23 0 255
+dlin 188 206 283 119
+wait 3
+cpen 255 255 255
+dlin 174 178 296 139
+cpen 22 0 0
+dlin 188 206 279 115
+wait 5
+cpen 23 0 255
+dlin 190 208 281 117
+wait 3
+cpen 255 255 255
+dlin 174 181 295 137
+cpen 22 0 0
+dlin 190 208 277 113
+wait 5
+cpen 23 0 255
+dlin 192 210 279 115
+wait 3
+cpen 255 255 255
+dlin 175 183 294 134
+cpen 22 0 0
+dlin 192 210 275 111
+wait 5
+cpen 23 0 255
+dlin 194 212 277 113
+wait 3
+cpen 255 255 255
+dlin 176 186 292 132
+cpen 22 0 0
+dlin 194 212 273 110
+wait 5
+cpen 23 0 255
+dlin 196 214 275 112
+wait 3
+cpen 255 255 255
+dlin 177 189 291 130
+cpen 23 0 0
+dlin 196 214 270 108
+wait 5
+cpen 24 0 255
+dlin 198 216 272 110
+wait 3
+cpen 255 255 255
+dlin 179 191 290 127
+cpen 23 0 0
+dlin 199 215 268 107
+wait 5
+cpen 24 0 255
+dlin 201 217 270 109
+wait 3
+cpen 255 255 255
+dlin 180 194 288 125
+cpen 23 0 0
+dlin 201 217 265 105
+wait 5
+cpen 24 0 255
+dlin 203 219 267 107
+wait 3
+cpen 255 255 255
+dlin 181 196 287 123
+cpen 23 0 0
+dlin 203 219 263 104
+wait 5
+cpen 24 0 255
+dlin 205 221 265 106
+wait 3
+cpen 255 255 255
+dlin 183 199 285 121
+cpen 23 0 0
+dlin 206 220 260 103
+wait 5
+cpen 24 0 255
+dlin 208 222 262 105
+wait 3
+cpen 255 255 255
+dlin 185 201 283 119
+cpen 23 0 0
+dlin 208 221 258 102
+wait 5
+cpen 24 0 255
+dlin 210 223 260 104
+wait 3
+cpen 255 255 255
+dlin 186 204 281 117
+cpen 24 0 0
+dlin 211 223 255 101
+wait 5
+cpen 25 0 255
+dlin 213 225 257 103
+wait 3
+cpen 255 255 255
+dlin 188 206 279 115
+cpen 24 0 0
+dlin 213 224 252 100
+wait 5
+cpen 25 0 255
+dlin 215 226 254 102
+wait 3
+cpen 255 255 255
+dlin 190 208 277 113
+cpen 24 0 0
+dlin 216 225 249 99
+wait 5
+cpen 25 0 255
+dlin 218 227 251 101
+wait 3
+cpen 255 255 255
+dlin 192 210 275 111
+cpen 24 0 0
+dlin 218 225 246 99
+wait 5
+cpen 25 0 255
+dlin 220 227 248 101
+wait 3
+cpen 255 255 255
+dlin 194 212 273 110
+cpen 24 0 0
+dlin 221 226 244 98
+wait 5
+cpen 25 0 255
+dlin 223 228 246 100
+wait 3
+cpen 255 255 255
+dlin 196 214 270 108
+cpen 24 0 0
+dlin 224 227 241 98
+wait 5
+cpen 25 0 255
+dlin 226 229 243 100
+wait 3
+cpen 255 255 255
+dlin 199 215 268 107
+cpen 25 0 0
+dlin 227 227 238 98
+wait 5
+cpen 26 0 255
+dlin 229 229 240 100
+wait 3
+cpen 255 255 255
+dlin 201 217 265 105
+cpen 25 0 0
+dlin 229 228 235 98
+wait 5
+cpen 26 0 255
+dlin 231 230 237 100
+wait 3
+cpen 255 255 255
+dlin 203 219 263 104
+cpen 25 0 0
+dlin 232 228 232 98
+wait 5
+cpen 26 0 255
+dlin 234 230 234 100
+wait 3
+cpen 255 255 255
+dlin 206 220 260 103
+cpen 255 255 255
+dlin 208 221 258 102
+cpen 255 255 255
+dlin 211 223 255 101
+cpen 255 255 255
+dlin 213 224 252 100
+cpen 255 255 255
+dlin 216 225 249 99
+cpen 255 255 255
+dlin 218 225 246 99
+cpen 255 255 255
+dlin 221 226 244 98
+cpen 255 255 255
+dlin 224 227 241 98
+cpen 255 255 255
+dlin 227 227 238 98
+cpen 255 255 255
+dlin 229 228 235 98
+cpen 255 255 255
+dlin 232 228 232 98
+FRAME
+cpen 25 0 0
+dlin 235 228 229 98
+wait 5
+cpen 26 0 255
+dlin 237 230 231 100
+wait 3
+cpen 25 0 0
+dlin 237 228 226 98
+wait 5
+cpen 26 0 255
+dlin 239 230 228 100
+wait 3
+cpen 26 0 0
+dlin 240 228 223 99
+wait 5
+cpen 27 0 255
+dlin 242 230 225 101
+wait 3
+cpen 26 0 0
+dlin 243 228 220 99
+wait 5
+cpen 27 0 255
+dlin 245 230 222 101
+wait 3
+cpen 26 0 0
+dlin 246 227 217 100
+wait 5
+cpen 27 0 255
+dlin 248 229 219 102
+wait 3
+cpen 26 0 0
+dlin 248 227 214 101
+wait 5
+cpen 27 0 255
+dlin 250 229 216 103
+wait 3
+cpen 26 0 0
+dlin 251 226 212 102
+wait 5
+cpen 27 0 255
+dlin 253 228 214 104
+wait 3
+cpen 26 0 0
+dlin 253 225 209 103
+wait 5
+cpen 27 0 255
+dlin 255 227 211 105
+wait 3
+cpen 27 0 0
+dlin 256 224 206 104
+wait 5
+cpen 28 0 255
+dlin 258 226 208 106
+wait 3
+cpen 27 0 0
+dlin 259 223 203 105
+wait 5
+cpen 28 0 255
+dlin 261 225 205 107
+wait 3
+cpen 27 0 0
+dlin 261 222 201 106
+wait 5
+cpen 28 0 255
+dlin 263 224 203 108
+wait 3
+cpen 255 255 255
+dlin 235 228 229 98
+cpen 27 0 0
+dlin 263 221 198 108
+wait 5
+cpen 28 0 255
+dlin 265 223 200 110
+wait 3
+cpen 255 255 255
+dlin 237 228 226 98
+cpen 27 0 0
+dlin 266 220 195 109
+wait 5
+cpen 28 0 255
+dlin 268 222 197 111
+wait 3
+cpen 255 255 255
+dlin 240 228 223 99
+cpen 27 0 0
+dlin 268 218 193 111
+wait 5
+cpen 28 0 255
+dlin 270 220 195 113
+wait 3
+cpen 255 255 255
+dlin 243 228 220 99
+cpen 28 0 0
+dlin 270 217 190 113
+wait 5
+cpen 29 0 255
+dlin 272 219 192 115
+wait 3
+cpen 255 255 255
+dlin 246 227 217 100
+cpen 28 0 0
+dlin 272 215 188 115
+wait 5
+cpen 29 0 255
+dlin 274 217 190 117
+wait 3
+cpen 255 255 255
+dlin 248 227 214 101
+cpen 28 0 0
+dlin 274 214 186 117
+wait 5
+cpen 29 0 255
+dlin 276 216 188 119
+wait 3
+cpen 255 255 255
+dlin 251 226 212 102
+cpen 28 0 0
+dlin 276 212 184 119
+wait 5
+cpen 29 0 255
+dlin 278 214 186 121
+wait 3
+cpen 255 255 255
+dlin 253 225 209 103
+cpen 28 0 0
+dlin 278 210 182 121
+wait 5
+cpen 29 0 255
+dlin 280 212 184 123
+wait 3
+cpen 255 255 255
+dlin 256 224 206 104
+cpen 29 0 0
+dlin 280 208 179 123
+wait 5
+cpen 30 0 255
+dlin 282 210 181 125
+wait 3
+cpen 255 255 255
+dlin 259 223 203 105
+cpen 29 0 0
+dlin 282 206 178 126
+wait 5
+cpen 30 0 255
+dlin 284 208 180 128
+wait 3
+cpen 255 255 255
+dlin 261 222 201 106
+cpen 29 0 0
+dlin 283 204 176 128
+wait 5
+cpen 30 0 255
+dlin 285 206 178 130
+wait 3
+cpen 255 255 255
+dlin 263 221 198 108
+cpen 29 0 0
+dlin 285 201 174 131
+wait 5
+cpen 30 0 255
+dlin 287 203 176 133
+wait 3
+cpen 255 255 255
+dlin 266 220 195 109
+cpen 29 0 0
+dlin 286 199 172 133
+wait 5
+cpen 30 0 255
+dlin 288 201 174 135
+wait 3
+cpen 255 255 255
+dlin 268 218 193 111
+cpen 29 0 0
+dlin 288 197 171 136
+wait 5
+cpen 30 0 255
+dlin 290 199 173 138
+wait 3
+cpen 255 255 255
+dlin 270 217 190 113
+cpen 30 0 0
+dlin 289 194 169 139
+wait 5
+cpen 31 0 255
+dlin 291 196 171 141
+wait 3
+cpen 255 255 255
+dlin 272 215 188 115
+cpen 30 0 0
+dlin 290 192 168 141
+wait 5
+cpen 31 0 255
+dlin 292 194 170 143
+wait 3
+cpen 255 255 255
+dlin 274 214 186 117
+cpen 30 0 0
+dlin 291 189 167 144
+wait 5
+cpen 31 0 255
+dlin 293 191 169 146
+wait 3
+cpen 255 255 255
+dlin 276 212 184 119
+cpen 30 0 0
+dlin 292 187 166 147
+wait 5
+cpen 31 0 255
+dlin 294 189 168 149
+wait 3
+cpen 255 255 255
+dlin 278 210 182 121
+cpen 30 0 0
+dlin 292 184 165 150
+wait 5
+cpen 31 0 255
+dlin 294 186 167 152
+wait 3
+cpen 255 255 255
+dlin 280 208 179 123
+cpen 30 0 0
+dlin 293 181 164 153
+wait 5
+cpen 31 0 255
+dlin 295 183 166 155
+wait 3
+cpen 255 255 255
+dlin 282 206 178 126
+cpen 31 0 0
+dlin 294 179 163 156
+wait 5
+cpen 32 0 255
+dlin 296 181 165 158
+wait 3
+cpen 255 255 255
+dlin 283 204 176 128
+cpen 31 0 0
+dlin 294 176 163 159
+wait 5
+cpen 32 0 255
+dlin 296 178 165 161
+wait 3
+cpen 255 255 255
+dlin 285 201 174 131
+cpen 31 0 0
+dlin 294 173 162 162
+wait 5
+cpen 32 0 255
+dlin 296 175 164 164
+wait 3
+cpen 255 255 255
+dlin 286 199 172 133
+cpen 31 0 0
+dlin 294 170 162 165
+wait 5
+cpen 32 0 255
+dlin 296 172 164 167
+wait 3
+cpen 255 255 255
+dlin 288 197 171 136
+cpen 31 0 0
+dlin 294 168 162 168
+wait 5
+cpen 32 0 255
+dlin 296 170 164 170
+wait 3
+cpen 255 255 255
+dlin 289 194 169 139
+cpen 32 0 0
+dlin 294 165 162 171
+wait 5
+cpen 33 0 255
+dlin 296 167 164 173
+wait 3
+cpen 255 255 255
+dlin 290 192 168 141
+cpen 32 0 0
+dlin 294 162 162 174
+wait 5
+cpen 33 0 255
+dlin 296 164 164 176
+wait 3
+cpen 255 255 255
+dlin 291 189 167 144
+cpen 32 0 0
+dlin 293 159 162 177
+wait 5
+cpen 33 0 255
+dlin 295 161 164 179
+wait 3
+cpen 255 255 255
+dlin 292 187 166 147
+cpen 32 0 0
+dlin 293 157 162 180
+wait 5
+cpen 33 0 255
+dlin 295 159 164 182
+wait 3
+cpen 255 255 255
+dlin 292 184 165 150
+cpen 32 0 0
+dlin 292 154 162 183
+wait 5
+cpen 33 0 255
+dlin 294 156 164 185
+wait 3
+cpen 255 255 255
+dlin 293 181 164 153
+cpen 32 0 0
+dlin 291 151 163 186
+wait 5
+cpen 33 0 255
+dlin 293 153 165 188
+wait 3
+cpen 255 255 255
+dlin 294 179 163 156
+cpen 33 0 0
+dlin 290 149 164 189
+wait 5
+cpen 34 0 255
+dlin 292 151 166 191
+wait 3
+cpen 255 255 255
+dlin 294 176 163 159
+cpen 33 0 0
+dlin 289 146 164 191
+wait 5
+cpen 34 0 255
+dlin 291 148 166 193
+wait 3
+cpen 255 255 255
+dlin 294 173 162 162
+cpen 33 0 0
+dlin 288 143 165 194
+wait 5
+cpen 34 0 255
+dlin 290 145 167 196
+wait 3
+cpen 255 255 255
+dlin 294 170 162 165
+cpen 33 0 0
+dlin 287 141 166 197
+wait 5
+cpen 34 0 255
+dlin 289 143 168 199
+wait 3
+cpen 255 255 255
+dlin 294 168 162 168
+cpen 33 0 0
+dlin 286 138 167 200
+wait 5
+cpen 34 0 255
+dlin 288 140 169 202
+wait 3
+cpen 255 255 255
+dlin 294 165 162 171
+cpen 33 0 0
+dlin 284 136 169 202
+wait 5
+cpen 35 0 255
+dlin 286 138 171 204
+wait 3
+cpen 255 255 255
+dlin 294 162 162 174
+cpen 34 0 0
+dlin 283 133 170 205
+wait 5
+cpen 35 0 255
+dlin 285 135 172 207
+wait 3
+cpen 255 255 255
+dlin 293 159 162 177
+cpen 34 0 0
+dlin 281 131 171 208
+wait 5
+cpen 35 0 255
+dlin 283 133 173 210
+wait 3
+cpen 255 255 255
+dlin 293 157 162 180
+cpen 34 0 0
+dlin 279 129 173 210
+wait 5
+cpen 35 0 255
+dlin 281 131 175 212
+wait 3
+cpen 255 255 255
+dlin 292 154 162 183
+cpen 34 0 0
+dlin 277 127 175 213
+wait 5
+cpen 35 0 255
+dlin 279 129 177 215
+wait 3
+cpen 255 255 255
+dlin 291 151 163 186
+cpen 34 0 0
+dlin 275 125 176 215
+wait 5
+cpen 35 0 255
+dlin 277 127 178 217
+wait 3
+cpen 255 255 255
+dlin 290 149 164 189
+cpen 35 0 0
+dlin 273 123 178 217
+wait 5
+cpen 36 0 255
+dlin 275 125 180 219
+wait 3
+cpen 255 255 255
+dlin 289 146 164 191
+cpen 35 0 0
+dlin 271 121 180 219
+wait 5
+cpen 36 0 255
+dlin 273 123 182 221
+wait 3
+cpen 255 255 255
+dlin 288 143 165 194
+cpen 35 0 0
+dlin 268 119 182 221
+wait 5
+cpen 36 0 255
+dlin 270 121 184 223
+wait 3
+cpen 255 255 255
+dlin 287 141 166 197
+cpen 35 0 0
+dlin 266 117 184 223
+wait 5
+cpen 36 0 255
+dlin 268 119 186 225
+wait 3
+cpen 255 255 255
+dlin 286 138 167 200
+cpen 35 0 0
+dlin 264 115 187 225
+wait 5
+cpen 36 0 255
+dlin 266 117 189 227
+wait 3
+cpen 255 255 255
+dlin 284 136 169 202
+cpen 35 0 0
+dlin 261 114 189 227
+wait 5
+cpen 36 0 255
+dlin 263 116 191 229
+wait 3
+cpen 255 255 255
+dlin 283 133 170 205
+cpen 36 0 0
+dlin 258 112 191 229
+wait 5
+cpen 37 0 255
+dlin 260 114 193 231
+wait 3
+cpen 255 255 255
+dlin 281 131 171 208
+cpen 36 0 0
+dlin 256 111 194 230
+wait 5
+cpen 37 0 255
+dlin 258 113 196 232
+wait 3
+cpen 255 255 255
+dlin 279 129 173 210
+cpen 36 0 0
+dlin 253 110 196 232
+wait 5
+cpen 37 0 255
+dlin 255 112 198 234
+wait 3
+cpen 255 255 255
+dlin 277 127 175 213
+cpen 36 0 0
+dlin 250 109 199 233
+wait 5
+cpen 37 0 255
+dlin 252 111 201 235
+wait 3
+cpen 255 255 255
+dlin 275 125 176 215
+cpen 36 0 0
+dlin 247 108 201 234
+wait 5
+cpen 37 0 255
+dlin 249 110 203 236
+wait 3
+cpen 255 255 255
+dlin 273 123 178 217
+cpen 37 0 0
+dlin 244 107 204 235
+wait 5
+cpen 38 0 255
+dlin 246 109 206 237
+wait 3
+cpen 255 255 255
+dlin 271 121 180 219
+cpen 37 0 0
+dlin 241 106 207 236
+wait 5
+cpen 38 0 255
+dlin 243 108 209 238
+wait 3
+cpen 255 255 255
+dlin 268 119 182 221
+cpen 37 0 0
+dlin 238 106 209 237
+wait 5
+cpen 38 0 255
+dlin 240 108 211 239
+wait 3
+cpen 255 255 255
+dlin 266 117 184 223
+cpen 37 0 0
+dlin 235 105 212 238
+wait 5
+cpen 38 0 255
+dlin 237 107 214 240
+wait 3
+cpen 255 255 255
+dlin 264 115 187 225
+cpen 37 0 0
+dlin 232 105 215 238
+wait 5
+cpen 38 0 255
+dlin 234 107 217 240
+wait 3
+cpen 255 255 255
+dlin 261 114 189 227
+cpen 37 0 0
+dlin 229 104 218 239
+wait 5
+cpen 38 0 255
+dlin 231 106 220 241
+wait 3
+cpen 255 255 255
+dlin 258 112 191 229
+cpen 38 0 0
+dlin 226 104 220 239
+wait 5
+cpen 39 0 255
+dlin 228 106 222 241
+wait 3
+cpen 255 255 255
+dlin 256 111 194 230
+cpen 38 0 0
+dlin 223 104 223 239
+wait 5
+cpen 39 0 255
+dlin 225 106 225 241
+wait 3
+cpen 255 255 255
+dlin 253 110 196 232
+cpen 38 0 0
+dlin 220 104 226 239
+wait 5
+cpen 39 0 255
+dlin 222 106 228 241
+wait 3
+cpen 255 255 255
+dlin 250 109 199 233
+cpen 38 0 0
+dlin 217 105 229 239
+wait 5
+cpen 39 0 255
+dlin 219 107 231 241
+wait 3
+cpen 255 255 255
+dlin 247 108 201 234
+cpen 38 0 0
+dlin 214 105 232 239
+wait 5
+cpen 39 0 255
+dlin 216 107 234 241
+wait 3
+cpen 255 255 255
+dlin 244 107 204 235
+cpen 38 0 0
+dlin 211 106 234 239
+wait 5
+cpen 39 0 255
+dlin 213 108 236 241
+wait 3
+cpen 255 255 255
+dlin 241 106 207 236
+cpen 39 0 0
+dlin 208 106 237 238
+wait 5
+cpen 40 0 255
+dlin 210 108 239 240
+wait 3
+cpen 255 255 255
+dlin 238 106 209 237
+cpen 39 0 0
+dlin 205 107 240 238
+wait 5
+cpen 40 0 255
+dlin 207 109 242 240
+wait 3
+cpen 255 255 255
+dlin 235 105 212 238
+cpen 39 0 0
+dlin 202 108 243 237
+wait 5
+cpen 40 0 255
+dlin 204 110 245 239
+wait 3
+cpen 255 255 255
+dlin 232 105 215 238
+cpen 39 0 0
+dlin 199 109 245 236
+wait 5
+cpen 40 0 255
+dlin 201 111 247 238
+wait 3
+cpen 255 255 255
+dlin 229 104 218 239
+cpen 39 0 0
+dlin 196 110 248 235
+wait 5
+cpen 40 0 255
+dlin 198 112 250 237
+wait 3
+cpen 255 255 255
+dlin 226 104 220 239
+cpen 40 0 0
+dlin 193 111 250 234
+wait 5
+cpen 41 0 255
+dlin 195 113 252 236
+wait 3
+cpen 255 255 255
+dlin 223 104 223 239
+cpen 40 0 0
+dlin 190 113 253 233
+wait 5
+cpen 41 0 255
+dlin 192 115 255 235
+wait 3
+cpen 255 255 255
+dlin 220 104 226 239
+cpen 40 0 0
+dlin 187 114 255 232
+wait 5
+cpen 41 0 255
+dlin 189 116 257 234
+wait 3
+cpen 255 255 255
+dlin 217 105 229 239
+cpen 40 0 0
+dlin 185 116 258 230
+wait 5
+cpen 41 0 255
+dlin 187 118 260 232
+wait 3
+cpen 255 255 255
+dlin 214 105 232 239
+cpen 40 0 0
+dlin 182 117 260 229
+wait 5
+cpen 41 0 255
+dlin 184 119 262 231
+wait 3
+cpen 255 255 255
+dlin 211 106 234 239
+cpen 40 0 0
+dlin 180 119 262 227
+wait 5
+cpen 41 0 255
+dlin 182 121 264 229
+wait 3
+cpen 255 255 255
+dlin 208 106 237 238
+cpen 41 0 0
+dlin 177 121 265 225
+wait 5
+cpen 42 0 255
+dlin 179 123 267 227
+wait 3
+cpen 255 255 255
+dlin 205 107 240 238
+cpen 41 0 0
+dlin 175 123 267 224
+wait 5
+cpen 42 0 255
+dlin 177 125 269 226
+wait 3
+cpen 255 255 255
+dlin 202 108 243 237
+cpen 41 0 0
+dlin 172 125 269 222
+wait 5
+cpen 42 0 255
+dlin 174 127 271 224
+wait 3
+cpen 255 255 255
+dlin 199 109 245 236
+cpen 41 0 0
+dlin 170 128 271 220
+wait 5
+cpen 42 0 255
+dlin 172 130 273 222
+wait 3
+cpen 255 255 255
+dlin 196 110 248 235
+cpen 41 0 0
+dlin 168 130 272 218
+wait 5
+cpen 42 0 255
+dlin 170 132 274 220
+wait 3
+cpen 255 255 255
+dlin 193 111 250 234
+cpen 41 0 0
+dlin 166 132 274 215
+wait 5
+cpen 42 0 255
+dlin 168 134 276 217
+wait 3
+cpen 255 255 255
+dlin 190 113 253 233
+cpen 42 0 0
+dlin 164 135 276 213
+wait 5
+cpen 43 0 255
+dlin 166 137 278 215
+wait 3
+cpen 255 255 255
+dlin 187 114 255 232
+cpen 42 0 0
+dlin 162 137 277 211
+wait 5
+cpen 43 0 255
+dlin 164 139 279 213
+wait 3
+cpen 255 255 255
+dlin 185 116 258 230
+cpen 42 0 0
+dlin 160 140 279 208
+wait 5
+cpen 43 0 255
+dlin 162 142 281 210
+wait 3
+cpen 255 255 255
+dlin 182 117 260 229
+cpen 42 0 0
+dlin 159 143 280 206
+wait 5
+cpen 43 0 255
+dlin 161 145 282 208
+wait 3
+cpen 255 255 255
+dlin 180 119 262 227
+cpen 42 0 0
+dlin 157 145 281 203
+wait 5
+cpen 43 0 255
+dlin 159 147 283 205
+wait 3
+cpen 255 255 255
+dlin 177 121 265 225
+cpen 43 0 0
+dlin 156 148 282 201
+wait 5
+cpen 44 0 255
+dlin 158 150 284 203
+wait 3
+cpen 255 255 255
+dlin 175 123 267 224
+cpen 43 0 0
+dlin 155 151 283 198
+wait 5
+cpen 44 0 255
+dlin 157 153 285 200
+wait 3
+cpen 255 255 255
+dlin 172 125 269 222
+cpen 43 0 0
+dlin 154 154 284 195
+wait 5
+cpen 44 0 255
+dlin 156 156 286 197
+wait 3
+cpen 255 255 255
+dlin 170 128 271 220
+cpen 43 0 0
+dlin 153 157 285 192
+wait 5
+cpen 44 0 255
+dlin 155 159 287 194
+wait 3
+cpen 255 255 255
+dlin 168 130 272 218
+cpen 43 0 0
+dlin 152 160 286 189
+wait 5
+cpen 44 0 255
+dlin 154 162 288 191
+wait 3
+cpen 255 255 255
+dlin 166 132 274 215
+cpen 43 0 0
+dlin 151 163 286 187
+wait 5
+cpen 44 0 255
+dlin 153 165 288 189
+wait 3
+cpen 255 255 255
+dlin 164 135 276 213
+cpen 44 0 0
+dlin 150 166 286 184
+wait 5
+cpen 45 0 255
+dlin 152 168 288 186
+wait 3
+cpen 255 255 255
+dlin 162 137 277 211
+cpen 44 0 0
+dlin 150 169 287 181
+wait 5
+cpen 45 0 255
+dlin 152 171 289 183
+wait 3
+cpen 255 255 255
+dlin 160 140 279 208
+cpen 44 0 0
+dlin 149 172 287 178
+wait 5
+cpen 45 0 255
+dlin 151 174 289 180
+wait 3
+cpen 255 255 255
+dlin 159 143 280 206
+cpen 44 0 0
+dlin 149 175 287 175
+wait 5
+cpen 45 0 255
+dlin 151 177 289 177
+wait 3
+cpen 255 255 255
+dlin 157 145 281 203
+cpen 44 0 0
+dlin 149 178 286 172
+wait 5
+cpen 45 0 255
+dlin 151 180 288 174
+wait 3
+cpen 255 255 255
+dlin 156 148 282 201
+cpen 44 0 0
+dlin 149 181 286 169
+wait 5
+cpen 45 0 255
+dlin 151 183 288 171
+wait 3
+cpen 255 255 255
+dlin 155 151 283 198
+cpen 45 0 0
+dlin 149 184 286 166
+wait 5
+cpen 46 0 255
+dlin 151 186 288 168
+wait 3
+cpen 255 255 255
+dlin 154 154 284 195
+cpen 45 0 0
+dlin 149 187 285 163
+wait 5
+cpen 46 0 255
+dlin 151 189 287 165
+wait 3
+cpen 255 255 255
+dlin 153 157 285 192
+cpen 45 0 0
+dlin 150 190 284 161
+wait 5
+cpen 46 0 255
+dlin 152 192 286 163
+wait 3
+cpen 255 255 255
+dlin 152 160 286 189
+cpen 45 0 0
+dlin 150 193 283 158
+wait 5
+cpen 46 0 255
+dlin 152 195 285 160
+wait 3
+cpen 255 255 255
+dlin 151 163 286 187
+cpen 45 0 0
+dlin 151 196 283 155
+wait 5
+cpen 46 0 255
+dlin 153 198 285 157
+wait 3
+cpen 255 255 255
+dlin 150 166 286 184
+cpen 46 0 0
+dlin 152 199 281 152
+wait 5
+cpen 47 0 255
+dlin 154 201 283 154
+wait 3
+cpen 255 255 255
+dlin 150 169 287 181
+cpen 46 0 0
+dlin 153 202 280 149
+wait 5
+cpen 47 0 255
+dlin 155 204 282 151
+wait 3
+cpen 255 255 255
+dlin 149 172 287 178
+cpen 46 0 0
+dlin 154 205 279 147
+wait 5
+cpen 47 0 255
+dlin 156 207 281 149
+wait 3
+cpen 255 255 255
+dlin 149 175 287 175
+cpen 46 0 0
+dlin 155 208 277 144
+wait 5
+cpen 47 0 255
+dlin 157 210 279 146
+wait 3
+cpen 255 255 255
+dlin 149 178 286 172
+cpen 46 0 0
+dlin 156 211 276 141
+wait 5
+cpen 47 0 255
+dlin 158 213 278 143
+wait 3
+cpen 255 255 255
+dlin 149 181 286 169
+cpen 46 0 0
+dlin 157 213 274 139
+wait 5
+cpen 47 0 255
+dlin 159 215 276 141
+wait 3
+cpen 255 255 255
+dlin 149 184 286 166
+cpen 47 0 0
+dlin 159 216 272 136
+wait 5
+cpen 48 0 255
+dlin 161 218 274 138
+wait 3
+cpen 255 255 255
+dlin 149 187 285 163
+cpen 47 0 0
+dlin 160 218 270 134
+wait 5
+cpen 48 0 255
+dlin 162 220 272 136
+wait 3
+cpen 255 255 255
+dlin 150 190 284 161
+cpen 47 0 0
+dlin 162 221 268 132
+wait 5
+cpen 48 0 255
+dlin 164 223 270 134
+wait 3
+cpen 255 255 255
+dlin 150 193 283 158
+cpen 47 0 0
+dlin 164 223 266 129
+wait 5
+cpen 48 0 255
+dlin 166 225 268 131
+wait 3
+cpen 255 255 255
+dlin 151 196 283 155
+cpen 47 0 0
+dlin 166 225 264 127
+wait 5
+cpen 48 0 255
+dlin 168 227 266 129
+wait 3
+cpen 255 255 255
+dlin 152 199 281 152
+cpen 47 0 0
+dlin 168 228 262 125
+wait 5
+cpen 48 0 255
+dlin 170 230 264 127
+wait 3
+cpen 255 255 255
+dlin 153 202 280 149
+cpen 48 0 0
+dlin 170 230 259 123
+wait 5
+cpen 49 0 255
+dlin 172 232 261 125
+wait 3
+cpen 255 255 255
+dlin 154 205 279 147
+cpen 48 0 0
+dlin 172 232 257 121
+wait 5
+cpen 49 0 255
+dlin 174 234 259 123
+wait 3
+cpen 255 255 255
+dlin 155 208 277 144
+cpen 48 0 0
+dlin 174 234 254 120
+wait 5
+cpen 49 0 255
+dlin 176 236 256 122
+wait 3
+cpen 255 255 255
+dlin 156 211 276 141
+cpen 48 0 0
+dlin 177 235 252 118
+wait 5
+cpen 49 0 255
+dlin 179 237 254 120
+wait 3
+cpen 255 255 255
+dlin 157 213 274 139
+cpen 48 0 0
+dlin 179 237 249 117
+wait 5
+cpen 49 0 255
+dlin 181 239 251 119
+wait 3
+cpen 255 255 255
+dlin 159 216 272 136
+cpen 49 0 0
+dlin 182 239 246 115
+wait 5
+cpen 50 0 255
+dlin 184 241 248 117
+wait 3
+cpen 255 255 255
+dlin 160 218 270 134
+cpen 49 0 0
+dlin 184 240 243 114
+wait 5
+cpen 50 0 255
+dlin 186 242 245 116
+wait 3
+cpen 255 255 255
+dlin 162 221 268 132
+cpen 49 0 0
+dlin 187 241 240 113
+wait 5
+cpen 50 0 255
+dlin 189 243 242 115
+wait 3
+cpen 255 255 255
+dlin 164 223 266 129
+cpen 49 0 0
+dlin 189 243 237 112
+wait 5
+cpen 50 0 255
+dlin 191 245 239 114
+wait 3
+cpen 255 255 255
+dlin 166 225 264 127
+cpen 49 0 0
+dlin 192 244 234 111
+wait 5
+cpen 50 0 255
+dlin 194 246 236 113
+wait 3
+cpen 255 255 255
+dlin 168 228 262 125
+cpen 49 0 0
+dlin 195 245 231 110
+wait 5
+cpen 50 0 255
+dlin 197 247 233 112
+wait 3
+cpen 255 255 255
+dlin 170 230 259 123
+cpen 50 0 0
+dlin 198 245 228 109
+wait 5
+cpen 51 0 255
+dlin 200 247 230 111
+wait 3
+cpen 255 255 255
+dlin 172 232 257 121
+cpen 50 0 0
+dlin 201 246 225 108
+wait 5
+cpen 51 0 255
+dlin 203 248 227 110
+wait 3
+cpen 255 255 255
+dlin 174 234 254 120
+cpen 50 0 0
+dlin 203 247 222 108
+wait 5
+cpen 51 0 255
+dlin 205 249 224 110
+wait 3
+cpen 255 255 255
+dlin 177 235 252 118
+cpen 50 0 0
+dlin 206 247 218 108
+wait 5
+cpen 51 0 255
+dlin 208 249 220 110
+wait 3
+cpen 255 255 255
+dlin 179 237 249 117
+cpen 50 0 0
+dlin 209 247 215 108
+wait 5
+cpen 51 0 255
+dlin 211 249 217 110
+wait 3
+cpen 255 255 255
+dlin 182 239 246 115
+cpen 51 0 0
+dlin 212 247 212 107
+wait 5
+cpen 52 0 255
+dlin 214 249 214 109
+wait 3
+cpen 255 255 255
+dlin 184 240 243 114
+cpen 255 255 255
+dlin 187 241 240 113
+cpen 255 255 255
+dlin 189 243 237 112
+cpen 255 255 255
+dlin 192 244 234 111
+cpen 255 255 255
+dlin 195 245 231 110
+cpen 255 255 255
+dlin 198 245 228 109
+cpen 255 255 255
+dlin 201 246 225 108
+cpen 255 255 255
+dlin 203 247 222 108
+cpen 255 255 255
+dlin 206 247 218 108
+cpen 255 255 255
+dlin 209 247 215 108
+cpen 255 255 255
+dlin 212 247 212 107
+FRAME
+cpen 51 0 0
+dlin 215 248 209 108
+wait 5
+cpen 52 0 255
+dlin 217 250 211 110
+wait 3
+cpen 51 0 0
+dlin 218 247 206 108
+wait 5
+cpen 52 0 255
+dlin 220 249 208 110
+wait 3
+cpen 51 0 0
+dlin 221 247 202 108
+wait 5
+cpen 52 0 255
+dlin 223 249 204 110
+wait 3
+cpen 51 0 0
+dlin 224 247 199 109
+wait 5
+cpen 52 0 255
+dlin 226 249 201 111
+wait 3
+cpen 51 0 0
+dlin 226 246 196 109
+wait 5
+cpen 52 0 255
+dlin 228 248 198 111
+wait 3
+cpen 52 0 0
+dlin 229 246 193 110
+wait 5
+cpen 53 0 255
+dlin 231 248 195 112
+wait 3
+cpen 52 0 0
+dlin 232 245 190 111
+wait 5
+cpen 53 0 255
+dlin 234 247 192 113
+wait 3
+cpen 52 0 0
+dlin 235 244 187 112
+wait 5
+cpen 53 0 255
+dlin 237 246 189 114
+wait 3
+cpen 52 0 0
+dlin 237 243 184 113
+wait 5
+cpen 53 0 255
+dlin 239 245 186 115
+wait 3
+cpen 52 0 0
+dlin 240 242 181 114
+wait 5
+cpen 53 0 255
+dlin 242 244 183 116
+wait 3
+cpen 52 0 0
+dlin 243 240 178 116
+wait 5
+cpen 53 0 255
+dlin 245 242 180 118
+wait 3
+cpen 255 255 255
+dlin 215 248 209 108
+cpen 53 0 0
+dlin 245 239 175 117
+wait 5
+cpen 54 0 255
+dlin 247 241 177 119
+wait 3
+cpen 255 255 255
+dlin 218 247 206 108
+cpen 53 0 0
+dlin 248 238 172 119
+wait 5
+cpen 54 0 255
+dlin 250 240 174 121
+wait 3
+cpen 255 255 255
+dlin 221 247 202 108
+cpen 53 0 0
+dlin 250 236 169 120
+wait 5
+cpen 54 0 255
+dlin 252 238 171 122
+wait 3
+cpen 255 255 255
+dlin 224 247 199 109
+cpen 53 0 0
+dlin 252 234 167 122
+wait 5
+cpen 54 0 255
+dlin 254 236 169 124
+wait 3
+cpen 255 255 255
+dlin 226 246 196 109
+cpen 53 0 0
+dlin 255 232 164 124
+wait 5
+cpen 54 0 255
+dlin 257 234 166 126
+wait 3
+cpen 255 255 255
+dlin 229 246 193 110
+cpen 54 0 0
+dlin 257 230 161 126
+wait 5
+cpen 55 0 255
+dlin 259 232 163 128
+wait 3
+cpen 255 255 255
+dlin 232 245 190 111
+cpen 54 0 0
+dlin 259 228 159 128
+wait 5
+cpen 55 0 255
+dlin 261 230 161 130
+wait 3
+cpen 255 255 255
+dlin 235 244 187 112
+cpen 54 0 0
+dlin 261 226 157 131
+wait 5
+cpen 55 0 255
+dlin 263 228 159 133
+wait 3
+cpen 255 255 255
+dlin 237 243 184 113
+cpen 54 0 0
+dlin 263 224 155 133
+wait 5
+cpen 55 0 255
+dlin 265 226 157 135
+wait 3
+cpen 255 255 255
+dlin 240 242 181 114
+cpen 54 0 0
+dlin 265 222 152 135
+wait 5
+cpen 55 0 255
+dlin 267 224 154 137
+wait 3
+cpen 255 255 255
+dlin 243 240 178 116
+cpen 54 0 0
+dlin 266 219 150 138
+wait 5
+cpen 55 0 255
+dlin 268 221 152 140
+wait 3
+cpen 255 255 255
+dlin 245 239 175 117
+cpen 55 0 0
+dlin 268 217 148 141
+wait 5
+cpen 56 0 255
+dlin 270 219 150 143
+wait 3
+cpen 255 255 255
+dlin 248 238 172 119
+cpen 55 0 0
+dlin 269 214 147 143
+wait 5
+cpen 56 0 255
+dlin 271 216 149 145
+wait 3
+cpen 255 255 255
+dlin 250 236 169 120
+cpen 55 0 0
+dlin 271 211 145 146
+wait 5
+cpen 56 0 255
+dlin 273 213 147 148
+wait 3
+cpen 255 255 255
+dlin 252 234 167 122
+cpen 55 0 0
+dlin 272 209 143 149
+wait 5
+cpen 56 0 255
+dlin 274 211 145 151
+wait 3
+cpen 255 255 255
+dlin 255 232 164 124
+cpen 55 0 0
+dlin 273 206 142 152
+wait 5
+cpen 56 0 255
+dlin 275 208 144 154
+wait 3
+cpen 255 255 255
+dlin 257 230 161 126
+cpen 55 0 0
+dlin 274 203 141 154
+wait 5
+cpen 56 0 255
+dlin 276 205 143 156
+wait 3
+cpen 255 255 255
+dlin 259 228 159 128
+cpen 56 0 0
+dlin 275 200 139 157
+wait 5
+cpen 57 0 255
+dlin 277 202 141 159
+wait 3
+cpen 255 255 255
+dlin 261 226 157 131
+cpen 56 0 0
+dlin 276 197 138 160
+wait 5
+cpen 57 0 255
+dlin 278 199 140 162
+wait 3
+cpen 255 255 255
+dlin 263 224 155 133
+cpen 56 0 0
+dlin 276 194 137 163
+wait 5
+cpen 57 0 255
+dlin 278 196 139 165
+wait 3
+cpen 255 255 255
+dlin 265 222 152 135
+cpen 56 0 0
+dlin 277 191 137 167
+wait 5
+cpen 57 0 255
+dlin 279 193 139 169
+wait 3
+cpen 255 255 255
+dlin 266 219 150 138
+cpen 56 0 0
+dlin 277 188 136 170
+wait 5
+cpen 57 0 255
+dlin 279 190 138 172
+wait 3
+cpen 255 255 255
+dlin 268 217 148 141
+cpen 57 0 0
+dlin 277 185 135 173
+wait 5
+cpen 58 0 255
+dlin 279 187 137 175
+wait 3
+cpen 255 255 255
+dlin 269 214 147 143
+cpen 57 0 0
+dlin 277 182 135 176
+wait 5
+cpen 58 0 255
+dlin 279 184 137 178
+wait 3
+cpen 255 255 255
+dlin 271 211 145 146
+cpen 57 0 0
+dlin 277 179 135 179
+wait 5
+cpen 58 0 255
+dlin 279 181 137 181
+wait 3
+cpen 255 255 255
+dlin 272 209 143 149
+cpen 57 0 0
+dlin 277 176 135 182
+wait 5
+cpen 58 0 255
+dlin 279 178 137 184
+wait 3
+cpen 255 255 255
+dlin 273 206 142 152
+cpen 57 0 0
+dlin 277 173 135 185
+wait 5
+cpen 58 0 255
+dlin 279 175 137 187
+wait 3
+cpen 255 255 255
+dlin 274 203 141 154
+cpen 57 0 0
+dlin 276 170 135 188
+wait 5
+cpen 58 0 255
+dlin 278 172 137 190
+wait 3
+cpen 255 255 255
+dlin 275 200 139 157
+cpen 58 0 0
+dlin 276 167 135 191
+wait 5
+cpen 59 0 255
+dlin 278 169 137 193
+wait 3
+cpen 255 255 255
+dlin 276 197 138 160
+cpen 58 0 0
+dlin 275 164 135 195
+wait 5
+cpen 59 0 255
+dlin 277 166 137 197
+wait 3
+cpen 255 255 255
+dlin 276 194 137 163
+cpen 58 0 0
+dlin 274 161 136 198
+wait 5
+cpen 59 0 255
+dlin 276 163 138 200
+wait 3
+cpen 255 255 255
+dlin 277 191 137 167
+cpen 58 0 0
+dlin 273 158 137 201
+wait 5
+cpen 59 0 255
+dlin 275 160 139 203
+wait 3
+cpen 255 255 255
+dlin 277 188 136 170
+cpen 58 0 0
+dlin 272 155 137 204
+wait 5
+cpen 59 0 255
+dlin 274 157 139 206
+wait 3
+cpen 255 255 255
+dlin 277 185 135 173
+cpen 58 0 0
+dlin 270 152 138 207
+wait 5
+cpen 59 0 255
+dlin 272 154 140 209
+wait 3
+cpen 255 255 255
+dlin 277 182 135 176
+cpen 59 0 0
+dlin 269 149 139 209
+wait 5
+cpen 60 0 255
+dlin 271 151 141 211
+wait 3
+cpen 255 255 255
+dlin 277 179 135 179
+cpen 59 0 0
+dlin 268 146 140 212
+wait 5
+cpen 60 0 255
+dlin 270 148 142 214
+wait 3
+cpen 255 255 255
+dlin 277 176 135 182
+cpen 59 0 0
+dlin 266 143 142 215
+wait 5
+cpen 60 0 255
+dlin 268 145 144 217
+wait 3
+cpen 255 255 255
+dlin 277 173 135 185
+cpen 59 0 0
+dlin 264 141 143 218
+wait 5
+cpen 60 0 255
+dlin 266 143 145 220
+wait 3
+cpen 255 255 255
+dlin 276 170 135 188
+cpen 59 0 0
+dlin 262 138 145 220
+wait 5
+cpen 60 0 255
+dlin 264 140 147 222
+wait 3
+cpen 255 255 255
+dlin 276 167 135 191
+cpen 60 0 0
+dlin 260 136 146 223
+wait 5
+cpen 61 0 255
+dlin 262 138 148 225
+wait 3
+cpen 255 255 255
+dlin 275 164 135 195
+cpen 60 0 0
+dlin 258 133 148 225
+wait 5
+cpen 61 0 255
+dlin 260 135 150 227
+wait 3
+cpen 255 255 255
+dlin 274 161 136 198
+cpen 60 0 0
+dlin 256 131 150 228
+wait 5
+cpen 61 0 255
+dlin 258 133 152 230
+wait 3
+cpen 255 255 255
+dlin 273 158 137 201
+cpen 60 0 0
+dlin 254 129 152 230
+wait 5
+cpen 61 0 255
+dlin 256 131 154 232
+wait 3
+cpen 255 255 255
+dlin 272 155 137 204
+cpen 60 0 0
+dlin 251 126 154 232
+wait 5
+cpen 61 0 255
+dlin 253 128 156 234
+wait 3
+cpen 255 255 255
+dlin 270 152 138 207
+cpen 60 0 0
+dlin 249 124 156 235
+wait 5
+cpen 61 0 255
+dlin 251 126 158 237
+wait 3
+cpen 255 255 255
+dlin 269 149 139 209
+cpen 61 0 0
+dlin 246 122 158 237
+wait 5
+cpen 62 0 255
+dlin 248 124 160 239
+wait 3
+cpen 255 255 255
+dlin 268 146 140 212
+cpen 61 0 0
+dlin 243 120 161 238
+wait 5
+cpen 62 0 255
+dlin 245 122 163 240
+wait 3
+cpen 255 255 255
+dlin 266 143 142 215
+cpen 61 0 0
+dlin 241 119 163 240
+wait 5
+cpen 62 0 255
+dlin 243 121 165 242
+wait 3
+cpen 255 255 255
+dlin 264 141 143 218
+cpen 61 0 0
+dlin 238 117 166 242
+wait 5
+cpen 62 0 255
+dlin 240 119 168 244
+wait 3
+cpen 255 255 255
+dlin 262 138 145 220
+cpen 61 0 0
+dlin 235 115 168 243
+wait 5
+cpen 62 0 255
+dlin 237 117 170 245
+wait 3
+cpen 255 255 255
+dlin 260 136 146 223
+cpen 61 0 0
+dlin 232 114 171 245
+wait 5
+cpen 62 0 255
+dlin 234 116 173 247
+wait 3
+cpen 255 255 255
+dlin 258 133 148 225
+cpen 62 0 0
+dlin 229 113 174 246
+wait 5
+cpen 63 0 255
+dlin 231 115 176 248
+wait 3
+cpen 255 255 255
+dlin 256 131 150 228
+cpen 62 0 0
+dlin 226 112 176 247
+wait 5
+cpen 63 0 255
+dlin 228 114 178 249
+wait 3
+cpen 255 255 255
+dlin 254 129 152 230
+cpen 62 0 0
+dlin 223 111 179 248
+wait 5
+cpen 63 0 255
+dlin 225 113 181 250
+wait 3
+cpen 255 255 255
+dlin 251 126 154 232
+cpen 62 0 0
+dlin 219 110 182 249
+wait 5
+cpen 63 0 255
+dlin 221 112 184 251
+wait 3
+cpen 255 255 255
+dlin 249 124 156 235
+cpen 62 0 0
+dlin 216 109 185 250
+wait 5
+cpen 63 0 255
+dlin 218 111 187 252
+wait 3
+cpen 255 255 255
+dlin 246 122 158 237
+cpen 63 0 0
+dlin 213 108 188 251
+wait 5
+cpen 64 0 255
+dlin 215 110 190 253
+wait 3
+cpen 255 255 255
+dlin 243 120 161 238
+cpen 63 0 0
+dlin 210 108 191 251
+wait 5
+cpen 64 0 255
+dlin 212 110 193 253
+wait 3
+cpen 255 255 255
+dlin 241 119 163 240
+cpen 63 0 0
+dlin 206 107 194 252
+wait 5
+cpen 64 0 255
+dlin 208 109 196 254
+wait 3
+cpen 255 255 255
+dlin 238 117 166 242
+cpen 63 0 0
+dlin 203 107 197 252
+wait 5
+cpen 64 0 255
+dlin 205 109 199 254
+wait 3
+cpen 255 255 255
+dlin 235 115 168 243
+cpen 63 0 0
+dlin 200 107 200 252
+wait 5
+cpen 64 0 255
+dlin 202 109 202 254
+wait 3
+cpen 255 255 255
+dlin 232 114 171 245
+cpen 63 0 0
+dlin 196 107 203 252
+wait 5
+cpen 64 0 255
+dlin 198 109 205 254
+wait 3
+cpen 255 255 255
+dlin 229 113 174 246
+cpen 64 0 0
+dlin 193 107 206 252
+wait 5
+cpen 65 0 255
+dlin 195 109 208 254
+wait 3
+cpen 255 255 255
+dlin 226 112 176 247
+cpen 64 0 0
+dlin 190 108 209 251
+wait 5
+cpen 65 0 255
+dlin 192 110 211 253
+wait 3
+cpen 255 255 255
+dlin 223 111 179 248
+cpen 64 0 0
+dlin 186 108 212 251
+wait 5
+cpen 65 0 255
+dlin 188 110 214 253
+wait 3
+cpen 255 255 255
+dlin 219 110 182 249
+cpen 64 0 0
+dlin 183 109 215 250
+wait 5
+cpen 65 0 255
+dlin 185 111 217 252
+wait 3
+cpen 255 255 255
+dlin 216 109 185 250
+cpen 64 0 0
+dlin 180 109 217 250
+wait 5
+cpen 65 0 255
+dlin 182 111 219 252
+wait 3
+cpen 255 255 255
+dlin 213 108 188 251
+cpen 64 0 0
+dlin 177 110 220 249
+wait 5
+cpen 65 0 255
+dlin 179 112 222 251
+wait 3
+cpen 255 255 255
+dlin 210 108 191 251
+cpen 65 0 0
+dlin 173 111 223 248
+wait 5
+cpen 66 0 255
+dlin 175 113 225 250
+wait 3
+cpen 255 255 255
+dlin 206 107 194 252
+cpen 65 0 0
+dlin 170 112 226 247
+wait 5
+cpen 66 0 255
+dlin 172 114 228 249
+wait 3
+cpen 255 255 255
+dlin 203 107 197 252
+cpen 65 0 0
+dlin 167 113 229 245
+wait 5
+cpen 66 0 255
+dlin 169 115 231 247
+wait 3
+cpen 255 255 255
+dlin 200 107 200 252
+cpen 65 0 0
+dlin 164 115 231 244
+wait 5
+cpen 66 0 255
+dlin 166 117 233 246
+wait 3
+cpen 255 255 255
+dlin 196 107 203 252
+cpen 65 0 0
+dlin 161 116 234 243
+wait 5
+cpen 66 0 255
+dlin 163 118 236 245
+wait 3
+cpen 255 255 255
+dlin 193 107 206 252
+cpen 66 0 0
+dlin 158 118 237 241
+wait 5
+cpen 67 0 255
+dlin 160 120 239 243
+wait 3
+cpen 255 255 255
+dlin 190 108 209 251
+cpen 66 0 0
+dlin 155 120 239 239
+wait 5
+cpen 67 0 255
+dlin 157 122 241 241
+wait 3
+cpen 255 255 255
+dlin 186 108 212 251
+cpen 66 0 0
+dlin 153 121 242 237
+wait 5
+cpen 67 0 255
+dlin 155 123 244 239
+wait 3
+cpen 255 255 255
+dlin 183 109 215 250
+cpen 66 0 0
+dlin 150 123 244 235
+wait 5
+cpen 67 0 255
+dlin 152 125 246 237
+wait 3
+cpen 255 255 255
+dlin 180 109 217 250
+cpen 66 0 0
+dlin 147 126 246 233
+wait 5
+cpen 67 0 255
+dlin 149 128 248 235
+wait 3
+cpen 255 255 255
+dlin 177 110 220 249
+cpen 66 0 0
+dlin 145 128 248 231
+wait 5
+cpen 67 0 255
+dlin 147 130 250 233
+wait 3
+cpen 255 255 255
+dlin 173 111 223 248
+cpen 67 0 0
+dlin 142 130 250 229
+wait 5
+cpen 68 0 255
+dlin 144 132 252 231
+wait 3
+cpen 255 255 255
+dlin 170 112 226 247
+cpen 67 0 0
+dlin 140 132 252 226
+wait 5
+cpen 68 0 255
+dlin 142 134 254 228
+wait 3
+cpen 255 255 255
+dlin 167 113 229 245
+cpen 67 0 0
+dlin 138 135 254 224
+wait 5
+cpen 68 0 255
+dlin 140 137 256 226
+wait 3
+cpen 255 255 255
+dlin 164 115 231 244
+cpen 67 0 0
+dlin 136 137 256 221
+wait 5
+cpen 68 0 255
+dlin 138 139 258 223
+wait 3
+cpen 255 255 255
+dlin 161 116 234 243
+cpen 67 0 0
+dlin 134 140 257 219
+wait 5
+cpen 68 0 255
+dlin 136 142 259 221
+wait 3
+cpen 255 255 255
+dlin 158 118 237 241
+cpen 68 0 0
+dlin 132 143 259 216
+wait 5
+cpen 69 0 255
+dlin 134 145 261 218
+wait 3
+cpen 255 255 255
+dlin 155 120 239 239
+cpen 68 0 0
+dlin 130 145 260 213
+wait 5
+cpen 69 0 255
+dlin 132 147 262 215
+wait 3
+cpen 255 255 255
+dlin 153 121 242 237
+cpen 68 0 0
+dlin 129 148 262 210
+wait 5
+cpen 69 0 255
+dlin 131 150 264 212
+wait 3
+cpen 255 255 255
+dlin 150 123 244 235
+cpen 68 0 0
+dlin 127 151 263 207
+wait 5
+cpen 69 0 255
+dlin 129 153 265 209
+wait 3
+cpen 255 255 255
+dlin 147 126 246 233
+cpen 68 0 0
+dlin 126 154 264 204
+wait 5
+cpen 69 0 255
+dlin 128 156 266 206
+wait 3
+cpen 255 255 255
+dlin 145 128 248 231
+cpen 68 0 0
+dlin 125 157 265 201
+wait 5
+cpen 69 0 255
+dlin 127 159 267 203
+wait 3
+cpen 255 255 255
+dlin 142 130 250 229
+cpen 69 0 0
+dlin 123 160 265 198
+wait 5
+cpen 70 0 255
+dlin 125 162 267 200
+wait 3
+cpen 255 255 255
+dlin 140 132 252 226
+cpen 69 0 0
+dlin 122 163 266 195
+wait 5
+cpen 70 0 255
+dlin 124 165 268 197
+wait 3
+cpen 255 255 255
+dlin 138 135 254 224
+cpen 69 0 0
+dlin 122 166 267 192
+wait 5
+cpen 70 0 255
+dlin 124 168 269 194
+wait 3
+cpen 255 255 255
+dlin 136 137 256 221
+cpen 69 0 0
+dlin 121 169 267 189
+wait 5
+cpen 70 0 255
+dlin 123 171 269 191
+wait 3
+cpen 255 255 255
+dlin 134 140 257 219
+cpen 69 0 0
+dlin 120 173 267 186
+wait 5
+cpen 70 0 255
+dlin 122 175 269 188
+wait 3
+cpen 255 255 255
+dlin 132 143 259 216
+cpen 69 0 0
+dlin 120 176 267 182
+wait 5
+cpen 70 0 255
+dlin 122 178 269 184
+wait 3
+cpen 255 255 255
+dlin 130 145 260 213
+cpen 70 0 0
+dlin 120 179 267 179
+wait 5
+cpen 71 0 255
+dlin 122 181 269 181
+wait 3
+cpen 255 255 255
+dlin 129 148 262 210
+cpen 70 0 0
+dlin 120 182 267 176
+wait 5
+cpen 71 0 255
+dlin 122 184 269 178
+wait 3
+cpen 255 255 255
+dlin 127 151 263 207
+cpen 70 0 0
+dlin 120 185 267 173
+wait 5
+cpen 71 0 255
+dlin 122 187 269 175
+wait 3
+cpen 255 255 255
+dlin 126 154 264 204
+cpen 70 0 0
+dlin 120 189 266 169
+wait 5
+cpen 71 0 255
+dlin 122 191 268 171
+wait 3
+cpen 255 255 255
+dlin 125 157 265 201
+cpen 70 0 0
+dlin 120 192 265 166
+wait 5
+cpen 71 0 255
+dlin 122 194 267 168
+wait 3
+cpen 255 255 255
+dlin 123 160 265 198
+cpen 71 0 0
+dlin 120 195 265 163
+wait 5
+cpen 72 0 255
+dlin 122 197 267 165
+wait 3
+cpen 255 255 255
+dlin 122 163 266 195
+cpen 71 0 0
+dlin 121 198 264 160
+wait 5
+cpen 72 0 255
+dlin 123 200 266 162
+wait 3
+cpen 255 255 255
+dlin 122 166 267 192
+cpen 71 0 0
+dlin 122 201 263 157
+wait 5
+cpen 72 0 255
+dlin 124 203 265 159
+wait 3
+cpen 255 255 255
+dlin 121 169 267 189
+cpen 71 0 0
+dlin 122 204 262 153
+wait 5
+cpen 72 0 255
+dlin 124 206 264 155
+wait 3
+cpen 255 255 255
+dlin 120 173 267 186
+cpen 71 0 0
+dlin 123 207 260 150
+wait 5
+cpen 72 0 255
+dlin 125 209 262 152
+wait 3
+cpen 255 255 255
+dlin 120 176 267 182
+cpen 71 0 0
+dlin 125 210 259 147
+wait 5
+cpen 72 0 255
+dlin 127 212 261 149
+wait 3
+cpen 255 255 255
+dlin 120 179 267 179
+cpen 72 0 0
+dlin 126 213 257 144
+wait 5
+cpen 73 0 255
+dlin 128 215 259 146
+wait 3
+cpen 255 255 255
+dlin 120 182 267 176
+cpen 72 0 0
+dlin 127 216 256 142
+wait 5
+cpen 73 0 255
+dlin 129 218 258 144
+wait 3
+cpen 255 255 255
+dlin 120 185 267 173
+cpen 72 0 0
+dlin 129 218 254 139
+wait 5
+cpen 73 0 255
+dlin 131 220 256 141
+wait 3
+cpen 255 255 255
+dlin 120 189 266 169
+cpen 72 0 0
+dlin 130 221 252 136
+wait 5
+cpen 73 0 255
+dlin 132 223 254 138
+wait 3
+cpen 255 255 255
+dlin 120 192 265 166
+cpen 72 0 0
+dlin 132 224 250 133
+wait 5
+cpen 73 0 255
+dlin 134 226 252 135
+wait 3
+cpen 255 255 255
+dlin 120 195 265 163
+cpen 72 0 0
+dlin 134 226 248 131
+wait 5
+cpen 73 0 255
+dlin 136 228 250 133
+wait 3
+cpen 255 255 255
+dlin 121 198 264 160
+cpen 73 0 0
+dlin 136 229 245 128
+wait 5
+cpen 74 0 255
+dlin 138 231 247 130
+wait 3
+cpen 255 255 255
+dlin 122 201 263 157
+cpen 73 0 0
+dlin 138 231 243 126
+wait 5
+cpen 74 0 255
+dlin 140 233 245 128
+wait 3
+cpen 255 255 255
+dlin 122 204 262 153
+cpen 73 0 0
+dlin 140 233 240 124
+wait 5
+cpen 74 0 255
+dlin 142 235 242 126
+wait 3
+cpen 255 255 255
+dlin 123 207 260 150
+cpen 73 0 0
+dlin 142 235 238 121
+wait 5
+cpen 74 0 255
+dlin 144 237 240 123
+wait 3
+cpen 255 255 255
+dlin 125 210 259 147
+cpen 73 0 0
+dlin 144 237 235 119
+wait 5
+cpen 74 0 255
+dlin 146 239 237 121
+wait 3
+cpen 255 255 255
+dlin 126 213 257 144
+cpen 74 0 0
+dlin 147 239 232 117
+wait 5
+cpen 75 0 255
+dlin 149 241 234 119
+wait 3
+cpen 255 255 255
+dlin 127 216 256 142
+cpen 74 0 0
+dlin 149 241 230 115
+wait 5
+cpen 75 0 255
+dlin 151 243 232 117
+wait 3
+cpen 255 255 255
+dlin 129 218 254 139
+cpen 74 0 0
+dlin 152 243 227 114
+wait 5
+cpen 75 0 255
+dlin 154 245 229 116
+wait 3
+cpen 255 255 255
+dlin 130 221 252 136
+cpen 74 0 0
+dlin 155 244 224 112
+wait 5
+cpen 75 0 255
+dlin 157 246 226 114
+wait 3
+cpen 255 255 255
+dlin 132 224 250 133
+cpen 74 0 0
+dlin 157 246 221 110
+wait 5
+cpen 75 0 255
+dlin 159 248 223 112
+wait 3
+cpen 255 255 255
+dlin 134 226 248 131
+cpen 74 0 0
+dlin 160 247 217 109
+wait 5
+cpen 75 0 255
+dlin 162 249 219 111
+wait 3
+cpen 255 255 255
+dlin 136 229 245 128
+cpen 75 0 0
+dlin 163 248 214 108
+wait 5
+cpen 76 0 255
+dlin 165 250 216 110
+wait 3
+cpen 255 255 255
+dlin 138 231 243 126
+cpen 75 0 0
+dlin 166 249 211 107
+wait 5
+cpen 76 0 255
+dlin 168 251 213 109
+wait 3
+cpen 255 255 255
+dlin 140 233 240 124
+cpen 75 0 0
+dlin 169 250 208 106
+wait 5
+cpen 76 0 255
+dlin 171 252 210 108
+wait 3
+cpen 255 255 255
+dlin 142 235 238 121
+cpen 75 0 0
+dlin 172 251 204 105
+wait 5
+cpen 76 0 255
+dlin 174 253 206 107
+wait 3
+cpen 255 255 255
+dlin 144 237 235 119
+cpen 75 0 0
+dlin 175 252 201 104
+wait 5
+cpen 76 0 255
+dlin 177 254 203 106
+wait 3
+cpen 255 255 255
+dlin 147 239 232 117
+cpen 75 0 0
+dlin 178 252 198 103
+wait 5
+cpen 76 0 255
+dlin 180 254 200 105
+wait 3
+cpen 255 255 255
+dlin 149 241 230 115
+cpen 76 0 0
+dlin 181 252 194 103
+wait 5
+cpen 77 0 255
+dlin 183 254 196 105
+wait 3
+cpen 255 255 255
+dlin 152 243 227 114
+cpen 76 0 0
+dlin 184 253 191 103
+wait 5
+cpen 77 0 255
+dlin 186 255 193 105
+wait 3
+cpen 255 255 255
+dlin 155 244 224 112
+cpen 76 0 0
+dlin 187 253 187 103
+wait 5
+cpen 77 0 255
+dlin 189 255 189 105
+wait 3
+cpen 255 255 255
+dlin 157 246 221 110
+cpen 255 255 255
+dlin 160 247 217 109
+cpen 255 255 255
+dlin 163 248 214 108
+cpen 255 255 255
+dlin 166 249 211 107
+cpen 255 255 255
+dlin 169 250 208 106
+cpen 255 255 255
+dlin 172 251 204 105
+cpen 255 255 255
+dlin 175 252 201 104
+cpen 255 255 255
+dlin 178 252 198 103
+cpen 255 255 255
+dlin 181 252 194 103
+cpen 255 255 255
+dlin 184 253 191 103
+cpen 255 255 255
+dlin 187 253 187 103
+FRAME
+cpen 76 0 0
+dlin 190 253 184 103
+wait 5
+cpen 77 0 255
+dlin 192 255 186 105
+wait 3
+cpen 76 0 0
+dlin 194 252 180 103
+wait 5
+cpen 77 0 255
+dlin 196 254 182 105
+wait 3
+cpen 77 0 0
+dlin 197 252 177 103
+wait 5
+cpen 78 0 255
+dlin 199 254 179 105
+wait 3
+cpen 77 0 0
+dlin 200 251 174 103
+wait 5
+cpen 78 0 255
+dlin 202 253 176 105
+wait 3
+cpen 77 0 0
+dlin 203 251 170 104
+wait 5
+cpen 78 0 255
+dlin 205 253 172 106
+wait 3
+cpen 77 0 0
+dlin 206 250 167 105
+wait 5
+cpen 78 0 255
+dlin 208 252 169 107
+wait 3
+cpen 77 0 0
+dlin 209 249 164 105
+wait 5
+cpen 78 0 255
+dlin 211 251 166 107
+wait 3
+cpen 77 0 0
+dlin 212 248 160 106
+wait 5
+cpen 78 0 255
+dlin 214 250 162 108
+wait 3
+cpen 78 0 0
+dlin 215 247 157 108
+wait 5
+cpen 79 0 255
+dlin 217 249 159 110
+wait 3
+cpen 78 0 0
+dlin 217 245 154 109
+wait 5
+cpen 79 0 255
+dlin 219 247 156 111
+wait 3
+cpen 78 0 0
+dlin 220 244 151 110
+wait 5
+cpen 79 0 255
+dlin 222 246 153 112
+wait 3
+cpen 255 255 255
+dlin 190 253 184 103
+cpen 78 0 0
+dlin 223 242 148 112
+wait 5
+cpen 79 0 255
+dlin 225 244 150 114
+wait 3
+cpen 255 255 255
+dlin 194 252 180 103
+cpen 78 0 0
+dlin 226 240 145 113
+wait 5
+cpen 79 0 255
+dlin 228 242 147 115
+wait 3
+cpen 255 255 255
+dlin 197 252 177 103
+cpen 78 0 0
+dlin 228 239 142 115
+wait 5
+cpen 79 0 255
+dlin 230 241 144 117
+wait 3
+cpen 255 255 255
+dlin 200 251 174 103
+cpen 79 0 0
+dlin 231 237 139 117
+wait 5
+cpen 80 0 255
+dlin 233 239 141 119
+wait 3
+cpen 255 255 255
+dlin 203 251 170 104
+cpen 79 0 0
+dlin 233 235 136 119
+wait 5
+cpen 80 0 255
+dlin 235 237 138 121
+wait 3
+cpen 255 255 255
+dlin 206 250 167 105
+cpen 79 0 0
+dlin 236 232 133 121
+wait 5
+cpen 80 0 255
+dlin 238 234 135 123
+wait 3
+cpen 255 255 255
+dlin 209 249 164 105
+cpen 79 0 0
+dlin 238 230 131 123
+wait 5
+cpen 80 0 255
+dlin 240 232 133 125
+wait 3
+cpen 255 255 255
+dlin 212 248 160 106
+cpen 79 0 0
+dlin 240 228 128 125
+wait 5
+cpen 80 0 255
+dlin 242 230 130 127
+wait 3
+cpen 255 255 255
+dlin 215 247 157 108
+cpen 80 0 0
+dlin 242 225 126 128
+wait 5
+cpen 81 0 255
+dlin 244 227 128 130
+wait 3
+cpen 255 255 255
+dlin 217 245 154 109
+cpen 80 0 0
+dlin 244 222 124 130
+wait 5
+cpen 81 0 255
+dlin 246 224 126 132
+wait 3
+cpen 255 255 255
+dlin 220 244 151 110
+cpen 80 0 0
+dlin 246 220 122 133
+wait 5
+cpen 81 0 255
+dlin 248 222 124 135
+wait 3
+cpen 255 255 255
+dlin 223 242 148 112
+cpen 80 0 0
+dlin 247 217 120 135
+wait 5
+cpen 81 0 255
+dlin 249 219 122 137
+wait 3
+cpen 255 255 255
+dlin 226 240 145 113
+cpen 80 0 0
+dlin 249 214 118 138
+wait 5
+cpen 81 0 255
+dlin 251 216 120 140
+wait 3
+cpen 255 255 255
+dlin 228 239 142 115
+cpen 80 0 0
+dlin 251 211 116 141
+wait 5
+cpen 81 0 255
+dlin 253 213 118 143
+wait 3
+cpen 255 255 255
+dlin 231 237 139 117
+cpen 81 0 0
+dlin 252 208 114 144
+wait 5
+cpen 82 0 255
+dlin 254 210 116 146
+wait 3
+cpen 255 255 255
+dlin 233 235 136 119
+cpen 81 0 0
+dlin 253 205 113 147
+wait 5
+cpen 82 0 255
+dlin 255 207 115 149
+wait 3
+cpen 255 255 255
+dlin 236 232 133 121
+cpen 81 0 0
+dlin 254 202 111 150
+wait 5
+cpen 82 0 255
+dlin 256 204 113 152
+wait 3
+cpen 255 255 255
+dlin 238 230 131 123
+cpen 81 0 0
+dlin 255 199 110 153
+wait 5
+cpen 82 0 255
+dlin 257 201 112 155
+wait 3
+cpen 255 255 255
+dlin 240 228 128 125
+cpen 81 0 0
+dlin 256 195 109 156
+wait 5
+cpen 82 0 255
+dlin 258 197 111 158
+wait 3
+cpen 255 255 255
+dlin 242 225 126 128
+cpen 81 0 0
+dlin 257 192 108 159
+wait 5
+cpen 82 0 255
+dlin 259 194 110 161
+wait 3
+cpen 255 255 255
+dlin 244 222 124 130
+cpen 82 0 0
+dlin 257 189 107 162
+wait 5
+cpen 83 0 255
+dlin 259 191 109 164
+wait 3
+cpen 255 255 255
+dlin 246 220 122 133
+cpen 82 0 0
+dlin 257 185 106 166
+wait 5
+cpen 83 0 255
+dlin 259 187 108 168
+wait 3
+cpen 255 255 255
+dlin 247 217 120 135
+cpen 82 0 0
+dlin 258 182 106 169
+wait 5
+cpen 83 0 255
+dlin 260 184 108 171
+wait 3
+cpen 255 255 255
+dlin 249 214 118 138
+cpen 82 0 0
+dlin 258 179 106 172
+wait 5
+cpen 83 0 255
+dlin 260 181 108 174
+wait 3
+cpen 255 255 255
+dlin 251 211 116 141
+cpen 82 0 0
+dlin 258 175 105 175
+wait 5
+cpen 83 0 255
+dlin 260 177 107 177
+wait 3
+cpen 255 255 255
+dlin 252 208 114 144
+cpen 83 0 0
+dlin 258 172 105 178
+wait 5
+cpen 84 0 255
+dlin 260 174 107 180
+wait 3
+cpen 255 255 255
+dlin 253 205 113 147
+cpen 83 0 0
+dlin 257 168 105 182
+wait 5
+cpen 84 0 255
+dlin 259 170 107 184
+wait 3
+cpen 255 255 255
+dlin 254 202 111 150
+cpen 83 0 0
+dlin 257 165 105 185
+wait 5
+cpen 84 0 255
+dlin 259 167 107 187
+wait 3
+cpen 255 255 255
+dlin 255 199 110 153
+cpen 83 0 0
+dlin 256 162 106 188
+wait 5
+cpen 84 0 255
+dlin 258 164 108 190
+wait 3
+cpen 255 255 255
+dlin 256 195 109 156
+cpen 83 0 0
+dlin 255 158 106 191
+wait 5
+cpen 84 0 255
+dlin 257 160 108 193
+wait 3
+cpen 255 255 255
+dlin 257 192 108 159
+cpen 83 0 0
+dlin 254 155 107 195
+wait 5
+cpen 84 0 255
+dlin 256 157 109 197
+wait 3
+cpen 255 255 255
+dlin 257 189 107 162
+cpen 84 0 0
+dlin 253 152 107 198
+wait 5
+cpen 85 0 255
+dlin 255 154 109 200
+wait 3
+cpen 255 255 255
+dlin 257 185 106 166
+cpen 84 0 0
+dlin 252 148 108 201
+wait 5
+cpen 85 0 255
+dlin 254 150 110 203
+wait 3
+cpen 255 255 255
+dlin 258 182 106 169
+cpen 84 0 0
+dlin 251 145 109 204
+wait 5
+cpen 85 0 255
+dlin 253 147 111 206
+wait 3
+cpen 255 255 255
+dlin 258 179 106 172
+cpen 84 0 0
+dlin 249 142 111 207
+wait 5
+cpen 85 0 255
+dlin 251 144 113 209
+wait 3
+cpen 255 255 255
+dlin 258 175 105 175
+cpen 84 0 0
+dlin 248 139 112 210
+wait 5
+cpen 85 0 255
+dlin 250 141 114 212
+wait 3
+cpen 255 255 255
+dlin 258 172 105 178
+cpen 84 0 0
+dlin 246 136 113 213
+wait 5
+cpen 86 0 255
+dlin 248 138 115 215
+wait 3
+cpen 255 255 255
+dlin 257 168 105 182
+cpen 85 0 0
+dlin 244 133 115 215
+wait 5
+cpen 86 0 255
+dlin 246 135 117 217
+wait 3
+cpen 255 255 255
+dlin 257 165 105 185
+cpen 85 0 0
+dlin 242 130 116 218
+wait 5
+cpen 86 0 255
+dlin 244 132 118 220
+wait 3
+cpen 255 255 255
+dlin 256 162 106 188
+cpen 85 0 0
+dlin 240 127 118 221
+wait 5
+cpen 86 0 255
+dlin 242 129 120 223
+wait 3
+cpen 255 255 255
+dlin 255 158 106 191
+cpen 85 0 0
+dlin 238 125 120 223
+wait 5
+cpen 86 0 255
+dlin 240 127 122 225
+wait 3
+cpen 255 255 255
+dlin 254 155 107 195
+cpen 85 0 0
+dlin 236 122 122 226
+wait 5
+cpen 86 0 255
+dlin 238 124 124 228
+wait 3
+cpen 255 255 255
+dlin 253 152 107 198
+cpen 86 0 0
+dlin 233 119 124 228
+wait 5
+cpen 87 0 255
+dlin 235 121 126 230
+wait 3
+cpen 255 255 255
+dlin 252 148 108 201
+cpen 86 0 0
+dlin 231 117 127 230
+wait 5
+cpen 87 0 255
+dlin 233 119 129 232
+wait 3
+cpen 255 255 255
+dlin 251 145 109 204
+cpen 86 0 0
+dlin 228 115 129 232
+wait 5
+cpen 87 0 255
+dlin 230 117 131 234
+wait 3
+cpen 255 255 255
+dlin 249 142 111 207
+cpen 86 0 0
+dlin 225 112 131 234
+wait 5
+cpen 87 0 255
+dlin 227 114 133 236
+wait 3
+cpen 255 255 255
+dlin 248 139 112 210
+cpen 86 0 0
+dlin 222 110 134 236
+wait 5
+cpen 87 0 255
+dlin 224 112 136 238
+wait 3
+cpen 255 255 255
+dlin 246 136 113 213
+cpen 86 0 0
+dlin 219 108 137 238
+wait 5
+cpen 87 0 255
+dlin 221 110 139 240
+wait 3
+cpen 255 255 255
+dlin 244 133 115 215
+cpen 87 0 0
+dlin 216 106 139 240
+wait 5
+cpen 88 0 255
+dlin 218 108 141 242
+wait 3
+cpen 255 255 255
+dlin 242 130 116 218
+cpen 87 0 0
+dlin 213 105 142 241
+wait 5
+cpen 88 0 255
+dlin 215 107 144 243
+wait 3
+cpen 255 255 255
+dlin 240 127 118 221
+cpen 87 0 0
+dlin 210 103 145 243
+wait 5
+cpen 88 0 255
+dlin 212 105 147 245
+wait 3
+cpen 255 255 255
+dlin 238 125 120 223
+cpen 87 0 0
+dlin 207 102 148 244
+wait 5
+cpen 88 0 255
+dlin 209 104 150 246
+wait 3
+cpen 255 255 255
+dlin 236 122 122 226
+cpen 87 0 0
+dlin 204 100 151 245
+wait 5
+cpen 88 0 255
+dlin 206 102 153 247
+wait 3
+cpen 255 255 255
+dlin 233 119 124 228
+cpen 88 0 0
+dlin 200 99 154 246
+wait 5
+cpen 89 0 255
+dlin 202 101 156 248
+wait 3
+cpen 255 255 255
+dlin 231 117 127 230
+cpen 88 0 0
+dlin 197 98 157 247
+wait 5
+cpen 89 0 255
+dlin 199 100 159 249
+wait 3
+cpen 255 255 255
+dlin 228 115 129 232
+cpen 88 0 0
+dlin 194 97 160 248
+wait 5
+cpen 89 0 255
+dlin 196 99 162 250
+wait 3
+cpen 255 255 255
+dlin 225 112 131 234
+cpen 88 0 0
+dlin 190 96 163 249
+wait 5
+cpen 89 0 255
+dlin 192 98 165 251
+wait 3
+cpen 255 255 255
+dlin 222 110 134 236
+cpen 88 0 0
+dlin 187 96 166 249
+wait 5
+cpen 89 0 255
+dlin 189 98 168 251
+wait 3
+cpen 255 255 255
+dlin 219 108 137 238
+cpen 88 0 0
+dlin 183 95 170 249
+wait 5
+cpen 89 0 255
+dlin 185 97 172 251
+wait 3
+cpen 255 255 255
+dlin 216 106 139 240
+cpen 89 0 0
+dlin 180 95 173 249
+wait 5
+cpen 90 0 255
+dlin 182 97 175 251
+wait 3
+cpen 255 255 255
+dlin 213 105 142 241
+cpen 89 0 0
+dlin 176 94 176 249
+wait 5
+cpen 90 0 255
+dlin 178 96 178 251
+wait 3
+cpen 255 255 255
+dlin 210 103 145 243
+cpen 89 0 0
+dlin 173 94 179 249
+wait 5
+cpen 90 0 255
+dlin 175 96 181 251
+wait 3
+cpen 255 255 255
+dlin 207 102 148 244
+cpen 89 0 0
+dlin 169 94 183 249
+wait 5
+cpen 90 0 255
+dlin 171 96 185 251
+wait 3
+cpen 255 255 255
+dlin 204 100 151 245
+cpen 89 0 0
+dlin 166 95 186 249
+wait 5
+cpen 90 0 255
+dlin 168 97 188 251
+wait 3
+cpen 255 255 255
+dlin 200 99 154 246
+cpen 89 0 0
+dlin 162 95 189 248
+wait 5
+cpen 90 0 255
+dlin 164 97 191 250
+wait 3
+cpen 255 255 255
+dlin 197 98 157 247
+cpen 90 0 0
+dlin 159 96 192 247
+wait 5
+cpen 91 0 255
+dlin 161 98 194 249
+wait 3
+cpen 255 255 255
+dlin 194 97 160 248
+cpen 90 0 0
+dlin 155 96 195 246
+wait 5
+cpen 91 0 255
+dlin 157 98 197 248
+wait 3
+cpen 255 255 255
+dlin 190 96 163 249
+cpen 90 0 0
+dlin 152 97 199 245
+wait 5
+cpen 91 0 255
+dlin 154 99 201 247
+wait 3
+cpen 255 255 255
+dlin 187 96 166 249
+cpen 90 0 0
+dlin 148 98 202 244
+wait 5
+cpen 91 0 255
+dlin 150 100 204 246
+wait 3
+cpen 255 255 255
+dlin 183 95 170 249
+cpen 90 0 0
+dlin 145 99 205 243
+wait 5
+cpen 91 0 255
+dlin 147 101 207 245
+wait 3
+cpen 255 255 255
+dlin 180 95 173 249
+cpen 91 0 0
+dlin 142 100 208 241
+wait 5
+cpen 92 0 255
+dlin 144 102 210 243
+wait 3
+cpen 255 255 255
+dlin 176 94 176 249
+cpen 91 0 0
+dlin 139 102 211 240
+wait 5
+cpen 92 0 255
+dlin 141 104 213 242
+wait 3
+cpen 255 255 255
+dlin 173 94 179 249
+cpen 91 0 0
+dlin 136 103 213 238
+wait 5
+cpen 92 0 255
+dlin 138 105 215 240
+wait 3
+cpen 255 255 255
+dlin 169 94 183 249
+cpen 91 0 0
+dlin 132 105 216 236
+wait 5
+cpen 92 0 255
+dlin 134 107 218 238
+wait 3
+cpen 255 255 255
+dlin 166 95 186 249
+cpen 91 0 0
+dlin 129 107 219 234
+wait 5
+cpen 92 0 255
+dlin 131 109 221 236
+wait 3
+cpen 255 255 255
+dlin 162 95 189 248
+cpen 91 0 0
+dlin 127 108 222 232
+wait 5
+cpen 92 0 255
+dlin 129 110 224 234
+wait 3
+cpen 255 255 255
+dlin 159 96 192 247
+cpen 92 0 0
+dlin 124 110 224 230
+wait 5
+cpen 93 0 255
+dlin 126 112 226 232
+wait 3
+cpen 255 255 255
+dlin 155 96 195 246
+cpen 92 0 0
+dlin 121 113 227 228
+wait 5
+cpen 93 0 255
+dlin 123 115 229 230
+wait 3
+cpen 255 255 255
+dlin 152 97 199 245
+cpen 92 0 0
+dlin 118 115 229 225
+wait 5
+cpen 93 0 255
+dlin 120 117 231 227
+wait 3
+cpen 255 255 255
+dlin 148 98 202 244
+cpen 92 0 0
+dlin 116 117 231 223
+wait 5
+cpen 93 0 255
+dlin 118 119 233 225
+wait 3
+cpen 255 255 255
+dlin 145 99 205 243
+cpen 92 0 0
+dlin 113 120 233 220
+wait 5
+cpen 93 0 255
+dlin 115 122 235 222
+wait 3
+cpen 255 255 255
+dlin 142 100 208 241
+cpen 92 0 0
+dlin 111 122 235 217
+wait 5
+cpen 93 0 255
+dlin 113 124 237 219
+wait 3
+cpen 255 255 255
+dlin 139 102 211 240
+cpen 93 0 0
+dlin 109 125 237 214
+wait 5
+cpen 94 0 255
+dlin 111 127 239 216
+wait 3
+cpen 255 255 255
+dlin 136 103 213 238
+cpen 93 0 0
+dlin 107 127 239 212
+wait 5
+cpen 94 0 255
+dlin 109 129 241 214
+wait 3
+cpen 255 255 255
+dlin 132 105 216 236
+cpen 93 0 0
+dlin 105 130 241 209
+wait 5
+cpen 94 0 255
+dlin 107 132 243 211
+wait 3
+cpen 255 255 255
+dlin 129 107 219 234
+cpen 93 0 0
+dlin 103 133 242 205
+wait 5
+cpen 94 0 255
+dlin 105 135 244 207
+wait 3
+cpen 255 255 255
+dlin 127 108 222 232
+cpen 93 0 0
+dlin 102 136 244 202
+wait 5
+cpen 94 0 255
+dlin 104 138 246 204
+wait 3
+cpen 255 255 255
+dlin 124 110 224 230
+cpen 94 0 0
+dlin 100 139 245 199
+wait 5
+cpen 95 0 255
+dlin 102 141 247 201
+wait 3
+cpen 255 255 255
+dlin 121 113 227 228
+cpen 94 0 0
+dlin 99 142 246 196
+wait 5
+cpen 95 0 255
+dlin 101 144 248 198
+wait 3
+cpen 255 255 255
+dlin 118 115 229 225
+cpen 94 0 0
+dlin 97 145 247 192
+wait 5
+cpen 95 0 255
+dlin 99 147 249 194
+wait 3
+cpen 255 255 255
+dlin 116 117 231 223
+cpen 94 0 0
+dlin 96 148 248 189
+wait 5
+cpen 95 0 255
+dlin 98 150 250 191
+wait 3
+cpen 255 255 255
+dlin 113 120 233 220
+cpen 94 0 0
+dlin 95 152 249 186
+wait 5
+cpen 95 0 255
+dlin 97 154 251 188
+wait 3
+cpen 255 255 255
+dlin 111 122 235 217
+cpen 94 0 0
+dlin 94 155 249 182
+wait 5
+cpen 95 0 255
+dlin 96 157 251 184
+wait 3
+cpen 255 255 255
+dlin 109 125 237 214
+cpen 95 0 0
+dlin 94 158 250 179
+wait 5
+cpen 96 0 255
+dlin 96 160 252 181
+wait 3
+cpen 255 255 255
+dlin 107 127 239 212
+cpen 95 0 0
+dlin 93 161 250 175
+wait 5
+cpen 96 0 255
+dlin 95 163 252 177
+wait 3
+cpen 255 255 255
+dlin 105 130 241 209
+cpen 95 0 0
+dlin 93 165 250 171
+wait 5
+cpen 96 0 255
+dlin 95 167 252 173
+wait 3
+cpen 255 255 255
+dlin 103 133 242 205
+cpen 95 0 0
+dlin 93 168 250 168
+wait 5
+cpen 96 0 255
+dlin 95 170 252 170
+wait 3
+cpen 255 255 255
+dlin 102 136 244 202
+cpen 95 0 0
+dlin 93 171 250 164
+wait 5
+cpen 96 0 255
+dlin 95 173 252 166
+wait 3
+cpen 255 255 255
+dlin 100 139 245 199
+cpen 95 0 0
+dlin 93 175 250 161
+wait 5
+cpen 96 0 255
+dlin 95 177 252 163
+wait 3
+cpen 255 255 255
+dlin 99 142 246 196
+cpen 96 0 0
+dlin 93 178 249 157
+wait 5
+cpen 97 0 255
+dlin 95 180 251 159
+wait 3
+cpen 255 255 255
+dlin 97 145 247 192
+cpen 96 0 0
+dlin 93 181 249 154
+wait 5
+cpen 97 0 255
+dlin 95 183 251 156
+wait 3
+cpen 255 255 255
+dlin 96 148 248 189
+cpen 96 0 0
+dlin 94 184 248 150
+wait 5
+cpen 97 0 255
+dlin 96 186 250 152
+wait 3
+cpen 255 255 255
+dlin 95 152 249 186
+cpen 96 0 0
+dlin 94 188 247 147
+wait 5
+cpen 97 0 255
+dlin 96 190 249 149
+wait 3
+cpen 255 255 255
+dlin 94 155 249 182
+cpen 96 0 0
+dlin 95 191 246 143
+wait 5
+cpen 97 0 255
+dlin 97 193 248 145
+wait 3
+cpen 255 255 255
+dlin 94 158 250 179
+cpen 97 0 0
+dlin 96 194 245 140
+wait 5
+cpen 98 0 255
+dlin 98 196 247 142
+wait 3
+cpen 255 255 255
+dlin 93 161 250 175
+cpen 97 0 0
+dlin 97 197 243 137
+wait 5
+cpen 98 0 255
+dlin 99 199 245 139
+wait 3
+cpen 255 255 255
+dlin 93 165 250 171
+cpen 97 0 0
+dlin 98 200 242 133
+wait 5
+cpen 98 0 255
+dlin 100 202 244 135
+wait 3
+cpen 255 255 255
+dlin 93 168 250 168
+cpen 97 0 0
+dlin 100 203 240 130
+wait 5
+cpen 98 0 255
+dlin 102 205 242 132
+wait 3
+cpen 255 255 255
+dlin 93 171 250 164
+cpen 97 0 0
+dlin 101 206 238 127
+wait 5
+cpen 98 0 255
+dlin 103 208 240 129
+wait 3
+cpen 255 255 255
+dlin 93 175 250 161
+cpen 97 0 0
+dlin 103 209 237 124
+wait 5
+cpen 98 0 255
+dlin 105 211 239 126
+wait 3
+cpen 255 255 255
+dlin 93 178 249 157
+cpen 98 0 0
+dlin 105 212 235 121
+wait 5
+cpen 99 0 255
+dlin 107 214 237 123
+wait 3
+cpen 255 255 255
+dlin 93 181 249 154
+cpen 98 0 0
+dlin 107 214 232 118
+wait 5
+cpen 99 0 255
+dlin 109 216 234 120
+wait 3
+cpen 255 255 255
+dlin 94 184 248 150
+cpen 98 0 0
+dlin 109 217 230 115
+wait 5
+cpen 99 0 255
+dlin 111 219 232 117
+wait 3
+cpen 255 255 255
+dlin 94 188 247 147
+cpen 98 0 0
+dlin 111 219 228 112
+wait 5
+cpen 99 0 255
+dlin 113 221 230 114
+wait 3
+cpen 255 255 255
+dlin 95 191 246 143
+cpen 98 0 0
+dlin 113 222 225 109
+wait 5
+cpen 99 0 255
+dlin 115 224 227 111
+wait 3
+cpen 255 255 255
+dlin 96 194 245 140
+cpen 98 0 0
+dlin 115 224 223 107
+wait 5
+cpen 99 0 255
+dlin 117 226 225 109
+wait 3
+cpen 255 255 255
+dlin 97 197 243 137
+cpen 99 0 0
+dlin 118 226 220 104
+wait 5
+cpen 100 0 255
+dlin 120 228 222 106
+wait 3
+cpen 255 255 255
+dlin 98 200 242 133
+cpen 99 0 0
+dlin 120 228 217 102
+wait 5
+cpen 100 0 255
+dlin 122 230 219 104
+wait 3
+cpen 255 255 255
+dlin 100 203 240 130
+cpen 99 0 0
+dlin 123 230 214 100
+wait 5
+cpen 100 0 255
+dlin 125 232 216 102
+wait 3
+cpen 255 255 255
+dlin 101 206 238 127
+cpen 99 0 0
+dlin 126 232 211 98
+wait 5
+cpen 100 0 255
+dlin 128 234 213 100
+wait 3
+cpen 255 255 255
+dlin 103 209 237 124
+cpen 99 0 0
+dlin 129 234 208 96
+wait 5
+cpen 100 0 255
+dlin 131 236 210 98
+wait 3
+cpen 255 255 255
+dlin 105 212 235 121
+cpen 100 0 0
+dlin 132 235 205 94
+wait 5
+cpen 101 0 255
+dlin 134 237 207 96
+wait 3
+cpen 255 255 255
+dlin 107 214 232 118
+cpen 100 0 0
+dlin 135 237 202 92
+wait 5
+cpen 101 0 255
+dlin 137 239 204 94
+wait 3
+cpen 255 255 255
+dlin 109 217 230 115
+cpen 100 0 0
+dlin 138 238 199 91
+wait 5
+cpen 101 0 255
+dlin 140 240 201 93
+wait 3
+cpen 255 255 255
+dlin 111 219 228 112
+cpen 100 0 0
+dlin 141 239 195 89
+wait 5
+cpen 101 0 255
+dlin 143 241 197 91
+wait 3
+cpen 255 255 255
+dlin 113 222 225 109
+cpen 100 0 0
+dlin 144 240 192 88
+wait 5
+cpen 101 0 255
+dlin 146 242 194 90
+wait 3
+cpen 255 255 255
+dlin 115 224 223 107
+cpen 100 0 0
+dlin 147 241 189 87
+wait 5
+cpen 101 0 255
+dlin 149 243 191 89
+wait 3
+cpen 255 255 255
+dlin 118 226 220 104
+cpen 101 0 0
+dlin 150 242 185 86
+wait 5
+cpen 102 0 255
+dlin 152 244 187 88
+wait 3
+cpen 255 255 255
+dlin 120 228 217 102
+cpen 101 0 0
+dlin 154 242 182 85
+wait 5
+cpen 102 0 255
+dlin 156 244 184 87
+wait 3
+cpen 255 255 255
+dlin 123 230 214 100
+cpen 101 0 0
+dlin 157 243 178 84
+wait 5
+cpen 102 0 255
+dlin 159 245 180 86
+wait 3
+cpen 255 255 255
+dlin 126 232 211 98
+cpen 101 0 0
+dlin 160 243 174 84
+wait 5
+cpen 102 0 255
+dlin 162 245 176 86
+wait 3
+cpen 255 255 255
+dlin 129 234 208 96
+cpen 101 0 0
+dlin 164 243 171 83
+wait 5
+cpen 102 0 255
+dlin 166 245 173 85
+wait 3
+cpen 255 255 255
+dlin 132 235 205 94
+cpen 101 0 0
+dlin 167 243 167 83
+wait 5
+cpen 103 0 255
+dlin 169 245 169 85
+wait 3
+cpen 255 255 255
+dlin 135 237 202 92
+cpen 255 255 255
+dlin 138 238 199 91
+cpen 255 255 255
+dlin 141 239 195 89
+cpen 255 255 255
+dlin 144 240 192 88
+cpen 255 255 255
+dlin 147 241 189 87
+cpen 255 255 255
+dlin 150 242 185 86
+cpen 255 255 255
+dlin 154 242 182 85
+cpen 255 255 255
+dlin 157 243 178 84
+cpen 255 255 255
+dlin 160 243 174 84
+cpen 255 255 255
+dlin 164 243 171 83
+cpen 255 255 255
+dlin 167 243 167 83
+FRAME
+cpen 102 0 0
+dlin 171 243 164 83
+wait 5
+cpen 103 0 255
+dlin 173 245 166 85
+wait 3
+cpen 102 0 0
+dlin 174 243 160 83
+wait 5
+cpen 103 0 255
+dlin 176 245 162 85
+wait 3
+cpen 102 0 0
+dlin 177 242 156 83
+wait 5
+cpen 103 0 255
+dlin 179 244 158 85
+wait 3
+cpen 102 0 0
+dlin 181 242 153 84
+wait 5
+cpen 103 0 255
+dlin 183 244 155 86
+wait 3
+cpen 102 0 0
+dlin 184 241 149 84
+wait 5
+cpen 103 0 255
+dlin 186 243 151 86
+wait 3
+cpen 103 0 0
+dlin 187 240 146 85
+wait 5
+cpen 104 0 255
+dlin 189 242 148 87
+wait 3
+cpen 103 0 0
+dlin 191 239 142 86
+wait 5
+cpen 104 0 255
+dlin 193 241 144 88
+wait 3
+cpen 103 0 0
+dlin 194 237 139 87
+wait 5
+cpen 104 0 255
+dlin 196 239 141 89
+wait 3
+cpen 103 0 0
+dlin 197 236 136 88
+wait 5
+cpen 104 0 255
+dlin 199 238 138 90
+wait 3
+cpen 103 0 0
+dlin 200 235 132 89
+wait 5
+cpen 104 0 255
+dlin 202 237 134 91
+wait 3
+cpen 103 0 0
+dlin 203 233 129 90
+wait 5
+cpen 104 0 255
+dlin 205 235 131 92
+wait 3
+cpen 255 255 255
+dlin 171 243 164 83
+cpen 104 0 0
+dlin 206 231 126 92
+wait 5
+cpen 105 0 255
+dlin 208 233 128 94
+wait 3
+cpen 255 255 255
+dlin 174 243 160 83
+cpen 104 0 0
+dlin 209 229 123 93
+wait 5
+cpen 105 0 255
+dlin 211 231 125 95
+wait 3
+cpen 255 255 255
+dlin 177 242 156 83
+cpen 104 0 0
+dlin 212 227 120 95
+wait 5
+cpen 105 0 255
+dlin 214 229 122 97
+wait 3
+cpen 255 255 255
+dlin 181 242 153 84
+cpen 104 0 0
+dlin 215 225 117 97
+wait 5
+cpen 105 0 255
+dlin 217 227 119 99
+wait 3
+cpen 255 255 255
+dlin 184 241 149 84
+cpen 104 0 0
+dlin 217 223 114 99
+wait 5
+cpen 105 0 255
+dlin 219 225 116 101
+wait 3
+cpen 255 255 255
+dlin 187 240 146 85
+cpen 105 0 0
+dlin 220 220 111 101
+wait 5
+cpen 106 0 255
+dlin 222 222 113 103
+wait 3
+cpen 255 255 255
+dlin 191 239 142 86
+cpen 105 0 0
+dlin 222 218 108 104
+wait 5
+cpen 106 0 255
+dlin 224 220 110 106
+wait 3
+cpen 255 255 255
+dlin 194 237 139 87
+cpen 105 0 0
+dlin 225 215 106 106
+wait 5
+cpen 106 0 255
+dlin 227 217 108 108
+wait 3
+cpen 255 255 255
+dlin 197 236 136 88
+cpen 105 0 0
+dlin 227 212 103 108
+wait 5
+cpen 106 0 255
+dlin 229 214 105 110
+wait 3
+cpen 255 255 255
+dlin 200 235 132 89
+cpen 105 0 0
+dlin 229 209 101 111
+wait 5
+cpen 106 0 255
+dlin 231 211 103 113
+wait 3
+cpen 255 255 255
+dlin 203 233 129 90
+cpen 105 0 0
+dlin 231 206 99 114
+wait 5
+cpen 106 0 255
+dlin 233 208 101 116
+wait 3
+cpen 255 255 255
+dlin 206 231 126 92
+cpen 106 0 0
+dlin 233 203 97 116
+wait 5
+cpen 107 0 255
+dlin 235 205 99 118
+wait 3
+cpen 255 255 255
+dlin 209 229 123 93
+cpen 106 0 0
+dlin 235 200 95 119
+wait 5
+cpen 107 0 255
+dlin 237 202 97 121
+wait 3
+cpen 255 255 255
+dlin 212 227 120 95
+cpen 106 0 0
+dlin 237 197 93 122
+wait 5
+cpen 107 0 255
+dlin 239 199 95 124
+wait 3
+cpen 255 255 255
+dlin 215 225 117 97
+cpen 106 0 0
+dlin 238 194 91 125
+wait 5
+cpen 107 0 255
+dlin 240 196 93 127
+wait 3
+cpen 255 255 255
+dlin 217 223 114 99
+cpen 106 0 0
+dlin 239 190 90 128
+wait 5
+cpen 107 0 255
+dlin 241 192 92 130
+wait 3
+cpen 255 255 255
+dlin 220 220 111 101
+cpen 106 0 0
+dlin 241 187 89 131
+wait 5
+cpen 107 0 255
+dlin 243 189 91 133
+wait 3
+cpen 255 255 255
+dlin 222 218 108 104
+cpen 107 0 0
+dlin 242 183 87 135
+wait 5
+cpen 108 0 255
+dlin 244 185 89 137
+wait 3
+cpen 255 255 255
+dlin 225 215 106 106
+cpen 107 0 0
+dlin 243 180 86 138
+wait 5
+cpen 108 0 255
+dlin 245 182 88 140
+wait 3
+cpen 255 255 255
+dlin 227 212 103 108
+cpen 107 0 0
+dlin 244 176 85 141
+wait 5
+cpen 108 0 255
+dlin 246 178 87 143
+wait 3
+cpen 255 255 255
+dlin 229 209 101 111
+cpen 107 0 0
+dlin 244 173 84 144
+wait 5
+cpen 108 0 255
+dlin 246 175 86 146
+wait 3
+cpen 255 255 255
+dlin 231 206 99 114
+cpen 107 0 0
+dlin 245 169 84 148
+wait 5
+cpen 108 0 255
+dlin 247 171 86 150
+wait 3
+cpen 255 255 255
+dlin 233 203 97 116
+cpen 108 0 0
+dlin 245 165 83 151
+wait 5
+cpen 109 0 255
+dlin 247 167 85 153
+wait 3
+cpen 255 255 255
+dlin 235 200 95 119
+cpen 108 0 0
+dlin 245 162 83 154
+wait 5
+cpen 109 0 255
+dlin 247 164 85 156
+wait 3
+cpen 255 255 255
+dlin 237 197 93 122
+cpen 108 0 0
+dlin 245 158 83 158
+wait 5
+cpen 109 0 255
+dlin 247 160 85 160
+wait 3
+cpen 255 255 255
+dlin 238 194 91 125
+cpen 108 0 0
+dlin 245 154 83 161
+wait 5
+cpen 109 0 255
+dlin 247 156 85 163
+wait 3
+cpen 255 255 255
+dlin 239 190 90 128
+cpen 108 0 0
+dlin 245 150 83 165
+wait 5
+cpen 109 0 255
+dlin 247 152 85 167
+wait 3
+cpen 255 255 255
+dlin 241 187 89 131
+cpen 108 0 0
+dlin 244 147 83 168
+wait 5
+cpen 109 0 255
+dlin 246 149 85 170
+wait 3
+cpen 255 255 255
+dlin 242 183 87 135
+cpen 109 0 0
+dlin 244 143 83 171
+wait 5
+cpen 110 0 255
+dlin 246 145 85 173
+wait 3
+cpen 255 255 255
+dlin 243 180 86 138
+cpen 109 0 0
+dlin 243 139 84 175
+wait 5
+cpen 110 0 255
+dlin 245 141 86 177
+wait 3
+cpen 255 255 255
+dlin 244 176 85 141
+cpen 109 0 0
+dlin 242 136 85 178
+wait 5
+cpen 110 0 255
+dlin 244 138 87 180
+wait 3
+cpen 255 255 255
+dlin 244 173 84 144
+cpen 109 0 0
+dlin 241 132 86 181
+wait 5
+cpen 110 0 255
+dlin 243 134 88 183
+wait 3
+cpen 255 255 255
+dlin 245 169 84 148
+cpen 109 0 0
+dlin 240 129 87 184
+wait 5
+cpen 110 0 255
+dlin 242 131 89 186
+wait 3
+cpen 255 255 255
+dlin 245 165 83 151
+cpen 109 0 0
+dlin 239 125 88 188
+wait 5
+cpen 110 0 255
+dlin 241 127 90 190
+wait 3
+cpen 255 255 255
+dlin 245 162 83 154
+cpen 110 0 0
+dlin 237 122 89 191
+wait 5
+cpen 111 0 255
+dlin 239 124 91 193
+wait 3
+cpen 255 255 255
+dlin 245 158 83 158
+cpen 110 0 0
+dlin 236 118 91 194
+wait 5
+cpen 111 0 255
+dlin 238 120 93 196
+wait 3
+cpen 255 255 255
+dlin 245 154 83 161
+cpen 110 0 0
+dlin 234 115 92 197
+wait 5
+cpen 111 0 255
+dlin 236 117 94 199
+wait 3
+cpen 255 255 255
+dlin 245 150 83 165
+cpen 110 0 0
+dlin 232 112 94 200
+wait 5
+cpen 111 0 255
+dlin 234 114 96 202
+wait 3
+cpen 255 255 255
+dlin 244 147 83 168
+cpen 110 0 0
+dlin 230 109 96 202
+wait 5
+cpen 111 0 255
+dlin 232 111 98 204
+wait 3
+cpen 255 255 255
+dlin 244 143 83 171
+cpen 111 0 0
+dlin 228 106 98 205
+wait 5
+cpen 112 0 255
+dlin 230 108 100 207
+wait 3
+cpen 255 255 255
+dlin 243 139 84 175
+cpen 111 0 0
+dlin 225 103 100 208
+wait 5
+cpen 112 0 255
+dlin 227 105 102 210
+wait 3
+cpen 255 255 255
+dlin 242 136 85 178
+cpen 111 0 0
+dlin 223 100 102 210
+wait 5
+cpen 112 0 255
+dlin 225 102 104 212
+wait 3
+cpen 255 255 255
+dlin 241 132 86 181
+cpen 111 0 0
+dlin 221 97 105 213
+wait 5
+cpen 112 0 255
+dlin 223 99 107 215
+wait 3
+cpen 255 255 255
+dlin 240 129 87 184
+cpen 111 0 0
+dlin 218 94 107 215
+wait 5
+cpen 112 0 255
+dlin 220 96 109 217
+wait 3
+cpen 255 255 255
+dlin 239 125 88 188
+cpen 111 0 0
+dlin 215 92 110 217
+wait 5
+cpen 112 0 255
+dlin 217 94 112 219
+wait 3
+cpen 255 255 255
+dlin 237 122 89 191
+cpen 112 0 0
+dlin 212 89 113 220
+wait 5
+cpen 113 0 255
+dlin 214 91 115 222
+wait 3
+cpen 255 255 255
+dlin 236 118 91 194
+cpen 112 0 0
+dlin 209 87 115 222
+wait 5
+cpen 113 0 255
+dlin 211 89 117 224
+wait 3
+cpen 255 255 255
+dlin 234 115 92 197
+cpen 112 0 0
+dlin 206 85 118 223
+wait 5
+cpen 113 0 255
+dlin 208 87 120 225
+wait 3
+cpen 255 255 255
+dlin 232 112 94 200
+cpen 112 0 0
+dlin 203 83 121 225
+wait 5
+cpen 113 0 255
+dlin 205 85 123 227
+wait 3
+cpen 255 255 255
+dlin 230 109 96 202
+cpen 112 0 0
+dlin 200 81 124 227
+wait 5
+cpen 113 0 255
+dlin 202 83 126 229
+wait 3
+cpen 255 255 255
+dlin 228 106 98 205
+cpen 112 0 0
+dlin 197 79 127 228
+wait 5
+cpen 113 0 255
+dlin 199 81 129 230
+wait 3
+cpen 255 255 255
+dlin 225 103 100 208
+cpen 113 0 0
+dlin 193 78 131 229
+wait 5
+cpen 114 0 255
+dlin 195 80 133 231
+wait 3
+cpen 255 255 255
+dlin 223 100 102 210
+cpen 113 0 0
+dlin 190 76 134 231
+wait 5
+cpen 114 0 255
+dlin 192 78 136 233
+wait 3
+cpen 255 255 255
+dlin 221 97 105 213
+cpen 113 0 0
+dlin 187 75 137 232
+wait 5
+cpen 114 0 255
+dlin 189 77 139 234
+wait 3
+cpen 255 255 255
+dlin 218 94 107 215
+cpen 113 0 0
+dlin 183 74 141 233
+wait 5
+cpen 114 0 255
+dlin 185 76 143 235
+wait 3
+cpen 255 255 255
+dlin 215 92 110 217
+cpen 113 0 0
+dlin 180 72 144 233
+wait 5
+cpen 114 0 255
+dlin 182 74 146 235
+wait 3
+cpen 255 255 255
+dlin 212 89 113 220
+cpen 114 0 0
+dlin 176 72 147 234
+wait 5
+cpen 115 0 255
+dlin 178 74 149 236
+wait 3
+cpen 255 255 255
+dlin 209 87 115 222
+cpen 114 0 0
+dlin 172 71 151 234
+wait 5
+cpen 115 0 255
+dlin 174 73 153 236
+wait 3
+cpen 255 255 255
+dlin 206 85 118 223
+cpen 114 0 0
+dlin 169 70 154 234
+wait 5
+cpen 115 0 255
+dlin 171 72 156 236
+wait 3
+cpen 255 255 255
+dlin 203 83 121 225
+cpen 114 0 0
+dlin 165 70 158 235
+wait 5
+cpen 115 0 255
+dlin 167 72 160 237
+wait 3
+cpen 255 255 255
+dlin 200 81 124 227
+cpen 114 0 0
+dlin 162 70 162 235
+wait 5
+cpen 115 0 255
+dlin 164 72 164 237
+wait 3
+cpen 255 255 255
+dlin 197 79 127 228
+cpen 114 0 0
+dlin 158 69 165 234
+wait 5
+cpen 115 0 255
+dlin 160 71 167 236
+wait 3
+cpen 255 255 255
+dlin 193 78 131 229
+cpen 115 0 0
+dlin 154 69 169 234
+wait 5
+cpen 116 0 255
+dlin 156 71 171 236
+wait 3
+cpen 255 255 255
+dlin 190 76 134 231
+cpen 115 0 0
+dlin 151 70 172 233
+wait 5
+cpen 116 0 255
+dlin 153 72 174 235
+wait 3
+cpen 255 255 255
+dlin 187 75 137 232
+cpen 115 0 0
+dlin 147 70 176 233
+wait 5
+cpen 116 0 255
+dlin 149 72 178 235
+wait 3
+cpen 255 255 255
+dlin 183 74 141 233
+cpen 115 0 0
+dlin 143 70 179 232
+wait 5
+cpen 116 0 255
+dlin 145 72 181 234
+wait 3
+cpen 255 255 255
+dlin 180 72 144 233
+cpen 115 0 0
+dlin 140 71 183 231
+wait 5
+cpen 116 0 255
+dlin 142 73 185 233
+wait 3
+cpen 255 255 255
+dlin 176 72 147 234
+cpen 115 0 0
+dlin 136 72 186 230
+wait 5
+cpen 116 0 255
+dlin 138 74 188 232
+wait 3
+cpen 255 255 255
+dlin 172 71 151 234
+cpen 116 0 0
+dlin 133 73 189 228
+wait 5
+cpen 117 0 255
+dlin 135 75 191 230
+wait 3
+cpen 255 255 255
+dlin 169 70 154 234
+cpen 116 0 0
+dlin 129 74 193 227
+wait 5
+cpen 117 0 255
+dlin 131 76 195 229
+wait 3
+cpen 255 255 255
+dlin 165 70 158 235
+cpen 116 0 0
+dlin 126 75 196 225
+wait 5
+cpen 117 0 255
+dlin 128 77 198 227
+wait 3
+cpen 255 255 255
+dlin 162 70 162 235
+cpen 116 0 0
+dlin 123 77 199 224
+wait 5
+cpen 117 0 255
+dlin 125 79 201 226
+wait 3
+cpen 255 255 255
+dlin 158 69 165 234
+cpen 116 0 0
+dlin 119 78 202 222
+wait 5
+cpen 117 0 255
+dlin 121 80 204 224
+wait 3
+cpen 255 255 255
+dlin 154 69 169 234
+cpen 117 0 0
+dlin 116 80 205 220
+wait 5
+cpen 118 0 255
+dlin 118 82 207 222
+wait 3
+cpen 255 255 255
+dlin 151 70 172 233
+cpen 117 0 0
+dlin 113 82 208 218
+wait 5
+cpen 118 0 255
+dlin 115 84 210 220
+wait 3
+cpen 255 255 255
+dlin 147 70 176 233
+cpen 117 0 0
+dlin 110 84 211 215
+wait 5
+cpen 118 0 255
+dlin 112 86 213 217
+wait 3
+cpen 255 255 255
+dlin 143 70 179 232
+cpen 117 0 0
+dlin 107 86 214 213
+wait 5
+cpen 118 0 255
+dlin 109 88 216 215
+wait 3
+cpen 255 255 255
+dlin 140 71 183 231
+cpen 117 0 0
+dlin 105 88 217 210
+wait 5
+cpen 118 0 255
+dlin 107 90 219 212
+wait 3
+cpen 255 255 255
+dlin 136 72 186 230
+cpen 117 0 0
+dlin 102 90 219 208
+wait 5
+cpen 118 0 255
+dlin 104 92 221 210
+wait 3
+cpen 255 255 255
+dlin 133 73 189 228
+cpen 118 0 0
+dlin 99 93 222 205
+wait 5
+cpen 119 0 255
+dlin 101 95 224 207
+wait 3
+cpen 255 255 255
+dlin 129 74 193 227
+cpen 118 0 0
+dlin 97 95 224 202
+wait 5
+cpen 119 0 255
+dlin 99 97 226 204
+wait 3
+cpen 255 255 255
+dlin 126 75 196 225
+cpen 118 0 0
+dlin 94 98 227 199
+wait 5
+cpen 119 0 255
+dlin 96 100 229 201
+wait 3
+cpen 255 255 255
+dlin 123 77 199 224
+cpen 118 0 0
+dlin 92 101 229 196
+wait 5
+cpen 119 0 255
+dlin 94 103 231 198
+wait 3
+cpen 255 255 255
+dlin 119 78 202 222
+cpen 118 0 0
+dlin 90 103 231 193
+wait 5
+cpen 119 0 255
+dlin 92 105 233 195
+wait 3
+cpen 255 255 255
+dlin 116 80 205 220
+cpen 118 0 0
+dlin 88 106 233 190
+wait 5
+cpen 120 0 255
+dlin 90 108 235 192
+wait 3
+cpen 255 255 255
+dlin 113 82 208 218
+cpen 119 0 0
+dlin 86 109 234 186
+wait 5
+cpen 120 0 255
+dlin 88 111 236 188
+wait 3
+cpen 255 255 255
+dlin 110 84 211 215
+cpen 119 0 0
+dlin 85 112 236 183
+wait 5
+cpen 120 0 255
+dlin 87 114 238 185
+wait 3
+cpen 255 255 255
+dlin 107 86 214 213
+cpen 119 0 0
+dlin 83 116 237 179
+wait 5
+cpen 120 0 255
+dlin 85 118 239 181
+wait 3
+cpen 255 255 255
+dlin 105 88 217 210
+cpen 119 0 0
+dlin 82 119 239 176
+wait 5
+cpen 120 0 255
+dlin 84 121 241 178
+wait 3
+cpen 255 255 255
+dlin 102 90 219 208
+cpen 119 0 0
+dlin 81 122 240 172
+wait 5
+cpen 120 0 255
+dlin 83 124 242 174
+wait 3
+cpen 255 255 255
+dlin 99 93 222 205
+cpen 120 0 0
+dlin 80 125 241 169
+wait 5
+cpen 121 0 255
+dlin 82 127 243 171
+wait 3
+cpen 255 255 255
+dlin 97 95 224 202
+cpen 120 0 0
+dlin 79 129 242 165
+wait 5
+cpen 121 0 255
+dlin 81 131 244 167
+wait 3
+cpen 255 255 255
+dlin 94 98 227 199
+cpen 120 0 0
+dlin 78 132 242 161
+wait 5
+cpen 121 0 255
+dlin 80 134 244 163
+wait 3
+cpen 255 255 255
+dlin 92 101 229 196
+cpen 120 0 0
+dlin 77 136 243 157
+wait 5
+cpen 121 0 255
+dlin 79 138 245 159
+wait 3
+cpen 255 255 255
+dlin 90 103 231 193
+cpen 120 0 0
+dlin 77 139 243 154
+wait 5
+cpen 121 0 255
+dlin 79 141 245 156
+wait 3
+cpen 255 255 255
+dlin 88 106 233 190
+cpen 120 0 0
+dlin 76 142 244 150
+wait 5
+cpen 121 0 255
+dlin 78 144 246 152
+wait 3
+cpen 255 255 255
+dlin 86 109 234 186
+cpen 121 0 0
+dlin 76 146 244 146
+wait 5
+cpen 122 0 255
+dlin 78 148 246 148
+wait 3
+cpen 255 255 255
+dlin 85 112 236 183
+cpen 121 0 0
+dlin 76 149 244 142
+wait 5
+cpen 122 0 255
+dlin 78 151 246 144
+wait 3
+cpen 255 255 255
+dlin 83 116 237 179
+cpen 121 0 0
+dlin 76 153 243 138
+wait 5
+cpen 122 0 255
+dlin 78 155 245 140
+wait 3
+cpen 255 255 255
+dlin 82 119 239 176
+cpen 121 0 0
+dlin 77 156 243 134
+wait 5
+cpen 122 0 255
+dlin 79 158 245 136
+wait 3
+cpen 255 255 255
+dlin 81 122 240 172
+cpen 121 0 0
+dlin 77 160 243 131
+wait 5
+cpen 122 0 255
+dlin 79 162 245 133
+wait 3
+cpen 255 255 255
+dlin 80 125 241 169
+cpen 122 0 0
+dlin 78 163 242 127
+wait 5
+cpen 123 0 255
+dlin 80 165 244 129
+wait 3
+cpen 255 255 255
+dlin 79 129 242 165
+cpen 122 0 0
+dlin 79 167 241 123
+wait 5
+cpen 123 0 255
+dlin 81 169 243 125
+wait 3
+cpen 255 255 255
+dlin 78 132 242 161
+cpen 122 0 0
+dlin 80 170 240 119
+wait 5
+cpen 123 0 255
+dlin 82 172 242 121
+wait 3
+cpen 255 255 255
+dlin 77 136 243 157
+cpen 122 0 0
+dlin 81 173 239 116
+wait 5
+cpen 123 0 255
+dlin 83 175 241 118
+wait 3
+cpen 255 255 255
+dlin 77 139 243 154
+cpen 122 0 0
+dlin 82 177 237 112
+wait 5
+cpen 123 0 255
+dlin 84 179 239 114
+wait 3
+cpen 255 255 255
+dlin 76 142 244 150
+cpen 122 0 0
+dlin 84 180 236 109
+wait 5
+cpen 123 0 255
+dlin 86 182 238 111
+wait 3
+cpen 255 255 255
+dlin 76 146 244 146
+cpen 123 0 0
+dlin 85 183 234 105
+wait 5
+cpen 124 0 255
+dlin 87 185 236 107
+wait 3
+cpen 255 255 255
+dlin 76 149 244 142
+cpen 123 0 0
+dlin 87 186 233 102
+wait 5
+cpen 124 0 255
+dlin 89 188 235 104
+wait 3
+cpen 255 255 255
+dlin 76 153 243 138
+cpen 123 0 0
+dlin 89 189 231 98
+wait 5
+cpen 124 0 255
+dlin 91 191 233 100
+wait 3
+cpen 255 255 255
+dlin 77 156 243 134
+cpen 123 0 0
+dlin 91 192 229 95
+wait 5
+cpen 124 0 255
+dlin 93 194 231 97
+wait 3
+cpen 255 255 255
+dlin 77 160 243 131
+cpen 123 0 0
+dlin 93 195 227 92
+wait 5
+cpen 124 0 255
+dlin 95 197 229 94
+wait 3
+cpen 255 255 255
+dlin 78 163 242 127
+cpen 123 0 0
+dlin 95 197 224 89
+wait 5
+cpen 124 0 255
+dlin 97 199 226 91
+wait 3
+cpen 255 255 255
+dlin 79 167 241 123
+cpen 124 0 0
+dlin 97 200 222 86
+wait 5
+cpen 125 0 255
+dlin 99 202 224 88
+wait 3
+cpen 255 255 255
+dlin 80 170 240 119
+cpen 124 0 0
+dlin 100 202 219 83
+wait 5
+cpen 125 0 255
+dlin 102 204 221 85
+wait 3
+cpen 255 255 255
+dlin 81 173 239 116
+cpen 124 0 0
+dlin 103 205 217 80
+wait 5
+cpen 125 0 255
+dlin 105 207 219 82
+wait 3
+cpen 255 255 255
+dlin 82 177 237 112
+cpen 124 0 0
+dlin 105 207 214 78
+wait 5
+cpen 125 0 255
+dlin 107 209 216 80
+wait 3
+cpen 255 255 255
+dlin 84 180 236 109
+cpen 124 0 0
+dlin 108 209 211 75
+wait 5
+cpen 125 0 255
+dlin 110 211 213 77
+wait 3
+cpen 255 255 255
+dlin 85 183 234 105
+cpen 125 0 0
+dlin 111 211 208 73
+wait 5
+cpen 126 0 255
+dlin 113 213 210 75
+wait 3
+cpen 255 255 255
+dlin 87 186 233 102
+cpen 125 0 0
+dlin 114 213 205 71
+wait 5
+cpen 126 0 255
+dlin 116 215 207 73
+wait 3
+cpen 255 255 255
+dlin 89 189 231 98
+cpen 125 0 0
+dlin 117 215 202 69
+wait 5
+cpen 126 0 255
+dlin 119 217 204 71
+wait 3
+cpen 255 255 255
+dlin 91 192 229 95
+cpen 125 0 0
+dlin 120 217 199 67
+wait 5
+cpen 126 0 255
+dlin 122 219 201 69
+wait 3
+cpen 255 255 255
+dlin 93 195 227 92
+cpen 125 0 0
+dlin 124 218 195 65
+wait 5
+cpen 126 0 255
+dlin 126 220 197 67
+wait 3
+cpen 255 255 255
+dlin 95 197 224 89
+cpen 125 0 0
+dlin 127 219 192 63
+wait 5
+cpen 126 0 255
+dlin 129 221 194 65
+wait 3
+cpen 255 255 255
+dlin 97 200 222 86
+cpen 126 0 0
+dlin 131 221 189 61
+wait 5
+cpen 127 0 255
+dlin 133 223 191 63
+wait 3
+cpen 255 255 255
+dlin 100 202 219 83
+cpen 126 0 0
+dlin 134 222 185 60
+wait 5
+cpen 127 0 255
+dlin 136 224 187 62
+wait 3
+cpen 255 255 255
+dlin 103 205 217 80
+cpen 126 0 0
+dlin 138 223 181 59
+wait 5
+cpen 127 0 255
+dlin 140 225 183 61
+wait 3
+cpen 255 255 255
+dlin 105 207 214 78
+cpen 126 0 0
+dlin 141 223 178 58
+wait 5
+cpen 127 0 255
+dlin 143 225 180 60
+wait 3
+cpen 255 255 255
+dlin 108 209 211 75
+cpen 126 0 0
+dlin 145 224 174 57
+wait 5
+cpen 127 0 255
+dlin 147 226 176 59
+wait 3
+cpen 255 255 255
+dlin 111 211 208 73
+cpen 126 0 0
+dlin 148 224 171 56
+wait 5
+cpen 127 0 255
+dlin 150 226 173 58
+wait 3
+cpen 255 255 255
+dlin 114 213 205 71
+cpen 127 0 0
+dlin 152 225 167 55
+wait 5
+cpen 128 0 255
+dlin 154 227 169 57
+wait 3
+cpen 255 255 255
+dlin 117 215 202 69
+cpen 127 0 0
+dlin 156 225 163 55
+wait 5
+cpen 128 0 255
+dlin 158 227 165 57
+wait 3
+cpen 255 255 255
+dlin 120 217 199 67
+cpen 127 0 0
+dlin 160 225 160 55
+wait 5
+cpen 128 0 255
+dlin 162 227 162 57
+wait 3
+cpen 255 255 255
+dlin 124 218 195 65
+cpen 255 255 255
+dlin 127 219 192 63
+cpen 255 255 255
+dlin 131 221 189 61
+cpen 255 255 255
+dlin 134 222 185 60
+cpen 255 255 255
+dlin 138 223 181 59
+cpen 255 255 255
+dlin 141 223 178 58
+cpen 255 255 255
+dlin 145 224 174 57
+cpen 255 255 255
+dlin 148 224 171 56
+cpen 255 255 255
+dlin 152 225 167 55
+cpen 255 255 255
+dlin 156 225 163 55
+cpen 255 255 255
+dlin 160 225 160 55
+FRAME
+cpen 127 0 0
+dlin 163 224 156 55
+wait 5
+cpen 128 0 255
+dlin 165 226 158 57
+wait 3
+cpen 127 0 0
+dlin 167 224 152 55
+wait 5
+cpen 128 0 255
+dlin 169 226 154 57
+wait 3
+cpen 128 0 0
+dlin 171 224 148 55
+wait 5
+cpen 129 0 255
+dlin 173 226 150 57
+wait 3
+cpen 128 0 0
+dlin 174 223 145 55
+wait 5
+cpen 129 0 255
+dlin 176 225 147 57
+wait 3
+cpen 128 0 0
+dlin 178 222 141 56
+wait 5
+cpen 129 0 255
+dlin 180 224 143 58
+wait 3
+cpen 128 0 0
+dlin 182 221 137 56
+wait 5
+cpen 129 0 255
+dlin 184 223 139 58
+wait 3
+cpen 128 0 0
+dlin 185 220 134 57
+wait 5
+cpen 129 0 255
+dlin 187 222 136 59
+wait 3
+cpen 128 0 0
+dlin 189 218 130 58
+wait 5
+cpen 129 0 255
+dlin 191 220 132 60
+wait 3
+cpen 129 0 0
+dlin 192 217 127 59
+wait 5
+cpen 130 0 255
+dlin 194 219 129 61
+wait 3
+cpen 129 0 0
+dlin 196 215 123 61
+wait 5
+cpen 130 0 255
+dlin 198 217 125 63
+wait 3
+cpen 129 0 0
+dlin 199 213 120 62
+wait 5
+cpen 130 0 255
+dlin 201 215 122 64
+wait 3
+cpen 255 255 255
+dlin 163 224 156 55
+cpen 129 0 0
+dlin 202 212 117 64
+wait 5
+cpen 130 0 255
+dlin 204 214 119 66
+wait 3
+cpen 255 255 255
+dlin 167 224 152 55
+cpen 129 0 0
+dlin 205 209 114 65
+wait 5
+cpen 130 0 255
+dlin 207 211 116 67
+wait 3
+cpen 255 255 255
+dlin 171 224 148 55
+cpen 129 0 0
+dlin 209 207 111 67
+wait 5
+cpen 130 0 255
+dlin 211 209 113 69
+wait 3
+cpen 255 255 255
+dlin 174 223 145 55
+cpen 130 0 0
+dlin 212 205 108 69
+wait 5
+cpen 131 0 255
+dlin 214 207 110 71
+wait 3
+cpen 255 255 255
+dlin 178 222 141 56
+cpen 130 0 0
+dlin 215 202 105 71
+wait 5
+cpen 131 0 255
+dlin 217 204 107 73
+wait 3
+cpen 255 255 255
+dlin 182 221 137 56
+cpen 130 0 0
+dlin 217 200 102 74
+wait 5
+cpen 131 0 255
+dlin 219 202 104 76
+wait 3
+cpen 255 255 255
+dlin 185 220 134 57
+cpen 130 0 0
+dlin 220 197 99 76
+wait 5
+cpen 131 0 255
+dlin 222 199 101 78
+wait 3
+cpen 255 255 255
+dlin 189 218 130 58
+cpen 130 0 0
+dlin 223 194 96 78
+wait 5
+cpen 131 0 255
+dlin 225 196 98 80
+wait 3
+cpen 255 255 255
+dlin 192 217 127 59
+cpen 131 0 0
+dlin 225 191 94 81
+wait 5
+cpen 132 0 255
+dlin 227 193 96 83
+wait 3
+cpen 255 255 255
+dlin 196 215 123 61
+cpen 131 0 0
+dlin 228 188 92 84
+wait 5
+cpen 132 0 255
+dlin 230 190 94 86
+wait 3
+cpen 255 255 255
+dlin 199 213 120 62
+cpen 131 0 0
+dlin 230 185 89 87
+wait 5
+cpen 132 0 255
+dlin 232 187 91 89
+wait 3
+cpen 255 255 255
+dlin 202 212 117 64
+cpen 131 0 0
+dlin 232 182 87 90
+wait 5
+cpen 132 0 255
+dlin 234 184 89 92
+wait 3
+cpen 255 255 255
+dlin 205 209 114 65
+cpen 131 0 0
+dlin 234 178 85 93
+wait 5
+cpen 132 0 255
+dlin 236 180 87 95
+wait 3
+cpen 255 255 255
+dlin 209 207 111 67
+cpen 131 0 0
+dlin 236 175 84 96
+wait 5
+cpen 132 0 255
+dlin 238 177 86 98
+wait 3
+cpen 255 255 255
+dlin 212 205 108 69
+cpen 132 0 0
+dlin 238 171 82 99
+wait 5
+cpen 133 0 255
+dlin 240 173 84 101
+wait 3
+cpen 255 255 255
+dlin 215 202 105 71
+cpen 132 0 0
+dlin 239 168 80 102
+wait 5
+cpen 133 0 255
+dlin 241 170 82 104
+wait 3
+cpen 255 255 255
+dlin 217 200 102 74
+cpen 132 0 0
+dlin 241 164 79 105
+wait 5
+cpen 133 0 255
+dlin 243 166 81 107
+wait 3
+cpen 255 255 255
+dlin 220 197 99 76
+cpen 132 0 0
+dlin 242 160 78 109
+wait 5
+cpen 133 0 255
+dlin 244 162 80 111
+wait 3
+cpen 255 255 255
+dlin 223 194 96 78
+cpen 132 0 0
+dlin 243 157 77 112
+wait 5
+cpen 133 0 255
+dlin 245 159 79 114
+wait 3
+cpen 255 255 255
+dlin 225 191 94 81
+cpen 132 0 0
+dlin 244 153 76 116
+wait 5
+cpen 133 0 255
+dlin 246 155 78 118
+wait 3
+cpen 255 255 255
+dlin 228 188 92 84
+cpen 133 0 0
+dlin 245 149 75 119
+wait 5
+cpen 134 0 255
+dlin 247 151 77 121
+wait 3
+cpen 255 255 255
+dlin 230 185 89 87
+cpen 133 0 0
+dlin 245 145 74 123
+wait 5
+cpen 134 0 255
+dlin 247 147 76 125
+wait 3
+cpen 255 255 255
+dlin 232 182 87 90
+cpen 133 0 0
+dlin 246 141 74 126
+wait 5
+cpen 134 0 255
+dlin 248 143 76 128
+wait 3
+cpen 255 255 255
+dlin 234 178 85 93
+cpen 133 0 0
+dlin 246 137 74 130
+wait 5
+cpen 134 0 255
+dlin 248 139 76 132
+wait 3
+cpen 255 255 255
+dlin 236 175 84 96
+cpen 133 0 0
+dlin 246 133 74 133
+wait 5
+cpen 134 0 255
+dlin 248 135 76 135
+wait 3
+cpen 255 255 255
+dlin 238 171 82 99
+cpen 134 0 0
+dlin 246 129 74 137
+wait 5
+cpen 135 0 255
+dlin 248 131 76 139
+wait 3
+cpen 255 255 255
+dlin 239 168 80 102
+cpen 134 0 0
+dlin 246 126 74 141
+wait 5
+cpen 135 0 255
+dlin 248 128 76 143
+wait 3
+cpen 255 255 255
+dlin 241 164 79 105
+cpen 134 0 0
+dlin 246 122 74 144
+wait 5
+cpen 135 0 255
+dlin 248 124 76 146
+wait 3
+cpen 255 255 255
+dlin 242 160 78 109
+cpen 134 0 0
+dlin 245 118 75 148
+wait 5
+cpen 135 0 255
+dlin 247 120 77 150
+wait 3
+cpen 255 255 255
+dlin 243 157 77 112
+cpen 134 0 0
+dlin 244 114 76 151
+wait 5
+cpen 135 0 255
+dlin 246 116 78 153
+wait 3
+cpen 255 255 255
+dlin 244 153 76 116
+cpen 134 0 0
+dlin 244 110 77 155
+wait 5
+cpen 135 0 255
+dlin 246 112 79 157
+wait 3
+cpen 255 255 255
+dlin 245 149 75 119
+cpen 135 0 0
+dlin 243 106 78 158
+wait 5
+cpen 136 0 255
+dlin 245 108 80 160
+wait 3
+cpen 255 255 255
+dlin 245 145 74 123
+cpen 135 0 0
+dlin 242 102 79 162
+wait 5
+cpen 136 0 255
+dlin 244 104 81 164
+wait 3
+cpen 255 255 255
+dlin 246 141 74 126
+cpen 135 0 0
+dlin 240 99 80 165
+wait 5
+cpen 136 0 255
+dlin 242 101 82 167
+wait 3
+cpen 255 255 255
+dlin 246 137 74 130
+cpen 135 0 0
+dlin 239 95 82 168
+wait 5
+cpen 136 0 255
+dlin 241 97 84 170
+wait 3
+cpen 255 255 255
+dlin 246 133 74 133
+cpen 135 0 0
+dlin 237 92 83 172
+wait 5
+cpen 136 0 255
+dlin 239 94 85 174
+wait 3
+cpen 255 255 255
+dlin 246 129 74 137
+cpen 135 0 0
+dlin 235 88 85 175
+wait 5
+cpen 137 0 255
+dlin 237 90 87 177
+wait 3
+cpen 255 255 255
+dlin 246 126 74 141
+cpen 136 0 0
+dlin 233 85 87 178
+wait 5
+cpen 137 0 255
+dlin 235 87 89 180
+wait 3
+cpen 255 255 255
+dlin 246 122 74 144
+cpen 136 0 0
+dlin 231 81 89 181
+wait 5
+cpen 137 0 255
+dlin 233 83 91 183
+wait 3
+cpen 255 255 255
+dlin 245 118 75 148
+cpen 136 0 0
+dlin 229 78 92 184
+wait 5
+cpen 137 0 255
+dlin 231 80 94 186
+wait 3
+cpen 255 255 255
+dlin 244 114 76 151
+cpen 136 0 0
+dlin 227 75 94 186
+wait 5
+cpen 137 0 255
+dlin 229 77 96 188
+wait 3
+cpen 255 255 255
+dlin 244 110 77 155
+cpen 136 0 0
+dlin 225 72 96 189
+wait 5
+cpen 137 0 255
+dlin 227 74 98 191
+wait 3
+cpen 255 255 255
+dlin 243 106 78 158
+cpen 137 0 0
+dlin 222 69 99 192
+wait 5
+cpen 138 0 255
+dlin 224 71 101 194
+wait 3
+cpen 255 255 255
+dlin 242 102 79 162
+cpen 137 0 0
+dlin 219 66 102 194
+wait 5
+cpen 138 0 255
+dlin 221 68 104 196
+wait 3
+cpen 255 255 255
+dlin 240 99 80 165
+cpen 137 0 0
+dlin 217 63 105 197
+wait 5
+cpen 138 0 255
+dlin 219 65 107 199
+wait 3
+cpen 255 255 255
+dlin 239 95 82 168
+cpen 137 0 0
+dlin 214 61 108 199
+wait 5
+cpen 138 0 255
+dlin 216 63 110 201
+wait 3
+cpen 255 255 255
+dlin 237 92 83 172
+cpen 137 0 0
+dlin 211 58 111 201
+wait 5
+cpen 138 0 255
+dlin 213 60 113 203
+wait 3
+cpen 255 255 255
+dlin 235 88 85 175
+cpen 137 0 0
+dlin 208 56 114 203
+wait 5
+cpen 138 0 255
+dlin 210 58 116 205
+wait 3
+cpen 255 255 255
+dlin 233 85 87 178
+cpen 138 0 0
+dlin 204 54 117 205
+wait 5
+cpen 139 0 255
+dlin 206 56 119 207
+wait 3
+cpen 255 255 255
+dlin 231 81 89 181
+cpen 138 0 0
+dlin 201 52 121 206
+wait 5
+cpen 139 0 255
+dlin 203 54 123 208
+wait 3
+cpen 255 255 255
+dlin 229 78 92 184
+cpen 138 0 0
+dlin 198 50 124 208
+wait 5
+cpen 139 0 255
+dlin 200 52 126 210
+wait 3
+cpen 255 255 255
+dlin 227 75 94 186
+cpen 138 0 0
+dlin 194 48 128 209
+wait 5
+cpen 139 0 255
+dlin 196 50 130 211
+wait 3
+cpen 255 255 255
+dlin 225 72 96 189
+cpen 138 0 0
+dlin 191 47 131 211
+wait 5
+cpen 139 0 255
+dlin 193 49 133 213
+wait 3
+cpen 255 255 255
+dlin 222 69 99 192
+cpen 139 0 0
+dlin 187 45 135 212
+wait 5
+cpen 140 0 255
+dlin 189 47 137 214
+wait 3
+cpen 255 255 255
+dlin 219 66 102 194
+cpen 139 0 0
+dlin 184 44 139 213
+wait 5
+cpen 140 0 255
+dlin 186 46 141 215
+wait 3
+cpen 255 255 255
+dlin 217 63 105 197
+cpen 139 0 0
+dlin 180 43 142 213
+wait 5
+cpen 140 0 255
+dlin 182 45 144 215
+wait 3
+cpen 255 255 255
+dlin 214 61 108 199
+cpen 139 0 0
+dlin 176 42 146 214
+wait 5
+cpen 140 0 255
+dlin 178 44 148 216
+wait 3
+cpen 255 255 255
+dlin 211 58 111 201
+cpen 139 0 0
+dlin 173 41 150 214
+wait 5
+cpen 140 0 255
+dlin 175 43 152 216
+wait 3
+cpen 255 255 255
+dlin 208 56 114 203
+cpen 139 0 0
+dlin 169 41 154 215
+wait 5
+cpen 140 0 255
+dlin 171 43 156 217
+wait 3
+cpen 255 255 255
+dlin 204 54 117 205
+cpen 140 0 0
+dlin 165 40 158 215
+wait 5
+cpen 141 0 255
+dlin 167 42 160 217
+wait 3
+cpen 255 255 255
+dlin 201 52 121 206
+cpen 140 0 0
+dlin 161 40 161 215
+wait 5
+cpen 141 0 255
+dlin 163 42 163 217
+wait 3
+cpen 255 255 255
+dlin 198 50 124 208
+cpen 140 0 0
+dlin 158 40 165 215
+wait 5
+cpen 141 0 255
+dlin 160 42 167 217
+wait 3
+cpen 255 255 255
+dlin 194 48 128 209
+cpen 140 0 0
+dlin 154 40 169 214
+wait 5
+cpen 141 0 255
+dlin 156 42 171 216
+wait 3
+cpen 255 255 255
+dlin 191 47 131 211
+cpen 140 0 0
+dlin 150 40 173 214
+wait 5
+cpen 141 0 255
+dlin 152 42 175 216
+wait 3
+cpen 255 255 255
+dlin 187 45 135 212
+cpen 140 0 0
+dlin 146 40 177 213
+wait 5
+cpen 141 0 255
+dlin 148 42 179 215
+wait 3
+cpen 255 255 255
+dlin 184 44 139 213
+cpen 141 0 0
+dlin 143 41 181 212
+wait 5
+cpen 142 0 255
+dlin 145 43 183 214
+wait 3
+cpen 255 255 255
+dlin 180 43 142 213
+cpen 141 0 0
+dlin 139 42 184 211
+wait 5
+cpen 142 0 255
+dlin 141 44 186 213
+wait 3
+cpen 255 255 255
+dlin 176 42 146 214
+cpen 141 0 0
+dlin 135 42 188 210
+wait 5
+cpen 142 0 255
+dlin 137 44 190 212
+wait 3
+cpen 255 255 255
+dlin 173 41 150 214
+cpen 141 0 0
+dlin 132 43 192 208
+wait 5
+cpen 142 0 255
+dlin 134 45 194 210
+wait 3
+cpen 255 255 255
+dlin 169 41 154 215
+cpen 141 0 0
+dlin 128 45 196 207
+wait 5
+cpen 142 0 255
+dlin 130 47 198 209
+wait 3
+cpen 255 255 255
+dlin 165 40 158 215
+cpen 142 0 0
+dlin 125 46 199 205
+wait 5
+cpen 143 0 255
+dlin 127 48 201 207
+wait 3
+cpen 255 255 255
+dlin 161 40 161 215
+cpen 142 0 0
+dlin 121 48 203 203
+wait 5
+cpen 143 0 255
+dlin 123 50 205 205
+wait 3
+cpen 255 255 255
+dlin 158 40 165 215
+cpen 142 0 0
+dlin 118 49 206 201
+wait 5
+cpen 143 0 255
+dlin 120 51 208 203
+wait 3
+cpen 255 255 255
+dlin 154 40 169 214
+cpen 142 0 0
+dlin 115 51 209 199
+wait 5
+cpen 143 0 255
+dlin 117 53 211 201
+wait 3
+cpen 255 255 255
+dlin 150 40 173 214
+cpen 142 0 0
+dlin 112 53 213 197
+wait 5
+cpen 143 0 255
+dlin 114 55 215 199
+wait 3
+cpen 255 255 255
+dlin 146 40 177 213
+cpen 142 0 0
+dlin 109 55 216 195
+wait 5
+cpen 143 0 255
+dlin 111 57 218 197
+wait 3
+cpen 255 255 255
+dlin 143 41 181 212
+cpen 143 0 0
+dlin 106 57 219 192
+wait 5
+cpen 144 0 255
+dlin 108 59 221 194
+wait 3
+cpen 255 255 255
+dlin 139 42 184 211
+cpen 143 0 0
+dlin 103 60 222 189
+wait 5
+cpen 144 0 255
+dlin 105 62 224 191
+wait 3
+cpen 255 255 255
+dlin 135 42 188 210
+cpen 143 0 0
+dlin 100 62 225 187
+wait 5
+cpen 144 0 255
+dlin 102 64 227 189
+wait 3
+cpen 255 255 255
+dlin 132 43 192 208
+cpen 143 0 0
+dlin 98 65 228 184
+wait 5
+cpen 144 0 255
+dlin 100 67 230 186
+wait 3
+cpen 255 255 255
+dlin 128 45 196 207
+cpen 143 0 0
+dlin 95 67 230 181
+wait 5
+cpen 144 0 255
+dlin 97 69 232 183
+wait 3
+cpen 255 255 255
+dlin 125 46 199 205
+cpen 143 0 0
+dlin 93 70 233 178
+wait 5
+cpen 144 0 255
+dlin 95 72 235 180
+wait 3
+cpen 255 255 255
+dlin 121 48 203 203
+cpen 144 0 0
+dlin 90 73 235 174
+wait 5
+cpen 145 0 255
+dlin 92 75 237 176
+wait 3
+cpen 255 255 255
+dlin 118 49 206 201
+cpen 144 0 0
+dlin 88 76 237 171
+wait 5
+cpen 145 0 255
+dlin 90 78 239 173
+wait 3
+cpen 255 255 255
+dlin 115 51 209 199
+cpen 144 0 0
+dlin 86 79 239 168
+wait 5
+cpen 145 0 255
+dlin 88 81 241 170
+wait 3
+cpen 255 255 255
+dlin 112 53 213 197
+cpen 144 0 0
+dlin 85 82 241 164
+wait 5
+cpen 145 0 255
+dlin 87 84 243 166
+wait 3
+cpen 255 255 255
+dlin 109 55 216 195
+cpen 144 0 0
+dlin 83 86 243 160
+wait 5
+cpen 145 0 255
+dlin 85 88 245 162
+wait 3
+cpen 255 255 255
+dlin 106 57 219 192
+cpen 145 0 0
+dlin 81 89 245 157
+wait 5
+cpen 146 0 255
+dlin 83 91 247 159
+wait 3
+cpen 255 255 255
+dlin 103 60 222 189
+cpen 145 0 0
+dlin 80 92 246 153
+wait 5
+cpen 146 0 255
+dlin 82 94 248 155
+wait 3
+cpen 255 255 255
+dlin 100 62 225 187
+cpen 145 0 0
+dlin 79 96 248 149
+wait 5
+cpen 146 0 255
+dlin 81 98 250 151
+wait 3
+cpen 255 255 255
+dlin 98 65 228 184
+cpen 145 0 0
+dlin 78 100 249 145
+wait 5
+cpen 146 0 255
+dlin 80 102 251 147
+wait 3
+cpen 255 255 255
+dlin 95 67 230 181
+cpen 145 0 0
+dlin 77 103 250 141
+wait 5
+cpen 146 0 255
+dlin 79 105 252 143
+wait 3
+cpen 255 255 255
+dlin 93 70 233 178
+cpen 145 0 0
+dlin 76 107 251 138
+wait 5
+cpen 146 0 255
+dlin 78 109 253 140
+wait 3
+cpen 255 255 255
+dlin 90 73 235 174
+cpen 146 0 0
+dlin 76 110 251 134
+wait 5
+cpen 147 0 255
+dlin 78 112 253 136
+wait 3
+cpen 255 255 255
+dlin 88 76 237 171
+cpen 146 0 0
+dlin 75 114 252 130
+wait 5
+cpen 147 0 255
+dlin 77 116 254 132
+wait 3
+cpen 255 255 255
+dlin 86 79 239 168
+cpen 146 0 0
+dlin 75 118 252 126
+wait 5
+cpen 147 0 255
+dlin 77 120 254 128
+wait 3
+cpen 255 255 255
+dlin 85 82 241 164
+cpen 146 0 0
+dlin 75 121 253 121
+wait 5
+cpen 147 0 255
+dlin 77 123 255 123
+wait 3
+cpen 255 255 255
+dlin 83 86 243 160
+cpen 146 0 0
+dlin 75 125 253 117
+wait 5
+cpen 147 0 255
+dlin 77 127 255 119
+wait 3
+cpen 255 255 255
+dlin 81 89 245 157
+cpen 146 0 0
+dlin 75 129 252 113
+wait 5
+cpen 147 0 255
+dlin 77 131 254 115
+wait 3
+cpen 255 255 255
+dlin 80 92 246 153
+cpen 147 0 0
+dlin 76 133 252 109
+wait 5
+cpen 148 0 255
+dlin 78 135 254 111
+wait 3
+cpen 255 255 255
+dlin 79 96 248 149
+cpen 147 0 0
+dlin 77 136 252 105
+wait 5
+cpen 148 0 255
+dlin 79 138 254 107
+wait 3
+cpen 255 255 255
+dlin 78 100 249 145
+cpen 147 0 0
+dlin 77 140 251 101
+wait 5
+cpen 148 0 255
+dlin 79 142 253 103
+wait 3
+cpen 255 255 255
+dlin 77 103 250 141
+cpen 147 0 0
+dlin 78 144 250 98
+wait 5
+cpen 148 0 255
+dlin 80 146 252 100
+wait 3
+cpen 255 255 255
+dlin 76 107 251 138
+cpen 147 0 0
+dlin 79 147 249 94
+wait 5
+cpen 148 0 255
+dlin 81 149 251 96
+wait 3
+cpen 255 255 255
+dlin 76 110 251 134
+cpen 148 0 0
+dlin 81 151 248 90
+wait 5
+cpen 149 0 255
+dlin 83 153 250 92
+wait 3
+cpen 255 255 255
+dlin 75 114 252 130
+cpen 148 0 0
+dlin 82 154 247 86
+wait 5
+cpen 149 0 255
+dlin 84 156 249 88
+wait 3
+cpen 255 255 255
+dlin 75 118 252 126
+cpen 148 0 0
+dlin 84 158 245 82
+wait 5
+cpen 149 0 255
+dlin 86 160 247 84
+wait 3
+cpen 255 255 255
+dlin 75 121 253 121
+cpen 148 0 0
+dlin 86 161 244 79
+wait 5
+cpen 149 0 255
+dlin 88 163 246 81
+wait 3
+cpen 255 255 255
+dlin 75 125 253 117
+cpen 148 0 0
+dlin 88 164 242 75
+wait 5
+cpen 149 0 255
+dlin 90 166 244 77
+wait 3
+cpen 255 255 255
+dlin 75 129 252 113
+cpen 148 0 0
+dlin 90 167 240 72
+wait 5
+cpen 149 0 255
+dlin 92 169 242 74
+wait 3
+cpen 255 255 255
+dlin 76 133 252 109
+cpen 149 0 0
+dlin 92 171 238 68
+wait 5
+cpen 150 0 255
+dlin 94 173 240 70
+wait 3
+cpen 255 255 255
+dlin 77 136 252 105
+cpen 149 0 0
+dlin 94 174 236 65
+wait 5
+cpen 150 0 255
+dlin 96 176 238 67
+wait 3
+cpen 255 255 255
+dlin 77 140 251 101
+cpen 149 0 0
+dlin 97 176 234 62
+wait 5
+cpen 150 0 255
+dlin 99 178 236 64
+wait 3
+cpen 255 255 255
+dlin 78 144 250 98
+cpen 149 0 0
+dlin 99 179 231 59
+wait 5
+cpen 150 0 255
+dlin 101 181 233 61
+wait 3
+cpen 255 255 255
+dlin 79 147 249 94
+cpen 149 0 0
+dlin 102 182 229 56
+wait 5
+cpen 150 0 255
+dlin 104 184 231 58
+wait 3
+cpen 255 255 255
+dlin 81 151 248 90
+cpen 149 0 0
+dlin 105 185 226 53
+wait 5
+cpen 150 0 255
+dlin 107 187 228 55
+wait 3
+cpen 255 255 255
+dlin 82 154 247 86
+cpen 150 0 0
+dlin 108 187 223 50
+wait 5
+cpen 151 0 255
+dlin 110 189 225 52
+wait 3
+cpen 255 255 255
+dlin 84 158 245 82
+cpen 150 0 0
+dlin 111 189 220 47
+wait 5
+cpen 151 0 255
+dlin 113 191 222 49
+wait 3
+cpen 255 255 255
+dlin 86 161 244 79
+cpen 150 0 0
+dlin 114 191 217 45
+wait 5
+cpen 151 0 255
+dlin 116 193 219 47
+wait 3
+cpen 255 255 255
+dlin 88 164 242 75
+cpen 150 0 0
+dlin 118 194 214 42
+wait 5
+cpen 151 0 255
+dlin 120 196 216 44
+wait 3
+cpen 255 255 255
+dlin 90 167 240 72
+cpen 150 0 0
+dlin 121 195 211 40
+wait 5
+cpen 151 0 255
+dlin 123 197 213 42
+wait 3
+cpen 255 255 255
+dlin 92 171 238 68
+cpen 151 0 0
+dlin 125 197 207 38
+wait 5
+cpen 152 0 255
+dlin 127 199 209 40
+wait 3
+cpen 255 255 255
+dlin 94 174 236 65
+cpen 151 0 0
+dlin 128 199 204 36
+wait 5
+cpen 152 0 255
+dlin 130 201 206 38
+wait 3
+cpen 255 255 255
+dlin 97 176 234 62
+cpen 151 0 0
+dlin 132 200 200 35
+wait 5
+cpen 152 0 255
+dlin 134 202 202 37
+wait 3
+cpen 255 255 255
+dlin 99 179 231 59
+cpen 151 0 0
+dlin 136 202 197 33
+wait 5
+cpen 152 0 255
+dlin 138 204 199 35
+wait 3
+cpen 255 255 255
+dlin 102 182 229 56
+cpen 151 0 0
+dlin 139 203 193 32
+wait 5
+cpen 152 0 255
+dlin 141 205 195 34
+wait 3
+cpen 255 255 255
+dlin 105 185 226 53
+cpen 151 0 0
+dlin 143 204 190 30
+wait 5
+cpen 152 0 255
+dlin 145 206 192 32
+wait 3
+cpen 255 255 255
+dlin 108 187 223 50
+cpen 152 0 0
+dlin 147 205 186 29
+wait 5
+cpen 153 0 255
+dlin 149 207 188 31
+wait 3
+cpen 255 255 255
+dlin 111 189 220 47
+cpen 152 0 0
+dlin 151 205 182 28
+wait 5
+cpen 153 0 255
+dlin 153 207 184 30
+wait 3
+cpen 255 255 255
+dlin 114 191 217 45
+cpen 152 0 0
+dlin 155 206 178 27
+wait 5
+cpen 153 0 255
+dlin 157 208 180 29
+wait 3
+cpen 255 255 255
+dlin 118 194 214 42
+cpen 152 0 0
+dlin 159 206 175 27
+wait 5
+cpen 153 0 255
+dlin 161 208 177 29
+wait 3
+cpen 255 255 255
+dlin 121 195 211 40
+cpen 152 0 0
+dlin 163 206 171 26
+wait 5
+cpen 153 0 255
+dlin 165 208 173 28
+wait 3
+cpen 255 255 255
+dlin 125 197 207 38
+cpen 152 0 0
+dlin 167 206 167 26
+wait 5
+cpen 154 0 255
+dlin 169 208 169 28
+wait 3
+cpen 255 255 255
+dlin 128 199 204 36
+cpen 255 255 255
+dlin 132 200 200 35
+cpen 255 255 255
+dlin 136 202 197 33
+cpen 255 255 255
+dlin 139 203 193 32
+cpen 255 255 255
+dlin 143 204 190 30
+cpen 255 255 255
+dlin 147 205 186 29
+cpen 255 255 255
+dlin 151 205 182 28
+cpen 255 255 255
+dlin 155 206 178 27
+cpen 255 255 255
+dlin 159 206 175 27
+cpen 255 255 255
+dlin 163 206 171 26
+cpen 255 255 255
+dlin 167 206 167 26
+FRAME
+cpen 153 0 0
+dlin 171 206 163 26
+wait 5
+cpen 154 0 255
+dlin 173 208 165 28
+wait 3
+cpen 153 0 0
+dlin 175 206 159 26
+wait 5
+cpen 154 0 255
+dlin 177 208 161 28
+wait 3
+cpen 153 0 0
+dlin 179 205 156 26
+wait 5
+cpen 154 0 255
+dlin 181 207 158 28
+wait 3
+cpen 153 0 0
+dlin 183 204 152 27
+wait 5
+cpen 154 0 255
+dlin 185 206 154 29
+wait 3
+cpen 153 0 0
+dlin 187 203 148 27
+wait 5
+cpen 154 0 255
+dlin 189 205 150 29
+wait 3
+cpen 154 0 0
+dlin 191 202 144 28
+wait 5
+cpen 155 0 255
+dlin 193 204 146 30
+wait 3
+cpen 154 0 0
+dlin 195 201 141 29
+wait 5
+cpen 155 0 255
+dlin 197 203 143 31
+wait 3
+cpen 154 0 0
+dlin 199 200 137 30
+wait 5
+cpen 155 0 255
+dlin 201 202 139 32
+wait 3
+cpen 154 0 0
+dlin 203 198 133 31
+wait 5
+cpen 155 0 255
+dlin 205 200 135 33
+wait 3
+cpen 154 0 0
+dlin 206 197 130 33
+wait 5
+cpen 155 0 255
+dlin 208 199 132 35
+wait 3
+cpen 154 0 0
+dlin 210 195 126 34
+wait 5
+cpen 155 0 255
+dlin 212 197 128 36
+wait 3
+cpen 255 255 255
+dlin 171 206 163 26
+cpen 155 0 0
+dlin 214 193 123 36
+wait 5
+cpen 156 0 255
+dlin 216 195 125 38
+wait 3
+cpen 255 255 255
+dlin 175 206 159 26
+cpen 155 0 0
+dlin 217 191 120 38
+wait 5
+cpen 156 0 255
+dlin 219 193 122 40
+wait 3
+cpen 255 255 255
+dlin 179 205 156 26
+cpen 155 0 0
+dlin 220 188 117 40
+wait 5
+cpen 156 0 255
+dlin 222 190 119 42
+wait 3
+cpen 255 255 255
+dlin 183 204 152 27
+cpen 155 0 0
+dlin 224 186 114 42
+wait 5
+cpen 156 0 255
+dlin 226 188 116 44
+wait 3
+cpen 255 255 255
+dlin 187 203 148 27
+cpen 155 0 0
+dlin 227 183 111 45
+wait 5
+cpen 156 0 255
+dlin 229 185 113 47
+wait 3
+cpen 255 255 255
+dlin 191 202 144 28
+cpen 156 0 0
+dlin 230 181 108 47
+wait 5
+cpen 157 0 255
+dlin 232 183 110 49
+wait 3
+cpen 255 255 255
+dlin 195 201 141 29
+cpen 156 0 0
+dlin 233 178 105 50
+wait 5
+cpen 157 0 255
+dlin 235 180 107 52
+wait 3
+cpen 255 255 255
+dlin 199 200 137 30
+cpen 156 0 0
+dlin 236 175 102 52
+wait 5
+cpen 157 0 255
+dlin 238 177 104 54
+wait 3
+cpen 255 255 255
+dlin 203 198 133 31
+cpen 156 0 0
+dlin 239 172 100 55
+wait 5
+cpen 157 0 255
+dlin 241 174 102 57
+wait 3
+cpen 255 255 255
+dlin 206 197 130 33
+cpen 156 0 0
+dlin 241 168 97 58
+wait 5
+cpen 157 0 255
+dlin 243 170 99 60
+wait 3
+cpen 255 255 255
+dlin 210 195 126 34
+cpen 156 0 0
+dlin 244 165 95 61
+wait 5
+cpen 157 0 255
+dlin 246 167 97 63
+wait 3
+cpen 255 255 255
+dlin 214 193 123 36
+cpen 157 0 0
+dlin 246 162 93 64
+wait 5
+cpen 158 0 255
+dlin 248 164 95 66
+wait 3
+cpen 255 255 255
+dlin 217 191 120 38
+cpen 157 0 0
+dlin 248 158 91 67
+wait 5
+cpen 158 0 255
+dlin 250 160 93 69
+wait 3
+cpen 255 255 255
+dlin 220 188 117 40
+cpen 157 0 0
+dlin 250 155 89 71
+wait 5
+cpen 158 0 255
+dlin 252 157 91 73
+wait 3
+cpen 255 255 255
+dlin 224 186 114 42
+cpen 157 0 0
+dlin 252 151 88 74
+wait 5
+cpen 158 0 255
+dlin 254 153 90 76
+wait 3
+cpen 255 255 255
+dlin 227 183 111 45
+cpen 157 0 0
+dlin 254 147 86 78
+wait 5
+cpen 158 0 255
+dlin 256 149 88 80
+wait 3
+cpen 255 255 255
+dlin 230 181 108 47
+cpen 157 0 0
+dlin 256 143 85 81
+wait 5
+cpen 158 0 255
+dlin 258 145 87 83
+wait 3
+cpen 255 255 255
+dlin 233 178 105 50
+cpen 158 0 0
+dlin 257 140 83 85
+wait 5
+cpen 159 0 255
+dlin 259 142 85 87
+wait 3
+cpen 255 255 255
+dlin 236 175 102 52
+cpen 158 0 0
+dlin 258 136 82 89
+wait 5
+cpen 159 0 255
+dlin 260 138 84 91
+wait 3
+cpen 255 255 255
+dlin 239 172 100 55
+cpen 158 0 0
+dlin 259 132 82 92
+wait 5
+cpen 159 0 255
+dlin 261 134 84 94
+wait 3
+cpen 255 255 255
+dlin 241 168 97 58
+cpen 158 0 0
+dlin 260 128 81 96
+wait 5
+cpen 159 0 255
+dlin 262 130 83 98
+wait 3
+cpen 255 255 255
+dlin 244 165 95 61
+cpen 158 0 0
+dlin 261 124 80 100
+wait 5
+cpen 159 0 255
+dlin 263 126 82 102
+wait 3
+cpen 255 255 255
+dlin 246 162 93 64
+cpen 159 0 0
+dlin 262 120 80 104
+wait 5
+cpen 160 0 255
+dlin 264 122 82 106
+wait 3
+cpen 255 255 255
+dlin 248 158 91 67
+cpen 159 0 0
+dlin 262 115 80 107
+wait 5
+cpen 160 0 255
+dlin 264 117 82 109
+wait 3
+cpen 255 255 255
+dlin 250 155 89 71
+cpen 159 0 0
+dlin 262 111 80 111
+wait 5
+cpen 160 0 255
+dlin 264 113 82 113
+wait 3
+cpen 255 255 255
+dlin 252 151 88 74
+cpen 159 0 0
+dlin 262 107 80 115
+wait 5
+cpen 160 0 255
+dlin 264 109 82 117
+wait 3
+cpen 255 255 255
+dlin 254 147 86 78
+cpen 159 0 0
+dlin 262 103 80 119
+wait 5
+cpen 160 0 255
+dlin 264 105 82 121
+wait 3
+cpen 255 255 255
+dlin 256 143 85 81
+cpen 159 0 0
+dlin 262 99 81 123
+wait 5
+cpen 160 0 255
+dlin 264 101 83 125
+wait 3
+cpen 255 255 255
+dlin 257 140 83 85
+cpen 160 0 0
+dlin 262 95 82 127
+wait 5
+cpen 161 0 255
+dlin 264 97 84 129
+wait 3
+cpen 255 255 255
+dlin 258 136 82 89
+cpen 160 0 0
+dlin 261 91 82 131
+wait 5
+cpen 161 0 255
+dlin 263 93 84 133
+wait 3
+cpen 255 255 255
+dlin 259 132 82 92
+cpen 160 0 0
+dlin 260 87 83 134
+wait 5
+cpen 161 0 255
+dlin 262 89 85 136
+wait 3
+cpen 255 255 255
+dlin 260 128 81 96
+cpen 160 0 0
+dlin 259 83 85 138
+wait 5
+cpen 161 0 255
+dlin 261 85 87 140
+wait 3
+cpen 255 255 255
+dlin 261 124 80 100
+cpen 160 0 0
+dlin 258 79 86 142
+wait 5
+cpen 161 0 255
+dlin 260 81 88 144
+wait 3
+cpen 255 255 255
+dlin 262 120 80 104
+cpen 160 0 0
+dlin 257 75 88 145
+wait 5
+cpen 161 0 255
+dlin 259 77 90 147
+wait 3
+cpen 255 255 255
+dlin 262 115 80 107
+cpen 161 0 0
+dlin 255 71 89 149
+wait 5
+cpen 162 0 255
+dlin 257 73 91 151
+wait 3
+cpen 255 255 255
+dlin 262 111 80 111
+cpen 161 0 0
+dlin 254 68 91 152
+wait 5
+cpen 162 0 255
+dlin 256 70 93 154
+wait 3
+cpen 255 255 255
+dlin 262 107 80 115
+cpen 161 0 0
+dlin 252 64 93 156
+wait 5
+cpen 162 0 255
+dlin 254 66 95 158
+wait 3
+cpen 255 255 255
+dlin 262 103 80 119
+cpen 161 0 0
+dlin 250 61 95 159
+wait 5
+cpen 162 0 255
+dlin 252 63 97 161
+wait 3
+cpen 255 255 255
+dlin 262 99 81 123
+cpen 161 0 0
+dlin 248 57 98 162
+wait 5
+cpen 162 0 255
+dlin 250 59 100 164
+wait 3
+cpen 255 255 255
+dlin 262 95 82 127
+cpen 162 0 0
+dlin 246 54 100 165
+wait 5
+cpen 163 0 255
+dlin 248 56 102 167
+wait 3
+cpen 255 255 255
+dlin 261 91 82 131
+cpen 162 0 0
+dlin 243 50 103 168
+wait 5
+cpen 163 0 255
+dlin 245 52 105 170
+wait 3
+cpen 255 255 255
+dlin 260 87 83 134
+cpen 162 0 0
+dlin 241 47 106 171
+wait 5
+cpen 163 0 255
+dlin 243 49 108 173
+wait 3
+cpen 255 255 255
+dlin 259 83 85 138
+cpen 162 0 0
+dlin 238 44 108 174
+wait 5
+cpen 163 0 255
+dlin 240 46 110 176
+wait 3
+cpen 255 255 255
+dlin 258 79 86 142
+cpen 162 0 0
+dlin 236 41 111 177
+wait 5
+cpen 163 0 255
+dlin 238 43 113 179
+wait 3
+cpen 255 255 255
+dlin 257 75 88 145
+cpen 162 0 0
+dlin 233 39 115 179
+wait 5
+cpen 163 0 255
+dlin 235 41 117 181
+wait 3
+cpen 255 255 255
+dlin 255 71 89 149
+cpen 163 0 0
+dlin 230 36 118 182
+wait 5
+cpen 164 0 255
+dlin 232 38 120 184
+wait 3
+cpen 255 255 255
+dlin 254 68 91 152
+cpen 163 0 0
+dlin 227 33 121 184
+wait 5
+cpen 164 0 255
+dlin 229 35 123 186
+wait 3
+cpen 255 255 255
+dlin 252 64 93 156
+cpen 163 0 0
+dlin 224 31 125 186
+wait 5
+cpen 164 0 255
+dlin 226 33 127 188
+wait 3
+cpen 255 255 255
+dlin 250 61 95 159
+cpen 163 0 0
+dlin 220 29 128 188
+wait 5
+cpen 164 0 255
+dlin 222 31 130 190
+wait 3
+cpen 255 255 255
+dlin 248 57 98 162
+cpen 163 0 0
+dlin 217 27 132 190
+wait 5
+cpen 164 0 255
+dlin 219 29 134 192
+wait 3
+cpen 255 255 255
+dlin 246 54 100 165
+cpen 163 0 0
+dlin 213 25 136 192
+wait 5
+cpen 164 0 255
+dlin 215 27 138 194
+wait 3
+cpen 255 255 255
+dlin 243 50 103 168
+cpen 164 0 0
+dlin 210 23 139 193
+wait 5
+cpen 165 0 255
+dlin 212 25 141 195
+wait 3
+cpen 255 255 255
+dlin 241 47 106 171
+cpen 164 0 0
+dlin 206 21 143 195
+wait 5
+cpen 165 0 255
+dlin 208 23 145 197
+wait 3
+cpen 255 255 255
+dlin 238 44 108 174
+cpen 164 0 0
+dlin 203 20 147 196
+wait 5
+cpen 165 0 255
+dlin 205 22 149 198
+wait 3
+cpen 255 255 255
+dlin 236 41 111 177
+cpen 164 0 0
+dlin 199 19 151 197
+wait 5
+cpen 165 0 255
+dlin 201 21 153 199
+wait 3
+cpen 255 255 255
+dlin 233 39 115 179
+cpen 164 0 0
+dlin 195 18 155 198
+wait 5
+cpen 165 0 255
+dlin 197 20 157 200
+wait 3
+cpen 255 255 255
+dlin 230 36 118 182
+cpen 165 0 0
+dlin 191 17 159 199
+wait 5
+cpen 166 0 255
+dlin 193 19 161 201
+wait 3
+cpen 255 255 255
+dlin 227 33 121 184
+cpen 165 0 0
+dlin 187 16 163 199
+wait 5
+cpen 166 0 255
+dlin 189 18 165 201
+wait 3
+cpen 255 255 255
+dlin 224 31 125 186
+cpen 165 0 0
+dlin 184 15 168 200
+wait 5
+cpen 166 0 255
+dlin 186 17 170 202
+wait 3
+cpen 255 255 255
+dlin 220 29 128 188
+cpen 165 0 0
+dlin 180 15 172 200
+wait 5
+cpen 166 0 255
+dlin 182 17 174 202
+wait 3
+cpen 255 255 255
+dlin 217 27 132 190
+cpen 165 0 0
+dlin 176 15 176 200
+wait 5
+cpen 166 0 255
+dlin 178 17 178 202
+wait 3
+cpen 255 255 255
+dlin 213 25 136 192
+cpen 165 0 0
+dlin 172 15 180 200
+wait 5
+cpen 166 0 255
+dlin 174 17 182 202
+wait 3
+cpen 255 255 255
+dlin 210 23 139 193
+cpen 166 0 0
+dlin 168 15 184 199
+wait 5
+cpen 167 0 255
+dlin 170 17 186 201
+wait 3
+cpen 255 255 255
+dlin 206 21 143 195
+cpen 166 0 0
+dlin 164 15 188 199
+wait 5
+cpen 167 0 255
+dlin 166 17 190 201
+wait 3
+cpen 255 255 255
+dlin 203 20 147 196
+cpen 166 0 0
+dlin 160 16 193 198
+wait 5
+cpen 167 0 255
+dlin 162 18 195 200
+wait 3
+cpen 255 255 255
+dlin 199 19 151 197
+cpen 166 0 0
+dlin 156 16 197 197
+wait 5
+cpen 167 0 255
+dlin 158 18 199 199
+wait 3
+cpen 255 255 255
+dlin 195 18 155 198
+cpen 166 0 0
+dlin 153 17 201 196
+wait 5
+cpen 167 0 255
+dlin 155 19 203 198
+wait 3
+cpen 255 255 255
+dlin 191 17 159 199
+cpen 166 0 0
+dlin 149 18 205 195
+wait 5
+cpen 167 0 255
+dlin 151 20 207 197
+wait 3
+cpen 255 255 255
+dlin 187 16 163 199
+cpen 167 0 0
+dlin 145 19 209 194
+wait 5
+cpen 168 0 255
+dlin 147 21 211 196
+wait 3
+cpen 255 255 255
+dlin 184 15 168 200
+cpen 167 0 0
+dlin 142 21 213 192
+wait 5
+cpen 168 0 255
+dlin 144 23 215 194
+wait 3
+cpen 255 255 255
+dlin 180 15 172 200
+cpen 167 0 0
+dlin 138 22 217 190
+wait 5
+cpen 168 0 255
+dlin 140 24 219 192
+wait 3
+cpen 255 255 255
+dlin 176 15 176 200
+cpen 167 0 0
+dlin 135 24 220 189
+wait 5
+cpen 168 0 255
+dlin 137 26 222 191
+wait 3
+cpen 255 255 255
+dlin 172 15 180 200
+cpen 167 0 0
+dlin 131 26 224 187
+wait 5
+cpen 168 0 255
+dlin 133 28 226 189
+wait 3
+cpen 255 255 255
+dlin 168 15 184 199
+cpen 168 0 0
+dlin 128 28 228 184
+wait 5
+cpen 169 0 255
+dlin 130 30 230 186
+wait 3
+cpen 255 255 255
+dlin 164 15 188 199
+cpen 168 0 0
+dlin 125 30 231 182
+wait 5
+cpen 169 0 255
+dlin 127 32 233 184
+wait 3
+cpen 255 255 255
+dlin 160 16 193 198
+cpen 168 0 0
+dlin 121 32 235 180
+wait 5
+cpen 169 0 255
+dlin 123 34 237 182
+wait 3
+cpen 255 255 255
+dlin 156 16 197 197
+cpen 168 0 0
+dlin 118 34 238 177
+wait 5
+cpen 169 0 255
+dlin 120 36 240 179
+wait 3
+cpen 255 255 255
+dlin 153 17 201 196
+cpen 168 0 0
+dlin 115 37 241 174
+wait 5
+cpen 169 0 255
+dlin 117 39 243 176
+wait 3
+cpen 255 255 255
+dlin 149 18 205 195
+cpen 168 0 0
+dlin 113 40 244 171
+wait 5
+cpen 169 0 255
+dlin 115 42 246 173
+wait 3
+cpen 255 255 255
+dlin 145 19 209 194
+cpen 169 0 0
+dlin 110 42 247 168
+wait 5
+cpen 170 0 255
+dlin 112 44 249 170
+wait 3
+cpen 255 255 255
+dlin 142 21 213 192
+cpen 169 0 0
+dlin 107 45 250 165
+wait 5
+cpen 170 0 255
+dlin 109 47 252 167
+wait 3
+cpen 255 255 255
+dlin 138 22 217 190
+cpen 169 0 0
+dlin 105 48 253 162
+wait 5
+cpen 170 0 255
+dlin 107 50 255 164
+wait 3
+cpen 255 255 255
+dlin 135 24 220 189
+cpen 169 0 0
+dlin 103 52 255 159
+wait 5
+cpen 170 0 255
+dlin 105 54 257 161
+wait 3
+cpen 255 255 255
+dlin 131 26 224 187
+cpen 169 0 0
+dlin 101 55 258 155
+wait 5
+cpen 170 0 255
+dlin 103 57 260 157
+wait 3
+cpen 255 255 255
+dlin 128 28 228 184
+cpen 170 0 0
+dlin 99 58 260 152
+wait 5
+cpen 171 0 255
+dlin 101 60 262 154
+wait 3
+cpen 255 255 255
+dlin 125 30 231 182
+cpen 170 0 0
+dlin 97 62 262 148
+wait 5
+cpen 171 0 255
+dlin 99 64 264 150
+wait 3
+cpen 255 255 255
+dlin 121 32 235 180
+cpen 170 0 0
+dlin 95 65 264 144
+wait 5
+cpen 171 0 255
+dlin 97 67 266 146
+wait 3
+cpen 255 255 255
+dlin 118 34 238 177
+cpen 170 0 0
+dlin 93 69 266 140
+wait 5
+cpen 171 0 255
+dlin 95 71 268 142
+wait 3
+cpen 255 255 255
+dlin 115 37 241 174
+cpen 170 0 0
+dlin 92 73 268 137
+wait 5
+cpen 171 0 255
+dlin 94 75 270 139
+wait 3
+cpen 255 255 255
+dlin 113 40 244 171
+cpen 170 0 0
+dlin 91 76 269 133
+wait 5
+cpen 171 0 255
+dlin 93 78 271 135
+wait 3
+cpen 255 255 255
+dlin 110 42 247 168
+cpen 171 0 0
+dlin 90 80 271 129
+wait 5
+cpen 172 0 255
+dlin 92 82 273 131
+wait 3
+cpen 255 255 255
+dlin 107 45 250 165
+cpen 171 0 0
+dlin 89 84 272 125
+wait 5
+cpen 172 0 255
+dlin 91 86 274 127
+wait 3
+cpen 255 255 255
+dlin 105 48 253 162
+cpen 171 0 0
+dlin 88 88 273 121
+wait 5
+cpen 172 0 255
+dlin 90 90 275 123
+wait 3
+cpen 255 255 255
+dlin 103 52 255 159
+cpen 171 0 0
+dlin 88 92 274 116
+wait 5
+cpen 172 0 255
+dlin 90 94 276 118
+wait 3
+cpen 255 255 255
+dlin 101 55 258 155
+cpen 171 0 0
+dlin 88 96 274 112
+wait 5
+cpen 172 0 255
+dlin 90 98 276 114
+wait 3
+cpen 255 255 255
+dlin 99 58 260 152
+cpen 171 0 0
+dlin 87 100 275 108
+wait 5
+cpen 172 0 255
+dlin 89 102 277 110
+wait 3
+cpen 255 255 255
+dlin 97 62 262 148
+cpen 172 0 0
+dlin 87 104 275 104
+wait 5
+cpen 173 0 255
+dlin 89 106 277 106
+wait 3
+cpen 255 255 255
+dlin 95 65 264 144
+cpen 172 0 0
+dlin 88 108 275 100
+wait 5
+cpen 173 0 255
+dlin 90 110 277 102
+wait 3
+cpen 255 255 255
+dlin 93 69 266 140
+cpen 172 0 0
+dlin 88 112 275 96
+wait 5
+cpen 173 0 255
+dlin 90 114 277 98
+wait 3
+cpen 255 255 255
+dlin 92 73 268 137
+cpen 172 0 0
+dlin 89 116 275 91
+wait 5
+cpen 173 0 255
+dlin 91 118 277 93
+wait 3
+cpen 255 255 255
+dlin 91 76 269 133
+cpen 172 0 0
+dlin 89 120 274 87
+wait 5
+cpen 173 0 255
+dlin 91 122 276 89
+wait 3
+cpen 255 255 255
+dlin 90 80 271 129
+cpen 173 0 0
+dlin 90 124 274 83
+wait 5
+cpen 174 0 255
+dlin 92 126 276 85
+wait 3
+cpen 255 255 255
+dlin 89 84 272 125
+cpen 173 0 0
+dlin 91 128 273 79
+wait 5
+cpen 174 0 255
+dlin 93 130 275 81
+wait 3
+cpen 255 255 255
+dlin 88 88 273 121
+cpen 173 0 0
+dlin 93 132 272 75
+wait 5
+cpen 174 0 255
+dlin 95 134 274 77
+wait 3
+cpen 255 255 255
+dlin 88 92 274 116
+cpen 173 0 0
+dlin 94 135 271 71
+wait 5
+cpen 174 0 255
+dlin 96 137 273 73
+wait 3
+cpen 255 255 255
+dlin 88 96 274 112
+cpen 173 0 0
+dlin 96 139 269 67
+wait 5
+cpen 174 0 255
+dlin 98 141 271 69
+wait 3
+cpen 255 255 255
+dlin 87 100 275 108
+cpen 173 0 0
+dlin 97 143 268 63
+wait 5
+cpen 174 0 255
+dlin 99 145 270 65
+wait 3
+cpen 255 255 255
+dlin 87 104 275 104
+cpen 174 0 0
+dlin 99 147 266 60
+wait 5
+cpen 175 0 255
+dlin 101 149 268 62
+wait 3
+cpen 255 255 255
+dlin 88 108 275 100
+cpen 174 0 0
+dlin 102 150 265 56
+wait 5
+cpen 175 0 255
+dlin 104 152 267 58
+wait 3
+cpen 255 255 255
+dlin 88 112 275 96
+cpen 174 0 0
+dlin 104 154 263 52
+wait 5
+cpen 175 0 255
+dlin 106 156 265 54
+wait 3
+cpen 255 255 255
+dlin 89 116 275 91
+cpen 174 0 0
+dlin 106 157 261 49
+wait 5
+cpen 175 0 255
+dlin 108 159 263 51
+wait 3
+cpen 255 255 255
+dlin 89 120 274 87
+cpen 174 0 0
+dlin 109 160 258 45
+wait 5
+cpen 175 0 255
+dlin 111 162 260 47
+wait 3
+cpen 255 255 255
+dlin 90 124 274 83
+cpen 174 0 0
+dlin 111 163 256 42
+wait 5
+cpen 175 0 255
+dlin 113 165 258 44
+wait 3
+cpen 255 255 255
+dlin 91 128 273 79
+cpen 175 0 0
+dlin 114 166 253 39
+wait 5
+cpen 176 0 255
+dlin 116 168 255 41
+wait 3
+cpen 255 255 255
+dlin 93 132 272 75
+cpen 175 0 0
+dlin 117 169 251 36
+wait 5
+cpen 176 0 255
+dlin 119 171 253 38
+wait 3
+cpen 255 255 255
+dlin 94 135 271 71
+cpen 175 0 0
+dlin 120 172 248 33
+wait 5
+cpen 176 0 255
+dlin 122 174 250 35
+wait 3
+cpen 255 255 255
+dlin 96 139 269 67
+cpen 175 0 0
+dlin 124 175 245 30
+wait 5
+cpen 176 0 255
+dlin 126 177 247 32
+wait 3
+cpen 255 255 255
+dlin 97 143 268 63
+cpen 175 0 0
+dlin 127 177 242 27
+wait 5
+cpen 176 0 255
+dlin 129 179 244 29
+wait 3
+cpen 255 255 255
+dlin 99 147 266 60
+cpen 176 0 0
+dlin 130 180 239 25
+wait 5
+cpen 177 0 255
+dlin 132 182 241 27
+wait 3
+cpen 255 255 255
+dlin 102 150 265 56
+cpen 176 0 0
+dlin 134 182 236 23
+wait 5
+cpen 177 0 255
+dlin 136 184 238 25
+wait 3
+cpen 255 255 255
+dlin 104 154 263 52
+cpen 176 0 0
+dlin 138 184 232 20
+wait 5
+cpen 177 0 255
+dlin 140 186 234 22
+wait 3
+cpen 255 255 255
+dlin 106 157 261 49
+cpen 176 0 0
+dlin 141 186 229 18
+wait 5
+cpen 177 0 255
+dlin 143 188 231 20
+wait 3
+cpen 255 255 255
+dlin 109 160 258 45
+cpen 176 0 0
+dlin 145 188 225 16
+wait 5
+cpen 177 0 255
+dlin 147 190 227 18
+wait 3
+cpen 255 255 255
+dlin 111 163 256 42
+cpen 176 0 0
+dlin 149 190 222 15
+wait 5
+cpen 177 0 255
+dlin 151 192 224 17
+wait 3
+cpen 255 255 255
+dlin 114 166 253 39
+cpen 177 0 0
+dlin 153 191 218 13
+wait 5
+cpen 178 0 255
+dlin 155 193 220 15
+wait 3
+cpen 255 255 255
+dlin 117 169 251 36
+cpen 177 0 0
+dlin 157 192 214 12
+wait 5
+cpen 178 0 255
+dlin 159 194 216 14
+wait 3
+cpen 255 255 255
+dlin 120 172 248 33
+cpen 177 0 0
+dlin 161 193 211 10
+wait 5
+cpen 178 0 255
+dlin 163 195 213 12
+wait 3
+cpen 255 255 255
+dlin 124 175 245 30
+cpen 177 0 0
+dlin 166 194 207 9
+wait 5
+cpen 178 0 255
+dlin 168 196 209 11
+wait 3
+cpen 255 255 255
+dlin 127 177 242 27
+cpen 177 0 0
+dlin 170 195 203 8
+wait 5
+cpen 178 0 255
+dlin 172 197 205 10
+wait 3
+cpen 255 255 255
+dlin 130 180 239 25
+cpen 177 0 0
+dlin 174 196 199 8
+wait 5
+cpen 178 0 255
+dlin 176 198 201 10
+wait 3
+cpen 255 255 255
+dlin 134 182 236 23
+cpen 178 0 0
+dlin 178 196 195 7
+wait 5
+cpen 179 0 255
+dlin 180 198 197 9
+wait 3
+cpen 255 255 255
+dlin 138 184 232 20
+cpen 178 0 0
+dlin 183 196 191 7
+wait 5
+cpen 179 0 255
+dlin 185 198 193 9
+wait 3
+cpen 255 255 255
+dlin 141 186 229 18
+cpen 178 0 0
+dlin 187 197 187 7
+wait 5
+cpen 179 0 255
+dlin 189 199 189 9
+wait 3
+cpen 255 255 255
+dlin 145 188 225 16
+cpen 255 255 255
+dlin 149 190 222 15
+cpen 255 255 255
+dlin 153 191 218 13
+cpen 255 255 255
+dlin 157 192 214 12
+cpen 255 255 255
+dlin 161 193 211 10
+cpen 255 255 255
+dlin 166 194 207 9
+cpen 255 255 255
+dlin 170 195 203 8
+cpen 255 255 255
+dlin 174 196 199 8
+cpen 255 255 255
+dlin 178 196 195 7
+cpen 255 255 255
+dlin 183 196 191 7
+cpen 255 255 255
+dlin 187 197 187 7
+FRAME
+cpen 178 0 0
+dlin 191 196 183 7
+wait 5
+cpen 179 0 255
+dlin 193 198 185 9
+wait 3
+cpen 178 0 0
+dlin 196 196 179 7
+wait 5
+cpen 179 0 255
+dlin 198 198 181 9
+wait 3
+cpen 179 0 0
+dlin 200 196 175 7
+wait 5
+cpen 180 0 255
+dlin 202 198 177 9
+wait 3
+cpen 179 0 0
+dlin 204 195 171 8
+wait 5
+cpen 180 0 255
+dlin 206 197 173 10
+wait 3
+cpen 179 0 0
+dlin 208 194 167 8
+wait 5
+cpen 180 0 255
+dlin 210 196 169 10
+wait 3
+cpen 179 0 0
+dlin 213 193 163 9
+wait 5
+cpen 180 0 255
+dlin 215 195 165 11
+wait 3
+cpen 179 0 0
+dlin 217 192 159 10
+wait 5
+cpen 180 0 255
+dlin 219 194 161 12
+wait 3
+cpen 179 0 0
+dlin 221 191 156 12
+wait 5
+cpen 180 0 255
+dlin 223 193 158 14
+wait 3
+cpen 180 0 0
+dlin 225 189 152 13
+wait 5
+cpen 181 0 255
+dlin 227 191 154 15
+wait 3
+cpen 180 0 0
+dlin 229 187 148 15
+wait 5
+cpen 181 0 255
+dlin 231 189 150 17
+wait 3
+cpen 180 0 0
+dlin 233 186 145 16
+wait 5
+cpen 181 0 255
+dlin 235 188 147 18
+wait 3
+cpen 255 255 255
+dlin 191 196 183 7
+cpen 180 0 0
+dlin 237 184 141 18
+wait 5
+cpen 181 0 255
+dlin 239 186 143 20
+wait 3
+cpen 255 255 255
+dlin 196 196 179 7
+cpen 180 0 0
+dlin 240 181 138 20
+wait 5
+cpen 181 0 255
+dlin 242 183 140 22
+wait 3
+cpen 255 255 255
+dlin 200 196 175 7
+cpen 180 0 0
+dlin 244 179 135 23
+wait 5
+cpen 181 0 255
+dlin 246 181 137 25
+wait 3
+cpen 255 255 255
+dlin 204 195 171 8
+cpen 181 0 0
+dlin 248 177 131 25
+wait 5
+cpen 182 0 255
+dlin 250 179 133 27
+wait 3
+cpen 255 255 255
+dlin 208 194 167 8
+cpen 181 0 0
+dlin 251 174 128 28
+wait 5
+cpen 182 0 255
+dlin 253 176 130 30
+wait 3
+cpen 255 255 255
+dlin 213 193 163 9
+cpen 181 0 0
+dlin 254 171 125 30
+wait 5
+cpen 182 0 255
+dlin 256 173 127 32
+wait 3
+cpen 255 255 255
+dlin 217 192 159 10
+cpen 181 0 0
+dlin 258 168 122 33
+wait 5
+cpen 182 0 255
+dlin 260 170 124 35
+wait 3
+cpen 255 255 255
+dlin 221 191 156 12
+cpen 181 0 0
+dlin 261 165 120 36
+wait 5
+cpen 182 0 255
+dlin 263 167 122 38
+wait 3
+cpen 255 255 255
+dlin 225 189 152 13
+cpen 182 0 0
+dlin 264 162 117 39
+wait 5
+cpen 183 0 255
+dlin 266 164 119 41
+wait 3
+cpen 255 255 255
+dlin 229 187 148 15
+cpen 182 0 0
+dlin 266 159 115 42
+wait 5
+cpen 183 0 255
+dlin 268 161 117 44
+wait 3
+cpen 255 255 255
+dlin 233 186 145 16
+cpen 182 0 0
+dlin 269 155 112 46
+wait 5
+cpen 183 0 255
+dlin 271 157 114 48
+wait 3
+cpen 255 255 255
+dlin 237 184 141 18
+cpen 182 0 0
+dlin 272 152 110 49
+wait 5
+cpen 183 0 255
+dlin 274 154 112 51
+wait 3
+cpen 255 255 255
+dlin 240 181 138 20
+cpen 182 0 0
+dlin 274 148 108 52
+wait 5
+cpen 183 0 255
+dlin 276 150 110 54
+wait 3
+cpen 255 255 255
+dlin 244 179 135 23
+cpen 182 0 0
+dlin 276 145 106 56
+wait 5
+cpen 183 0 255
+dlin 278 147 108 58
+wait 3
+cpen 255 255 255
+dlin 248 177 131 25
+cpen 183 0 0
+dlin 278 141 104 60
+wait 5
+cpen 184 0 255
+dlin 280 143 106 62
+wait 3
+cpen 255 255 255
+dlin 251 174 128 28
+cpen 183 0 0
+dlin 280 137 103 64
+wait 5
+cpen 184 0 255
+dlin 282 139 105 66
+wait 3
+cpen 255 255 255
+dlin 254 171 125 30
+cpen 183 0 0
+dlin 282 133 102 67
+wait 5
+cpen 184 0 255
+dlin 284 135 104 69
+wait 3
+cpen 255 255 255
+dlin 258 168 122 33
+cpen 183 0 0
+dlin 283 129 100 71
+wait 5
+cpen 184 0 255
+dlin 285 131 102 73
+wait 3
+cpen 255 255 255
+dlin 261 165 120 36
+cpen 183 0 0
+dlin 285 125 99 75
+wait 5
+cpen 184 0 255
+dlin 287 127 101 77
+wait 3
+cpen 255 255 255
+dlin 264 162 117 39
+cpen 183 0 0
+dlin 286 121 98 79
+wait 5
+cpen 184 0 255
+dlin 288 123 100 81
+wait 3
+cpen 255 255 255
+dlin 266 159 115 42
+cpen 184 0 0
+dlin 287 117 98 83
+wait 5
+cpen 185 0 255
+dlin 289 119 100 85
+wait 3
+cpen 255 255 255
+dlin 269 155 112 46
+cpen 184 0 0
+dlin 288 113 97 88
+wait 5
+cpen 185 0 255
+dlin 290 115 99 90
+wait 3
+cpen 255 255 255
+dlin 272 152 110 49
+cpen 184 0 0
+dlin 289 108 97 92
+wait 5
+cpen 185 0 255
+dlin 291 110 99 94
+wait 3
+cpen 255 255 255
+dlin 274 148 108 52
+cpen 184 0 0
+dlin 289 104 97 96
+wait 5
+cpen 185 0 255
+dlin 291 106 99 98
+wait 3
+cpen 255 255 255
+dlin 276 145 106 56
+cpen 184 0 0
+dlin 289 100 97 100
+wait 5
+cpen 185 0 255
+dlin 291 102 99 102
+wait 3
+cpen 255 255 255
+dlin 278 141 104 60
+cpen 185 0 0
+dlin 289 96 97 104
+wait 5
+cpen 186 0 255
+dlin 291 98 99 106
+wait 3
+cpen 255 255 255
+dlin 280 137 103 64
+cpen 185 0 0
+dlin 289 92 97 108
+wait 5
+cpen 186 0 255
+dlin 291 94 99 110
+wait 3
+cpen 255 255 255
+dlin 282 133 102 67
+cpen 185 0 0
+dlin 289 87 98 113
+wait 5
+cpen 186 0 255
+dlin 291 89 100 115
+wait 3
+cpen 255 255 255
+dlin 283 129 100 71
+cpen 185 0 0
+dlin 289 83 99 117
+wait 5
+cpen 186 0 255
+dlin 291 85 101 119
+wait 3
+cpen 255 255 255
+dlin 285 125 99 75
+cpen 185 0 0
+dlin 288 79 100 121
+wait 5
+cpen 186 0 255
+dlin 290 81 102 123
+wait 3
+cpen 255 255 255
+dlin 286 121 98 79
+cpen 185 0 0
+dlin 287 75 101 125
+wait 5
+cpen 186 0 255
+dlin 289 77 103 127
+wait 3
+cpen 255 255 255
+dlin 287 117 98 83
+cpen 186 0 0
+dlin 286 71 102 129
+wait 5
+cpen 187 0 255
+dlin 288 73 104 131
+wait 3
+cpen 255 255 255
+dlin 288 113 97 88
+cpen 186 0 0
+dlin 285 67 104 133
+wait 5
+cpen 187 0 255
+dlin 287 69 106 135
+wait 3
+cpen 255 255 255
+dlin 289 108 97 92
+cpen 186 0 0
+dlin 284 63 105 137
+wait 5
+cpen 187 0 255
+dlin 286 65 107 139
+wait 3
+cpen 255 255 255
+dlin 289 104 97 96
+cpen 186 0 0
+dlin 282 59 107 141
+wait 5
+cpen 187 0 255
+dlin 284 61 109 143
+wait 3
+cpen 255 255 255
+dlin 289 100 97 100
+cpen 186 0 0
+dlin 281 55 109 144
+wait 5
+cpen 187 0 255
+dlin 283 57 111 146
+wait 3
+cpen 255 255 255
+dlin 289 96 97 104
+cpen 187 0 0
+dlin 279 51 111 148
+wait 5
+cpen 188 0 255
+dlin 281 53 113 150
+wait 3
+cpen 255 255 255
+dlin 289 92 97 108
+cpen 187 0 0
+dlin 277 48 114 152
+wait 5
+cpen 188 0 255
+dlin 279 50 116 154
+wait 3
+cpen 255 255 255
+dlin 289 87 98 113
+cpen 187 0 0
+dlin 275 44 116 155
+wait 5
+cpen 188 0 255
+dlin 277 46 118 157
+wait 3
+cpen 255 255 255
+dlin 289 83 99 117
+cpen 187 0 0
+dlin 272 41 119 159
+wait 5
+cpen 188 0 255
+dlin 274 43 121 161
+wait 3
+cpen 255 255 255
+dlin 288 79 100 121
+cpen 187 0 0
+dlin 270 37 122 162
+wait 5
+cpen 188 0 255
+dlin 272 39 124 164
+wait 3
+cpen 255 255 255
+dlin 287 75 101 125
+cpen 187 0 0
+dlin 267 34 125 165
+wait 5
+cpen 188 0 255
+dlin 269 36 127 167
+wait 3
+cpen 255 255 255
+dlin 286 71 102 129
+cpen 188 0 0
+dlin 265 31 128 168
+wait 5
+cpen 189 0 255
+dlin 267 33 130 170
+wait 3
+cpen 255 255 255
+dlin 285 67 104 133
+cpen 188 0 0
+dlin 262 28 131 171
+wait 5
+cpen 189 0 255
+dlin 264 30 133 173
+wait 3
+cpen 255 255 255
+dlin 284 63 105 137
+cpen 188 0 0
+dlin 259 25 134 174
+wait 5
+cpen 189 0 255
+dlin 261 27 136 176
+wait 3
+cpen 255 255 255
+dlin 282 59 107 141
+cpen 188 0 0
+dlin 256 23 138 177
+wait 5
+cpen 189 0 255
+dlin 258 25 140 179
+wait 3
+cpen 255 255 255
+dlin 281 55 109 144
+cpen 188 0 0
+dlin 253 20 141 179
+wait 5
+cpen 189 0 255
+dlin 255 22 143 181
+wait 3
+cpen 255 255 255
+dlin 279 51 111 148
+cpen 188 0 0
+dlin 249 18 145 181
+wait 5
+cpen 189 0 255
+dlin 251 20 147 183
+wait 3
+cpen 255 255 255
+dlin 277 48 114 152
+cpen 189 0 0
+dlin 246 15 149 184
+wait 5
+cpen 190 0 255
+dlin 248 17 151 186
+wait 3
+cpen 255 255 255
+dlin 275 44 116 155
+cpen 189 0 0
+dlin 242 13 153 186
+wait 5
+cpen 190 0 255
+dlin 244 15 155 188
+wait 3
+cpen 255 255 255
+dlin 272 41 119 159
+cpen 189 0 0
+dlin 239 11 157 188
+wait 5
+cpen 190 0 255
+dlin 241 13 159 190
+wait 3
+cpen 255 255 255
+dlin 270 37 122 162
+cpen 189 0 0
+dlin 235 10 161 189
+wait 5
+cpen 190 0 255
+dlin 237 12 163 191
+wait 3
+cpen 255 255 255
+dlin 267 34 125 165
+cpen 189 0 0
+dlin 231 8 165 191
+wait 5
+cpen 190 0 255
+dlin 233 10 167 193
+wait 3
+cpen 255 255 255
+dlin 265 31 128 168
+cpen 190 0 0
+dlin 227 7 169 192
+wait 5
+cpen 191 0 255
+dlin 229 9 171 194
+wait 3
+cpen 255 255 255
+dlin 262 28 131 171
+cpen 190 0 0
+dlin 223 6 173 193
+wait 5
+cpen 191 0 255
+dlin 225 8 175 195
+wait 3
+cpen 255 255 255
+dlin 259 25 134 174
+cpen 190 0 0
+dlin 220 4 177 195
+wait 5
+cpen 191 0 255
+dlin 222 6 179 197
+wait 3
+cpen 255 255 255
+dlin 256 23 138 177
+cpen 190 0 0
+dlin 216 4 182 195
+wait 5
+cpen 191 0 255
+dlin 218 6 184 197
+wait 3
+cpen 255 255 255
+dlin 253 20 141 179
+cpen 190 0 0
+dlin 212 3 186 196
+wait 5
+cpen 191 0 255
+dlin 214 5 188 198
+wait 3
+cpen 255 255 255
+dlin 249 18 145 181
+cpen 190 0 0
+dlin 207 2 190 197
+wait 5
+cpen 191 0 255
+dlin 209 4 192 199
+wait 3
+cpen 255 255 255
+dlin 246 15 149 184
+cpen 191 0 0
+dlin 203 2 195 197
+wait 5
+cpen 192 0 255
+dlin 205 4 197 199
+wait 3
+cpen 255 255 255
+dlin 242 13 153 186
+cpen 191 0 0
+dlin 199 2 199 197
+wait 5
+cpen 192 0 255
+dlin 201 4 201 199
+wait 3
+cpen 255 255 255
+dlin 239 11 157 188
+cpen 191 0 0
+dlin 195 2 204 197
+wait 5
+cpen 192 0 255
+dlin 197 4 206 199
+wait 3
+cpen 255 255 255
+dlin 235 10 161 189
+cpen 191 0 0
+dlin 191 2 208 197
+wait 5
+cpen 192 0 255
+dlin 193 4 210 199
+wait 3
+cpen 255 255 255
+dlin 231 8 165 191
+cpen 191 0 0
+dlin 187 3 213 196
+wait 5
+cpen 192 0 255
+dlin 189 5 215 198
+wait 3
+cpen 255 255 255
+dlin 227 7 169 192
+cpen 191 0 0
+dlin 183 3 217 196
+wait 5
+cpen 192 0 255
+dlin 185 5 219 198
+wait 3
+cpen 255 255 255
+dlin 223 6 173 193
+cpen 192 0 0
+dlin 179 4 221 195
+wait 5
+cpen 193 0 255
+dlin 181 6 223 197
+wait 3
+cpen 255 255 255
+dlin 220 4 177 195
+cpen 192 0 0
+dlin 175 5 226 194
+wait 5
+cpen 193 0 255
+dlin 177 7 228 196
+wait 3
+cpen 255 255 255
+dlin 216 4 182 195
+cpen 192 0 0
+dlin 171 6 230 193
+wait 5
+cpen 193 0 255
+dlin 173 8 232 195
+wait 3
+cpen 255 255 255
+dlin 212 3 186 196
+cpen 192 0 0
+dlin 167 8 234 191
+wait 5
+cpen 193 0 255
+dlin 169 10 236 193
+wait 3
+cpen 255 255 255
+dlin 207 2 190 197
+cpen 192 0 0
+dlin 163 9 238 190
+wait 5
+cpen 193 0 255
+dlin 165 11 240 192
+wait 3
+cpen 255 255 255
+dlin 203 2 195 197
+cpen 193 0 0
+dlin 160 11 242 188
+wait 5
+cpen 194 0 255
+dlin 162 13 244 190
+wait 3
+cpen 255 255 255
+dlin 199 2 199 197
+cpen 193 0 0
+dlin 156 13 246 186
+wait 5
+cpen 194 0 255
+dlin 158 15 248 188
+wait 3
+cpen 255 255 255
+dlin 195 2 204 197
+cpen 193 0 0
+dlin 152 15 250 184
+wait 5
+cpen 194 0 255
+dlin 154 17 252 186
+wait 3
+cpen 255 255 255
+dlin 191 2 208 197
+cpen 193 0 0
+dlin 149 17 254 182
+wait 5
+cpen 194 0 255
+dlin 151 19 256 184
+wait 3
+cpen 255 255 255
+dlin 187 3 213 196
+cpen 193 0 0
+dlin 146 19 258 180
+wait 5
+cpen 194 0 255
+dlin 148 21 260 182
+wait 3
+cpen 255 255 255
+dlin 183 3 217 196
+cpen 193 0 0
+dlin 142 22 262 177
+wait 5
+cpen 194 0 255
+dlin 144 24 264 179
+wait 3
+cpen 255 255 255
+dlin 179 4 221 195
+cpen 194 0 0
+dlin 139 24 265 175
+wait 5
+cpen 195 0 255
+dlin 141 26 267 177
+wait 3
+cpen 255 255 255
+dlin 175 5 226 194
+cpen 194 0 0
+dlin 136 27 269 172
+wait 5
+cpen 195 0 255
+dlin 138 29 271 174
+wait 3
+cpen 255 255 255
+dlin 171 6 230 193
+cpen 194 0 0
+dlin 133 30 272 169
+wait 5
+cpen 195 0 255
+dlin 135 32 274 171
+wait 3
+cpen 255 255 255
+dlin 167 8 234 191
+cpen 194 0 0
+dlin 130 33 275 166
+wait 5
+cpen 195 0 255
+dlin 132 35 277 168
+wait 3
+cpen 255 255 255
+dlin 163 9 238 190
+cpen 194 0 0
+dlin 128 37 278 163
+wait 5
+cpen 195 0 255
+dlin 130 39 280 165
+wait 3
+cpen 255 255 255
+dlin 160 11 242 188
+cpen 194 0 0
+dlin 125 40 281 159
+wait 5
+cpen 195 0 255
+dlin 127 42 283 161
+wait 3
+cpen 255 255 255
+dlin 156 13 246 186
+cpen 195 0 0
+dlin 123 43 284 156
+wait 5
+cpen 196 0 255
+dlin 125 45 286 158
+wait 3
+cpen 255 255 255
+dlin 152 15 250 184
+cpen 195 0 0
+dlin 120 47 286 152
+wait 5
+cpen 196 0 255
+dlin 122 49 288 154
+wait 3
+cpen 255 255 255
+dlin 149 17 254 182
+cpen 195 0 0
+dlin 118 51 289 149
+wait 5
+cpen 196 0 255
+dlin 120 53 291 151
+wait 3
+cpen 255 255 255
+dlin 146 19 258 180
+cpen 195 0 0
+dlin 116 54 291 145
+wait 5
+cpen 196 0 255
+dlin 118 56 293 147
+wait 3
+cpen 255 255 255
+dlin 142 22 262 177
+cpen 195 0 0
+dlin 115 58 293 141
+wait 5
+cpen 196 0 255
+dlin 117 60 295 143
+wait 3
+cpen 255 255 255
+dlin 139 24 265 175
+cpen 196 0 0
+dlin 113 62 295 137
+wait 5
+cpen 197 0 255
+dlin 115 64 297 139
+wait 3
+cpen 255 255 255
+dlin 136 27 269 172
+cpen 196 0 0
+dlin 112 66 297 133
+wait 5
+cpen 197 0 255
+dlin 114 68 299 135
+wait 3
+cpen 255 255 255
+dlin 133 30 272 169
+cpen 196 0 0
+dlin 110 70 298 129
+wait 5
+cpen 197 0 255
+dlin 112 72 300 131
+wait 3
+cpen 255 255 255
+dlin 130 33 275 166
+cpen 196 0 0
+dlin 109 74 300 125
+wait 5
+cpen 197 0 255
+dlin 111 76 302 127
+wait 3
+cpen 255 255 255
+dlin 128 37 278 163
+cpen 196 0 0
+dlin 108 79 301 121
+wait 5
+cpen 197 0 255
+dlin 110 81 303 123
+wait 3
+cpen 255 255 255
+dlin 125 40 281 159
+cpen 196 0 0
+dlin 108 83 302 117
+wait 5
+cpen 197 0 255
+dlin 110 85 304 119
+wait 3
+cpen 255 255 255
+dlin 123 43 284 156
+cpen 197 0 0
+dlin 107 87 303 113
+wait 5
+cpen 198 0 255
+dlin 109 89 305 115
+wait 3
+cpen 255 255 255
+dlin 120 47 286 152
+cpen 197 0 0
+dlin 107 91 304 109
+wait 5
+cpen 198 0 255
+dlin 109 93 306 111
+wait 3
+cpen 255 255 255
+dlin 118 51 289 149
+cpen 197 0 0
+dlin 107 96 304 104
+wait 5
+cpen 198 0 255
+dlin 109 98 306 106
+wait 3
+cpen 255 255 255
+dlin 116 54 291 145
+cpen 197 0 0
+dlin 107 100 304 100
+wait 5
+cpen 198 0 255
+dlin 109 102 306 102
+wait 3
+cpen 255 255 255
+dlin 115 58 293 141
+cpen 197 0 0
+dlin 107 104 304 96
+wait 5
+cpen 198 0 255
+dlin 109 106 306 98
+wait 3
+cpen 255 255 255
+dlin 113 62 295 137
+cpen 197 0 0
+dlin 107 109 304 91
+wait 5
+cpen 198 0 255
+dlin 109 111 306 93
+wait 3
+cpen 255 255 255
+dlin 112 66 297 133
+cpen 198 0 0
+dlin 108 113 304 87
+wait 5
+cpen 199 0 255
+dlin 110 115 306 89
+wait 3
+cpen 255 255 255
+dlin 110 70 298 129
+cpen 198 0 0
+dlin 109 117 304 83
+wait 5
+cpen 199 0 255
+dlin 111 119 306 85
+wait 3
+cpen 255 255 255
+dlin 109 74 300 125
+cpen 198 0 0
+dlin 110 122 303 79
+wait 5
+cpen 199 0 255
+dlin 112 124 305 81
+wait 3
+cpen 255 255 255
+dlin 108 79 301 121
+cpen 198 0 0
+dlin 111 126 302 75
+wait 5
+cpen 199 0 255
+dlin 113 128 304 77
+wait 3
+cpen 255 255 255
+dlin 108 83 302 117
+cpen 198 0 0
+dlin 112 130 301 70
+wait 5
+cpen 199 0 255
+dlin 114 132 303 72
+wait 3
+cpen 255 255 255
+dlin 107 87 303 113
+cpen 199 0 0
+dlin 114 134 300 66
+wait 5
+cpen 200 0 255
+dlin 116 136 302 68
+wait 3
+cpen 255 255 255
+dlin 107 91 304 109
+cpen 199 0 0
+dlin 116 138 299 62
+wait 5
+cpen 200 0 255
+dlin 118 140 301 64
+wait 3
+cpen 255 255 255
+dlin 107 96 304 104
+cpen 199 0 0
+dlin 117 142 297 58
+wait 5
+cpen 200 0 255
+dlin 119 144 299 60
+wait 3
+cpen 255 255 255
+dlin 107 100 304 100
+cpen 199 0 0
+dlin 120 146 295 55
+wait 5
+cpen 200 0 255
+dlin 122 148 297 57
+wait 3
+cpen 255 255 255
+dlin 107 104 304 96
+cpen 199 0 0
+dlin 122 150 294 51
+wait 5
+cpen 200 0 255
+dlin 124 152 296 53
+wait 3
+cpen 255 255 255
+dlin 107 109 304 91
+cpen 199 0 0
+dlin 124 154 291 47
+wait 5
+cpen 200 0 255
+dlin 126 156 293 49
+wait 3
+cpen 255 255 255
+dlin 108 113 304 87
+cpen 200 0 0
+dlin 127 157 289 43
+wait 5
+cpen 201 0 255
+dlin 129 159 291 45
+wait 3
+cpen 255 255 255
+dlin 109 117 304 83
+cpen 200 0 0
+dlin 129 161 287 40
+wait 5
+cpen 201 0 255
+dlin 131 163 289 42
+wait 3
+cpen 255 255 255
+dlin 110 122 303 79
+cpen 200 0 0
+dlin 132 164 284 37
+wait 5
+cpen 201 0 255
+dlin 134 166 286 39
+wait 3
+cpen 255 255 255
+dlin 111 126 302 75
+cpen 200 0 0
+dlin 135 168 282 33
+wait 5
+cpen 201 0 255
+dlin 137 170 284 35
+wait 3
+cpen 255 255 255
+dlin 112 130 301 70
+cpen 200 0 0
+dlin 138 171 279 30
+wait 5
+cpen 201 0 255
+dlin 140 173 281 32
+wait 3
+cpen 255 255 255
+dlin 114 134 300 66
+cpen 200 0 0
+dlin 142 174 276 27
+wait 5
+cpen 201 0 255
+dlin 144 176 278 29
+wait 3
+cpen 255 255 255
+dlin 116 138 299 62
+cpen 201 0 0
+dlin 145 177 273 24
+wait 5
+cpen 202 0 255
+dlin 147 179 275 26
+wait 3
+cpen 255 255 255
+dlin 117 142 297 58
+cpen 201 0 0
+dlin 149 180 270 22
+wait 5
+cpen 202 0 255
+dlin 151 182 272 24
+wait 3
+cpen 255 255 255
+dlin 120 146 295 55
+cpen 201 0 0
+dlin 152 182 266 19
+wait 5
+cpen 202 0 255
+dlin 154 184 268 21
+wait 3
+cpen 255 255 255
+dlin 122 150 294 51
+cpen 201 0 0
+dlin 156 185 263 17
+wait 5
+cpen 202 0 255
+dlin 158 187 265 19
+wait 3
+cpen 255 255 255
+dlin 124 154 291 47
+cpen 201 0 0
+dlin 160 187 259 15
+wait 5
+cpen 202 0 255
+dlin 162 189 261 17
+wait 3
+cpen 255 255 255
+dlin 127 157 289 43
+cpen 202 0 0
+dlin 164 189 256 13
+wait 5
+cpen 203 0 255
+dlin 166 191 258 15
+wait 3
+cpen 255 255 255
+dlin 129 161 287 40
+cpen 202 0 0
+dlin 168 191 252 11
+wait 5
+cpen 203 0 255
+dlin 170 193 254 13
+wait 3
+cpen 255 255 255
+dlin 132 164 284 37
+cpen 202 0 0
+dlin 172 193 248 9
+wait 5
+cpen 203 0 255
+dlin 174 195 250 11
+wait 3
+cpen 255 255 255
+dlin 135 168 282 33
+cpen 202 0 0
+dlin 176 195 244 7
+wait 5
+cpen 203 0 255
+dlin 178 197 246 9
+wait 3
+cpen 255 255 255
+dlin 138 171 279 30
+cpen 202 0 0
+dlin 181 196 241 6
+wait 5
+cpen 203 0 255
+dlin 183 198 243 8
+wait 3
+cpen 255 255 255
+dlin 142 174 276 27
+cpen 202 0 0
+dlin 185 197 237 5
+wait 5
+cpen 203 0 255
+dlin 187 199 239 7
+wait 3
+cpen 255 255 255
+dlin 145 177 273 24
+cpen 203 0 0
+dlin 189 199 232 4
+wait 5
+cpen 204 0 255
+dlin 191 201 234 6
+wait 3
+cpen 255 255 255
+dlin 149 180 270 22
+cpen 203 0 0
+dlin 194 200 228 3
+wait 5
+cpen 204 0 255
+dlin 196 202 230 5
+wait 3
+cpen 255 255 255
+dlin 152 182 266 19
+cpen 203 0 0
+dlin 198 200 224 2
+wait 5
+cpen 204 0 255
+dlin 200 202 226 4
+wait 3
+cpen 255 255 255
+dlin 156 185 263 17
+cpen 203 0 0
+dlin 203 201 220 2
+wait 5
+cpen 204 0 255
+dlin 205 203 222 4
+wait 3
+cpen 255 255 255
+dlin 160 187 259 15
+cpen 203 0 0
+dlin 207 201 216 1
+wait 5
+cpen 204 0 255
+dlin 209 203 218 3
+wait 3
+cpen 255 255 255
+dlin 164 189 256 13
+cpen 204 0 0
+dlin 212 201 212 1
+wait 5
+cpen 205 0 255
+dlin 214 203 214 3
+wait 3
+cpen 255 255 255
+dlin 168 191 252 11
+cpen 255 255 255
+dlin 172 193 248 9
+cpen 255 255 255
+dlin 176 195 244 7
+cpen 255 255 255
+dlin 181 196 241 6
+cpen 255 255 255
+dlin 185 197 237 5
+cpen 255 255 255
+dlin 189 199 232 4
+cpen 255 255 255
+dlin 194 200 228 3
+cpen 255 255 255
+dlin 198 200 224 2
+cpen 255 255 255
+dlin 203 201 220 2
+cpen 255 255 255
+dlin 207 201 216 1
+cpen 255 255 255
+dlin 212 201 212 1
+FRAME
+cpen 204 0 0
+dlin 216 201 207 2
+wait 5
+cpen 205 0 255
+dlin 218 203 209 4
+wait 3
+cpen 204 0 0
+dlin 221 201 203 2
+wait 5
+cpen 205 0 255
+dlin 223 203 205 4
+wait 3
+cpen 204 0 0
+dlin 225 201 199 2
+wait 5
+cpen 205 0 255
+dlin 227 203 201 4
+wait 3
+cpen 204 0 0
+dlin 230 200 195 3
+wait 5
+cpen 205 0 255
+dlin 232 202 197 5
+wait 3
+cpen 204 0 0
+dlin 234 199 191 4
+wait 5
+cpen 205 0 255
+dlin 236 201 193 6
+wait 3
+cpen 205 0 0
+dlin 239 199 187 5
+wait 5
+cpen 206 0 255
+dlin 241 201 189 7
+wait 3
+cpen 205 0 0
+dlin 243 197 183 6
+wait 5
+cpen 206 0 255
+dlin 245 199 185 8
+wait 3
+cpen 205 0 0
+dlin 247 196 179 8
+wait 5
+cpen 206 0 255
+dlin 249 198 181 10
+wait 3
+cpen 205 0 0
+dlin 252 195 175 9
+wait 5
+cpen 206 0 255
+dlin 254 197 177 11
+wait 3
+cpen 205 0 0
+dlin 256 193 171 11
+wait 5
+cpen 206 0 255
+dlin 258 195 173 13
+wait 3
+cpen 205 0 0
+dlin 260 191 167 13
+wait 5
+cpen 206 0 255
+dlin 262 193 169 15
+wait 3
+cpen 255 255 255
+dlin 216 201 207 2
+cpen 206 0 0
+dlin 264 189 163 15
+wait 5
+cpen 207 0 255
+dlin 266 191 165 17
+wait 3
+cpen 255 255 255
+dlin 221 201 203 2
+cpen 206 0 0
+dlin 268 187 160 17
+wait 5
+cpen 207 0 255
+dlin 270 189 162 19
+wait 3
+cpen 255 255 255
+dlin 225 201 199 2
+cpen 206 0 0
+dlin 272 185 156 20
+wait 5
+cpen 207 0 255
+dlin 274 187 158 22
+wait 3
+cpen 255 255 255
+dlin 230 200 195 3
+cpen 206 0 0
+dlin 275 182 153 23
+wait 5
+cpen 207 0 255
+dlin 277 184 155 25
+wait 3
+cpen 255 255 255
+dlin 234 199 191 4
+cpen 206 0 0
+dlin 279 179 150 25
+wait 5
+cpen 207 0 255
+dlin 281 181 152 27
+wait 3
+cpen 255 255 255
+dlin 239 199 187 5
+cpen 207 0 0
+dlin 282 177 147 28
+wait 5
+cpen 208 0 255
+dlin 284 179 149 30
+wait 3
+cpen 255 255 255
+dlin 243 197 183 6
+cpen 207 0 0
+dlin 286 174 143 31
+wait 5
+cpen 208 0 255
+dlin 288 176 145 33
+wait 3
+cpen 255 255 255
+dlin 247 196 179 8
+cpen 207 0 0
+dlin 289 171 141 35
+wait 5
+cpen 208 0 255
+dlin 291 173 143 37
+wait 3
+cpen 255 255 255
+dlin 252 195 175 9
+cpen 207 0 0
+dlin 292 167 138 38
+wait 5
+cpen 208 0 255
+dlin 294 169 140 40
+wait 3
+cpen 255 255 255
+dlin 256 193 171 11
+cpen 207 0 0
+dlin 295 164 135 41
+wait 5
+cpen 208 0 255
+dlin 297 166 137 43
+wait 3
+cpen 255 255 255
+dlin 260 191 167 13
+cpen 207 0 0
+dlin 298 161 133 45
+wait 5
+cpen 208 0 255
+dlin 300 163 135 47
+wait 3
+cpen 255 255 255
+dlin 264 189 163 15
+cpen 208 0 0
+dlin 300 157 130 49
+wait 5
+cpen 209 0 255
+dlin 302 159 132 51
+wait 3
+cpen 255 255 255
+dlin 268 187 160 17
+cpen 208 0 0
+dlin 303 153 128 52
+wait 5
+cpen 209 0 255
+dlin 305 155 130 54
+wait 3
+cpen 255 255 255
+dlin 272 185 156 20
+cpen 208 0 0
+dlin 305 150 126 56
+wait 5
+cpen 209 0 255
+dlin 307 152 128 58
+wait 3
+cpen 255 255 255
+dlin 275 182 153 23
+cpen 208 0 0
+dlin 307 146 124 60
+wait 5
+cpen 209 0 255
+dlin 309 148 126 62
+wait 3
+cpen 255 255 255
+dlin 279 179 150 25
+cpen 208 0 0
+dlin 309 142 123 64
+wait 5
+cpen 209 0 255
+dlin 311 144 125 66
+wait 3
+cpen 255 255 255
+dlin 282 177 147 28
+cpen 208 0 0
+dlin 311 138 121 69
+wait 5
+cpen 209 0 255
+dlin 313 140 123 71
+wait 3
+cpen 255 255 255
+dlin 286 174 143 31
+cpen 209 0 0
+dlin 313 134 120 73
+wait 5
+cpen 210 0 255
+dlin 315 136 122 75
+wait 3
+cpen 255 255 255
+dlin 289 171 141 35
+cpen 209 0 0
+dlin 314 129 119 77
+wait 5
+cpen 210 0 255
+dlin 316 131 121 79
+wait 3
+cpen 255 255 255
+dlin 292 167 138 38
+cpen 209 0 0
+dlin 315 125 118 82
+wait 5
+cpen 210 0 255
+dlin 317 127 120 84
+wait 3
+cpen 255 255 255
+dlin 295 164 135 41
+cpen 209 0 0
+dlin 316 121 117 86
+wait 5
+cpen 210 0 255
+dlin 318 123 119 88
+wait 3
+cpen 255 255 255
+dlin 298 161 133 45
+cpen 209 0 0
+dlin 317 117 117 90
+wait 5
+cpen 210 0 255
+dlin 319 119 119 92
+wait 3
+cpen 255 255 255
+dlin 300 157 130 49
+cpen 210 0 0
+dlin 318 112 116 95
+wait 5
+cpen 211 0 255
+dlin 320 114 118 97
+wait 3
+cpen 255 255 255
+dlin 303 153 128 52
+cpen 210 0 0
+dlin 318 108 116 99
+wait 5
+cpen 211 0 255
+dlin 320 110 118 101
+wait 3
+cpen 255 255 255
+dlin 305 150 126 56
+cpen 210 0 0
+dlin 319 104 116 104
+wait 5
+cpen 211 0 255
+dlin 321 106 118 106
+wait 3
+cpen 255 255 255
+dlin 307 146 124 60
+cpen 210 0 0
+dlin 319 99 116 108
+wait 5
+cpen 211 0 255
+dlin 321 101 118 110
+wait 3
+cpen 255 255 255
+dlin 309 142 123 64
+cpen 210 0 0
+dlin 319 95 117 113
+wait 5
+cpen 211 0 255
+dlin 321 97 119 115
+wait 3
+cpen 255 255 255
+dlin 311 138 121 69
+cpen 210 0 0
+dlin 318 91 117 117
+wait 5
+cpen 211 0 255
+dlin 320 93 119 119
+wait 3
+cpen 255 255 255
+dlin 313 134 120 73
+cpen 211 0 0
+dlin 318 86 118 122
+wait 5
+cpen 212 0 255
+dlin 320 88 120 124
+wait 3
+cpen 255 255 255
+dlin 314 129 119 77
+cpen 211 0 0
+dlin 317 82 119 126
+wait 5
+cpen 212 0 255
+dlin 319 84 121 128
+wait 3
+cpen 255 255 255
+dlin 315 125 118 82
+cpen 211 0 0
+dlin 316 78 120 131
+wait 5
+cpen 212 0 255
+dlin 318 80 122 133
+wait 3
+cpen 255 255 255
+dlin 316 121 117 86
+cpen 211 0 0
+dlin 315 74 122 135
+wait 5
+cpen 212 0 255
+dlin 317 76 124 137
+wait 3
+cpen 255 255 255
+dlin 317 117 117 90
+cpen 211 0 0
+dlin 314 70 123 139
+wait 5
+cpen 212 0 255
+dlin 316 72 125 141
+wait 3
+cpen 255 255 255
+dlin 318 112 116 95
+cpen 211 0 0
+dlin 313 66 125 143
+wait 5
+cpen 212 0 255
+dlin 315 68 127 145
+wait 3
+cpen 255 255 255
+dlin 318 108 116 99
+cpen 212 0 0
+dlin 311 62 127 148
+wait 5
+cpen 213 0 255
+dlin 313 64 129 150
+wait 3
+cpen 255 255 255
+dlin 319 104 116 104
+cpen 212 0 0
+dlin 309 58 129 152
+wait 5
+cpen 213 0 255
+dlin 311 60 131 154
+wait 3
+cpen 255 255 255
+dlin 319 99 116 108
+cpen 212 0 0
+dlin 307 54 131 156
+wait 5
+cpen 213 0 255
+dlin 309 56 133 158
+wait 3
+cpen 255 255 255
+dlin 319 95 117 113
+cpen 212 0 0
+dlin 305 50 134 160
+wait 5
+cpen 213 0 255
+dlin 307 52 136 162
+wait 3
+cpen 255 255 255
+dlin 318 91 117 117
+cpen 212 0 0
+dlin 303 47 136 163
+wait 5
+cpen 213 0 255
+dlin 305 49 138 165
+wait 3
+cpen 255 255 255
+dlin 318 86 118 122
+cpen 213 0 0
+dlin 301 43 139 167
+wait 5
+cpen 214 0 255
+dlin 303 45 141 169
+wait 3
+cpen 255 255 255
+dlin 317 82 119 126
+cpen 213 0 0
+dlin 298 40 142 171
+wait 5
+cpen 214 0 255
+dlin 300 42 144 173
+wait 3
+cpen 255 255 255
+dlin 316 78 120 131
+cpen 213 0 0
+dlin 295 36 145 174
+wait 5
+cpen 214 0 255
+dlin 297 38 147 176
+wait 3
+cpen 255 255 255
+dlin 315 74 122 135
+cpen 213 0 0
+dlin 292 33 148 177
+wait 5
+cpen 214 0 255
+dlin 294 35 150 179
+wait 3
+cpen 255 255 255
+dlin 314 70 123 139
+cpen 213 0 0
+dlin 289 30 152 181
+wait 5
+cpen 214 0 255
+dlin 291 32 154 183
+wait 3
+cpen 255 255 255
+dlin 313 66 125 143
+cpen 213 0 0
+dlin 286 27 155 184
+wait 5
+cpen 214 0 255
+dlin 288 29 157 186
+wait 3
+cpen 255 255 255
+dlin 311 62 127 148
+cpen 214 0 0
+dlin 283 25 159 186
+wait 5
+cpen 215 0 255
+dlin 285 27 161 188
+wait 3
+cpen 255 255 255
+dlin 309 58 129 152
+cpen 214 0 0
+dlin 279 22 162 189
+wait 5
+cpen 215 0 255
+dlin 281 24 164 191
+wait 3
+cpen 255 255 255
+dlin 307 54 131 156
+cpen 214 0 0
+dlin 276 20 166 192
+wait 5
+cpen 215 0 255
+dlin 278 22 168 194
+wait 3
+cpen 255 255 255
+dlin 305 50 134 160
+cpen 214 0 0
+dlin 272 17 170 194
+wait 5
+cpen 215 0 255
+dlin 274 19 172 196
+wait 3
+cpen 255 255 255
+dlin 303 47 136 163
+cpen 214 0 0
+dlin 268 15 174 197
+wait 5
+cpen 215 0 255
+dlin 270 17 176 199
+wait 3
+cpen 255 255 255
+dlin 301 43 139 167
+cpen 214 0 0
+dlin 265 13 178 199
+wait 5
+cpen 215 0 255
+dlin 267 15 180 201
+wait 3
+cpen 255 255 255
+dlin 298 40 142 171
+cpen 215 0 0
+dlin 261 12 182 201
+wait 5
+cpen 216 0 255
+dlin 263 14 184 203
+wait 3
+cpen 255 255 255
+dlin 295 36 145 174
+cpen 215 0 0
+dlin 257 10 187 202
+wait 5
+cpen 216 0 255
+dlin 259 12 189 204
+wait 3
+cpen 255 255 255
+dlin 292 33 148 177
+cpen 215 0 0
+dlin 253 9 191 204
+wait 5
+cpen 216 0 255
+dlin 255 11 193 206
+wait 3
+cpen 255 255 255
+dlin 289 30 152 181
+cpen 215 0 0
+dlin 248 8 196 205
+wait 5
+cpen 216 0 255
+dlin 250 10 198 207
+wait 3
+cpen 255 255 255
+dlin 286 27 155 184
+cpen 215 0 0
+dlin 244 7 200 206
+wait 5
+cpen 216 0 255
+dlin 246 9 202 208
+wait 3
+cpen 255 255 255
+dlin 283 25 159 186
+cpen 216 0 0
+dlin 240 6 205 207
+wait 5
+cpen 217 0 255
+dlin 242 8 207 209
+wait 3
+cpen 255 255 255
+dlin 279 22 162 189
+cpen 216 0 0
+dlin 236 5 209 208
+wait 5
+cpen 217 0 255
+dlin 238 7 211 210
+wait 3
+cpen 255 255 255
+dlin 276 20 166 192
+cpen 216 0 0
+dlin 232 5 214 209
+wait 5
+cpen 217 0 255
+dlin 234 7 216 211
+wait 3
+cpen 255 255 255
+dlin 272 17 170 194
+cpen 216 0 0
+dlin 227 5 218 209
+wait 5
+cpen 217 0 255
+dlin 229 7 220 211
+wait 3
+cpen 255 255 255
+dlin 268 15 174 197
+cpen 216 0 0
+dlin 223 5 223 210
+wait 5
+cpen 217 0 255
+dlin 225 7 225 212
+wait 3
+cpen 255 255 255
+dlin 265 13 178 199
+cpen 216 0 0
+dlin 219 5 227 210
+wait 5
+cpen 217 0 255
+dlin 221 7 229 212
+wait 3
+cpen 255 255 255
+dlin 261 12 182 201
+cpen 217 0 0
+dlin 214 5 232 209
+wait 5
+cpen 218 0 255
+dlin 216 7 234 211
+wait 3
+cpen 255 255 255
+dlin 257 10 187 202
+cpen 217 0 0
+dlin 210 6 237 209
+wait 5
+cpen 218 0 255
+dlin 212 8 239 211
+wait 3
+cpen 255 255 255
+dlin 253 9 191 204
+cpen 217 0 0
+dlin 206 6 241 209
+wait 5
+cpen 218 0 255
+dlin 208 8 243 211
+wait 3
+cpen 255 255 255
+dlin 248 8 196 205
+cpen 217 0 0
+dlin 201 7 246 208
+wait 5
+cpen 218 0 255
+dlin 203 9 248 210
+wait 3
+cpen 255 255 255
+dlin 244 7 200 206
+cpen 217 0 0
+dlin 197 8 250 207
+wait 5
+cpen 218 0 255
+dlin 199 10 252 209
+wait 3
+cpen 255 255 255
+dlin 240 6 205 207
+cpen 217 0 0
+dlin 193 10 255 206
+wait 5
+cpen 218 0 255
+dlin 195 12 257 208
+wait 3
+cpen 255 255 255
+dlin 236 5 209 208
+cpen 218 0 0
+dlin 189 11 259 204
+wait 5
+cpen 219 0 255
+dlin 191 13 261 206
+wait 3
+cpen 255 255 255
+dlin 232 5 214 209
+cpen 218 0 0
+dlin 185 13 263 203
+wait 5
+cpen 219 0 255
+dlin 187 15 265 205
+wait 3
+cpen 255 255 255
+dlin 227 5 218 209
+cpen 218 0 0
+dlin 181 15 268 201
+wait 5
+cpen 219 0 255
+dlin 183 17 270 203
+wait 3
+cpen 255 255 255
+dlin 223 5 223 210
+cpen 218 0 0
+dlin 177 17 272 199
+wait 5
+cpen 219 0 255
+dlin 179 19 274 201
+wait 3
+cpen 255 255 255
+dlin 219 5 227 210
+cpen 218 0 0
+dlin 173 19 276 197
+wait 5
+cpen 219 0 255
+dlin 175 21 278 199
+wait 3
+cpen 255 255 255
+dlin 214 5 232 209
+cpen 219 0 0
+dlin 169 22 280 195
+wait 5
+cpen 220 0 255
+dlin 171 24 282 197
+wait 3
+cpen 255 255 255
+dlin 210 6 237 209
+cpen 219 0 0
+dlin 166 24 284 193
+wait 5
+cpen 220 0 255
+dlin 168 26 286 195
+wait 3
+cpen 255 255 255
+dlin 206 6 241 209
+cpen 219 0 0
+dlin 162 27 288 190
+wait 5
+cpen 220 0 255
+dlin 164 29 290 192
+wait 3
+cpen 255 255 255
+dlin 201 7 246 208
+cpen 219 0 0
+dlin 159 30 291 188
+wait 5
+cpen 220 0 255
+dlin 161 32 293 190
+wait 3
+cpen 255 255 255
+dlin 197 8 250 207
+cpen 219 0 0
+dlin 156 33 295 185
+wait 5
+cpen 220 0 255
+dlin 158 35 297 187
+wait 3
+cpen 255 255 255
+dlin 193 10 255 206
+cpen 219 0 0
+dlin 152 36 298 182
+wait 5
+cpen 220 0 255
+dlin 154 38 300 184
+wait 3
+cpen 255 255 255
+dlin 189 11 259 204
+cpen 220 0 0
+dlin 149 39 302 179
+wait 5
+cpen 221 0 255
+dlin 151 41 304 181
+wait 3
+cpen 255 255 255
+dlin 185 13 263 203
+cpen 220 0 0
+dlin 147 43 305 176
+wait 5
+cpen 221 0 255
+dlin 149 45 307 178
+wait 3
+cpen 255 255 255
+dlin 181 15 268 201
+cpen 220 0 0
+dlin 144 46 308 172
+wait 5
+cpen 221 0 255
+dlin 146 48 310 174
+wait 3
+cpen 255 255 255
+dlin 177 17 272 199
+cpen 220 0 0
+dlin 141 50 310 169
+wait 5
+cpen 221 0 255
+dlin 143 52 312 171
+wait 3
+cpen 255 255 255
+dlin 173 19 276 197
+cpen 220 0 0
+dlin 139 54 313 165
+wait 5
+cpen 221 0 255
+dlin 141 56 315 167
+wait 3
+cpen 255 255 255
+dlin 169 22 280 195
+cpen 221 0 0
+dlin 137 58 316 161
+wait 5
+cpen 222 0 255
+dlin 139 60 318 163
+wait 3
+cpen 255 255 255
+dlin 166 24 284 193
+cpen 221 0 0
+dlin 135 62 318 158
+wait 5
+cpen 222 0 255
+dlin 137 64 320 160
+wait 3
+cpen 255 255 255
+dlin 162 27 288 190
+cpen 221 0 0
+dlin 133 66 320 154
+wait 5
+cpen 222 0 255
+dlin 135 68 322 156
+wait 3
+cpen 255 255 255
+dlin 159 30 291 188
+cpen 221 0 0
+dlin 131 70 322 150
+wait 5
+cpen 222 0 255
+dlin 133 72 324 152
+wait 3
+cpen 255 255 255
+dlin 156 33 295 185
+cpen 221 0 0
+dlin 129 75 324 146
+wait 5
+cpen 222 0 255
+dlin 131 77 326 148
+wait 3
+cpen 255 255 255
+dlin 152 36 298 182
+cpen 221 0 0
+dlin 128 79 325 141
+wait 5
+cpen 222 0 255
+dlin 130 81 327 143
+wait 3
+cpen 255 255 255
+dlin 149 39 302 179
+cpen 222 0 0
+dlin 127 84 327 137
+wait 5
+cpen 223 0 255
+dlin 129 86 329 139
+wait 3
+cpen 255 255 255
+dlin 147 43 305 176
+cpen 222 0 0
+dlin 126 88 328 133
+wait 5
+cpen 223 0 255
+dlin 128 90 330 135
+wait 3
+cpen 255 255 255
+dlin 144 46 308 172
+cpen 222 0 0
+dlin 125 93 329 129
+wait 5
+cpen 223 0 255
+dlin 127 95 331 131
+wait 3
+cpen 255 255 255
+dlin 141 50 310 169
+cpen 222 0 0
+dlin 125 97 330 124
+wait 5
+cpen 223 0 255
+dlin 127 99 332 126
+wait 3
+cpen 255 255 255
+dlin 139 54 313 165
+cpen 222 0 0
+dlin 124 102 331 120
+wait 5
+cpen 223 0 255
+dlin 126 104 333 122
+wait 3
+cpen 255 255 255
+dlin 137 58 316 161
+cpen 222 0 0
+dlin 124 106 331 115
+wait 5
+cpen 223 0 255
+dlin 126 108 333 117
+wait 3
+cpen 255 255 255
+dlin 135 62 318 158
+cpen 223 0 0
+dlin 124 111 331 111
+wait 5
+cpen 224 0 255
+dlin 126 113 333 113
+wait 3
+cpen 255 255 255
+dlin 133 66 320 154
+cpen 223 0 0
+dlin 124 116 331 107
+wait 5
+cpen 224 0 255
+dlin 126 118 333 109
+wait 3
+cpen 255 255 255
+dlin 131 70 322 150
+cpen 223 0 0
+dlin 124 120 331 102
+wait 5
+cpen 224 0 255
+dlin 126 122 333 104
+wait 3
+cpen 255 255 255
+dlin 129 75 324 146
+cpen 223 0 0
+dlin 125 125 331 98
+wait 5
+cpen 224 0 255
+dlin 127 127 333 100
+wait 3
+cpen 255 255 255
+dlin 128 79 325 141
+cpen 223 0 0
+dlin 126 130 330 94
+wait 5
+cpen 224 0 255
+dlin 128 132 332 96
+wait 3
+cpen 255 255 255
+dlin 127 84 327 137
+cpen 224 0 0
+dlin 127 134 330 89
+wait 5
+cpen 225 0 255
+dlin 129 136 332 91
+wait 3
+cpen 255 255 255
+dlin 126 88 328 133
+cpen 224 0 0
+dlin 128 139 329 85
+wait 5
+cpen 225 0 255
+dlin 130 141 331 87
+wait 3
+cpen 255 255 255
+dlin 125 93 329 129
+cpen 224 0 0
+dlin 129 143 328 81
+wait 5
+cpen 225 0 255
+dlin 131 145 330 83
+wait 3
+cpen 255 255 255
+dlin 125 97 330 124
+cpen 224 0 0
+dlin 131 148 326 77
+wait 5
+cpen 225 0 255
+dlin 133 150 328 79
+wait 3
+cpen 255 255 255
+dlin 124 102 331 120
+cpen 224 0 0
+dlin 133 152 325 72
+wait 5
+cpen 225 0 255
+dlin 135 154 327 74
+wait 3
+cpen 255 255 255
+dlin 124 106 331 115
+cpen 224 0 0
+dlin 135 156 323 68
+wait 5
+cpen 225 0 255
+dlin 137 158 325 70
+wait 3
+cpen 255 255 255
+dlin 124 111 331 111
+cpen 225 0 0
+dlin 137 161 321 64
+wait 5
+cpen 226 0 255
+dlin 139 163 323 66
+wait 3
+cpen 255 255 255
+dlin 124 116 331 107
+cpen 225 0 0
+dlin 139 165 319 61
+wait 5
+cpen 226 0 255
+dlin 141 167 321 63
+wait 3
+cpen 255 255 255
+dlin 124 120 331 102
+cpen 225 0 0
+dlin 141 169 317 57
+wait 5
+cpen 226 0 255
+dlin 143 171 319 59
+wait 3
+cpen 255 255 255
+dlin 125 125 331 98
+cpen 225 0 0
+dlin 144 173 315 53
+wait 5
+cpen 226 0 255
+dlin 146 175 317 55
+wait 3
+cpen 255 255 255
+dlin 126 130 330 94
+cpen 225 0 0
+dlin 147 176 312 50
+wait 5
+cpen 226 0 255
+dlin 149 178 314 52
+wait 3
+cpen 255 255 255
+dlin 127 134 330 89
+cpen 225 0 0
+dlin 150 180 309 46
+wait 5
+cpen 226 0 255
+dlin 152 182 311 48
+wait 3
+cpen 255 255 255
+dlin 128 139 329 85
+cpen 226 0 0
+dlin 153 184 307 43
+wait 5
+cpen 227 0 255
+dlin 155 186 309 45
+wait 3
+cpen 255 255 255
+dlin 129 143 328 81
+cpen 226 0 0
+dlin 156 187 304 40
+wait 5
+cpen 227 0 255
+dlin 158 189 306 42
+wait 3
+cpen 255 255 255
+dlin 131 148 326 77
+cpen 226 0 0
+dlin 159 191 300 37
+wait 5
+cpen 227 0 255
+dlin 161 193 302 39
+wait 3
+cpen 255 255 255
+dlin 133 152 325 72
+cpen 226 0 0
+dlin 163 194 297 34
+wait 5
+cpen 227 0 255
+dlin 165 196 299 36
+wait 3
+cpen 255 255 255
+dlin 135 156 323 68
+cpen 226 0 0
+dlin 167 197 294 31
+wait 5
+cpen 227 0 255
+dlin 169 199 296 33
+wait 3
+cpen 255 255 255
+dlin 137 161 321 64
+cpen 227 0 0
+dlin 170 200 290 28
+wait 5
+cpen 228 0 255
+dlin 172 202 292 30
+wait 3
+cpen 255 255 255
+dlin 139 165 319 61
+cpen 227 0 0
+dlin 174 202 287 26
+wait 5
+cpen 228 0 255
+dlin 176 204 289 28
+wait 3
+cpen 255 255 255
+dlin 141 169 317 57
+cpen 227 0 0
+dlin 178 205 283 24
+wait 5
+cpen 228 0 255
+dlin 180 207 285 26
+wait 3
+cpen 255 255 255
+dlin 144 173 315 53
+cpen 227 0 0
+dlin 182 207 279 22
+wait 5
+cpen 228 0 255
+dlin 184 209 281 24
+wait 3
+cpen 255 255 255
+dlin 147 176 312 50
+cpen 227 0 0
+dlin 186 209 275 20
+wait 5
+cpen 228 0 255
+dlin 188 211 277 22
+wait 3
+cpen 255 255 255
+dlin 150 180 309 46
+cpen 227 0 0
+dlin 191 211 271 18
+wait 5
+cpen 228 0 255
+dlin 193 213 273 20
+wait 3
+cpen 255 255 255
+dlin 153 184 307 43
+cpen 228 0 0
+dlin 195 213 267 16
+wait 5
+cpen 229 0 255
+dlin 197 215 269 18
+wait 3
+cpen 255 255 255
+dlin 156 187 304 40
+cpen 228 0 0
+dlin 200 215 263 15
+wait 5
+cpen 229 0 255
+dlin 202 217 265 17
+wait 3
+cpen 255 255 255
+dlin 159 191 300 37
+cpen 228 0 0
+dlin 204 216 258 14
+wait 5
+cpen 229 0 255
+dlin 206 218 260 16
+wait 3
+cpen 255 255 255
+dlin 163 194 297 34
+cpen 228 0 0
+dlin 209 217 254 13
+wait 5
+cpen 229 0 255
+dlin 211 219 256 15
+wait 3
+cpen 255 255 255
+dlin 167 197 294 31
+cpen 228 0 0
+dlin 213 219 250 12
+wait 5
+cpen 229 0 255
+dlin 215 221 252 14
+wait 3
+cpen 255 255 255
+dlin 170 200 290 28
+cpen 228 0 0
+dlin 218 219 245 11
+wait 5
+cpen 229 0 255
+dlin 220 221 247 13
+wait 3
+cpen 255 255 255
+dlin 174 202 287 26
+cpen 229 0 0
+dlin 222 220 241 11
+wait 5
+cpen 230 0 255
+dlin 224 222 243 13
+wait 3
+cpen 255 255 255
+dlin 178 205 283 24
+cpen 229 0 0
+dlin 227 221 236 11
+wait 5
+cpen 230 0 255
+dlin 229 223 238 13
+wait 3
+cpen 255 255 255
+dlin 182 207 279 22
+cpen 229 0 0
+dlin 232 221 232 11
+wait 5
+cpen 230 0 255
+dlin 234 223 234 13
+wait 3
+cpen 255 255 255
+dlin 186 209 275 20
+cpen 255 255 255
+dlin 191 211 271 18
+cpen 255 255 255
+dlin 195 213 267 16
+cpen 255 255 255
+dlin 200 215 263 15
+cpen 255 255 255
+dlin 204 216 258 14
+cpen 255 255 255
+dlin 209 217 254 13
+cpen 255 255 255
+dlin 213 219 250 12
+cpen 255 255 255
+dlin 218 219 245 11
+cpen 255 255 255
+dlin 222 220 241 11
+cpen 255 255 255
+dlin 227 221 236 11
+cpen 255 255 255
+dlin 232 221 232 11
+FRAME
+cpen 229 0 0
+dlin 236 221 227 11
+wait 5
+cpen 230 0 255
+dlin 238 223 229 13
+wait 3
+cpen 229 0 0
+dlin 241 221 223 11
+wait 5
+cpen 230 0 255
+dlin 243 223 225 13
+wait 3
+cpen 230 0 0
+dlin 246 220 218 12
+wait 5
+cpen 231 0 255
+dlin 248 222 220 14
+wait 3
+cpen 230 0 0
+dlin 250 220 214 13
+wait 5
+cpen 231 0 255
+dlin 252 222 216 15
+wait 3
+cpen 230 0 0
+dlin 255 219 210 14
+wait 5
+cpen 231 0 255
+dlin 257 221 212 16
+wait 3
+cpen 230 0 0
+dlin 260 218 205 15
+wait 5
+cpen 231 0 255
+dlin 262 220 207 17
+wait 3
+cpen 230 0 0
+dlin 264 217 201 16
+wait 5
+cpen 231 0 255
+dlin 266 219 203 18
+wait 3
+cpen 230 0 0
+dlin 269 216 197 18
+wait 5
+cpen 231 0 255
+dlin 271 218 199 20
+wait 3
+cpen 231 0 0
+dlin 273 214 192 20
+wait 5
+cpen 232 0 255
+dlin 275 216 194 22
+wait 3
+cpen 231 0 0
+dlin 277 213 188 22
+wait 5
+cpen 232 0 255
+dlin 279 215 190 24
+wait 3
+cpen 231 0 0
+dlin 282 211 184 24
+wait 5
+cpen 232 0 255
+dlin 284 213 186 26
+wait 3
+cpen 255 255 255
+dlin 236 221 227 11
+cpen 231 0 0
+dlin 286 209 180 26
+wait 5
+cpen 232 0 255
+dlin 288 211 182 28
+wait 3
+cpen 255 255 255
+dlin 241 221 223 11
+cpen 231 0 0
+dlin 290 207 176 29
+wait 5
+cpen 232 0 255
+dlin 292 209 178 31
+wait 3
+cpen 255 255 255
+dlin 246 220 218 12
+cpen 231 0 0
+dlin 294 204 173 31
+wait 5
+cpen 232 0 255
+dlin 296 206 175 33
+wait 3
+cpen 255 255 255
+dlin 250 220 214 13
+cpen 232 0 0
+dlin 297 202 169 34
+wait 5
+cpen 233 0 255
+dlin 299 204 171 36
+wait 3
+cpen 255 255 255
+dlin 255 219 210 14
+cpen 232 0 0
+dlin 301 199 165 37
+wait 5
+cpen 233 0 255
+dlin 303 201 167 39
+wait 3
+cpen 255 255 255
+dlin 260 218 205 15
+cpen 232 0 0
+dlin 305 196 162 40
+wait 5
+cpen 233 0 255
+dlin 307 198 164 42
+wait 3
+cpen 255 255 255
+dlin 264 217 201 16
+cpen 232 0 0
+dlin 308 193 159 44
+wait 5
+cpen 233 0 255
+dlin 310 195 161 46
+wait 3
+cpen 255 255 255
+dlin 269 216 197 18
+cpen 232 0 0
+dlin 312 190 156 47
+wait 5
+cpen 233 0 255
+dlin 314 192 158 49
+wait 3
+cpen 255 255 255
+dlin 273 214 192 20
+cpen 233 0 0
+dlin 315 187 153 51
+wait 5
+cpen 234 0 255
+dlin 317 189 155 53
+wait 3
+cpen 255 255 255
+dlin 277 213 188 22
+cpen 233 0 0
+dlin 318 183 150 55
+wait 5
+cpen 234 0 255
+dlin 320 185 152 57
+wait 3
+cpen 255 255 255
+dlin 282 211 184 24
+cpen 233 0 0
+dlin 321 180 147 58
+wait 5
+cpen 234 0 255
+dlin 323 182 149 60
+wait 3
+cpen 255 255 255
+dlin 286 209 180 26
+cpen 233 0 0
+dlin 323 176 145 62
+wait 5
+cpen 234 0 255
+dlin 325 178 147 64
+wait 3
+cpen 255 255 255
+dlin 290 207 176 29
+cpen 233 0 0
+dlin 326 172 142 66
+wait 5
+cpen 234 0 255
+dlin 328 174 144 68
+wait 3
+cpen 255 255 255
+dlin 294 204 173 31
+cpen 233 0 0
+dlin 328 168 140 71
+wait 5
+cpen 234 0 255
+dlin 330 170 142 73
+wait 3
+cpen 255 255 255
+dlin 297 202 169 34
+cpen 234 0 0
+dlin 330 164 138 75
+wait 5
+cpen 235 0 255
+dlin 332 166 140 77
+wait 3
+cpen 255 255 255
+dlin 301 199 165 37
+cpen 234 0 0
+dlin 332 160 136 79
+wait 5
+cpen 235 0 255
+dlin 334 162 138 81
+wait 3
+cpen 255 255 255
+dlin 305 196 162 40
+cpen 234 0 0
+dlin 334 156 135 84
+wait 5
+cpen 235 0 255
+dlin 336 158 137 86
+wait 3
+cpen 255 255 255
+dlin 308 193 159 44
+cpen 234 0 0
+dlin 336 152 133 88
+wait 5
+cpen 235 0 255
+dlin 338 154 135 90
+wait 3
+cpen 255 255 255
+dlin 312 190 156 47
+cpen 234 0 0
+dlin 337 148 132 93
+wait 5
+cpen 235 0 255
+dlin 339 150 134 95
+wait 3
+cpen 255 255 255
+dlin 315 187 153 51
+cpen 234 0 0
+dlin 338 143 131 97
+wait 5
+cpen 235 0 255
+dlin 340 145 133 99
+wait 3
+cpen 255 255 255
+dlin 318 183 150 55
+cpen 235 0 0
+dlin 339 139 130 102
+wait 5
+cpen 236 0 255
+dlin 341 141 132 104
+wait 3
+cpen 255 255 255
+dlin 321 180 147 58
+cpen 235 0 0
+dlin 340 135 130 107
+wait 5
+cpen 236 0 255
+dlin 342 137 132 109
+wait 3
+cpen 255 255 255
+dlin 323 176 145 62
+cpen 235 0 0
+dlin 341 130 129 112
+wait 5
+cpen 236 0 255
+dlin 343 132 131 114
+wait 3
+cpen 255 255 255
+dlin 326 172 142 66
+cpen 235 0 0
+dlin 341 126 129 116
+wait 5
+cpen 236 0 255
+dlin 343 128 131 118
+wait 3
+cpen 255 255 255
+dlin 328 168 140 71
+cpen 235 0 0
+dlin 341 121 129 121
+wait 5
+cpen 236 0 255
+dlin 343 123 131 123
+wait 3
+cpen 255 255 255
+dlin 330 164 138 75
+cpen 236 0 0
+dlin 341 117 129 126
+wait 5
+cpen 237 0 255
+dlin 343 119 131 128
+wait 3
+cpen 255 255 255
+dlin 332 160 136 79
+cpen 236 0 0
+dlin 341 112 129 131
+wait 5
+cpen 237 0 255
+dlin 343 114 131 133
+wait 3
+cpen 255 255 255
+dlin 334 156 135 84
+cpen 236 0 0
+dlin 341 108 130 136
+wait 5
+cpen 237 0 255
+dlin 343 110 132 138
+wait 3
+cpen 255 255 255
+dlin 336 152 133 88
+cpen 236 0 0
+dlin 340 103 131 140
+wait 5
+cpen 237 0 255
+dlin 342 105 133 142
+wait 3
+cpen 255 255 255
+dlin 337 148 132 93
+cpen 236 0 0
+dlin 339 99 132 145
+wait 5
+cpen 237 0 255
+dlin 341 101 134 147
+wait 3
+cpen 255 255 255
+dlin 338 143 131 97
+cpen 236 0 0
+dlin 338 95 133 150
+wait 5
+cpen 237 0 255
+dlin 340 97 135 152
+wait 3
+cpen 255 255 255
+dlin 339 139 130 102
+cpen 237 0 0
+dlin 337 90 134 154
+wait 5
+cpen 238 0 255
+dlin 339 92 136 156
+wait 3
+cpen 255 255 255
+dlin 340 135 130 107
+cpen 237 0 0
+dlin 336 86 136 159
+wait 5
+cpen 238 0 255
+dlin 338 88 138 161
+wait 3
+cpen 255 255 255
+dlin 341 130 129 112
+cpen 237 0 0
+dlin 334 82 137 163
+wait 5
+cpen 238 0 255
+dlin 336 84 139 165
+wait 3
+cpen 255 255 255
+dlin 341 126 129 116
+cpen 237 0 0
+dlin 332 78 139 168
+wait 5
+cpen 238 0 255
+dlin 334 80 141 170
+wait 3
+cpen 255 255 255
+dlin 341 121 129 121
+cpen 237 0 0
+dlin 330 74 141 172
+wait 5
+cpen 238 0 255
+dlin 332 76 143 174
+wait 3
+cpen 255 255 255
+dlin 341 117 129 126
+cpen 238 0 0
+dlin 328 70 144 176
+wait 5
+cpen 239 0 255
+dlin 330 72 146 178
+wait 3
+cpen 255 255 255
+dlin 341 112 129 131
+cpen 238 0 0
+dlin 326 66 146 181
+wait 5
+cpen 239 0 255
+dlin 328 68 148 183
+wait 3
+cpen 255 255 255
+dlin 341 108 130 136
+cpen 238 0 0
+dlin 324 62 149 185
+wait 5
+cpen 239 0 255
+dlin 326 64 151 187
+wait 3
+cpen 255 255 255
+dlin 340 103 131 140
+cpen 238 0 0
+dlin 321 59 151 189
+wait 5
+cpen 239 0 255
+dlin 323 61 153 191
+wait 3
+cpen 255 255 255
+dlin 339 99 132 145
+cpen 238 0 0
+dlin 318 55 154 192
+wait 5
+cpen 239 0 255
+dlin 320 57 156 194
+wait 3
+cpen 255 255 255
+dlin 338 95 133 150
+cpen 238 0 0
+dlin 315 52 158 196
+wait 5
+cpen 239 0 255
+dlin 317 54 160 198
+wait 3
+cpen 255 255 255
+dlin 337 90 134 154
+cpen 239 0 0
+dlin 312 48 161 200
+wait 5
+cpen 240 0 255
+dlin 314 50 163 202
+wait 3
+cpen 255 255 255
+dlin 336 86 136 159
+cpen 239 0 0
+dlin 309 45 164 203
+wait 5
+cpen 240 0 255
+dlin 311 47 166 205
+wait 3
+cpen 255 255 255
+dlin 334 82 137 163
+cpen 239 0 0
+dlin 305 42 168 206
+wait 5
+cpen 240 0 255
+dlin 307 44 170 208
+wait 3
+cpen 255 255 255
+dlin 332 78 139 168
+cpen 239 0 0
+dlin 302 40 171 209
+wait 5
+cpen 240 0 255
+dlin 304 42 173 211
+wait 3
+cpen 255 255 255
+dlin 330 74 141 172
+cpen 239 0 0
+dlin 298 37 175 212
+wait 5
+cpen 240 0 255
+dlin 300 39 177 214
+wait 3
+cpen 255 255 255
+dlin 328 70 144 176
+cpen 239 0 0
+dlin 294 35 179 215
+wait 5
+cpen 240 0 255
+dlin 296 37 181 217
+wait 3
+cpen 255 255 255
+dlin 326 66 146 181
+cpen 240 0 0
+dlin 290 32 183 218
+wait 5
+cpen 241 0 255
+dlin 292 34 185 220
+wait 3
+cpen 255 255 255
+dlin 324 62 149 185
+cpen 240 0 0
+dlin 286 30 187 220
+wait 5
+cpen 241 0 255
+dlin 288 32 189 222
+wait 3
+cpen 255 255 255
+dlin 321 59 151 189
+cpen 240 0 0
+dlin 282 28 192 222
+wait 5
+cpen 241 0 255
+dlin 284 30 194 224
+wait 3
+cpen 255 255 255
+dlin 318 55 154 192
+cpen 240 0 0
+dlin 278 26 196 225
+wait 5
+cpen 241 0 255
+dlin 280 28 198 227
+wait 3
+cpen 255 255 255
+dlin 315 52 158 196
+cpen 240 0 0
+dlin 274 25 200 226
+wait 5
+cpen 241 0 255
+dlin 276 27 202 228
+wait 3
+cpen 255 255 255
+dlin 312 48 161 200
+cpen 241 0 0
+dlin 269 24 205 228
+wait 5
+cpen 242 0 255
+dlin 271 26 207 230
+wait 3
+cpen 255 255 255
+dlin 309 45 164 203
+cpen 241 0 0
+dlin 265 22 209 230
+wait 5
+cpen 242 0 255
+dlin 267 24 211 232
+wait 3
+cpen 255 255 255
+dlin 305 42 168 206
+cpen 241 0 0
+dlin 260 21 214 231
+wait 5
+cpen 242 0 255
+dlin 262 23 216 233
+wait 3
+cpen 255 255 255
+dlin 302 40 171 209
+cpen 241 0 0
+dlin 256 21 219 232
+wait 5
+cpen 242 0 255
+dlin 258 23 221 234
+wait 3
+cpen 255 255 255
+dlin 298 37 175 212
+cpen 241 0 0
+dlin 251 20 223 233
+wait 5
+cpen 242 0 255
+dlin 253 22 225 235
+wait 3
+cpen 255 255 255
+dlin 294 35 179 215
+cpen 241 0 0
+dlin 247 20 228 234
+wait 5
+cpen 242 0 255
+dlin 249 22 230 236
+wait 3
+cpen 255 255 255
+dlin 290 32 183 218
+cpen 242 0 0
+dlin 242 19 233 234
+wait 5
+cpen 243 0 255
+dlin 244 21 235 236
+wait 3
+cpen 255 255 255
+dlin 286 30 187 220
+cpen 242 0 0
+dlin 237 19 237 234
+wait 5
+cpen 243 0 255
+dlin 239 21 239 236
+wait 3
+cpen 255 255 255
+dlin 282 28 192 222
+cpen 242 0 0
+dlin 233 20 242 235
+wait 5
+cpen 243 0 255
+dlin 235 22 244 237
+wait 3
+cpen 255 255 255
+dlin 278 26 196 225
+cpen 242 0 0
+dlin 228 20 247 234
+wait 5
+cpen 243 0 255
+dlin 230 22 249 236
+wait 3
+cpen 255 255 255
+dlin 274 25 200 226
+cpen 242 0 0
+dlin 224 21 252 234
+wait 5
+cpen 243 0 255
+dlin 226 23 254 236
+wait 3
+cpen 255 255 255
+dlin 269 24 205 228
+cpen 242 0 0
+dlin 219 22 256 234
+wait 5
+cpen 243 0 255
+dlin 221 24 258 236
+wait 3
+cpen 255 255 255
+dlin 265 22 209 230
+cpen 243 0 0
+dlin 214 23 261 233
+wait 5
+cpen 244 0 255
+dlin 216 25 263 235
+wait 3
+cpen 255 255 255
+dlin 260 21 214 231
+cpen 243 0 0
+dlin 210 24 266 232
+wait 5
+cpen 244 0 255
+dlin 212 26 268 234
+wait 3
+cpen 255 255 255
+dlin 256 21 219 232
+cpen 243 0 0
+dlin 205 25 270 231
+wait 5
+cpen 244 0 255
+dlin 207 27 272 233
+wait 3
+cpen 255 255 255
+dlin 251 20 223 233
+cpen 243 0 0
+dlin 201 27 275 230
+wait 5
+cpen 244 0 255
+dlin 203 29 277 232
+wait 3
+cpen 255 255 255
+dlin 247 20 228 234
+cpen 243 0 0
+dlin 197 29 279 228
+wait 5
+cpen 244 0 255
+dlin 199 31 281 230
+wait 3
+cpen 255 255 255
+dlin 242 19 233 234
+cpen 244 0 0
+dlin 192 31 284 226
+wait 5
+cpen 245 0 255
+dlin 194 33 286 228
+wait 3
+cpen 255 255 255
+dlin 237 19 237 234
+cpen 244 0 0
+dlin 188 33 288 225
+wait 5
+cpen 245 0 255
+dlin 190 35 290 227
+wait 3
+cpen 255 255 255
+dlin 233 20 242 235
+cpen 244 0 0
+dlin 184 36 292 222
+wait 5
+cpen 245 0 255
+dlin 186 38 294 224
+wait 3
+cpen 255 255 255
+dlin 228 20 247 234
+cpen 244 0 0
+dlin 180 38 296 220
+wait 5
+cpen 245 0 255
+dlin 182 40 298 222
+wait 3
+cpen 255 255 255
+dlin 224 21 252 234
+cpen 244 0 0
+dlin 176 41 300 218
+wait 5
+cpen 245 0 255
+dlin 178 43 302 220
+wait 3
+cpen 255 255 255
+dlin 219 22 256 234
+cpen 244 0 0
+dlin 172 44 304 215
+wait 5
+cpen 245 0 255
+dlin 174 46 306 217
+wait 3
+cpen 255 255 255
+dlin 214 23 261 233
+cpen 245 0 0
+dlin 169 47 308 212
+wait 5
+cpen 246 0 255
+dlin 171 49 310 214
+wait 3
+cpen 255 255 255
+dlin 210 24 266 232
+cpen 245 0 0
+dlin 165 50 311 210
+wait 5
+cpen 246 0 255
+dlin 167 52 313 212
+wait 3
+cpen 255 255 255
+dlin 205 25 270 231
+cpen 245 0 0
+dlin 162 54 315 206
+wait 5
+cpen 246 0 255
+dlin 164 56 317 208
+wait 3
+cpen 255 255 255
+dlin 201 27 275 230
+cpen 245 0 0
+dlin 159 57 318 203
+wait 5
+cpen 246 0 255
+dlin 161 59 320 205
+wait 3
+cpen 255 255 255
+dlin 197 29 279 228
+cpen 245 0 0
+dlin 156 61 321 200
+wait 5
+cpen 246 0 255
+dlin 158 63 323 202
+wait 3
+cpen 255 255 255
+dlin 192 31 284 226
+cpen 245 0 0
+dlin 153 65 324 196
+wait 5
+cpen 246 0 255
+dlin 155 67 326 198
+wait 3
+cpen 255 255 255
+dlin 188 33 288 225
+cpen 246 0 0
+dlin 150 69 327 193
+wait 5
+cpen 247 0 255
+dlin 152 71 329 195
+wait 3
+cpen 255 255 255
+dlin 184 36 292 222
+cpen 246 0 0
+dlin 147 73 330 189
+wait 5
+cpen 247 0 255
+dlin 149 75 332 191
+wait 3
+cpen 255 255 255
+dlin 180 38 296 220
+cpen 246 0 0
+dlin 145 77 332 185
+wait 5
+cpen 247 0 255
+dlin 147 79 334 187
+wait 3
+cpen 255 255 255
+dlin 176 41 300 218
+cpen 246 0 0
+dlin 143 81 335 181
+wait 5
+cpen 247 0 255
+dlin 145 83 337 183
+wait 3
+cpen 255 255 255
+dlin 172 44 304 215
+cpen 246 0 0
+dlin 140 86 337 177
+wait 5
+cpen 247 0 255
+dlin 142 88 339 179
+wait 3
+cpen 255 255 255
+dlin 169 47 308 212
+cpen 247 0 0
+dlin 139 90 339 173
+wait 5
+cpen 248 0 255
+dlin 141 92 341 175
+wait 3
+cpen 255 255 255
+dlin 165 50 311 210
+cpen 247 0 0
+dlin 137 95 341 169
+wait 5
+cpen 248 0 255
+dlin 139 97 343 171
+wait 3
+cpen 255 255 255
+dlin 162 54 315 206
+cpen 247 0 0
+dlin 135 99 342 164
+wait 5
+cpen 248 0 255
+dlin 137 101 344 166
+wait 3
+cpen 255 255 255
+dlin 159 57 318 203
+cpen 247 0 0
+dlin 134 104 344 160
+wait 5
+cpen 248 0 255
+dlin 136 106 346 162
+wait 3
+cpen 255 255 255
+dlin 156 61 321 200
+cpen 247 0 0
+dlin 133 109 345 156
+wait 5
+cpen 248 0 255
+dlin 135 111 347 158
+wait 3
+cpen 255 255 255
+dlin 153 65 324 196
+cpen 247 0 0
+dlin 132 114 346 151
+wait 5
+cpen 248 0 255
+dlin 134 116 348 153
+wait 3
+cpen 255 255 255
+dlin 150 69 327 193
+cpen 248 0 0
+dlin 131 118 347 147
+wait 5
+cpen 249 0 255
+dlin 133 120 349 149
+wait 3
+cpen 255 255 255
+dlin 147 73 330 189
+cpen 248 0 0
+dlin 131 123 347 142
+wait 5
+cpen 249 0 255
+dlin 133 125 349 144
+wait 3
+cpen 255 255 255
+dlin 145 77 332 185
+cpen 248 0 0
+dlin 130 128 348 138
+wait 5
+cpen 249 0 255
+dlin 132 130 350 140
+wait 3
+cpen 255 255 255
+dlin 143 81 335 181
+cpen 248 0 0
+dlin 130 133 348 133
+wait 5
+cpen 249 0 255
+dlin 132 135 350 135
+wait 3
+cpen 255 255 255
+dlin 140 86 337 177
+cpen 248 0 0
+dlin 130 138 348 128
+wait 5
+cpen 249 0 255
+dlin 132 140 350 130
+wait 3
+cpen 255 255 255
+dlin 139 90 339 173
+cpen 248 0 0
+dlin 131 143 347 124
+wait 5
+cpen 249 0 255
+dlin 133 145 349 126
+wait 3
+cpen 255 255 255
+dlin 137 95 341 169
+cpen 249 0 0
+dlin 131 148 347 119
+wait 5
+cpen 250 0 255
+dlin 133 150 349 121
+wait 3
+cpen 255 255 255
+dlin 135 99 342 164
+cpen 249 0 0
+dlin 132 153 346 115
+wait 5
+cpen 250 0 255
+dlin 134 155 348 117
+wait 3
+cpen 255 255 255
+dlin 134 104 344 160
+cpen 249 0 0
+dlin 133 158 345 110
+wait 5
+cpen 250 0 255
+dlin 135 160 347 112
+wait 3
+cpen 255 255 255
+dlin 133 109 345 156
+cpen 249 0 0
+dlin 134 162 344 106
+wait 5
+cpen 250 0 255
+dlin 136 164 346 108
+wait 3
+cpen 255 255 255
+dlin 132 114 346 151
+cpen 249 0 0
+dlin 135 167 343 102
+wait 5
+cpen 250 0 255
+dlin 137 169 345 104
+wait 3
+cpen 255 255 255
+dlin 131 118 347 147
+cpen 250 0 0
+dlin 137 172 342 97
+wait 5
+cpen 251 0 255
+dlin 139 174 344 99
+wait 3
+cpen 255 255 255
+dlin 131 123 347 142
+cpen 250 0 0
+dlin 138 176 340 93
+wait 5
+cpen 251 0 255
+dlin 140 178 342 95
+wait 3
+cpen 255 255 255
+dlin 130 128 348 138
+cpen 250 0 0
+dlin 140 181 338 89
+wait 5
+cpen 251 0 255
+dlin 142 183 340 91
+wait 3
+cpen 255 255 255
+dlin 130 133 348 133
+cpen 250 0 0
+dlin 142 185 336 85
+wait 5
+cpen 251 0 255
+dlin 144 187 338 87
+wait 3
+cpen 255 255 255
+dlin 130 138 348 128
+cpen 250 0 0
+dlin 145 190 334 81
+wait 5
+cpen 251 0 255
+dlin 147 192 336 83
+wait 3
+cpen 255 255 255
+dlin 131 143 347 124
+cpen 250 0 0
+dlin 147 194 331 77
+wait 5
+cpen 251 0 255
+dlin 149 196 333 79
+wait 3
+cpen 255 255 255
+dlin 131 148 347 119
+cpen 251 0 0
+dlin 150 198 329 73
+wait 5
+cpen 252 0 255
+dlin 152 200 331 75
+wait 3
+cpen 255 255 255
+dlin 132 153 346 115
+cpen 251 0 0
+dlin 153 202 326 69
+wait 5
+cpen 252 0 255
+dlin 155 204 328 71
+wait 3
+cpen 255 255 255
+dlin 133 158 345 110
+cpen 251 0 0
+dlin 156 206 323 66
+wait 5
+cpen 252 0 255
+dlin 158 208 325 68
+wait 3
+cpen 255 255 255
+dlin 134 162 344 106
+cpen 251 0 0
+dlin 159 210 320 62
+wait 5
+cpen 252 0 255
+dlin 161 212 322 64
+wait 3
+cpen 255 255 255
+dlin 135 167 343 102
+cpen 251 0 0
+dlin 162 214 317 59
+wait 5
+cpen 252 0 255
+dlin 164 216 319 61
+wait 3
+cpen 255 255 255
+dlin 137 172 342 97
+cpen 251 0 0
+dlin 165 217 313 56
+wait 5
+cpen 252 0 255
+dlin 167 219 315 58
+wait 3
+cpen 255 255 255
+dlin 138 176 340 93
+cpen 252 0 0
+dlin 169 220 310 53
+wait 5
+cpen 253 0 255
+dlin 171 222 312 55
+wait 3
+cpen 255 255 255
+dlin 140 181 338 89
+cpen 252 0 0
+dlin 173 224 306 50
+wait 5
+cpen 253 0 255
+dlin 175 226 308 52
+wait 3
+cpen 255 255 255
+dlin 142 185 336 85
+cpen 252 0 0
+dlin 177 227 302 47
+wait 5
+cpen 253 0 255
+dlin 179 229 304 49
+wait 3
+cpen 255 255 255
+dlin 145 190 334 81
+cpen 252 0 0
+dlin 181 229 298 45
+wait 5
+cpen 253 0 255
+dlin 183 231 300 47
+wait 3
+cpen 255 255 255
+dlin 147 194 331 77
+cpen 252 0 0
+dlin 185 232 294 42
+wait 5
+cpen 253 0 255
+dlin 187 234 296 44
+wait 3
+cpen 255 255 255
+dlin 150 198 329 73
+cpen 253 0 0
+dlin 189 235 290 40
+wait 5
+cpen 254 0 255
+dlin 191 237 292 42
+wait 3
+cpen 255 255 255
+dlin 153 202 326 69
+cpen 253 0 0
+dlin 193 237 286 38
+wait 5
+cpen 254 0 255
+dlin 195 239 288 40
+wait 3
+cpen 255 255 255
+dlin 156 206 323 66
+cpen 253 0 0
+dlin 197 239 281 36
+wait 5
+cpen 254 0 255
+dlin 199 241 283 38
+wait 3
+cpen 255 255 255
+dlin 159 210 320 62
+cpen 253 0 0
+dlin 202 241 277 35
+wait 5
+cpen 254 0 255
+dlin 204 243 279 37
+wait 3
+cpen 255 255 255
+dlin 162 214 317 59
+cpen 253 0 0
+dlin 206 243 272 33
+wait 5
+cpen 254 0 255
+dlin 208 245 274 35
+wait 3
+cpen 255 255 255
+dlin 165 217 313 56
+cpen 253 0 0
+dlin 211 244 268 32
+wait 5
+cpen 254 0 255
+dlin 213 246 270 34
+wait 3
+cpen 255 255 255
+dlin 169 220 310 53
+cpen 254 0 0
+dlin 216 246 263 31
+wait 5
+cpen 255 0 255
+dlin 218 248 265 33
+wait 3
+cpen 255 255 255
+dlin 173 224 306 50
+cpen 254 0 0
+dlin 220 247 259 30
+wait 5
+cpen 255 0 255
+dlin 222 249 261 32
+wait 3
+cpen 255 255 255
+dlin 177 227 302 47
+cpen 254 0 0
+dlin 225 248 254 30
+wait 5
+cpen 255 0 255
+dlin 227 250 256 32
+wait 3
+cpen 255 255 255
+dlin 181 229 298 45
+cpen 254 0 0
+dlin 230 248 249 29
+wait 5
+cpen 255 0 255
+dlin 232 250 251 31
+wait 3
+cpen 255 255 255
+dlin 185 232 294 42
+cpen 254 0 0
+dlin 235 249 244 29
+wait 5
+cpen 255 0 255
+dlin 237 251 246 31
+wait 3
+cpen 255 255 255
+dlin 189 235 290 40
+cpen 255 0 0
+dlin 239 249 239 29
+wait 5
+cpen 255 0 255
+dlin 241 251 241 31
+wait 3
+cpen 255 255 255
+dlin 193 237 286 38
+cpen 255 255 255
+dlin 197 239 281 36
+cpen 255 255 255
+dlin 202 241 277 35
+cpen 255 255 255
+dlin 206 243 272 33
+cpen 255 255 255
+dlin 211 244 268 32
+cpen 255 255 255
+dlin 216 246 263 31
+cpen 255 255 255
+dlin 220 247 259 30
+cpen 255 255 255
+dlin 225 248 254 30
+cpen 255 255 255
+dlin 230 248 249 29
+cpen 255 255 255
+dlin 235 249 244 29
+cpen 255 255 255
+dlin 239 249 239 29
+END

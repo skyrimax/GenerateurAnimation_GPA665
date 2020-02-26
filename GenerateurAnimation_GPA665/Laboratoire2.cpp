@@ -14,9 +14,26 @@
 void Execute(ExecuteMode ExecMode, const char *sScriptFile)
 {
 	static Animation Anim;	//Structure contenant l'information générale sur votre structure de données
+
+	switch (ExecMode)
+	{
+	case emOpenScript:
+		OpenScript(&Anim, sScriptFile);
+		break;
+	case emFreeScript:
+		FreeScript(&Anim);
+		break;
+	case emPlayForward:
+		PlayForwardScript(&Anim);
+		break;
+	case emPlayBackward:
+		PlayBackwardScript(&Anim);
+		break;
+	default:
+		break;
+	}
 }
 //------------------------------------------------------------
-
 
 //------------------------------------------------------------
 //- Ouvre le fichier contenant le script et construit toute --
@@ -24,8 +41,7 @@ void Execute(ExecuteMode ExecMode, const char *sScriptFile)
 //------------------------------------------------------------
 int OpenScript(Animation *Anim, const char *sScriptFile)
 {
-
-	return true;
+	return Anim->load(sScriptFile);
 }
 //------------------------------------------------------------
 
@@ -35,8 +51,7 @@ int OpenScript(Animation *Anim, const char *sScriptFile)
 //------------------------------------------------------------
 int FreeScript(Animation *Anim)
 {
-
-	return true;
+	return Anim->unload();
 }
 //------------------------------------------------------------
 
@@ -46,8 +61,7 @@ int FreeScript(Animation *Anim)
 //------------------------------------------------------------
 int PlayForwardScript(Animation *Anim)
 {
-
-	return true;
+	return Anim->playForward();
 }
 //------------------------------------------------------------
 
@@ -57,7 +71,6 @@ int PlayForwardScript(Animation *Anim)
 //------------------------------------------------------------
 int PlayBackwardScript(Animation *Anim)
 {
-
-	return true;
+	return Anim->playBackward();
 }
 //------------------------------------------------------------

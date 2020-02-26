@@ -1,0 +1,51 @@
+cercle récursif!!!
+INIT
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+FRAME
+dcir 150 150 150
+wait 100
+FRAME
+dcir 225 150 75
+wait 100
+FRAME
+dcir 262 150 37
+wait 100
+FRAME
+dcir 280 150 18
+wait 100
+FRAME
+dcir 244 150 18
+wait 100
+FRAME
+dcir 188 150 37
+wait 100
+FRAME
+dcir 206 150 18
+wait 100
+FRAME
+dcir 170 150 18
+wait 100
+FRAME
+dcir 75 150 75
+wait 100
+FRAME
+dcir 112 150 37
+wait 100
+FRAME
+dcir 130 150 18
+wait 100
+FRAME
+dcir 94 150 18
+wait 100
+FRAME
+dcir 38 150 37
+wait 100
+FRAME
+dcir 56 150 18
+wait 100
+FRAME
+dcir 20 150 18
+wait 100
+END

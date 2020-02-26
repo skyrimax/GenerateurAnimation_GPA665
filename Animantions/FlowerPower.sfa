@@ -1,0 +1,1573 @@
+Flower Power (par Mylène Desrochers et Sébatien Michaud)
+INIT
+cpen 0 0 0 
+cbru 255 255 255
+eras 255 255 255
+
+-1
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 202 144 242 184
+dell 238 144 278 184
+dell 249 111 289 151
+dell 220 90  260 130
+dell 191 111 231 151
+wait 400
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 202 144 242 184
+dell 238 144 278 184
+dell 249 111 289 151
+dell 220 90  260 130
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+wait 400
+
+-2
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 202 144 242 184
+dell 238 144 278 184
+dell 249 111 289 151
+dell 220 90  260 130
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 350 50 Un peu
+wait 100
+
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 202 144 242 184
+dell 238 144 278 184
+dell 249 111 289 151
+dell 220 80  260 120
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 350 50 Un peu
+msnd harp.wav
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 202 144 242 184
+dell 238 144 278 184
+dell 249 111 289 151
+dell 220 70  260 110
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 350 50 Un peu
+wait 100
+
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 202 144 242 184
+dell 238 144 278 184
+dell 249 111 289 151
+dell 220 60  260 100
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 350 50 Un peu
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 202 144 242 184
+dell 238 144 278 184
+dell 249 111 289 151
+dell 220 50  260 90
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 350 50 Un peu
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 202 144 242 184
+dell 238 144 278 184
+dell 249 111 289 151
+dell 220 40  260 80
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 350 50 Un peu
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 202 144 242 184
+dell 238 144 278 184
+dell 249 111 289 151
+dell 220 30  260 70
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 350 50 Un peu
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 202 144 242 184
+dell 238 144 278 184
+dell 249 111 289 151
+dell 220 20  260 60
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 350 50 Un peu
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 202 144 242 184
+dell 238 144 278 184
+dell 249 111 289 151
+dell 220 10  260 50
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 350 50 Un peu
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 202 144 242 184
+dell 238 144 278 184
+dell 249 111 289 151
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 350 50 Un peu
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 202 144 242 184
+dell 238 144 278 184
+dell 249 111 289 151
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+wait 400
+
+-3
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 202 144 242 184
+dell 238 144 278 184
+dell 249 111 289 151
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 350 150 Beaucoup
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 202 144 242 184
+dell 238 144 278 184
+dell 269 111 309 151
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 350 150 Beaucoup
+msnd harp.wav
+wait 100
+
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 202 144 242 184
+dell 238 144 278 184
+dell 289 111 329 151
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 350 150 Beaucoup
+wait 100
+
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 202 144 242 184
+dell 238 144 278 184
+dell 309 111 349 151
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 350 150 Beaucoup
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 202 144 242 184
+dell 238 144 278 184
+dell 329 111 369 151
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 350 150 Beaucoup
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 202 144 242 184
+dell 238 144 278 184
+dell 349 111 389 151
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 350 150 Beaucoup
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 202 144 242 184
+dell 238 144 278 184
+dell 369 111 409 151
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 350 150 Beaucoup
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 202 144 242 184
+dell 238 144 278 184
+dell 389 111 429 151
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 350 150 Beaucoup
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 202 144 242 184
+dell 238 144 278 184
+dell 409 111 449 151
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 350 150 Beaucoup
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 202 144 242 184
+dell 238 144 278 184
+dell 429 111 469 151
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 350 150 Beaucoup
+wait 100
+
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 202 144 242 184
+dell 238 144 278 184
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+wait 400
+
+-4
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 202 144 242 184
+dell 238 144 278 184
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 375 225 Pasionnément
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 202 144 242 184
+dell 258 164 298 204
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 375 225 Pasionnément
+msnd harp.wav
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 202 144 242 184
+dell 278 184 318 224
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 375 225 Pasionnément
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 202 144 242 184
+dell 298 204 338 244
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 375 225 Pasionnément
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 202 144 242 184
+dell 318 224 358 264
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 375 225 Pasionnément
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 202 144 242 184
+dell 338 244 378 284
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 375 225 Pasionnément
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 202 144 242 184
+dell 358 264 398 304
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 375 225 Pasionnément
+wait 100
+
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 202 144 242 184
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 375 225 Pasionnément
+wait 100
+
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 202 144 242 184
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+wait 400
+
+-5
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 202 144 242 184
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 25 225 À la folie
+wait 100
+
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 192 154 232 194
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 25 225 À la folie
+msnd harp.wav
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 182 164 222 204
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 25 225 À la folie
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 172 174 212 214
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 25 225 À la folie
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 162 184 202 224
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 25 225 À la folie
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 152 194 192 234
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 25 225 À la folie
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 142 204 182 244
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 25 225 À la folie
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 132 214 172 254
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 25 225 À la folie
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 122 224 162 264
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 25 225 À la folie
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 112 234 152 274
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 25 225 À la folie
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 102 244 142 284
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 25 225 À la folie
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 92 254 132 294
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 25 225 À la folie
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 82 264 122 304
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 25 225 À la folie
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 25 225 À la folie
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+wait 200
+
+-6
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 191 111 231 151
+dtxt 50 50 Il m'aime...
+dtxt 200 10 Pas du tout
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 181 111 221 151
+dtxt 50 50 Il m'aime...
+dtxt 200 10 Pas du tout
+msnd harp.wav
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 171 111 211 151
+dtxt 50 50 Il m'aime...
+dtxt 200 10 Pas du tout
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 161 111 201 151
+dtxt 50 50 Il m'aime...
+dtxt 200 10 Pas du tout
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 151 111 191 151
+dtxt 50 50 Il m'aime...
+dtxt 200 10 Pas du tout
+
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 141 111 181 151
+dtxt 50 50 Il m'aime...
+dtxt 200 10 Pas du tout
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 131 111 171 151
+dtxt 50 50 Il m'aime...
+dtxt 200 10 Pas du tout
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 121 111 161 151
+dtxt 50 50 Il m'aime...
+dtxt 200 10 Pas du tout
+wait 100
+
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 111 111 151 151
+dtxt 50 50 Il m'aime...
+dtxt 200 10 Pas du tout
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 101 111 141 151
+dtxt 50 50 Il m'aime...
+dtxt 200 10 Pas du tout
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 91 111 131 151
+dtxt 50 50 Il m'aime...
+dtxt 200 10 Pas du tout
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 81 111 121 151
+dtxt 50 50 Il m'aime...
+dtxt 200 10 Pas du tout
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 71 111 111 151
+dtxt 50 50 Il m'aime...
+dtxt 200 10 Pas du tout
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 61 111 101 151
+dtxt 50 50 Il m'aime...
+dtxt 200 10 Pas du tout
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 51 111 91 151
+dtxt 50 50 Il m'aime...
+dtxt 200 10 Pas du tout
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 41 111 81 151
+dtxt 50 50 Il m'aime...
+dtxt 200 10 Pas du tout
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 31 111 71 151
+dtxt 50 50 Il m'aime...
+dtxt 200 10 Pas du tout
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 21 111 61 151
+dtxt 50 50 Il m'aime...
+dtxt 200 10 Pas du tout
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 11 111 51 151
+dtxt 50 50 Il m'aime...
+dtxt 200 10 Pas du tout
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dell 1 111 41 151
+dtxt 50 50 Il m'aime...
+dtxt 200 10 Pas du tout
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+
+cbru 255 0 0
+cpen 0 0 0 
+dtxt 50 50 Il m'aime...
+dtxt 200 10 Pas du tout
+wait 100
+
+-centre fleur
+
+FRAME
+eras 255 255 255
+cbru 0 150 0
+cpen 0 150 0 
+drec 239 155 241 350
+dtxt 50 50 Il m'aime...
+dtxt 200 10 Pas du tout
+
+cbru 255 216 0
+cpen 0 0 0 
+dell 225 125 255 155
+wait 100
+
+
+FRAME
+eras 255 255 255
+cbru 0 150 0
+cpen 0 150 0 
+drec 235 151 245 355
+dtxt 50 50 Il m'aime...
+dtxt 200 10 Pas du tout
+
+cbru 255 216 0
+cpen 0 0 0 
+dell 185 85 295 195
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 0 150 0
+cpen 0 150 0 
+drec 231 137 249 359
+dtxt 50 50 Il m'aime...
+dtxt 200 10 Pas du tout
+
+cbru 255 216 0
+cpen 0 0 0 
+dell 145 45 335 235
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 0 150 0
+cpen 0 150 0 
+drec 227 133 253 363
+dtxt 50 50 Il m'aime...
+dtxt 200 10 Pas du tout
+
+cbru 255 216 0
+cpen 0 0 0 
+dell 105 05 375 275
+wait 100
+
+FRAME
+eras 255 255 255
+cbru 0 150 0
+cpen 0 150 0 
+drec 227 133 253 363
+dtxt 50 50 Il m'aime...
+dtxt 200 10 Pas du tout
+
+cbru 255 216 0
+cpen 0 0 0 
+dell 105 05 375 275
+
+cbru 0 0 0 
+cpen 0 0 0
+dell 170 100 195 120
+dell 290 100 315 120
+drec 235 140 240 170
+drec 195 220 290 215
+msnd womancry.wav
+wait 400
+
+FRAME
+eras 255 255 255
+cbru 0 150 0
+cpen 0 150 0 
+drec 227 133 253 363
+dtxt 50 50 Il m'aime...
+dtxt 200 10 Pas du tout
+
+cbru 255 216 0
+cpen 0 0 0 
+dell 105 05 375 275
+
+cbru 0 0 0 
+cpen 0 0 0
+dell 170 108 195 112
+dell 290 108 315 112
+drec 235 140 240 170
+drec 195 220 290 215
+dtxt 30 100 ??
+dtxt 60 150 ??
+dtxt 15 200 ??
+dtxt 450 100 ??
+dtxt 400 150 ??
+dtxt 425 200 ??
+wait 250
+
+FRAME
+eras 255 255 255
+cbru 0 150 0
+cpen 0 150 0 
+drec 227 133 253 363
+dtxt 50 50 Il m'aime...
+dtxt 200 10 Pas du tout
+
+cbru 255 216 0
+cpen 0 0 0 
+dell 105 05 375 275
+
+cbru 0 0 0 
+cpen 0 0 0
+dell 170 100 195 120
+dell 290 100 315 120
+drec 235 140 240 170
+drec 195 220 290 215
+dtxt 30 100 ??
+dtxt 60 150 ??
+dtxt 15 200 ??
+dtxt 450 100 ??
+dtxt 400 150 ??
+dtxt 425 200 ??
+wait 800
+
+FRAME
+eras 255 255 255
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 227 133 253 363
+dtxt 50 50 Il m'aime...
+dtxt 200 10 Pas du tout
+
+
+cbru 255 216 0
+cpen 0 0 0 
+dell 105 05 375 275
+
+cbru 0 0 0 
+cpen 0 0 0
+dell 170 108 195 112
+dell 290 108 315 112
+drec 235 140 240 170
+drec 195 220 290 215
+dtxt 30 100 ??
+dtxt 60 150 ??
+dtxt 15 200 ??
+dtxt 450 100 ??
+dtxt 400 150 ??
+dtxt 425 200 ??
+wait 250
+
+FRAME
+eras 255 255 255
+cbru 0 150 0
+cpen 0 150 0 
+drec 227 133 253 363
+dtxt 50 50 Il m'aime...
+dtxt 200 10 Pas du tout
+
+cbru 255 216 0
+cpen 0 0 0 
+dell 105 05 375 275
+
+cbru 0 0 0 
+cpen 0 0 0
+dell 170 100 195 120
+dell 290 100 315 120
+drec 235 140 240 170
+dell 205 200 270 230
+dtxt 30 100 ??
+dtxt 60 150 ??
+dtxt 15 200 ??
+dtxt 450 100 ??
+dtxt 400 150 ??
+dtxt 425 200 ??
+wait 400
+
+FRAME
+eras 255 255 255
+cbru 0 150 0
+cpen 0 150 0 
+drec 227 133 253 363
+dtxt 50 50 Il m'aime...
+dtxt 200 10 Pas du tout
+
+cbru 255 216 0
+cpen 0 0 0 
+dell 105 05 375 275
+
+cbru 0 0 0 
+cpen 0 0 0
+dell 170 100 195 120
+dell 290 100 315 120
+drec 235 140 240 170
+dell 205 200 270 230
+dtxt 30 100 ??
+dtxt 60 150 ??
+dtxt 15 200 ??
+dtxt 450 100 ??
+dtxt 400 150 ??
+dtxt 425 200 ??
+wait 400
+FRAME
+eras 255 255 255
+
+cbru 0 150 0
+cpen 0 150 0 
+drec 227 133 253 363
+dtxt 50 50 Il m'aime...
+dtxt 200 10 Pas du tout
+
+
+cbru 255 216 0
+cpen 0 0 0 
+dell 105 05 375 275
+
+cbru 0 0 0 
+cpen 0 0 0
+dell 170 108 195 112
+dell 290 108 315 112
+drec 235 140 240 170
+drec 195 220 290 215
+dtxt 30 100 ??
+dtxt 60 150 ??
+dtxt 15 200 ??
+dtxt 450 100 ??
+dtxt 400 150 ??
+dtxt 425 200 ??
+wait 250
+
+FRAME
+eras 255 255 255
+cbru 0 150 0
+cpen 0 150 0 
+drec 227 133 253 363
+dtxt 50 50 Il m'aime...
+dtxt 200 10 Pas du tout
+
+cbru 255 216 0
+cpen 0 0 0 
+dell 105 05 375 275
+
+cbru 0 0 0 
+cpen 0 0 0
+dell 170 100 195 120
+dell 290 100 315 120
+drec 235 140 240 170
+drec 195 220 290 215
+dtxt 30 100 ??
+dtxt 60 150 ??
+dtxt 15 200 ??
+dtxt 450 100 ??
+dtxt 400 150 ??
+dtxt 425 200 ??
+wait 800
+
+END
+
+

@@ -1,0 +1,1282 @@
+ICE HOCKEY MASTER
+INIT
+cpen 255 255 255
+cbru 255 255 255
+eras 0 0 0 
+FRAME
+cpen 150 150 150
+cbru 150 150 150
+dsqr 200 300 20
+wait 500
+FRAME
+dsqr 220 300 20
+wait 500
+FRAME
+dsqr 240 300 20
+wait 500
+FRAME
+dsqr 260 300 20
+wait 500
+FRAME
+dsqr 320 300 20
+wait 500
+FRAME
+dsqr 320 280 20
+wait 500
+FRAME
+dsqr 300 280 20
+wait 500
+FRAME
+dsqr 320 260 20
+wait 500
+FRAME
+dsqr 280 260 20
+wait 500
+FRAME
+dsqr 260 260 20
+wait 500
+FRAME
+dsqr 240 260 20
+wait 500
+FRAME
+dsqr 220 260 20
+wait 500
+FRAME
+dsqr 200 260 20
+wait 500
+FRAME
+dsqr 180 240 20
+wait 500
+FRAME
+dsqr 200 240 20
+wait 500
+FRAME
+dsqr 220 240 20
+wait 500
+FRAME
+dsqr 240 240 20
+wait 500
+FRAME
+dsqr 260 240 20
+wait 500
+FRAME
+dsqr 280 240 20
+wait 500
+FRAME
+dsqr 300 240 20
+wait 500
+FRAME
+dsqr 180 220 20
+wait 500
+FRAME
+dsqr 160 220 20
+wait 500
+FRAME
+dsqr 200 200 20
+wait 500
+FRAME
+dsqr 220 200 20
+wait 500
+FRAME
+dsqr 240 200 20
+wait 500
+FRAME
+dsqr 260 200 20
+wait 500
+FRAME
+dsqr 240 180 20
+wait 500
+FRAME
+dsqr 240 160 20
+wait 500
+FRAME
+dsqr 240 140 20
+wait 500
+FRAME
+dsqr 220 140 20
+wait 500
+FRAME
+dsqr 200 140 20
+wait 500
+FRAME
+dsqr 300 180 20
+wait 500
+FRAME
+dsqr 180 160 20
+wait 500
+FRAME
+dsqr 140 160 20
+wait 500
+FRAME
+dsqr 120 160 20
+wait 500
+FRAME
+dsqr 300 120 20
+wait 500
+FRAME
+dsqr 320 100 20
+wait 500
+FRAME
+dsqr 340 80 20
+wait 500
+FRAME
+dsqr 340 60 20
+wait 500
+FRAME
+dsqr 360 60 20
+wait 500
+FRAME
+dsqr 340 40 20
+wait 500
+FRAME
+dsqr 360 40 20
+wait 500
+FRAME
+dsqr 320 40 20
+wait 500
+FRAME
+dsqr 320 20 20
+wait 500
+FRAME
+dsqr 340 20 20
+wait 500
+FRAME
+dsqr 200 120 20
+wait 500
+FRAME
+dsqr 200 100 20
+wait 500
+FRAME
+dsqr 140 120 20
+wait 500
+FRAME
+dsqr 140 100 20
+wait 500
+FRAME
+dsqr 100 120 20
+wait 500
+FRAME
+dsqr 100 100 20
+wait 500
+FRAME
+dsqr 80 80 20
+wait 500
+FRAME
+dsqr 100 80 20
+wait 500
+FRAME
+dsqr 120 80 20
+wait 500
+FRAME
+dsqr 140 80 20
+wait 500
+FRAME
+dsqr 160 80 20
+wait 500
+FRAME
+dsqr 180 80 20
+wait 500
+FRAME
+dsqr 260 120 20
+wait 500
+FRAME
+dsqr 100 40 20
+wait 500
+FRAME
+dsqr 120 40 20
+wait 500
+FRAME
+dsqr 140 40 20
+wait 500
+FRAME
+dsqr 160 40 20
+wait 500
+FRAME
+dsqr 180 40 20
+wait 500
+FRAME
+dsqr 180 20 20
+wait 500
+--------------------------COULEUR2
+FRAME
+cpen 255 0 0
+cbru 255 0 0
+dsqr 160 20 20
+wait 500
+FRAME
+dsqr 140 20 20
+wait 500
+FRAME
+dsqr 120 20 20
+wait 500
+FRAME
+dsqr 100 20 20
+wait 500
+FRAME
+dsqr 200 20 20
+wait 500
+FRAME
+dsqr 220 20 20
+wait 500
+FRAME
+dsqr 200 40 20
+wait 500
+FRAME
+dsqr 220 40 20
+wait 500
+FRAME
+dsqr 240 40 20
+wait 500
+FRAME
+dsqr 260 40 20
+wait 500
+FRAME
+dsqr 80 40 20
+wait 500
+FRAME
+dsqr 200 60 20
+wait 500
+FRAME
+dsqr 220 60 20
+wait 500
+FRAME
+dsqr 240 60 20
+wait 500
+FRAME
+dsqr 260 60 20
+wait 500
+FRAME
+dsqr 180 60 20
+wait 500
+FRAME
+dsqr 160 60 20
+wait 500
+FRAME
+dsqr 140 60 20
+wait 500
+FRAME
+dsqr 120 60 20
+wait 500
+FRAME
+dsqr 100 60 20
+wait 500
+FRAME
+dsqr 80 60 20
+wait 500
+FRAME
+dsqr 200 80 20
+wait 500
+FRAME
+dsqr 220 80 20
+wait 500
+FRAME
+dsqr 240 80 20
+wait 500
+FRAME
+dsqr 260 80 20
+wait 500
+FRAME
+dsqr 220 100 20
+wait 500
+FRAME
+dsqr 240 100 20
+wait 500
+FRAME
+dsqr 260 100 20
+wait 500
+FRAME
+dsqr 220 120 20
+wait 500
+FRAME
+dsqr 240 120 20
+wait 500
+FRAME
+dsqr 200 160 20
+wait 500
+FRAME
+dsqr 220 160 20
+wait 500
+FRAME
+dsqr 200 180 20
+wait 500
+FRAME
+dsqr 220 180 20
+wait 500
+FRAME
+dsqr 180 180 20
+wait 500
+FRAME
+dsqr 160 180 20
+wait 500
+FRAME
+dsqr 140 180 20
+wait 500
+FRAME
+dsqr 180 200 20
+wait 500
+FRAME
+dsqr 160 200 20
+wait 500
+FRAME
+dsqr 140 200 20
+wait 500
+FRAME
+dsqr 280 200 20
+wait 500
+FRAME
+dsqr 300 200 20
+wait 500
+FRAME
+dsqr 300 220 20
+wait 500
+FRAME
+dsqr 280 220 20
+wait 500
+FRAME
+dsqr 260 220 20
+wait 500
+FRAME
+dsqr 240 220 20
+wait 500
+FRAME
+dsqr 220 220 20
+wait 500
+FRAME
+dsqr 200 220 20
+wait 500
+FRAME
+dsqr 300 260 20
+wait 500
+FRAME
+dsqr 280 280 20
+wait 500
+FRAME
+dsqr 260 280 20
+wait 500
+FRAME
+dsqr 240 280 20
+wait 500
+FRAME
+dsqr 220 280 20
+wait 500
+-------------------------couleur3
+FRAME
+cpen 235 222 194
+cbru 235 222 194
+dsqr 80 120 20
+wait 500
+FRAME
+dsqr 120 120 20
+wait 500
+FRAME
+dsqr 120 100 20
+wait 500
+FRAME
+dsqr 120 140 20
+wait 500
+FRAME
+dsqr 100 140 20
+wait 500
+FRAME
+dsqr 140 140 20
+wait 500
+FRAME
+dsqr 160 140 20
+wait 500
+FRAME
+dsqr 180 140 20
+wait 500
+FRAME
+dsqr 160 120 20
+wait 500
+FRAME
+dsqr 160 100 20
+wait 500
+FRAME
+dsqr 160 160 20
+wait 500
+FRAME
+dsqr 180 140 20
+wait 500
+FRAME
+dsqr 180 120 20
+wait 500
+FRAME
+dsqr 180 100 20
+wait 500
+FRAME
+dsqr 260 160 20
+wait 500
+FRAME
+dsqr 280 160 20
+wait 500
+FRAME
+dsqr 300 160 20
+wait 500
+FRAME
+dsqr 280 140 20
+wait 500
+FRAME
+dsqr 300 140 20
+wait 500
+FRAME
+dsqr 260 180 20
+wait 500
+FRAME
+dsqr 280 180 20
+dtxt 10 10 LE CANADA 
+wait 1500
+
+---------------------------------------------
+FRAME
+eras 0 0 0 
+cpen 0 0 255
+cbru 0 0 255
+dsqr 200 300 20
+wait 500
+FRAME
+dsqr 220 300 20
+wait 500
+FRAME
+dsqr 240 300 20
+wait 500
+FRAME
+dsqr 260 300 20
+wait 500
+FRAME
+dsqr 320 300 20
+wait 500
+FRAME
+dsqr 320 280 20
+wait 500
+FRAME
+dsqr 300 280 20
+wait 500
+FRAME
+dsqr 320 260 20
+wait 500
+FRAME
+dsqr 280 260 20
+wait 500
+FRAME
+dsqr 260 260 20
+wait 500
+FRAME
+dsqr 240 260 20
+wait 500
+FRAME
+dsqr 220 260 20
+wait 500
+FRAME
+dsqr 200 260 20
+wait 500
+FRAME
+dsqr 180 240 20
+wait 500
+FRAME
+dsqr 200 240 20
+wait 500
+FRAME
+dsqr 220 240 20
+wait 500
+FRAME
+dsqr 240 240 20
+wait 500
+FRAME
+dsqr 260 240 20
+wait 500
+FRAME
+dsqr 280 240 20
+wait 500
+FRAME
+dsqr 300 240 20
+wait 500
+FRAME
+dsqr 180 220 20
+wait 500
+FRAME
+dsqr 160 220 20
+wait 500
+FRAME
+dsqr 200 200 20
+wait 500
+FRAME
+dsqr 220 200 20
+wait 500
+FRAME
+dsqr 240 200 20
+wait 500
+FRAME
+dsqr 260 200 20
+wait 500
+FRAME
+dsqr 240 180 20
+wait 500
+FRAME
+dsqr 240 160 20
+wait 500
+FRAME
+dsqr 240 140 20
+wait 500
+FRAME
+dsqr 220 140 20
+wait 500
+FRAME
+dsqr 200 140 20
+wait 500
+FRAME
+dsqr 300 180 20
+wait 500
+FRAME
+dsqr 180 160 20
+wait 500
+FRAME
+dsqr 140 160 20
+wait 500
+FRAME
+dsqr 120 160 20
+wait 500
+FRAME
+dsqr 300 120 20
+wait 500
+FRAME
+dsqr 320 100 20
+wait 500
+FRAME
+dsqr 340 80 20
+wait 500
+FRAME
+dsqr 340 60 20
+wait 500
+FRAME
+dsqr 360 60 20
+wait 500
+FRAME
+dsqr 340 40 20
+wait 500
+FRAME
+dsqr 360 40 20
+wait 500
+FRAME
+dsqr 320 40 20
+wait 500
+FRAME
+dsqr 320 20 20
+wait 500
+FRAME
+dsqr 340 20 20
+wait 500
+FRAME
+dsqr 200 120 20
+wait 500
+FRAME
+dsqr 200 100 20
+wait 500
+FRAME
+dsqr 140 120 20
+wait 500
+FRAME
+dsqr 140 100 20
+wait 500
+FRAME
+dsqr 100 120 20
+wait 500
+FRAME
+dsqr 100 100 20
+wait 500
+FRAME
+dsqr 80 80 20
+wait 500
+FRAME
+dsqr 100 80 20
+wait 500
+FRAME
+dsqr 120 80 20
+wait 500
+FRAME
+dsqr 140 80 20
+wait 500
+FRAME
+dsqr 160 80 20
+wait 500
+FRAME
+dsqr 180 80 20
+wait 500
+FRAME
+dsqr 260 120 20
+wait 500
+FRAME
+dsqr 100 40 20
+wait 500
+FRAME
+dsqr 120 40 20
+wait 500
+FRAME
+dsqr 140 40 20
+wait 500
+FRAME
+dsqr 160 40 20
+wait 500
+FRAME
+dsqr 180 40 20
+wait 500
+FRAME
+dsqr 180 20 20
+wait 500
+--------------------------COULEUR2
+FRAME
+cpen 0 255 0
+cbru 0 255 0
+dsqr 160 20 20
+wait 500
+FRAME
+dsqr 140 20 20
+wait 500
+FRAME
+dsqr 120 20 20
+wait 500
+FRAME
+dsqr 100 20 20
+wait 500
+FRAME
+dsqr 200 20 20
+wait 500
+FRAME
+dsqr 220 20 20
+wait 500
+FRAME
+dsqr 200 40 20
+wait 500
+FRAME
+dsqr 220 40 20
+wait 500
+FRAME
+dsqr 240 40 20
+wait 500
+FRAME
+dsqr 260 40 20
+wait 500
+FRAME
+dsqr 80 40 20
+wait 500
+FRAME
+dsqr 200 60 20
+wait 500
+FRAME
+dsqr 220 60 20
+wait 500
+FRAME
+dsqr 240 60 20
+wait 500
+FRAME
+dsqr 260 60 20
+wait 500
+FRAME
+dsqr 180 60 20
+wait 500
+FRAME
+dsqr 160 60 20
+wait 500
+FRAME
+dsqr 140 60 20
+wait 500
+FRAME
+dsqr 120 60 20
+wait 500
+FRAME
+dsqr 100 60 20
+wait 500
+FRAME
+dsqr 80 60 20
+wait 500
+FRAME
+dsqr 200 80 20
+wait 500
+FRAME
+dsqr 220 80 20
+wait 500
+FRAME
+dsqr 240 80 20
+wait 500
+FRAME
+dsqr 260 80 20
+wait 500
+FRAME
+dsqr 220 100 20
+wait 500
+FRAME
+dsqr 240 100 20
+wait 500
+FRAME
+dsqr 260 100 20
+wait 500
+FRAME
+dsqr 220 120 20
+wait 500
+FRAME
+dsqr 240 120 20
+wait 500
+FRAME
+dsqr 200 160 20
+wait 500
+FRAME
+dsqr 220 160 20
+wait 500
+FRAME
+dsqr 200 180 20
+wait 500
+FRAME
+dsqr 220 180 20
+wait 500
+FRAME
+dsqr 180 180 20
+wait 500
+FRAME
+dsqr 160 180 20
+wait 500
+FRAME
+dsqr 140 180 20
+wait 500
+FRAME
+dsqr 180 200 20
+wait 500
+FRAME
+dsqr 160 200 20
+wait 500
+FRAME
+dsqr 140 200 20
+wait 500
+FRAME
+dsqr 280 200 20
+wait 500
+FRAME
+dsqr 300 200 20
+wait 500
+FRAME
+dsqr 300 220 20
+wait 500
+FRAME
+dsqr 280 220 20
+wait 500
+FRAME
+dsqr 260 220 20
+wait 500
+FRAME
+dsqr 240 220 20
+wait 500
+FRAME
+dsqr 220 220 20
+wait 500
+FRAME
+dsqr 200 220 20
+wait 500
+FRAME
+dsqr 300 260 20
+wait 500
+FRAME
+dsqr 280 280 20
+wait 500
+FRAME
+dsqr 260 280 20
+wait 500
+FRAME
+dsqr 240 280 20
+wait 500
+FRAME
+dsqr 220 280 20
+wait 500
+-------------------------couleur3
+FRAME
+cpen 235 222 194
+cbru 235 222 194
+dsqr 80 120 20
+wait 500
+FRAME
+dsqr 120 120 20
+wait 500
+FRAME
+dsqr 120 100 20
+wait 500
+FRAME
+dsqr 120 140 20
+wait 500
+FRAME
+dsqr 100 140 20
+wait 500
+FRAME
+dsqr 140 140 20
+wait 500
+FRAME
+dsqr 160 140 20
+wait 500
+FRAME
+dsqr 180 140 20
+wait 500
+FRAME
+dsqr 160 120 20
+wait 500
+FRAME
+dsqr 160 100 20
+wait 500
+FRAME
+dsqr 160 160 20
+wait 500
+FRAME
+dsqr 180 140 20
+wait 500
+FRAME
+dsqr 180 120 20
+wait 500
+FRAME
+dsqr 180 100 20
+wait 500
+FRAME
+dsqr 260 160 20
+wait 500
+FRAME
+dsqr 280 160 20
+wait 500
+FRAME
+dsqr 300 160 20
+wait 500
+FRAME
+dsqr 280 140 20
+wait 500
+FRAME
+dsqr 300 140 20
+wait 500
+FRAME
+dsqr 260 180 20
+wait 500
+FRAME
+dsqr 280 180 20
+dtxt 10 10 LA BULGARIE
+wait 1500
+------------------------------------------------
+FRAME
+eras 0 0 0 
+cpen 255 0 0
+cbru 255 0 0
+dsqr 200 300 20
+wait 500
+FRAME
+dsqr 220 300 20
+wait 500
+FRAME
+dsqr 240 300 20
+wait 500
+FRAME
+dsqr 260 300 20
+wait 500
+FRAME
+dsqr 320 300 20
+wait 500
+FRAME
+dsqr 320 280 20
+wait 500
+FRAME
+dsqr 300 280 20
+wait 500
+FRAME
+dsqr 320 260 20
+wait 500
+FRAME
+dsqr 280 260 20
+wait 500
+FRAME
+dsqr 260 260 20
+wait 500
+FRAME
+dsqr 240 260 20
+wait 500
+FRAME
+dsqr 220 260 20
+wait 500
+FRAME
+dsqr 200 260 20
+wait 500
+FRAME
+dsqr 180 240 20
+wait 500
+FRAME
+dsqr 200 240 20
+wait 500
+FRAME
+dsqr 220 240 20
+wait 500
+FRAME
+dsqr 240 240 20
+wait 500
+FRAME
+dsqr 260 240 20
+wait 500
+FRAME
+dsqr 280 240 20
+wait 500
+FRAME
+dsqr 300 240 20
+wait 500
+FRAME
+dsqr 180 220 20
+wait 500
+FRAME
+dsqr 160 220 20
+wait 500
+FRAME
+dsqr 200 200 20
+wait 500
+FRAME
+dsqr 220 200 20
+wait 500
+FRAME
+dsqr 240 200 20
+wait 500
+FRAME
+dsqr 260 200 20
+wait 500
+FRAME
+dsqr 240 180 20
+wait 500
+FRAME
+dsqr 240 160 20
+wait 500
+FRAME
+dsqr 240 140 20
+wait 500
+FRAME
+dsqr 220 140 20
+wait 500
+FRAME
+dsqr 200 140 20
+wait 500
+FRAME
+dsqr 300 180 20
+wait 500
+FRAME
+dsqr 180 160 20
+wait 500
+FRAME
+dsqr 140 160 20
+wait 500
+FRAME
+dsqr 120 160 20
+wait 500
+FRAME
+dsqr 300 120 20
+wait 500
+FRAME
+dsqr 320 100 20
+wait 500
+FRAME
+dsqr 340 80 20
+wait 500
+FRAME
+dsqr 340 60 20
+wait 500
+FRAME
+dsqr 360 60 20
+wait 500
+FRAME
+dsqr 340 40 20
+wait 500
+FRAME
+dsqr 360 40 20
+wait 500
+FRAME
+dsqr 320 40 20
+wait 500
+FRAME
+dsqr 320 20 20
+wait 500
+FRAME
+dsqr 340 20 20
+wait 500
+FRAME
+dsqr 200 120 20
+wait 500
+FRAME
+dsqr 200 100 20
+wait 500
+FRAME
+dsqr 140 120 20
+wait 500
+FRAME
+dsqr 140 100 20
+wait 500
+FRAME
+dsqr 100 120 20
+wait 500
+FRAME
+dsqr 100 100 20
+wait 500
+FRAME
+dsqr 80 80 20
+wait 500
+FRAME
+dsqr 100 80 20
+wait 500
+FRAME
+dsqr 120 80 20
+wait 500
+FRAME
+dsqr 140 80 20
+wait 500
+FRAME
+dsqr 160 80 20
+wait 500
+FRAME
+dsqr 180 80 20
+wait 500
+FRAME
+dsqr 260 120 20
+wait 500
+FRAME
+dsqr 100 40 20
+wait 500
+FRAME
+dsqr 120 40 20
+wait 500
+FRAME
+dsqr 140 40 20
+wait 500
+FRAME
+dsqr 160 40 20
+wait 500
+FRAME
+dsqr 180 40 20
+wait 500
+FRAME
+dsqr 180 20 20
+wait 500
+--------------------------COULEUR2
+FRAME
+cpen 0  0 255
+cbru 0 0 255
+dsqr 160 20 20
+wait 500
+FRAME
+dsqr 140 20 20
+wait 500
+FRAME
+dsqr 120 20 20
+wait 500
+FRAME
+dsqr 100 20 20
+wait 500
+FRAME
+dsqr 200 20 20
+wait 500
+FRAME
+dsqr 220 20 20
+wait 500
+FRAME
+dsqr 200 40 20
+wait 500
+FRAME
+dsqr 220 40 20
+wait 500
+FRAME
+dsqr 240 40 20
+wait 500
+FRAME
+dsqr 260 40 20
+wait 500
+FRAME
+dsqr 80 40 20
+wait 500
+FRAME
+dsqr 200 60 20
+wait 500
+FRAME
+dsqr 220 60 20
+wait 500
+FRAME
+dsqr 240 60 20
+wait 500
+FRAME
+dsqr 260 60 20
+wait 500
+FRAME
+dsqr 180 60 20
+wait 500
+FRAME
+dsqr 160 60 20
+wait 500
+FRAME
+dsqr 140 60 20
+wait 500
+FRAME
+dsqr 120 60 20
+wait 500
+FRAME
+dsqr 100 60 20
+wait 500
+FRAME
+dsqr 80 60 20
+wait 500
+FRAME
+dsqr 200 80 20
+wait 500
+FRAME
+dsqr 220 80 20
+wait 500
+FRAME
+dsqr 240 80 20
+wait 500
+FRAME
+dsqr 260 80 20
+wait 500
+FRAME
+dsqr 220 100 20
+wait 500
+FRAME
+dsqr 240 100 20
+wait 500
+FRAME
+dsqr 260 100 20
+wait 500
+FRAME
+dsqr 220 120 20
+wait 500
+FRAME
+dsqr 240 120 20
+wait 500
+FRAME
+dsqr 200 160 20
+wait 500
+FRAME
+dsqr 220 160 20
+wait 500
+FRAME
+dsqr 200 180 20
+wait 500
+FRAME
+dsqr 220 180 20
+wait 500
+FRAME
+dsqr 180 180 20
+wait 500
+FRAME
+dsqr 160 180 20
+wait 500
+FRAME
+dsqr 140 180 20
+wait 500
+FRAME
+dsqr 180 200 20
+wait 500
+FRAME
+dsqr 160 200 20
+wait 500
+FRAME
+dsqr 140 200 20
+wait 500
+FRAME
+dsqr 280 200 20
+wait 500
+FRAME
+dsqr 300 200 20
+wait 500
+FRAME
+dsqr 300 220 20
+wait 500
+FRAME
+dsqr 280 220 20
+wait 500
+FRAME
+dsqr 260 220 20
+wait 500
+FRAME
+dsqr 240 220 20
+wait 500
+FRAME
+dsqr 220 220 20
+wait 500
+FRAME
+dsqr 200 220 20
+wait 500
+FRAME
+dsqr 300 260 20
+wait 500
+FRAME
+dsqr 280 280 20
+wait 500
+FRAME
+dsqr 260 280 20
+wait 500
+FRAME
+dsqr 240 280 20
+wait 500
+FRAME
+dsqr 220 280 20
+wait 500
+-------------------------couleur3
+FRAME
+cpen 235 222 194
+cbru 235 222 194
+dsqr 80 120 20
+wait 500
+FRAME
+dsqr 120 120 20
+wait 500
+FRAME
+dsqr 120 100 20
+wait 500
+FRAME
+dsqr 120 140 20
+wait 500
+FRAME
+dsqr 100 140 20
+wait 500
+FRAME
+dsqr 140 140 20
+wait 500
+FRAME
+dsqr 160 140 20
+wait 500
+FRAME
+dsqr 180 140 20
+wait 500
+FRAME
+dsqr 160 120 20
+wait 500
+FRAME
+dsqr 160 100 20
+wait 500
+FRAME
+dsqr 160 160 20
+wait 500
+FRAME
+dsqr 180 140 20
+wait 500
+FRAME
+dsqr 180 120 20
+wait 500
+FRAME
+dsqr 180 100 20
+wait 500
+FRAME
+dsqr 260 160 20
+wait 500
+FRAME
+dsqr 280 160 20
+wait 500
+FRAME
+dsqr 300 160 20
+wait 500
+FRAME
+dsqr 280 140 20
+wait 500
+FRAME
+dsqr 300 140 20
+wait 500
+FRAME
+dsqr 260 180 20
+wait 500
+FRAME
+dsqr 280 180 20
+dtxt 10 10 LES ETAS_UNIS
+wait 1500
+END
+END
+

@@ -1,0 +1,660 @@
+LA MOUCHE!
+INIT
+cbru 255 255 255
+cpen 0 0 0
+eras 255 255 255
+FRAME
+eras 255 255 255
+cbru 0 0 0
+dell 0 99 20 106
+cbru 255 255 255
+dell 8 99 13 91
+dell 8 106 13 114
+cbru 255 0 0
+dell 16 99 20 103
+dell 16 103 20 107
+msnd col1.wav
+cbru 0 0 0
+dell 99 0 106 20
+cbru 255 255 255
+dell 99 8 91 13
+dell 106 8 114 13
+cbru 255 0 0
+dell 99 16 103 20
+dell 103 16 107 20
+wait 100
+FRAME
+eras 255 255 255
+cbru 0 0 0
+dell 10 119 30 126
+cbru 255 255 255
+dell 18 119 23 111
+dell 18 126 23 134
+cbru 255 0 0
+dell 26 119 30 123
+dell 26 123 30 127
+msnd col1.wav
+cbru 0 0 0
+dell 119 10 126 30
+cbru 255 255 255
+dell 119 18 111 23
+dell 126 18 134 23
+cbru 255 0 0
+dell 119 26 123 30
+dell 123 26 127 30
+wait 100
+FRAME
+eras 255 255 255
+cbru 0 0 0
+dell 20 110 40 117
+cbru 255 255 255
+dell 28 110 33 102
+dell 28 117 33 125
+cbru 255 0 0
+dell 36 110 40 114
+dell 36 114 40 118
+msnd col1.wav
+cbru 0 0 0
+dell 110 20 117 40
+cbru 255 255 255
+dell 110 28 102 33
+dell 117 28 125 33
+cbru 255 0 0
+dell 110 36 114 40
+dell 114 36 118 40
+wait 100
+FRAME
+eras 255 255 255
+cbru 0 0 0
+dell 30 96 50 103
+cbru 255 255 255
+dell 38 96 43 88
+dell 38 103 43 111
+cbru 255 0 0
+dell 46 96 50 100
+dell 46 100 50 104
+msnd col1.wav
+cbru 0 0 0
+dell 96 30 103 50
+cbru 255 255 255
+dell 96 38 88 43
+dell 103 38 111 43
+cbru 255 0 0
+dell 96 46 100 50
+dell 100 46 104 50
+wait 100
+FRAME
+eras 255 255 255
+cbru 0 0 0
+dell 40 115 60 122
+cbru 255 255 255
+dell 48 115 53 107
+dell 48 122 53 130
+cbru 255 0 0
+dell 56 115 60 119
+dell 56 119 60 123
+msnd col1.wav
+cbru 0 0 0
+dell 115 40 122 60
+cbru 255 255 255
+dell 115 48 107 53
+dell 122 48 130 53
+cbru 255 0 0
+dell 115 56 119 60
+dell 119 56 123 60
+wait 100
+FRAME
+eras 255 255 255
+cbru 0 0 0
+dell 50 112 70 119
+cbru 255 255 255
+dell 58 112 63 104
+dell 58 119 63 127
+cbru 255 0 0
+dell 66 112 70 116
+dell 66 116 70 120
+msnd col1.wav
+cbru 0 0 0
+dell 112 50 119 70
+cbru 255 255 255
+dell 112 58 104 63
+dell 119 58 127 63
+cbru 255 0 0
+dell 112 66 116 70
+dell 116 66 120 70
+wait 100
+FRAME
+eras 255 255 255
+cbru 0 0 0
+dell 60 95 80 102
+cbru 255 255 255
+dell 68 95 73 87
+dell 68 102 73 110
+cbru 255 0 0
+dell 76 95 80 99
+dell 76 99 80 103
+msnd col1.wav
+cbru 0 0 0
+dell 95 60 102 80
+cbru 255 255 255
+dell 95 68 87 73
+dell 102 68 110 73
+cbru 255 0 0
+dell 95 76 99 80
+dell 99 76 103 80
+wait 100
+FRAME
+eras 255 255 255
+cbru 0 0 0
+dell 70 111 90 118
+cbru 255 255 255
+dell 78 111 83 103
+dell 78 118 83 126
+cbru 255 0 0
+dell 86 111 90 115
+dell 86 115 90 119
+msnd col1.wav
+cbru 0 0 0
+dell 111 70 118 90
+cbru 255 255 255
+dell 111 78 103 83
+dell 118 78 126 83
+cbru 255 0 0
+dell 111 86 115 90
+dell 115 86 119 90
+wait 100
+FRAME
+eras 255 255 255
+cbru 0 0 0
+dell 80 113 100 120
+cbru 255 255 255
+dell 88 113 93 105
+dell 88 120 93 128
+cbru 255 0 0
+dell 96 113 100 117
+dell 96 117 100 121
+msnd col1.wav
+cbru 0 0 0
+dell 113 80 120 100
+cbru 255 255 255
+dell 113 88 105 93
+dell 120 88 128 93
+cbru 255 0 0
+dell 113 96 117 100
+dell 117 96 121 100
+wait 100
+FRAME
+eras 255 255 255
+cbru 0 0 0
+dell 90 93 110 100
+cbru 255 255 255
+dell 98 93 103 85
+dell 98 100 103 108
+cbru 255 0 0
+dell 106 93 110 97
+dell 106 97 110 101
+msnd col1.wav
+cbru 0 0 0
+dell 93 90 100 110
+cbru 255 255 255
+dell 93 98 85 103
+dell 100 98 108 103
+cbru 255 0 0
+dell 93 106 97 110
+dell 97 106 101 110
+wait 100
+FRAME
+eras 255 255 255
+cbru 0 0 0
+dell 100 106 120 113
+cbru 255 255 255
+dell 108 106 113 98
+dell 108 113 113 121
+cbru 255 0 0
+dell 116 106 120 110
+dell 116 110 120 114
+msnd col1.wav
+cbru 0 0 0
+dell 106 100 113 120
+cbru 255 255 255
+dell 106 108 98 113
+dell 113 108 121 113
+cbru 255 0 0
+dell 106 116 110 120
+dell 110 116 114 120
+wait 100
+FRAME
+eras 255 255 255
+cbru 0 0 0
+dell 110 114 130 121
+cbru 255 255 255
+dell 118 114 123 106
+dell 118 121 123 129
+cbru 255 0 0
+dell 126 114 130 118
+dell 126 118 130 122
+msnd col1.wav
+cbru 0 0 0
+dell 114 110 121 130
+cbru 255 255 255
+dell 114 118 106 123
+dell 121 118 129 123
+cbru 255 0 0
+dell 114 126 118 130
+dell 118 126 122 130
+wait 100
+FRAME
+eras 255 255 255
+cbru 0 0 0
+dell 120 94 140 101
+cbru 255 255 255
+dell 128 94 133 86
+dell 128 101 133 109
+cbru 255 0 0
+dell 136 94 140 98
+dell 136 98 140 102
+msnd col1.wav
+cbru 0 0 0
+dell 94 120 101 140
+cbru 255 255 255
+dell 94 128 86 133
+dell 101 128 109 133
+cbru 255 0 0
+dell 94 136 98 140
+dell 98 136 102 140
+wait 100
+FRAME
+eras 255 255 255
+cbru 0 0 0
+dell 130 102 150 109
+cbru 255 255 255
+dell 138 102 143 94
+dell 138 109 143 117
+cbru 255 0 0
+dell 146 102 150 106
+dell 146 106 150 110
+msnd col1.wav
+cbru 0 0 0
+dell 102 130 109 150
+cbru 255 255 255
+dell 102 138 94 143
+dell 109 138 117 143
+cbru 255 0 0
+dell 102 146 106 150
+dell 106 146 110 150
+wait 100
+FRAME
+eras 255 255 255
+cbru 0 0 0
+dell 140 114 160 121
+cbru 255 255 255
+dell 148 114 153 106
+dell 148 121 153 129
+cbru 255 0 0
+dell 156 114 160 118
+dell 156 118 160 122
+msnd col1.wav
+cbru 0 0 0
+dell 114 140 121 160
+cbru 255 255 255
+dell 114 148 106 153
+dell 121 148 129 153
+cbru 255 0 0
+dell 114 156 118 160
+dell 118 156 122 160
+wait 100
+FRAME
+eras 255 255 255
+cbru 0 0 0
+dell 150 94 170 101
+cbru 255 255 255
+dell 158 94 163 86
+dell 158 101 163 109
+cbru 255 0 0
+dell 166 94 170 98
+dell 166 98 170 102
+msnd col1.wav
+cbru 0 0 0
+dell 94 150 101 170
+cbru 255 255 255
+dell 94 158 86 163
+dell 101 158 109 163
+cbru 255 0 0
+dell 94 166 98 170
+dell 98 166 102 170
+wait 100
+FRAME
+eras 255 255 255
+cbru 0 0 0
+dell 160 97 180 104
+cbru 255 255 255
+dell 168 97 173 89
+dell 168 104 173 112
+cbru 255 0 0
+dell 176 97 180 101
+dell 176 101 180 105
+msnd col1.wav
+cbru 0 0 0
+dell 97 160 104 180
+cbru 255 255 255
+dell 97 168 89 173
+dell 104 168 112 173
+cbru 255 0 0
+dell 97 176 101 180
+dell 101 176 105 180
+wait 100
+FRAME
+eras 255 255 255
+cbru 0 0 0
+dell 170 113 190 120
+cbru 255 255 255
+dell 178 113 183 105
+dell 178 120 183 128
+cbru 255 0 0
+dell 186 113 190 117
+dell 186 117 190 121
+msnd col1.wav
+cbru 0 0 0
+dell 113 170 120 190
+cbru 255 255 255
+dell 113 178 105 183
+dell 120 178 128 183
+cbru 255 0 0
+dell 113 186 117 190
+dell 117 186 121 190
+wait 100
+FRAME
+eras 255 255 255
+cbru 0 0 0
+dell 180 96 200 103
+cbru 255 255 255
+dell 188 96 193 88
+dell 188 103 193 111
+cbru 255 0 0
+dell 196 96 200 100
+dell 196 100 200 104
+msnd col1.wav
+cbru 0 0 0
+dell 96 180 103 200
+cbru 255 255 255
+dell 96 188 88 193
+dell 103 188 111 193
+cbru 255 0 0
+dell 96 196 100 200
+dell 100 196 104 200
+wait 100
+FRAME
+eras 255 255 255
+cbru 0 0 0
+dell 190 93 210 100
+cbru 255 255 255
+dell 198 93 203 85
+dell 198 100 203 108
+cbru 255 0 0
+dell 206 93 210 97
+dell 206 97 210 101
+msnd col1.wav
+cbru 0 0 0
+dell 93 190 100 210
+cbru 255 255 255
+dell 93 198 85 203
+dell 100 198 108 203
+cbru 255 0 0
+dell 93 206 97 210
+dell 97 206 101 210
+wait 100
+FRAME
+eras 255 255 255
+cbru 0 0 0
+dell 200 112 220 119
+cbru 255 255 255
+dell 208 112 213 104
+dell 208 119 213 127
+cbru 255 0 0
+dell 216 112 220 116
+dell 216 116 220 120
+msnd col1.wav
+cbru 0 0 0
+dell 112 200 119 220
+cbru 255 255 255
+dell 112 208 104 213
+dell 119 208 127 213
+cbru 255 0 0
+dell 112 216 116 220
+dell 116 216 120 220
+wait 100
+FRAME
+eras 255 255 255
+cbru 0 0 0
+dell 210 98 230 105
+cbru 255 255 255
+dell 218 98 223 90
+dell 218 105 223 113
+cbru 255 0 0
+dell 226 98 230 102
+dell 226 102 230 106
+msnd col1.wav
+cbru 0 0 0
+dell 98 210 105 230
+cbru 255 255 255
+dell 98 218 90 223
+dell 105 218 113 223
+cbru 255 0 0
+dell 98 226 102 230
+dell 102 226 106 230
+wait 100
+FRAME
+eras 255 255 255
+cbru 0 0 0
+dell 220 90 240 97
+cbru 255 255 255
+dell 228 90 233 82
+dell 228 97 233 105
+cbru 255 0 0
+dell 236 90 240 94
+dell 236 94 240 98
+msnd col1.wav
+cbru 0 0 0
+dell 90 220 97 240
+cbru 255 255 255
+dell 90 228 82 233
+dell 97 228 105 233
+cbru 255 0 0
+dell 90 236 94 240
+dell 94 236 98 240
+wait 100
+FRAME
+eras 255 255 255
+cbru 0 0 0
+dell 230 109 250 116
+cbru 255 255 255
+dell 238 109 243 101
+dell 238 116 243 124
+cbru 255 0 0
+dell 246 109 250 113
+dell 246 113 250 117
+msnd col1.wav
+cbru 0 0 0
+dell 109 230 116 250
+cbru 255 255 255
+dell 109 238 101 243
+dell 116 238 124 243
+cbru 255 0 0
+dell 109 246 113 250
+dell 113 246 117 250
+wait 100
+FRAME
+eras 255 255 255
+cbru 0 0 0
+dell 240 100 260 107
+cbru 255 255 255
+dell 248 100 253 92
+dell 248 107 253 115
+cbru 255 0 0
+dell 256 100 260 104
+dell 256 104 260 108
+msnd col1.wav
+cbru 0 0 0
+dell 100 240 107 260
+cbru 255 255 255
+dell 100 248 92 253
+dell 107 248 115 253
+cbru 255 0 0
+dell 100 256 104 260
+dell 104 256 108 260
+wait 100
+FRAME
+eras 255 255 255
+cbru 0 0 0
+dell 250 87 270 94
+cbru 255 255 255
+dell 258 87 263 79
+dell 258 94 263 102
+cbru 255 0 0
+dell 266 87 270 91
+dell 266 91 270 95
+msnd col1.wav
+cbru 0 0 0
+dell 87 250 94 270
+cbru 255 255 255
+dell 87 258 79 263
+dell 94 258 102 263
+cbru 255 0 0
+dell 87 266 91 270
+dell 91 266 95 270
+wait 100
+FRAME
+eras 255 255 255
+cbru 0 0 0
+dell 260 106 280 113
+cbru 255 255 255
+dell 268 106 273 98
+dell 268 113 273 121
+cbru 255 0 0
+dell 276 106 280 110
+dell 276 110 280 114
+msnd col1.wav
+cbru 0 0 0
+dell 106 260 113 280
+cbru 255 255 255
+dell 106 268 98 273
+dell 113 268 121 273
+cbru 255 0 0
+dell 106 276 110 280
+dell 110 276 114 280
+wait 100
+FRAME
+eras 255 255 255
+cbru 0 0 0
+dell 270 102 290 109
+cbru 255 255 255
+dell 278 102 283 94
+dell 278 109 283 117
+cbru 255 0 0
+dell 286 102 290 106
+dell 286 106 290 110
+msnd col1.wav
+cbru 0 0 0
+dell 102 270 109 290
+cbru 255 255 255
+dell 102 278 94 283
+dell 109 278 117 283
+cbru 255 0 0
+dell 102 286 106 290
+dell 106 286 110 290
+wait 100
+FRAME
+eras 255 255 255
+cbru 0 0 0
+dell 280 85 300 92
+cbru 255 255 255
+dell 288 85 293 77
+dell 288 92 293 100
+cbru 255 0 0
+dell 296 85 300 89
+dell 296 89 300 93
+msnd col1.wav
+cbru 0 0 0
+dell 85 280 92 300
+cbru 255 255 255
+dell 85 288 77 293
+dell 92 288 100 293
+cbru 255 0 0
+dell 85 296 89 300
+dell 89 296 93 300
+wait 100
+FRAME
+eras 255 255 255
+cbru 0 0 0
+dell 290 102 310 109
+cbru 255 255 255
+dell 298 102 303 94
+dell 298 109 303 117
+cbru 255 0 0
+dell 306 102 310 106
+dell 306 106 310 110
+msnd col1.wav
+cbru 0 0 0
+dell 102 290 109 310
+cbru 255 255 255
+dell 102 298 94 303
+dell 109 298 117 303
+cbru 255 0 0
+dell 102 306 106 310
+dell 106 306 110 310
+wait 100
+FRAME
+eras 255 255 255
+cbru 0 0 0
+dell 300 104 320 111
+cbru 255 255 255
+dell 308 104 313 96
+dell 308 111 313 119
+cbru 255 0 0
+dell 316 104 320 108
+dell 316 108 320 112
+msnd col1.wav
+cbru 255 0 0
+dcir 100 290 10
+dcir 105 293 10
+dcir 110 295 10
+dcir 105 300 10
+dcir 100 270 10
+dcir 110 270 10
+dcir 120 300 10
+dcir 120 280 10
+dcir 120 275 10
+dcir 120 270 10
+dcir 130 280 10
+dcir 110 280 10
+dcir 95 280 10
+msnd boom.wav
+wait 100
+FRAME
+eras 255 255 255
+cbru 0 0 0
+dell 310 84 330 91
+cbru 255 255 255
+dell 318 84 323 76
+dell 318 91 323 99
+cbru 255 0 0
+dell 326 84 330 88
+dell 326 88 330 92
+msnd col1.wav
+cbru 255 0 0
+dcir 100 290 10
+dcir 105 293 10
+dcir 110 295 10
+dcir 105 300 10
+dcir 100 270 10
+dcir 110 270 10
+dcir 120 300 10
+dcir 120 280 10
+dcir 120 275 10
+dcir 120 270 10
+dcir 130 280 10
+dcir 110 280 10
+dcir 95 280 10
+msnd boom.wav
+wait 100
+END

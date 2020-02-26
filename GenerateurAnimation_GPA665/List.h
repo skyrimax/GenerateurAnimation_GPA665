@@ -39,6 +39,9 @@ public:
 	// Delete element after specified position
 	void erase_after(size_t position);
 
+	// Method to empty the structure
+	void clear();
+
 	class iterator
 	{
 	public:
@@ -60,7 +63,9 @@ public:
 		T* operator->() const;
 
 	private:
-		Node* m_node;
+		typename list<T>::Node* m_node;
+
+		friend class list;
 	};
 
 	class backward_iterator
@@ -84,7 +89,9 @@ public:
 		T* operator->() const;
 
 	private:
-		Node* m_node;
+		typename list<T>::Node* m_node;
+
+		friend class list;
 	};
 
 	// Iterator methods
@@ -100,12 +107,6 @@ private:
 		Node* previous;
 		T data;
 	};
-
-	iterator m_begin;
-	iterator m_end;
-
-	backward_iterator m_rbegin;
-	backward_iterator m_rend;
 
 	Node* m_head;
 	Node* m_tail;

@@ -1,0 +1,80 @@
+Dan_animation
+INIT        
+cbru 255 255 255
+cpen 0 0 0
+eras 255 255 255
+!!Im1
+FRAME                  
+eras 255 255 255
+cbru 0 0 0
+dcir 50 30 10
+wait 300
+!!Im2
+FRAME                                    
+eras 255 255 255
+dcir 100 60 10
+wait 300
+!!Im3
+FRAME                                    
+eras 255 255 255
+dcir 150 90 10
+wait 300
+!!Im4
+FRAME                                    
+eras 255 255 255
+dcir 200 120 10
+wait 300
+!!Im4
+FRAME                                    
+eras 255 255 255
+dcir 250 150 10
+cbru 0 0 0
+wait 300
+FRAME
+eras 255 255 255
+cbru 255 255 255
+msnd boom.wav
+dcir 250 150 10
+wait 200
+FRAME
+eras 255 255 255
+dcir 250 150 20
+wait 150
+FRAME
+eras 255 255 255
+dcir 250 150 30
+wait 100
+FRAME
+eras 255 255 255
+dcir 250 150 40
+wait 80
+FRAME
+eras 255 255 255
+dcir 250 150 50
+wait 60
+FRAME
+eras 255 255 255
+dcir 250 150 60
+wait 50
+FRAME
+eras 255 255 255
+dcir 250 150 70
+wait 40
+FRAME
+eras 255 255 255
+dcir 250 150 80
+wait 30
+FRAME
+eras 255 255 255
+dcir 250 150 90
+cbru 255 255 255
+wait 20
+FRAME
+eras 255 255 255
+cbru 0 0 0
+drec 0 0 500 300
+cpen 0 0 0
+dtxt 150 250 Fin de l'animation
+wait 10
+
+END

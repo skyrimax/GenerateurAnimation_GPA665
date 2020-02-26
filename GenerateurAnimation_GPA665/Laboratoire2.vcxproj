@@ -134,22 +134,30 @@
     <None Include="forward_list.tpp">
       <FileType>Document</FileType>
     </None>
+    <ClCompile Include="Animation.cpp" />
+    <ClCompile Include="Frame.cpp" />
+    <ClCompile Include="Instruction.cpp" />
     <ClCompile Include="Laboratoire2.cpp" />
     <ClCompile Include="Media.cpp" />
     <ClCompile Include="Win32_AppWindow.cpp" />
     <ClCompile Include="Win32_GraphicWindow.cpp" />
     <None Include="List.tpp" />
+    <None Include="Vector.tpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Win32_resources.rc" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Animation.h" />
     <ClInclude Include="forward_list.h" />
+    <ClInclude Include="Frame.h" />
+    <ClInclude Include="Instruction.h" />
     <ClInclude Include="Laboratoire2.h" />
     <ClInclude Include="List.h" />
     <ClInclude Include="Media.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="Scene_DC.h" />
+    <ClInclude Include="Vector.h" />
     <ClInclude Include="Win32_AppWindow.h" />
     <ClInclude Include="Win32_GraphicWindow.h" />
   </ItemGroup>

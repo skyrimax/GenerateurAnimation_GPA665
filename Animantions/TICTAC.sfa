@@ -1,0 +1,707 @@
+
+
+   Tic Tac ?
+      
+
+  INIT
+eras 	255 	255 	255
+
+FRAME
+cpen   	200 	50 	255
+cbru	200	50	255
+drec 	220	75 	230 	225
+msnd	col.wav
+wait 	500
+drec 	270 	75 	280 	225
+msnd	col.wav
+wait 	500
+drec 	175 	120 	325 	130
+msnd	ligne.wav
+wait 	500
+drec 	175 	170 	325 	180
+msnd	ligne.wav
+wait 	500
+cpen   	0 	0 	0
+FRAME
+cpen	0	180	0
+dlin	238	135	265	162
+dlin	237	135	265	163
+dlin	236	135	265	164
+dlin	235	135	265	165
+dlin	235	136	264	165
+dlin	235	137	263	165
+dlin	235	138	262	165
+dlin	235	162	262	135
+dlin	235	163	263	135
+dlin	235	164	264	135
+dlin	235	165	265	135
+dlin	236	165	265	136
+dlin	237	165	265	137
+dlin	238	165	265	138
+cpen   	0 	0 	0
+msnd	x.wav
+wait 1000
+FRAME
+cpen   	180 	0 	0
+cbru 	180 	0 	0
+dcir	300	100	15
+cbru 	255 	255 	255
+dcir	300	100	10
+cpen   	0 	0 	0
+msnd	cercle.wav
+wait 500
+FRAME
+cpen	0	180	0
+dlin	188	185	215	212
+dlin	187	185	215	213
+dlin	186	185	215	214
+dlin	185	185	215	215
+dlin	185	186	214	215
+dlin	185	187	213	215
+dlin	185	188	212	215
+dlin	185	212	212	185
+dlin	185	213	213	185
+dlin	185	214	214	185
+dlin	185	215	215	185
+dlin	186	215	215	186
+dlin	187	215	215	187
+dlin	188	215	215	188
+cpen   	0 	0 	0
+msnd	x.wav
+wait	500
+msnd	attente.wav
+wait 500
+FRAME
+cpen   	180 	0 	0
+cbru 	180 	0 	0
+dcir	200	100	15
+cbru 	255 	255 	255
+dcir	200	100	10
+cpen   	0 	0 	0
+msnd	cercle.wav
+wait 500
+FRAME
+cpen	0	180	0
+dlin	238	85	265	112
+dlin	237	85	265	113
+dlin	236	85	265	114
+dlin	235	85	265	115
+dlin	235	86	264	115
+dlin	235	87	263	115
+dlin	235	88	262	115
+dlin	235	112	262	85
+dlin	235	113	263	85
+dlin	235	114	264	85
+dlin	235	115	265	85
+dlin	236	115	265	86
+dlin	237	115	265	87
+dlin	238	115	265	88
+cpen   	0 	0 	0
+msnd	x.wav
+wait 500
+FRAME
+cpen   	180 	0 	0
+cbru 	180 	0 	0
+dcir	250	200	15
+cbru 	255 	255 	255
+dcir	250	200	10
+cpen   	0 	0 	0
+msnd	cercle.wav
+wait 500
+FRAME
+cpen	0	180	0
+dlin	288	135	315	162
+dlin	287	135	315	163
+dlin	286	135	315	164
+dlin	285	135	315	165
+dlin	285	136	314	165
+dlin	285	137	313	165
+dlin	285	138	312	165
+dlin	285	162	312	135
+dlin	285	163	313	135
+dlin	285	164	314	135
+dlin	285	165	315	135
+dlin	286	165	315	136
+dlin	287	165	315	137
+dlin	288	165	315	138
+cpen   	0 	0 	0
+msnd	x.wav
+wait 500
+FRAME
+cpen   	180 	0 	0
+cbru 	180 	0 	0
+dcir	200	150	15
+cbru 	255 	255 	255
+dcir	200	150	10
+cpen   	0 	0 	0
+msnd	cercle.wav
+wait 500
+FRAME
+cpen	0	180	0
+dlin	288	185	315	212
+dlin	287	185	315	213
+dlin	286	185	315	214
+dlin	285	185	315	215
+dlin	285	186	314	215
+dlin	285	187	313	215
+dlin	285	188	312	215
+dlin	285	212	312	185
+dlin	285	213	313	185
+dlin	285	214	314	185
+dlin	285	215	315	185
+dlin	286	215	315	186
+dlin	287	215	315	187
+dlin	288	215	315	188
+cpen   	0 	0 	0
+msnd	x.wav
+wait 500
+FRAME
+msnd	bip.wav
+dtxt	130	191	¿
+wait	100		
+dtxt	31	157	¿
+wait	100		
+dtxt	275	76	¿
+wait	100		
+dtxt	279	40	¿
+wait	100		
+dtxt	128	105	¿
+wait	100		
+dtxt	404	237	¿
+wait	100		
+dtxt	292	217	¿
+wait	100		
+dtxt	34	44	¿
+wait	100		
+dtxt	84	271	¿
+wait	100		
+dtxt	205	59	¿
+wait	100		
+dtxt	369	184	¿
+wait	100		
+dtxt	336	42	¿
+wait	100		
+dtxt	375	153	¿
+wait	100		
+dtxt	272	97	¿
+wait	100		
+dtxt	189	154	¿
+wait	100		
+dtxt	149	234	¿
+wait	100		
+dtxt	224	213	¿
+wait	100		
+dtxt	417	174	¿
+wait	100		
+dtxt	320	288	¿
+wait	100		
+dtxt	97	278	¿
+wait	100		
+dtxt	312	297	¿
+wait	100		
+dtxt	478	8	¿
+wait	100		
+dtxt	475	222	¿
+wait	100		
+dtxt	74	254	¿
+wait	100		
+dtxt	175	133	¿
+wait	100		
+dtxt	445	70	¿
+wait	100		
+dtxt	23	94	¿
+wait	100		
+dtxt	4	295	¿
+wait	100		
+dtxt	246	258	¿
+wait	100		
+dtxt	114	52	¿
+wait	100		
+dtxt	43	34	¿
+wait	100		
+dtxt	80	73	¿
+wait	100		
+dtxt	437	92	¿
+wait	100		
+dtxt	332	279	¿
+wait	100		
+dtxt	45	227	¿
+wait	100		
+dtxt	151	263	¿
+wait	100		
+dtxt	185	89	¿
+wait	100		
+dtxt	355	172	¿
+wait	100		
+dtxt	241	115	¿
+wait	100		
+dtxt	260	33	¿
+wait	100		
+dtxt	349	30	¿
+wait	100		
+dtxt	382	257	¿
+wait	100		
+dtxt	446	127	¿
+wait	100		
+dtxt	36	16	¿
+wait	100		
+dtxt	226	199	¿
+wait	100		
+dtxt	457	86	¿
+wait	100		
+dtxt	78	209	¿
+wait	100		
+dtxt	188	262	¿
+wait	100		
+dtxt	439	57	¿
+wait	100		
+dtxt	313	266	¿
+wait	100		
+dtxt	157	176	¿
+wait	100		
+dtxt	99	32	¿
+wait	100		
+dtxt	65	177	¿
+wait	100		
+dtxt	387	45	¿
+wait	100		
+dtxt	354	20	¿
+wait	100		
+dtxt	218	159	¿
+wait	100		
+dtxt	391	50	¿
+wait	100		
+dtxt	398	128	¿
+wait	100		
+dtxt	107	97	¿
+wait	100		
+dtxt	10	297	¿
+wait	100		
+dtxt	318	175	¿
+wait	100		
+dtxt	229	165	¿
+wait	100		
+dtxt	133	4	¿
+wait	100		
+dtxt	242	285	¿
+wait	100		
+dtxt	116	177	¿
+wait	100		
+dtxt	489	266	¿
+wait	100		
+dtxt	358	79	¿
+wait	100		
+dtxt	88	280	¿
+wait	100		
+dtxt	210	136	¿
+wait	100	
+dtxt	315	178	Nul !!!
+wait	100		
+dtxt	43	41	Nul !!!
+wait	100		
+dtxt	315	222	Nul !!!
+wait	100		
+dtxt	356	0	Nul !!!
+wait	100		
+dtxt	498	60	Nul !!!
+wait	100		
+dtxt	484	117	Nul !!!
+wait	100		
+dtxt	104	280	Nul !!!
+wait	100		
+dtxt	373	187	Nul !!!
+wait	100		
+dtxt	450	258	Nul !!!
+wait	100		
+dtxt	94	36	Nul !!!
+wait	100		
+dtxt	381	90	Nul !!!
+wait	100		
+dtxt	345	12	Nul !!!
+wait	100		
+dtxt	135	71	Nul !!!
+wait	100		
+dtxt	304	71	Nul !!!
+wait	100		
+dtxt	392	8	Nul !!!
+wait	100		
+dtxt	395	190	Nul !!!
+wait	100		
+dtxt	69	167	Nul !!!
+wait	100		
+dtxt	344	22	Nul !!!
+wait	100		
+dtxt	433	213	Nul !!!
+wait	100		
+dtxt	22	144	Nul !!!
+wait	100		
+dtxt	115	287	Nul !!!
+wait	100		
+dtxt	359	208	Nul !!!
+wait	100		
+dtxt	248	193	Nul !!!
+wait	100		
+dtxt	493	43	Nul !!!
+wait	100		
+dtxt	346	131	Nul !!!
+wait	100		
+dtxt	372	159	Nul !!!
+wait	100		
+dtxt	130	61	Nul !!!
+wait	100		
+dtxt	345	153	Nul !!!
+wait	100		
+dtxt	118	0	Nul !!!
+wait	100		
+dtxt	306	115	Nul !!!
+wait	100		
+dtxt	92	72	Nul !!!
+wait	100		
+dtxt	30	34	Nul !!!
+wait	100		
+dtxt	125	146	Nul !!!
+wait	100		
+dtxt	435	52	Nul !!!
+wait	100		
+dtxt	137	14	Nul !!!
+wait	100		
+dtxt	113	249	Nul !!!
+wait	100		
+dtxt	182	81	Nul !!!
+wait	100		
+dtxt	81	2	Nul !!!
+wait	100		
+dtxt	94	211	Nul !!!
+wait	100		
+dtxt	244	176	Nul !!!
+wait	100		
+dtxt	271	255	Nul !!!
+wait	100		
+dtxt	324	193	Nul !!!
+wait	100		
+dtxt	53	60	Nul !!!
+wait	100		
+dtxt	458	19	Nul !!!
+wait	100		
+dtxt	7	179	Nul !!!
+wait	100		
+dtxt	365	32	Nul !!!
+wait	100		
+dtxt	145	121	Nul !!!
+wait	100		
+dtxt	72	213	Nul !!!
+wait	100		
+dtxt	121	107	Nul !!!
+wait	100		
+dtxt	427	267	Nul !!!
+wait	100		
+dtxt	201	172	Nul !!!
+wait	100		
+dtxt	342	104	Nul !!!
+wait	100		
+dtxt	450	260	Nul !!!
+wait	100		
+dtxt	219	49	Nul !!!
+wait	100		
+dtxt	376	215	Nul !!!
+wait	100		
+dtxt	95	185	Nul !!!
+wait	100		
+dtxt	241	230	Nul !!!
+wait	100		
+dtxt	211	274	Nul !!!
+wait	100		
+dtxt	392	67	Nul !!!
+wait	100		
+dtxt	128	33	Nul !!!
+wait	100		
+dtxt	245	179	Nul !!!
+wait	100		
+dtxt	340	122	Nul !!!
+wait	100		
+dtxt	369	187	Nul !!!
+wait	100		
+dtxt	299	68	Nul !!!
+wait	100		
+dtxt	421	292	Nul !!!
+wait	100		
+dtxt	60	253	Nul !!!
+wait	100		
+dtxt	109	181	Nul !!!
+wait	100		
+dtxt	411	144	Nul !!!
+wait	100		
+dtxt	443	276	Nul !!!
+wait	1000
+msnd	nul0.wav
+wait	1000
+msnd	nul1.wav
+wait	3000
+FRAME
+eras 	255 	255 	255
+cpen   	245 	150 	0
+cbru	245	150	0
+drec 	220	75 	230 	225
+msnd	col1.wav
+wait 	500
+drec 	270 	75 	280 	225
+msnd	col1.wav
+wait 	500
+drec 	175 	120 	325 	130
+msnd	ligne1.wav
+wait 	500
+drec 	175 	170 	325 	180
+msnd	ligne1.wav
+wait 	500
+cpen   	0 	0 	0	
+FRAME
+cpen   	180 	0 	0
+cbru 	180 	0 	0
+dcir	200	100	15
+cbru 	255 	255 	255
+dcir	200	100	10
+cpen   	0 	0 	0
+msnd	cercle1.wav
+wait 	1000
+FRAME
+cpen	0	180	0
+dlin	238	135	265	162
+dlin	237	135	265	163
+dlin	236	135	265	164
+dlin	235	135	265	165
+dlin	235	136	264	165
+dlin	235	137	263	165
+dlin	235	138	262	165
+dlin	235	162	262	135
+dlin	235	163	263	135
+dlin	235	164	264	135
+dlin	235	165	265	135
+dlin	236	165	265	136
+dlin	237	165	265	137
+dlin	238	165	265	138
+cpen   	0 	0 	0
+msnd	x1.wav
+wait 1000
+FRAME
+cpen   	180 	0 	0
+cbru 	180 	0 	0
+dcir	300	200	15
+cbru 	255 	255 	255
+dcir	300	200	10
+cpen   	0 	0 	0
+msnd	cercle1.wav
+wait 1000
+FRAME
+cpen	0	180	0
+dlin	188	185	215	212
+dlin	187	185	215	213
+dlin	186	185	215	214
+dlin	185	185	215	215
+dlin	185	186	214	215
+dlin	185	187	213	215
+dlin	185	188	212	215
+dlin	185	212	212	185
+dlin	185	213	213	185
+dlin	185	214	214	185
+dlin	185	215	215	185
+dlin	186	215	215	186
+dlin	187	215	215	187
+dlin	188	215	215	188
+cpen   	0 	0 	0
+msnd	x1.wav
+wait 1000
+msnd	toto.wav
+wait	2000
+FRAME
+cpen   	180 	0 	0
+cbru 	180 	0 	0
+dcir	300	100	15
+cbru 	255 	255 	255
+dcir	300	100	10
+cpen   	0 	0 	0
+msnd	cercle1.wav
+wait 1000
+FRAME
+cpen	0	180	0
+dlin	238	85	265	112
+dlin	237	85	265	113
+dlin	236	85	265	114
+dlin	235	85	265	115
+dlin	235	86	264	115
+dlin	235	87	263	115
+dlin	235	88	262	115
+dlin	235	112	262	85
+dlin	235	113	263	85
+dlin	235	114	264	85
+dlin	235	115	265	85
+dlin	236	115	265	86
+dlin	237	115	265	87
+dlin	238	115	265	88
+cpen   	0 	0 	0
+msnd	x1.wav
+wait 1000
+FRAME
+cpen   	180 	0 	0
+cbru 	180 	0 	0
+dcir	300	150	15
+cbru 	255 	255 	255
+dcir	300	150	10
+cpen   	0 	0 	0
+msnd	cercle1.wav
+wait 1000
+msnd	perdu.wav
+cpen   	0 	255 	255
+cbru	0	255	255
+drec 	298	75 	302 	225
+wait 	1500
+FRAME
+msnd	gagne.wav
+dtxt	264	91	Tic Tac
+wait	100		
+dtxt	354	218	Tic Tac
+wait	100		
+dtxt	374	161	Tic Tac
+wait	100		
+dtxt	237	97	Tic Tac
+wait	100		
+dtxt	105	199	Tic Tac
+wait	100		
+dtxt	442	71	Tic Tac
+wait	100		
+dtxt	84	115	Tic Tac
+wait	100		
+dtxt	358	160	Tic Tac
+wait	100		
+dtxt	137	238	Tic Tac
+wait	100		
+dtxt	230	225	Tic Tac
+wait	100		
+dtxt	500	191	Tic Tac
+wait	100		
+dtxt	186	67	Tic Tac
+wait	100		
+dtxt	220	20	Tic Tac
+wait	100		
+dtxt	261	285	Tic Tac
+wait	100		
+dtxt	104	118	Tic Tac
+wait	100		
+dtxt	121	142	Tic Tac
+wait	100		
+dtxt	200	280	Tic Tac
+wait	100		
+dtxt	77	205	Tic Tac
+wait	100		
+dtxt	350	227	Tic Tac
+wait	100		
+dtxt	11	271	Tic Tac
+wait	100		
+dtxt	360	236	Tic Tac
+wait	100		
+dtxt	257	92	Tic Tac
+wait	100		
+dtxt	68	103	Tic Tac
+wait	100		
+dtxt	158	16	Tic Tac
+wait	100		
+dtxt	401	52	Tic Tac
+wait	100		
+dtxt	394	31	Tic Tac
+wait	100		
+dtxt	76	165	Tic Tac
+wait	100		
+dtxt	394	123	Tic Tac
+wait	100		
+dtxt	329	124	Tic Tac
+wait	100		
+dtxt	26	246	Tic Tac
+wait	100		
+dtxt	431	94	Tic Tac
+wait	100		
+dtxt	220	219	Tic Tac
+wait	100		
+dtxt	421	20	Tic Tac
+wait	100		
+dtxt	315	17	Tic Tac
+wait	100		
+dtxt	118	32	Tic Tac
+wait	100		
+dtxt	219	158	Toc !!!
+wait	100
+FRAME		
+dtxt	160	255	Toc !!!
+wait	100		
+dtxt	263	70	Toc !!!
+wait	100		
+dtxt	106	57	Toc !!!
+wait	100		
+dtxt	450	253	Toc !!!
+wait	100		
+dtxt	486	233	Toc !!!
+wait	100		
+dtxt	233	26	Toc !!!
+wait	100		
+dtxt	7	243	Toc !!!
+wait	100		
+dtxt	469	81	Toc !!!
+wait	100		
+dtxt	319	144	Toc !!!
+wait	100		
+dtxt	162	209	Toc !!!
+wait	100		
+dtxt	229	285	Toc !!!
+wait	100		
+dtxt	404	250	Toc !!!
+wait	100		
+dtxt	116	190	Toc !!!
+wait	100		
+dtxt	383	18	Toc !!!
+wait	100		
+dtxt	7	69	Toc !!!
+wait	100		
+dtxt	469	188	Toc !!!
+wait	100		
+dtxt	343	107	Toc !!!
+wait	100		
+dtxt	297	68	Toc !!!
+wait	100		
+dtxt	391	221	Toc !!!
+wait	100		
+dtxt	348	32	Toc !!!
+wait	100		
+dtxt	224	182	Toc !!!
+wait	100		
+dtxt	226	291	Toc !!!
+wait	100		
+dtxt	77	272	Toc !!!
+wait	100		
+dtxt	23	6	Toc !!!
+wait	100		
+dtxt	38	201	Toc !!!
+wait	100		
+dtxt	287	123	Toc !!!
+wait	100		
+dtxt	25	266	Toc !!!
+wait	100		
+dtxt	140	214	Toc !!!
+wait	100		
+dtxt	275	151	Toc !!!
+wait	100		
+dtxt	180	292	Toc !!!
+wait	100		
+dtxt	81	134	Toc !!!
+wait	100		
+dtxt	397	10	Toc !!!
+wait	100		
+dtxt	112	120	Toc !!!
+msnd	fin.wav
+wait	5000
+END
+
+       
+      
+
+
+
+ 
+

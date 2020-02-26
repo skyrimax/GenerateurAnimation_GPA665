@@ -7,11 +7,6 @@ template<class T>
 list<T>::list()
 	: m_head(nullptr), m_tail(nullptr)
 {
-	m_begin.m_node = nullptr;
-	m_end.m_node = nullptr;
-
-	m_rbegin.m_node = nullptr;
-	m_rend.m_node = nullptr;
 }
 
 template<class T>
@@ -267,27 +262,55 @@ void list<T>::erase_after(size_t position)
 }
 
 template<class T>
-list<T>::iterator list<T>::begin()
+void list<T>::clear()
 {
-	return iterator(m_begin);
+	Node* tempNode;
+
+	while (m_head) {
+		tempNode = m_head;
+		m_head = m_head->next;
+		delete tempNode;
+	}
 }
 
 template<class T>
-list<T>::iterator list<T>::end()
+typename list<T>::iterator list<T>::begin()
 {
-	return iterator(m_end);
+	iterator* begin = new iterator();
+
+	begin->m_node = m_head;
+
+	return *begin;
 }
 
 template<class T>
-list<T>::backward_iterator list<T>::rbegin()
+typename list<T>::iterator list<T>::end()
 {
-	return backward_iterator(m_rbegin);
+	iterator* end = new iterator();
+
+	end->m_node = nullptr;
+
+	return *end;
 }
 
 template<class T>
-list<T>::backward_iterator list<T>::rend()
+typename list<T>::backward_iterator list<T>::rbegin()
 {
-	return backward_iterator(m_rend);
+	backward_iterator* rbegin = new backward_iterator();
+
+	rbegin->m_node = m_tail;
+
+	return *rbegin;
+}
+
+template<class T>
+typename list<T>::backward_iterator list<T>::rend()
+{
+	backward_iterator* rend = new backward_iterator();
+
+	rend->m_node = nullptr;
+	
+	return *rend;
 }
 
 template<class T>
@@ -308,7 +331,7 @@ list<T>::iterator::~iterator()
 }
 
 template<class T>
-list<T>::iterator & list<T>::iterator::operator=(const iterator & it)
+typename list<T>::iterator & list<T>::iterator::operator=(const iterator & it)
 {
 	m_node = it.m_node;
 
@@ -328,7 +351,7 @@ bool list<T>::iterator::operator!=(const iterator & it) const
 }
 
 template<class T>
-list<T>::iterator & list<T>::iterator::operator++()
+typename list<T>::iterator & list<T>::iterator::operator++()
 {
 	if (m_node) {
 		m_node = m_node->next;
@@ -338,7 +361,7 @@ list<T>::iterator & list<T>::iterator::operator++()
 }
 
 template<class T>
-list<T>::iterator list<T>::iterator::operator++(int)
+typename list<T>::iterator list<T>::iterator::operator++(int)
 {
 	iterator* it=new iterator(*this);
 
@@ -350,7 +373,7 @@ list<T>::iterator list<T>::iterator::operator++(int)
 }
 
 template<class T>
-list<T>::iterator & list<T>::iterator::operator--()
+typename list<T>::iterator & list<T>::iterator::operator--()
 {
 	if (m_node) {
 		m_node = m_node->previous;
@@ -360,7 +383,7 @@ list<T>::iterator & list<T>::iterator::operator--()
 }
 
 template<class T>
-list<T>::iterator list<T>::iterator::operator--(int)
+typename list<T>::iterator list<T>::iterator::operator--(int)
 {
 	iterator* it=new iterator(*this);
 
@@ -374,13 +397,13 @@ list<T>::iterator list<T>::iterator::operator--(int)
 template<class T>
 T & list<T>::iterator::operator*() const
 {
-	return *m_node
+	return m_node->data;
 }
 
 template<class T>
 T * list<T>::iterator::operator->() const
 {
-	return m_node;
+	return &m_node->data;
 }
 
 template<class T>
@@ -401,7 +424,7 @@ list<T>::backward_iterator::~backward_iterator()
 }
 
 template<class T>
-list<T>::backward_iterator & list<T>::backward_iterator::operator=(const backward_iterator & it)
+typename list<T>::backward_iterator & list<T>::backward_iterator::operator=(const backward_iterator & it)
 {
 	m_node = it.m_node;
 
@@ -421,7 +444,7 @@ bool list<T>::backward_iterator::operator!=(const backward_iterator & it) const
 }
 
 template<class T>
-list<T>::backward_iterator & list<T>::backward_iterator::operator++()
+typename list<T>::backward_iterator & list<T>::backward_iterator::operator++()
 {
 	if (m_node) {
 		m_node = m_node.previous;
@@ -431,19 +454,19 @@ list<T>::backward_iterator & list<T>::backward_iterator::operator++()
 }
 
 template<class T>
-list<T>::backward_iterator list<T>::backward_iterator::operator++(int)
+typename list<T>::backward_iterator list<T>::backward_iterator::operator++(int)
 {
 	backward_iterator* it = new backward_iterator(*this);
 
 	if (m_node) {
-		m_node = m_node.previous;
+		m_node = m_node->previous;
 	}
 
 	return *it;
 }
 
 template<class T>
-list<T>::backward_iterator & list<T>::backward_iterator::operator--()
+typename list<T>::backward_iterator & list<T>::backward_iterator::operator--()
 {
 	if (m_node) {
 		m_node = m_node.next;
@@ -451,7 +474,7 @@ list<T>::backward_iterator & list<T>::backward_iterator::operator--()
 }
 
 template<class T>
-list<T>::backward_iterator list<T>::backward_iterator::operator--(int)
+typename list<T>::backward_iterator list<T>::backward_iterator::operator--(int)
 {
 	backward_iterator* it = new backward_iterator(*this);
 
@@ -465,11 +488,11 @@ list<T>::backward_iterator list<T>::backward_iterator::operator--(int)
 template<class T>
 T & list<T>::backward_iterator::operator*() const
 {
-	return *m_node;
+	return m_node->data;
 }
 
 template<class T>
 T * list<T>::backward_iterator::operator->() const
 {
-	return m_node;
+	return &m_node->data;
 }

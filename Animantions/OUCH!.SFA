@@ -1,0 +1,630 @@
+Ouch!
+
+INIT        
+cbru 255 255 255
+cpen 255 0 0
+eras 255 255 255
+
+FRAME /*La mire */
+cpen 0 0 0
+cbru 0 0 0
+dell 160 100 240 200
+cbru 0 0 255
+dell 170 112 230 187
+cbru 0 255 0
+dell 180 125 220 175
+cbru 255 0 0
+dell 190 137 210 163
+dlin 200 200 173 253 
+dlin 200 200 190 243
+dlin 200 200 218 247
+
+FRAME  /*Fesse*/
+cpen 0 0 0
+/* fesse gauche*/
+darc 50 85 100 185 110 100 50 90
+dlin 57 102 75 170
+dlin 75 170 100 120
+/*fesse droite*/
+darc 85 85 135 185 135 90 85 90 
+dlin 127 100 113 167
+dlin 113 167 96 130
+/*pied gauche*/
+drec 55 170 75 180
+/*pied droit*/
+drec 113 167 133 177 
+
+FRAME /*homme*/
+cbru 255 255 255
+cpen 255 0 0
+/*tete*/
+dell 350 125 380 175
+/*coup*/
+dlin 365 175 365 185
+/*bras gauche*/
+dlin 365 185 345 200
+/*avant-bras gauche*/
+dlin 345 200 345 160
+/*bras droit*/
+dlin 365 185 375 215
+/*avant-bras droit*/
+dlin 375 215 355 215
+/*tronc*/
+dlin 365 185 365 235
+/*jambe et pied gauche*/
+dlin 365 235 335 295
+dlin 335 295 325 290
+/*jambe et pied droit*/
+dlin 365 235 395 295
+dlin 395 295 385 290
+
+FRAME /* Le dare */
+cpen 0 0 255
+dlin 335 160 355 160
+dlin 355 160 360 155 
+dlin 360 155 370 155
+dlin 355 160 360 165 
+dlin 360 165 370 165
+dlin 335 160 338 157
+dlin 335 160 338 163
+
+/* nouvelle figure */
+FRAME /*La mire */
+wait 500
+eras 255 255 255
+cpen 0 0 0
+cbru 0 0 0
+dell 160 100 240 200
+cbru 0 0 255
+dell 170 112 230 187
+cbru 0 255 0
+dell 180 125 220 175
+cbru 255 0 0
+dell 190 137 210 163
+dlin 200 200 173 253 
+dlin 200 200 190 243
+dlin 200 200 218 247
+
+FRAME  /*Fesse*/
+cpen 0 0 0
+/* fesse gauche*/
+darc 50 85 100 185 110 100 50 90
+dlin 57 102 75 170
+dlin 75 170 100 120
+/*fesse droite*/
+darc 85 85 135 185 135 90 85 90 
+dlin 127 100 113 167
+dlin 113 167 96 130
+/*pied gauche*/
+drec 55 170 75 180
+/*pied droit*/
+drec 113 167 133 177 
+
+FRAME /*homme*/
+cbru 255 255 255
+cpen 255 0 0
+/*tete*/
+dell 350 125 380 175
+/*coup*/
+dlin 365 175 365 185
+/*bras gauche*/
+dlin 365 185 345 200
+/*avant-bras gauche*/
+dlin 345 200 325 165
+/*bras droit*/
+dlin 365 185 375 215
+/*avant-bras droit*/
+dlin 375 215 355 215
+/*tronc*/
+dlin 365 185 365 235
+/*jambe et pied gauche*/
+dlin 365 235 335 295
+dlin 335 295 325 290
+/*jambe et pied droit*/
+dlin 365 235 395 295
+dlin 395 295 385 290
+
+FRAME /* Le dare */
+cpen 0 0 255
+dlin 315 130 332 145
+/* la pointe du dare */
+dlin 315 130 319 130 
+dlin 315 130 315 134
+/* les plumes */
+dlin 332 145 338 145 
+dlin 338 145 346 154
+dlin 332 145 332 151
+dlin 332 151 341 159
+
+/* nouvelle figure */
+FRAME /*La mire */
+wait 500
+eras 255 255 255
+cpen 0 0 0
+cbru 0 0 0
+dell 160 100 240 200
+cbru 0 0 255
+dell 170 112 230 187
+cbru 0 255 0
+dell 180 125 220 175
+cbru 255 0 0
+dell 190 137 210 163
+dlin 200 200 173 253 
+dlin 200 200 190 243
+dlin 200 200 218 247
+
+FRAME  /*Fesse*/
+cpen 0 0 0
+/* fesse gauche*/
+darc 50 85 100 185 110 100 50 90
+dlin 57 102 75 170
+dlin 75 170 100 120
+/*fesse droite*/
+darc 85 85 135 185 135 90 85 90 
+dlin 127 100 113 167
+dlin 113 167 96 130
+/*pied gauche*/
+drec 55 170 75 180
+/*pied droit*/
+drec 113 167 133 177 
+
+FRAME /*homme*/
+cbru 255 255 255
+cpen 255 0 0
+/*tete*/
+dell 350 125 380 175
+/*coup*/
+dlin 365 175 365 185
+/*bras gauche*/
+dlin 365 185 345 200
+/*avant-bras gauche*/
+dlin 345 200 325 165
+/*bras droit*/
+dlin 365 185 375 215
+/*avant-bras droit*/
+dlin 375 215 355 215
+/*tronc*/
+dlin 365 185 365 235
+/*jambe et pied gauche*/
+dlin 365 235 335 295
+dlin 335 295 325 290
+/*jambe et pied droit*/
+dlin 365 235 395 295
+dlin 395 295 385 290
+
+FRAME /* Le dare */
+cpen 0 0 255
+dlin 280 100 300 100
+/* la pointe du dare */
+dlin 280 100 285 105 
+dlin 280 100 285 95
+/* les plumes */
+dlin 300 100 305 95 
+dlin 305 95 313 95
+dlin 300 100 305 105
+dlin 305 105 313 105
+
+/* nouvelle figure */
+FRAME /*La mire */
+wait 500
+eras 255 255 255
+cpen 0 0 0
+cbru 0 0 0
+dell 160 100 240 200
+cbru 0 0 255
+dell 170 112 230 187
+cbru 0 255 0
+dell 180 125 220 175
+cbru 255 0 0
+dell 190 137 210 163
+dlin 200 200 173 253 
+dlin 200 200 190 243
+dlin 200 200 218 247
+
+FRAME  /*Fesse*/
+cpen 0 0 0
+/* fesse gauche*/
+darc 50 85 100 185 110 100 50 90
+dlin 57 102 75 170
+dlin 75 170 100 120
+/*fesse droite*/
+darc 85 85 135 185 135 90 85 90 
+dlin 127 100 113 167
+dlin 113 167 96 130
+/*pied gauche*/
+drec 55 170 75 180
+/*pied droit*/
+drec 113 167 133 177 
+
+FRAME /*homme*/
+cbru 255 255 255
+cpen 255 0 0
+/*tete*/
+dell 350 125 380 175
+/*coup*/
+dlin 365 175 365 185
+/*bras gauche*/
+dlin 365 185 345 200
+/*avant-bras gauche*/
+dlin 345 200 325 165
+/*bras droit*/
+dlin 365 185 375 215
+/*avant-bras droit*/
+dlin 375 215 355 215
+/*tronc*/
+dlin 365 185 365 235
+/*jambe et pied gauche*/
+dlin 365 235 335 295
+dlin 335 295 325 290
+/*jambe et pied droit*/
+dlin 365 235 395 295
+dlin 395 295 385 290
+
+FRAME /* Le dare */
+cpen 0 0 255
+dlin 240 100 260 100
+/* la pointe du dare */
+dlin 240 100 245 105 
+dlin 240 100 245 95
+/* les plumes */
+dlin 260 100 265 95 
+dlin 265 95 271 95
+dlin 260 100 265 105
+dlin 265 105 271 105
+
+/* nouvelle figure */
+FRAME /*La mire */
+wait 500
+eras 255 255 255
+cpen 0 0 0
+cbru 0 0 0
+dell 160 100 240 200
+cbru 0 0 255
+dell 170 112 230 187
+cbru 0 255 0
+dell 180 125 220 175
+cbru 255 0 0
+dell 190 137 210 163
+dlin 200 200 173 253 
+dlin 200 200 190 243
+dlin 200 200 218 247
+
+FRAME  /*Fesse*/
+cpen 0 0 0
+/* fesse gauche*/
+darc 50 85 100 185 110 100 50 90
+dlin 57 102 75 170
+dlin 75 170 100 120
+/*fesse droite*/
+darc 85 85 135 185 135 90 85 90 
+dlin 127 100 113 167
+dlin 113 167 96 130
+/*pied gauche*/
+drec 55 170 75 180
+/*pied droit*/
+drec 113 167 133 177 
+
+FRAME /*homme*/
+cbru 255 255 255
+cpen 255 0 0
+/*tete*/
+dell 350 125 380 175
+/*coup*/
+dlin 365 175 365 185
+/*bras gauche*/
+dlin 365 185 345 200
+/*avant-bras gauche*/
+dlin 345 200 325 165
+/*bras droit*/
+dlin 365 185 375 215
+/*avant-bras droit*/
+dlin 375 215 355 215
+/*tronc*/
+dlin 365 185 365 235
+/*jambe et pied gauche*/
+dlin 365 235 335 295
+dlin 335 295 325 290
+/*jambe et pied droit*/
+dlin 365 235 395 295
+dlin 395 295 385 290
+
+FRAME /* Le dare */
+cpen 0 0 255
+dlin 210 100 230 100
+/* la pointe du dare */
+dlin 210 100 215 105 
+dlin 210 100 215 95
+/* les plumes */
+dlin 230 100 235 95 
+dlin 235 95 241 95
+dlin 230 100 235 105
+dlin 235 105 241 105
+
+/* nouvelle figure */
+FRAME /*La mire */
+wait 500
+eras 255 255 255
+cpen 0 0 0
+cbru 0 0 0
+dell 160 100 240 200
+cbru 0 0 255
+dell 170 112 230 187
+cbru 0 255 0
+dell 180 125 220 175
+cbru 255 0 0
+dell 190 137 210 163
+dlin 200 200 173 253 
+dlin 200 200 190 243
+dlin 200 200 218 247
+
+FRAME  /*Fesse*/
+cpen 0 0 0
+/* fesse gauche*/
+darc 50 85 100 185 110 100 50 90
+dlin 57 102 75 170
+dlin 75 170 100 120
+/*fesse droite*/
+darc 85 85 135 185 135 90 85 90 
+dlin 127 100 113 167
+dlin 113 167 96 130
+/*pied gauche*/
+drec 55 170 75 180
+/*pied droit*/
+drec 113 167 133 177 
+
+FRAME /*homme*/
+cbru 255 255 255
+cpen 255 0 0
+/*tete*/
+dell 350 125 380 175
+/*coup*/
+dlin 365 175 365 185
+/*bras gauche*/
+dlin 365 185 345 200
+/*avant-bras gauche*/
+dlin 345 200 325 165
+/*bras droit*/
+dlin 365 185 375 215
+/*avant-bras droit*/
+dlin 375 215 355 215
+/*tronc*/
+dlin 365 185 365 235
+/*jambe et pied gauche*/
+dlin 365 235 335 295
+dlin 335 295 325 290
+/*jambe et pied droit*/
+dlin 365 235 395 295
+dlin 395 295 385 290
+
+FRAME /* Le dare */
+cpen 0 0 255
+dlin 170 100 190 100
+/* la pointe du dare */
+dlin 170 100 175 105 
+dlin 170 100 175 95
+/* les plumes */
+dlin 190 100 195 95 
+dlin 195 95 201 95
+dlin 190 100 195 105
+dlin 195 105 201 105
+
+/* nouvelle figure */
+FRAME /*La mire */
+wait 500
+eras 255 255 255
+cpen 0 0 0
+cbru 0 0 0
+dell 160 100 240 200
+cbru 0 0 255
+dell 170 112 230 187
+cbru 0 255 0
+dell 180 125 220 175
+cbru 255 0 0
+dell 190 137 210 163
+dlin 200 200 173 253 
+dlin 200 200 190 243
+dlin 200 200 218 247
+
+FRAME  /*Fesse*/
+cpen 0 0 0
+/* fesse gauche*/
+darc 50 85 100 185 110 100 50 90
+dlin 57 102 75 170
+dlin 75 170 100 120
+/*fesse droite*/
+darc 85 85 135 185 135 90 85 90 
+dlin 127 100 113 167
+dlin 113 167 96 130
+/*pied gauche*/
+drec 55 170 75 180
+/*pied droit*/
+drec 113 167 133 177 
+
+FRAME /*homme*/
+cbru 255 255 255
+cpen 255 0 0
+/*tete*/
+dell 350 125 380 175
+/*coup*/
+dlin 365 175 365 185
+/*bras gauche*/
+dlin 365 185 345 200
+/*avant-bras gauche*/
+dlin 345 200 325 165
+/*bras droit*/
+dlin 365 185 375 215
+/*avant-bras droit*/
+dlin 375 215 355 215
+/*tronc*/
+dlin 365 185 365 235
+/*jambe et pied gauche*/
+dlin 365 235 335 295
+dlin 335 295 325 290
+/*jambe et pied droit*/
+dlin 365 235 395 295
+dlin 395 295 385 290
+
+FRAME /* Le dare */
+cpen 0 0 255
+dlin 140 102 160 100
+/* la pointe du dare */
+dlin 140 102 145 107 
+dlin 140 102 145 97
+/* les plumes */
+dlin 160 100 165 95 
+dlin 165 95 171 95
+dlin 160 100 165 105
+dlin 165 105 171 105
+
+/* nouvelle figure */
+FRAME /*La mire */
+wait 500
+eras 255 255 255
+cpen 0 0 0
+cbru 0 0 0
+dell 160 100 240 200
+cbru 0 0 255
+dell 170 112 230 187
+cbru 0 255 0
+dell 180 125 220 175
+cbru 255 0 0
+dell 190 137 210 163
+dlin 200 200 173 253 
+dlin 200 200 190 243
+dlin 200 200 218 247
+
+FRAME  /*Fesse*/
+cpen 0 0 0
+/* fesse gauche*/
+darc 50 85 100 185 110 100 50 90
+dlin 57 102 75 170
+dlin 75 170 100 120
+/*fesse droite*/
+darc 85 85 135 185 135 90 85 90 
+dlin 127 100 113 167
+dlin 113 167 96 130
+/*pied gauche*/
+drec 55 170 75 180
+/*pied droit*/
+drec 113 167 133 177 
+
+FRAME /*homme*/
+cbru 255 255 255
+cpen 255 0 0
+/*tete*/
+dell 350 125 380 175
+/*coup*/
+dlin 365 175 365 185
+/*bras gauche*/
+dlin 365 185 345 200
+/*avant-bras gauche*/
+dlin 345 200 325 165
+/*bras droit*/
+dlin 365 185 375 215
+/*avant-bras droit*/
+dlin 375 215 355 215
+/*tronc*/
+dlin 365 185 365 235
+/*jambe et pied gauche*/
+dlin 365 235 335 295
+dlin 335 295 325 290
+/*jambe et pied droit*/
+dlin 365 235 395 295
+dlin 395 295 385 290
+
+FRAME /* Le dare */
+cpen 0 0 255
+dlin 95 109 115 103
+/* les plumes */
+dlin 115 103 118 97 
+dlin 118 97 126 94
+dlin 115 103 120 107
+dlin 120 107 129 104
+
+/* nouvelle figure */
+FRAME /*La mire */
+wait 500
+eras 255 255 255
+cpen 0 0 0
+cbru 0 0 0
+dell 160 100 240 200
+cbru 0 0 255
+dell 170 112 230 187
+cbru 0 255 0
+dell 180 125 220 175
+cbru 255 0 0
+dell 190 137 210 163
+dlin 200 200 173 253 
+dlin 200 200 190 243
+dlin 200 200 218 247
+
+FRAME  /*Fesse*/
+cpen 0 0 0
+/* fesse gauche*/
+darc 50 85 100 185 110 100 50 90
+dlin 57 102 75 170
+dlin 75 170 100 120
+/*fesse droite*/
+darc 85 85 135 185 135 90 85 90 
+dlin 127 100 113 167
+dlin 113 167 96 130
+/*pied gauche*/
+drec 55 170 75 180
+/*pied droit*/
+drec 113 167 133 177 
+
+FRAME/* Ouch! (tete)*/
+cpen 255 0 0
+dcir 36 100 20
+cbru 255 255 255
+dcir 30 93 5
+cpen 255 255 255
+dcir 30 110 5
+dcir 37 110 5
+dcir 43 110 5
+dcir 42 93 6
+cpen 255 255 255
+dlin 36 98 36 104
+
+
+FRAME /*homme*/
+cbru 255 255 255
+cpen 255 0 0
+/*tete*/
+dell 350 125 380 175
+/*coup*/
+dlin 365 175 365 185
+/*bras gauche*/
+dlin 365 185 345 200
+/*avant-bras gauche*/
+dlin 345 200 325 165
+/*bras droit*/
+dlin 365 185 375 215
+/*avant-bras droit*/
+dlin 375 215 355 215
+/*tronc*/
+dlin 365 185 365 235
+/*jambe et pied gauche*/
+dlin 365 235 335 295
+dlin 335 295 325 290
+/*jambe et pied droit*/
+dlin 365 235 395 295
+dlin 395 295 385 290
+
+FRAME /* Le dare */
+cpen 0 0 255
+dlin 95 109 115 103
+/* les plumes */
+dlin 115 103 118 97 
+dlin 118 97 126 94
+dlin 115 103 120 107
+dlin 120 107 129 104
+
+FRAME/* MOT DE LA FIN */
+wait 1500
+eras 255 255 255
+cpen 0 0 0
+dtxt 150 100 Ayoye!!!!!!
+wait 1000
+END
+

@@ -1,0 +1,8102 @@
+Test! hahaha!
+INIT        
+cbru 255 255 255
+cpen 0 0 0
+eras 255 255 255
+FRAME
+eras 255 255 255
+dtxt 10 10 Les productions Mégantic présentent:
+wait 1000
+dtxt 60 60 PING PONG big ADVENTURES
+wait 2000
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 29 119 231 151
+drec 30 120 230 150
+cpen 100 100 255
+drec 31 121 229 149
+drec 32 122 228 148
+dtxt 80 125 Première partie
+wait 1000
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 55 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 65 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255 
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 75 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 85 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255 
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 95 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 105 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 115 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 125 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 135 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 145 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 155 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 165 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 175 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 185 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 195 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 45 220 75
+cbru 0 0 0
+dcir 205 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 50 220 80
+cbru 0 0 0
+dcir 195 60 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 52 220 82
+cbru 0 0 0
+dcir 185 65 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	40 50 70
+cbru 0 0 255
+drec 210 52 220 82
+cbru 0 0 0
+dcir 175 70 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	41 50 71
+cbru 0 0 255
+drec 210 52 220 82
+cbru 0 0 0
+dcir 165 75 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	43 50 73
+cbru 0 0 255
+drec 210 52 220 82
+cbru 0 0 0
+dcir 155 80 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230	
+cbru 255 0 0	
+drec 40	46 50 76	
+cbru 0 0 255	
+drec 210 52 220 82	
+cbru 0 0 0	
+dcir 145 85 5	
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	50 50 80 
+cbru 0 0 255
+drec 210 52 220 82
+cbru 0 0 0
+dcir 135 90 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	56 50 86	
+cbru 0 0 255	
+drec 210 52 220 82	
+cbru 0 0 0	
+dcir 125 95 5	
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0	
+drec 40	63 50 93	
+cbru 0 0 255	
+drec 210 52 220 82	
+cbru 0 0 0	
+dcir 115 100 5	
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0	
+drec 40	75 50 105	
+cbru 0 0 255	
+drec 210 52 220 82	
+cbru 0 0 0	
+dcir 105 105 5	
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0	
+drec 40	82 50 112	
+cbru 0 0 255	
+drec 210 52 220 82	
+cbru 0 0 0	
+dcir 95 110 5	
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0	
+drec 40	100 50 130	
+cbru 0 0 255	
+drec 210 52 220 82	
+cbru 0 0 0	
+dcir 85 115 5	
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0	
+drec 40	110 50 140	
+cbru 0 0 255	
+drec 210 52 220 82	
+cbru 0 0 0	
+dcir 75 120 5	
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	112 50 142
+cbru 0 0 255
+drec 210 52 220 82	
+cbru 0 0 0	
+dcir 65 125 5	
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 52 220 82	
+cbru 0 0 0
+dcir 55 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 52 220 82	
+cbru 0 0 0
+dcir 70 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 52 220 82	
+cbru 0 0 0
+dcir 85 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 60 220 90	
+cbru 0 0 0
+dcir 100 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 70 220 100	
+cbru 0 0 0
+dcir 115 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 80 220 110	
+cbru 0 0 0
+dcir 130 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 90 220 120	
+cbru 0 0 0
+dcir 145 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 100 220 130	
+cbru 0 0 0
+dcir 160 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 175 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 190 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 205 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 185 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 165 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 145 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 125 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 105 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 80 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 55 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 85 130 5
+wait 75
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 105 130 5
+wait 75
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 125 130 5
+wait 75
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 145 130 5
+wait 75
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 165 130 5
+wait 75
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 185 130 5
+wait 75
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 205 130 5
+wait 75
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 185 130 5
+wait 50
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 165 130 5
+wait 50
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 145 130 5
+wait 50
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 125 130 5
+wait 50
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 105 130 5
+wait 50
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 80 130 5
+wait 50
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 55 130 5
+wait 50
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 85 130 5
+wait 25
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 105 130 5
+wait 25
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 125 130 5
+wait 25
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 145 130 5
+wait 25
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 165 130 5
+wait 25
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 185 130 5
+wait 25
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 205 130 5
+wait 25
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 185 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 165 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 145 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 125 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 105 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 80 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 55 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 85 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 105 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 125 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 145 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 165 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 185 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 205 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 185 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 165 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 145 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 125 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 105 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 80 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 55 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 85 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 105 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 125 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 145 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 165 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 185 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 205 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 185 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 165 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 145 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 125 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 105 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 80 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 55 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 85 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 105 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 125 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 145 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 165 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 185 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 205 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140   
+cpen 255 0 0
+cbru 255 0 0
+dcir 185 130 5
+cpen 0 0 0
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140        
+cpen 255 0 0	
+cbru 255 0 0
+dcir 165 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 125 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 105 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 80 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 55 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 85 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 105 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 125 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 165 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 185 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 205 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140   
+cpen 255 0 0
+cbru 255 0 0
+dcir 185 130 5
+cpen 0 0 0
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 105 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 55 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 105 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 185 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 205 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 145 125 185 135
+dcir 185 130 5   
+cpen 255 0 0
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 105 125 145 135
+dcir 145 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 105 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 55 125 95 135
+dcir 95 130 5           
+cpen 255 0 0	
+cbru 255 0 0
+dcir 55 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 55 125 95 135
+dcir 55 130 5           
+cpen 255 0 0	
+cbru 255 0 0
+dcir 105 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 105 125 145 135
+dcir 105 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 105 125 145 135
+dcir 105 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 145 125 185 135
+dcir 145 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 185 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 185 125 205 135
+dcir 185 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 205 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 145 125 185 135
+dcir 185 130 5   
+cpen 255 0 0
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 105 125 145 135
+dcir 145 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 105 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 55 125 95 135
+dcir 95 130 5           
+cpen 255 0 0	
+cbru 255 0 0
+dcir 55 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 55 125 95 135
+dcir 55 130 5           
+cpen 255 0 0	
+cbru 255 0 0
+dcir 105 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 105 125 145 135
+dcir 105 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 105 125 145 135
+dcir 105 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 145 125 185 135
+dcir 145 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 185 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 185 125 205 135
+dcir 185 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 205 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 145 125 185 135
+dcir 185 130 5   
+cpen 255 0 0
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 105 125 145 135
+dcir 145 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 105 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 55 125 95 135
+dcir 95 130 5           
+cpen 255 0 0	
+cbru 255 0 0
+dcir 55 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 55 125 95 135
+dcir 55 130 5           
+cpen 255 0 0	
+cbru 255 0 0
+dcir 105 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 105 125 145 135
+dcir 105 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 105 125 145 135
+dcir 105 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 145 125 185 135
+dcir 145 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 185 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 185 125 205 135
+dcir 185 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 205 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 135 125 205 135
+dcir 135 130 5   
+cpen 255 0 0
+cbru 255 0 0
+dcir 205 130 5
+cpen 0 0 0
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 205 125 125 135
+dcir 205 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 125 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 135 125 55 135
+dcir 135 130 5           
+cpen 255 0 0	
+cbru 255 0 0
+dcir 55 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 55 125 125 135
+dcir 55 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 125 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 135 125 205 135
+dcir 135 130 5   
+cpen 255 0 0
+cbru 255 0 0
+dcir 205 130 5
+cpen 0 0 0
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 205 125 125 135
+dcir 205 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 125 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 135 125 55 135
+dcir 135 130 5           
+cpen 255 0 0	
+cbru 255 0 0
+dcir 55 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 55 125 125 135
+dcir 55 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 125 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 135 125 205 135
+dcir 135 130 5   
+cpen 255 0 0
+cbru 255 0 0
+dcir 205 130 5
+cpen 0 0 0
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 205 125 125 135
+dcir 205 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 125 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 135 125 55 135
+dcir 135 130 5           
+cpen 255 0 0	
+cbru 255 0 0
+dcir 55 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 55 125 125 135
+dcir 55 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 125 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 135 125 205 135
+dcir 135 130 5   
+cpen 255 0 0
+cbru 255 0 0
+dcir 205 130 5
+cpen 0 0 0
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 205 125 125 135
+dcir 205 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 125 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 135 125 55 135
+dcir 135 130 5           
+cpen 255 0 0	
+cbru 255 0 0
+dcir 55 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 55 125 125 135
+dcir 55 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 125 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+msnd crack 1.wav
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 135 125 205 135
+dcir 135 130 5   
+cpen 255 0 0
+cbru 255 0 0
+dcir 205 130 5
+cpen 0 0 0
+wait 100
+FRAME
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cpen 0 0 255
+dlin 210 110 212 125
+dlin 211 110 213 125
+dlin 212 110 214 126
+dlin 213 110 215 126
+dlin 214 110 216 127
+dlin 215 110 217 128
+dlin 216 110 218 130
+dlin 217 110 219 130
+dlin 218 110 220 130
+dlin 219 110 221 130
+dlin 220 110 222 130
+dlin 210 140 212 135
+dlin 211 140 213 135
+dlin 212 140 214 134
+dlin 213 140 215 134
+dlin 214 140 216 133
+dlin 215 140 217 132
+dlin 216 140 218 130
+dlin 217 140 219 130
+dlin 218 140 220 130
+dlin 219 140 221 130
+dlin 220 140 222 130
+cpen 225 200 200
+cbru 225 200 200
+drec 185 125 215 135
+dcir 185 130 5   
+cpen 255 0 0
+cbru 255 0 0
+dcir 215 130 5
+cpen 0 0 0
+wait 100
+FRAME
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 200 110 220 120
+drec 210 140 220 150
+cpen 225 200 200
+cbru 225 200 200
+drec 220 125 226 135
+dcir 220 130 5   
+cpen 255 0 0
+cbru 255 0 0
+dcir 226 130 5
+cpen 0 0 0
+wait 100
+FRAME
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 200 110 210 130
+drec 215 145 225 155
+cpen 255 0 0
+cbru 255 0 0
+dcir 220 135 5
+cpen 0 0 0
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 190 120 210 130
+drec 220 150 230 160
+cpen 255 0 0
+cbru 255 0 0
+dcir 215 140 5
+cpen 0 0 0
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 195 120 205 140
+drec 220 160 230 170
+cpen 255 0 0
+cbru 255 0 0
+dcir 207 147 5
+cpen 0 0 0
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 180 140 200 150
+drec 220 170 230 180
+cpen 255 0 0
+cbru 255 0 0
+dcir 207 160 5
+cpen 0 0 0
+wait 150
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 185 135 195 155
+drec 220 195 230 205
+cpen 255 0 0
+cbru 255 0 0
+dcir 205 180 5
+cpen 0 0 0
+wait 150
+FRAME
+msnd Bong 1.wav
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 175 158 195 168
+drec 220 210 230 220
+cpen 255 0 0
+cbru 255 0 0
+dcir 204 200 5
+cpen 0 0 0
+wait 150
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 178 165 188 185
+drec 220 220 230 230
+cpen 255 0 0
+cbru 255 0 0
+dcir 204 225 5
+cpen 0 0 0
+wait 150
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 168 185 188 195
+drec 220 220 230 230
+cpen 255 0 0
+cbru 255 0 0
+dcir 203 215 5
+cpen 0 0 0
+wait 150
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 170 195 180 215
+drec 220 220 230 230
+cpen 255 0 0
+cbru 255 0 0
+dcir 203 205 5
+cpen 0 0 0
+wait 150
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 165 220 185 230
+drec 220 220 230 230
+cpen 255 0 0
+cbru 255 0 0
+dcir 202 210 5
+cpen 0 0 0
+wait 150
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 165 220 185 230
+drec 220 220 230 230
+cpen 255 0 0
+cbru 255 0 0
+dcir 202 220 5
+cpen 0 0 0
+wait 150
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 165 220 185 230
+drec 220 220 230 230
+cpen 255 0 0
+cbru 255 0 0
+dcir 201 225 5
+cpen 0 0 0
+wait 150
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 165 220 185 230
+drec 220 220 230 230
+cpen 255 0 0
+cbru 255 0 0
+dcir 200 220 5
+cpen 0 0 0
+wait 150
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 165 220 185 230
+drec 220 220 230 230
+cpen 255 0 0
+cbru 255 0 0
+dcir 199 223 5
+cpen 0 0 0
+wait 150
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 165 220 185 230
+drec 220 220 230 230
+cpen 255 0 0
+cbru 255 0 0
+dcir 198 225 5
+cpen 0 0 0
+wait 150
+FRAME               ----- Fade out du feu dans la puck
+cpen 255 0 0
+cbru 255 0 0
+dcir 198 225 5
+wait 150
+FRAME
+cpen 225 0 0
+cbru 225 0 0
+dcir 198 225 5
+wait 150
+FRAME
+cpen 200 0 0
+cbru 200 0 0
+dcir 198 225 5
+wait 150
+FRAME
+cpen 175 0 0
+cbru 175 0 0
+dcir 198 225 5
+wait 150
+FRAME
+cpen 150 0 0
+cbru 150 0 0
+dcir 198 225 5
+wait 150
+FRAME
+cpen 125 0 0
+cbru 125 0 0
+dcir 198 225 5
+wait 150
+FRAME
+cpen 100 0 0
+cbru 100 0 0
+dcir 198 225 5
+wait 150
+FRAME
+cpen 75 0 0
+cbru 75 0 0
+dcir 198 225 5
+wait 150
+FRAME
+cpen 50 0 0
+cbru 50 0 0
+dcir 198 225 5
+wait 150
+FRAME
+cpen 25 0 0
+cbru 25 0 0
+dcir 198 225 5
+wait 150
+FRAME
+cpen 0 0 0
+cbru 0 0 0
+dcir 198 225 5
+wait 150
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 165 220 185 230
+drec 220 220 230 230
+cpen 0 0 0
+cbru 0 0 0
+dcir 198 225 5
+FRAME                ---- Fin de la première partie
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 29 119 231 151
+drec 30 120 230 150
+cpen 100 100 255
+drec 31 121 229 149
+drec 32 122 228 148
+dtxt 80 125 Deuxième partie
+wait 1500
+
+FRAME				------ Partie  2  -------------------------------------------------------------------
+eras 255 255 255
+cpen 0 0 0
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 55 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 65 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255 
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 75 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 85 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255 
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 95 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 105 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 115 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 125 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 135 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 145 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 155 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 165 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 175 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 185 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 195 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 45 220 75
+cbru 0 0 0
+dcir 205 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 50 220 80
+cbru 0 0 0
+dcir 195 60 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 52 220 82
+cbru 0 0 0
+dcir 185 65 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	40 50 70
+cbru 0 0 255
+drec 210 52 220 82
+cbru 0 0 0
+dcir 175 70 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	41 50 71
+cbru 0 0 255
+drec 210 52 220 82
+cbru 0 0 0
+dcir 165 75 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	43 50 73
+cbru 0 0 255
+drec 210 52 220 82
+cbru 0 0 0
+dcir 155 80 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230	
+cbru 255 0 0	
+drec 40	46 50 76	
+cbru 0 0 255	
+drec 210 52 220 82	
+cbru 0 0 0	
+dcir 145 85 5	
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	50 50 80 
+cbru 0 0 255
+drec 210 52 220 82
+cbru 0 0 0
+dcir 135 90 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	56 50 86	
+cbru 0 0 255	
+drec 210 52 220 82	
+cbru 0 0 0	
+dcir 125 95 5	
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0	
+drec 40	63 50 93	
+cbru 0 0 255	
+drec 210 52 220 82	
+cbru 0 0 0	
+dcir 115 100 5	
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0	
+drec 40	75 50 105	
+cbru 0 0 255	
+drec 210 52 220 82	
+cbru 0 0 0	
+dcir 105 105 5	
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0	
+drec 40	82 50 112	
+cbru 0 0 255	
+drec 210 52 220 82	
+cbru 0 0 0	
+dcir 95 110 5	
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0	
+drec 40	100 50 130	
+cbru 0 0 255	
+drec 210 52 220 82	
+cbru 0 0 0	
+dcir 85 115 5	
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0	
+drec 40	110 50 140	
+cbru 0 0 255	
+drec 210 52 220 82	
+cbru 0 0 0	
+dcir 75 120 5	
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	112 50 142
+cbru 0 0 255
+drec 210 52 220 82	
+cbru 0 0 0	
+dcir 65 125 5	
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 52 220 82	
+cbru 0 0 0
+dcir 55 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 52 220 82	
+cbru 0 0 0
+dcir 70 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 52 220 82	
+cbru 0 0 0
+dcir 85 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 60 220 90	
+cbru 0 0 0
+dcir 100 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 70 220 100	
+cbru 0 0 0
+dcir 115 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 80 220 110	
+cbru 0 0 0
+dcir 130 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 90 220 120	
+cbru 0 0 0
+dcir 145 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 100 220 130	
+cbru 0 0 0
+dcir 160 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 175 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 190 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 205 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 185 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 165 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 145 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 125 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 105 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 80 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 55 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 85 130 5
+wait 75
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 105 130 5
+wait 75
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 125 130 5
+wait 75
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 145 130 5
+wait 75
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 165 130 5
+wait 75
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 185 130 5
+wait 75
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 205 130 5
+wait 75
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 185 130 5
+wait 50
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 165 130 5
+wait 50
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 145 130 5
+wait 50
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 125 130 5
+wait 50
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 105 130 5
+wait 50
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 80 130 5
+wait 50
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 55 130 5
+wait 50
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 85 130 5
+wait 25
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 105 130 5
+wait 25
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 125 130 5
+wait 25
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 145 130 5
+wait 25
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 165 130 5
+wait 25
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 185 130 5
+wait 25
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 205 130 5
+wait 25
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 185 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 165 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 145 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 125 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 105 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 80 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 55 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 85 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 105 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 125 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 145 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 165 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 185 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 205 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 185 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 165 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 145 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 125 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 105 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 80 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 55 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 85 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 105 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 125 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 145 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 165 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 185 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 205 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 185 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 165 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 145 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 125 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 105 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 80 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 55 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 85 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 105 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 125 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 145 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 165 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 185 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 205 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140   
+cpen 255 0 0
+cbru 255 0 0
+dcir 185 130 5
+cpen 0 0 0
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140        
+cpen 255 0 0	
+cbru 255 0 0
+dcir 165 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 125 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 105 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 80 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 55 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 85 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 105 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 125 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 165 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 185 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 205 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140   
+cpen 255 0 0
+cbru 255 0 0
+dcir 185 130 5
+cpen 0 0 0
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 105 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 55 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 105 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 185 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 205 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 145 125 185 135
+dcir 185 130 5   
+cpen 255 0 0
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 105 125 145 135
+dcir 145 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 105 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 55 125 95 135
+dcir 95 130 5           
+cpen 255 0 0	
+cbru 255 0 0
+dcir 55 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 55 125 95 135
+dcir 55 130 5           
+cpen 255 0 0	
+cbru 255 0 0
+dcir 105 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 105 125 145 135
+dcir 105 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 105 125 145 135
+dcir 105 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 145 125 185 135
+dcir 145 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 185 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 185 125 205 135
+dcir 185 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 205 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 145 125 185 135
+dcir 185 130 5   
+cpen 255 0 0
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 105 125 145 135
+dcir 145 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 105 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 55 125 95 135
+dcir 95 130 5           
+cpen 255 0 0	
+cbru 255 0 0
+dcir 55 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 55 125 95 135
+dcir 55 130 5           
+cpen 255 0 0	
+cbru 255 0 0
+dcir 105 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 105 125 145 135
+dcir 105 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 105 125 145 135
+dcir 105 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 145 125 185 135
+dcir 145 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 185 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 185 125 205 135
+dcir 185 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 205 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 145 125 185 135
+dcir 185 130 5   
+cpen 255 0 0
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 105 125 145 135
+dcir 145 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 105 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 55 125 95 135
+dcir 95 130 5           
+cpen 255 0 0	
+cbru 255 0 0
+dcir 55 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 55 125 95 135
+dcir 55 130 5           
+cpen 255 0 0	
+cbru 255 0 0
+dcir 105 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 105 125 145 135
+dcir 105 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 105 125 145 135
+dcir 105 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 145 125 185 135
+dcir 145 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 185 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 185 125 205 135
+dcir 185 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 205 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 135 125 205 135
+dcir 135 130 5   
+cpen 255 0 0
+cbru 255 0 0
+dcir 205 130 5
+cpen 0 0 0
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 205 125 125 135
+dcir 205 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 125 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 135 125 55 135
+dcir 135 130 5           
+cpen 255 0 0	
+cbru 255 0 0
+dcir 55 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 55 125 125 135
+dcir 55 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 125 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 135 125 205 135
+dcir 135 130 5   
+cpen 255 0 0
+cbru 255 0 0
+dcir 205 130 5
+cpen 0 0 0
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 205 125 125 135
+dcir 205 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 125 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 135 125 55 135
+dcir 135 130 5           
+cpen 255 0 0	
+cbru 255 0 0
+dcir 55 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 55 125 125 135
+dcir 55 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 125 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 135 125 205 135
+dcir 135 130 5   
+cpen 255 0 0
+cbru 255 0 0
+dcir 205 130 5
+cpen 0 0 0
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 205 125 125 135
+dcir 205 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 125 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 135 125 55 135
+dcir 135 130 5           
+cpen 255 0 0	
+cbru 255 0 0
+dcir 55 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 55 125 125 135
+dcir 55 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 125 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 135 125 205 135
+dcir 135 130 5   
+cpen 255 0 0
+cbru 255 0 0
+dcir 205 130 5
+cpen 0 0 0
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 205 125 125 135
+dcir 205 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 125 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 135 125 55 135
+dcir 135 130 5           
+cpen 255 0 0	
+cbru 255 0 0
+dcir 55 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 55 125 125 135
+dcir 55 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 125 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 135 125 205 135
+dcir 135 130 5   
+cpen 255 0 0
+cbru 255 0 0
+dcir 205 130 5
+cpen 0 0 0
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+dcir 205 130 5
+dcir 124 130 5
+drec 124 125 205 135
+cpen 255 0 0
+cbru 255 0 0
+dcir 180 130 5
+cpen 0 0 0
+wait 20
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+dcir 200 130 5
+dcir 120 130 5
+drec 120 125 200 135
+cpen 255 0 0
+cbru 255 0 0
+dcir 170 130 5
+cpen 0 0 0
+wait 20
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+dcir 196 130 5
+dcir 115 130 5
+drec 115 125 196 135
+cpen 255 0 0
+cbru 255 0 0
+dcir 130 130 5
+cpen 0 0 0
+wait 20
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+dcir 194 130 5
+dcir 110 130 5
+drec 110 125 194 135
+cpen 255 0 0
+cbru 255 0 0
+dcir 150 130 5
+cpen 0 0 0
+wait 20
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+dcir 194 130 5
+dcir 100 130 5
+drec 100 125 194 135  
+cpen 255 0 0
+cbru 255 0 0
+dcir 120 130 5
+cpen 0 0 0
+wait 20
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+dcir 190 130 5
+dcir 90 130 5
+drec 90 125 190 135
+cpen 255 0 0
+cbru 255 0 0
+dcir 100 130 5
+cpen 0 0 0
+wait 20
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+dcir 188 130 5
+dcir 80 130 5
+drec 80 125 188 135
+cpen 255 0 0
+cbru 255 0 0
+dcir 110 130 5
+cpen 0 0 0
+wait 20
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+dcir 186 130 5
+dcir 70 130 5
+drec 70 125 186 135
+cpen 255 0 0
+cbru 255 0 0
+dcir 80 130 5
+cpen 0 0 0
+wait 20
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+dcir 188 130 5
+dcir 60 130 5
+drec 60 125 188 135
+cpen 255 0 0
+cbru 255 0 0
+dcir 180 130 5
+cpen 0 0 0
+wait 20
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+dcir 190 130 5
+dcir 55 130 5
+drec 55 125 190 135
+cpen 255 0 0
+cbru 255 0 0
+dcir 60 130 5
+cpen 0 0 0
+wait 20
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+dcir 192 130 5
+dcir 55 130 5
+drec 55 125 192 135
+cpen 255 0 0
+cbru 255 0 0
+dcir 160 130 5
+cpen 0 0 0
+wait 20
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+dcir 196 130 5
+dcir 55 130 5
+drec 55 125 196 135
+cpen 255 0 0
+cbru 255 0 0
+dcir 185 130 5
+cpen 0 0 0
+wait 20
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+dcir 200 130 5
+dcir 55 130 5
+drec 55 125 200 135
+cpen 255 0 0
+cbru 255 0 0
+dcir 60 130 5
+cpen 0 0 0
+wait 20
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+dcir 205 130 5
+dcir 55 130 5
+drec 55 125 205 135
+cpen 255 0 0
+cbru 255 0 0
+dcir 200 130 5
+cpen 0 0 0
+wait 20
+FRAME
+cpen 225 200 200
+cbru 225 200 200
+drec 50 125 210 135
+wait 700
+FRAME
+cpen 225 220 220
+cbru 225 220 220
+drec 50 125 210 135
+wait 700
+FRAME
+cpen 235 230 230
+cbru 245 230 230
+drec 50 125 210 135
+wait 700
+FRAME
+cpen 255 240 240
+cbru 255 240 240
+drec 50 125 210 135
+wait 700
+FRAME
+cpen 255 255 255
+cbru 255 255 255
+drec 50 125 210 135
+wait 1000
+FRAME
+cpen 0 255 0
+dtxt 215 100 ?
+Wait 700
+dtxt 45 100 ?
+Wait 1000
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+cpen 0 0 0
+FRAME                ---- Fin de la deuxième partie
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 29 119 231 151
+drec 30 120 230 150
+cpen 100 100 255
+drec 31 121 229 149
+drec 32 122 228 148
+dtxt 80 125 Troisième partie
+wait 1500
+FRAME			----- Troisième partie -------------------------------------------------------------------
+eras 255 255 255
+cpen 0 0 0
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 55 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 65 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255 
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 75 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 85 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255 
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 95 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 105 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 115 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 125 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 135 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 145 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 155 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 165 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 175 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 185 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 40 220 70
+cbru 0 0 0
+dcir 195 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 45 220 75
+cbru 0 0 0
+dcir 205 55 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 50 220 80
+cbru 0 0 0
+dcir 195 60 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40 40 50 70
+cbru 0 0 255
+drec 210 52 220 82
+cbru 0 0 0
+dcir 185 65 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	40 50 70
+cbru 0 0 255
+drec 210 52 220 82
+cbru 0 0 0
+dcir 175 70 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	41 50 71
+cbru 0 0 255
+drec 210 52 220 82
+cbru 0 0 0
+dcir 165 75 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	43 50 73
+cbru 0 0 255
+drec 210 52 220 82
+cbru 0 0 0
+dcir 155 80 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230	
+cbru 255 0 0	
+drec 40	46 50 76	
+cbru 0 0 255	
+drec 210 52 220 82	
+cbru 0 0 0	
+dcir 145 85 5	
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	50 50 80 
+cbru 0 0 255
+drec 210 52 220 82
+cbru 0 0 0
+dcir 135 90 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	56 50 86	
+cbru 0 0 255	
+drec 210 52 220 82	
+cbru 0 0 0	
+dcir 125 95 5	
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0	
+drec 40	63 50 93	
+cbru 0 0 255	
+drec 210 52 220 82	
+cbru 0 0 0	
+dcir 115 100 5	
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0	
+drec 40	75 50 105	
+cbru 0 0 255	
+drec 210 52 220 82	
+cbru 0 0 0	
+dcir 105 105 5	
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0	
+drec 40	82 50 112	
+cbru 0 0 255	
+drec 210 52 220 82	
+cbru 0 0 0	
+dcir 95 110 5	
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0	
+drec 40	100 50 130	
+cbru 0 0 255	
+drec 210 52 220 82	
+cbru 0 0 0	
+dcir 85 115 5	
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0	
+drec 40	110 50 140	
+cbru 0 0 255	
+drec 210 52 220 82	
+cbru 0 0 0	
+dcir 75 120 5	
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	112 50 142
+cbru 0 0 255
+drec 210 52 220 82	
+cbru 0 0 0	
+dcir 65 125 5	
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 52 220 82	
+cbru 0 0 0
+dcir 55 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 52 220 82	
+cbru 0 0 0
+dcir 70 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 52 220 82	
+cbru 0 0 0
+dcir 85 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 60 220 90	
+cbru 0 0 0
+dcir 100 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 70 220 100	
+cbru 0 0 0
+dcir 115 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 80 220 110	
+cbru 0 0 0
+dcir 130 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 90 220 120	
+cbru 0 0 0
+dcir 145 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 100 220 130	
+cbru 0 0 0
+dcir 160 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 175 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 190 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 205 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 185 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 165 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 145 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 125 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 105 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 80 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 55 130 5
+wait 100
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 85 130 5
+wait 75
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 105 130 5
+wait 75
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 125 130 5
+wait 75
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 145 130 5
+wait 75
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 165 130 5
+wait 75
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 185 130 5
+wait 75
+FRAME
+eras 255 255 255
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 205 130 5
+wait 75
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 185 130 5
+wait 50
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 165 130 5
+wait 50
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 145 130 5
+wait 50
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 125 130 5
+wait 50
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 105 130 5
+wait 50
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 80 130 5
+wait 50
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 55 130 5
+wait 50
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 85 130 5
+wait 25
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 105 130 5
+wait 25
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 125 130 5
+wait 25
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 145 130 5
+wait 25
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 165 130 5
+wait 25
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 185 130 5
+wait 25
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 0 0 0
+dcir 205 130 5
+wait 25
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 185 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 165 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 145 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 125 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 105 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 80 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 55 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 85 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 105 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 125 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 145 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 165 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 185 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 100 0 0
+dcir 205 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 185 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 165 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 145 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 125 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 105 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 80 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 55 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 85 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 105 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 125 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 145 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 165 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 185 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 200 0 0
+dcir 205 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 185 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 165 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 145 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 125 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 105 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 80 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 55 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 85 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 105 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 125 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 145 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 165 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 185 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140	
+cbru 255 0 0
+dcir 205 130 5
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140   
+cpen 255 0 0
+cbru 255 0 0
+dcir 185 130 5
+cpen 0 0 0
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140        
+cpen 255 0 0	
+cbru 255 0 0
+dcir 165 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 125 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 105 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 80 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 55 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 85 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 105 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 125 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 165 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 185 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 205 130 5
+cpen 0 0 0           
+wait 20
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140   
+cpen 255 0 0
+cbru 255 0 0
+dcir 185 130 5
+cpen 0 0 0
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 105 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 55 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 105 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 185 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 205 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 145 125 185 135
+dcir 185 130 5   
+cpen 255 0 0
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 105 125 145 135
+dcir 145 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 105 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 55 125 95 135
+dcir 95 130 5           
+cpen 255 0 0	
+cbru 255 0 0
+dcir 55 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 55 125 95 135
+dcir 55 130 5           
+cpen 255 0 0	
+cbru 255 0 0
+dcir 105 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 105 125 145 135
+dcir 105 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 105 125 145 135
+dcir 105 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 145 125 185 135
+dcir 145 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 185 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 185 125 205 135
+dcir 185 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 205 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 145 125 185 135
+dcir 185 130 5   
+cpen 255 0 0
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 105 125 145 135
+dcir 145 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 105 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 55 125 95 135
+dcir 95 130 5           
+cpen 255 0 0	
+cbru 255 0 0
+dcir 55 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 55 125 95 135
+dcir 55 130 5           
+cpen 255 0 0	
+cbru 255 0 0
+dcir 105 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 105 125 145 135
+dcir 105 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 105 125 145 135
+dcir 105 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 145 125 185 135
+dcir 145 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 185 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 185 125 205 135
+dcir 185 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 205 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 145 125 185 135
+dcir 185 130 5   
+cpen 255 0 0
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 105 125 145 135
+dcir 145 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 105 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 55 125 95 135
+dcir 95 130 5           
+cpen 255 0 0	
+cbru 255 0 0
+dcir 55 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 55 125 95 135
+dcir 55 130 5           
+cpen 255 0 0	
+cbru 255 0 0
+dcir 105 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 105 125 145 135
+dcir 105 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 105 125 145 135
+dcir 105 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 145 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 145 125 185 135
+dcir 145 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 185 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 185 125 205 135
+dcir 185 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 205 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 135 125 205 135
+dcir 135 130 5   
+cpen 255 0 0
+cbru 255 0 0
+dcir 205 130 5
+cpen 0 0 0
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 205 125 125 135
+dcir 205 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 125 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 135 125 55 135
+dcir 135 130 5           
+cpen 255 0 0	
+cbru 255 0 0
+dcir 55 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 55 125 125 135
+dcir 55 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 125 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 135 125 205 135
+dcir 135 130 5   
+cpen 255 0 0
+cbru 255 0 0
+dcir 205 130 5
+cpen 0 0 0
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 205 125 125 135
+dcir 205 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 125 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 135 125 55 135
+dcir 135 130 5           
+cpen 255 0 0	
+cbru 255 0 0
+dcir 55 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 55 125 125 135
+dcir 55 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 125 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 135 125 205 135
+dcir 135 130 5   
+cpen 255 0 0
+cbru 255 0 0
+dcir 205 130 5
+cpen 0 0 0
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 205 125 125 135
+dcir 205 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 125 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 135 125 55 135
+dcir 135 130 5           
+cpen 255 0 0	
+cbru 255 0 0
+dcir 55 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 55 125 125 135
+dcir 55 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 125 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 135 125 205 135
+dcir 135 130 5   
+cpen 255 0 0
+cbru 255 0 0
+dcir 205 130 5
+cpen 0 0 0
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 205 125 125 135
+dcir 205 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 125 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+cbru 255 255 255
+cpen 255 255 255
+drec 50 120 210 140
+cpen 0 0 0
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 135 125 55 135
+dcir 135 130 5           
+cpen 255 0 0	
+cbru 255 0 0
+dcir 55 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 55 125 125 135
+dcir 55 130 5          
+cpen 255 0 0	
+cbru 255 0 0
+dcir 125 130 5
+cpen 0 0 0           
+wait 40
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+drec 135 125 205 135
+dcir 135 130 5   
+cpen 255 0 0
+cbru 255 0 0
+dcir 205 130 5
+cpen 0 0 0
+wait 100
+FRAME                              ------ Debut 3eme fin
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+
+dcir 205 130 5
+dcir 124 130 5
+drec 124 125 205 135
+   
+cpen 255 0 0
+cbru 255 0 0
+dcir 180 130 5
+cpen 0 0 0
+wait 20
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+
+dcir 200 130 5
+dcir 120 130 5
+drec 120 125 200 135
+   
+cpen 255 0 0
+cbru 255 0 0
+dcir 170 130 5
+cpen 0 0 0
+wait 20
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+
+dcir 196 130 5
+dcir 115 130 5
+drec 115 125 196 135
+   
+cpen 255 0 0
+cbru 255 0 0
+dcir 130 130 5
+cpen 0 0 0
+wait 20
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+
+dcir 194 130 5
+dcir 110 130 5
+drec 110 125 194 135
+   
+cpen 255 0 0
+cbru 255 0 0
+dcir 150 130 5
+cpen 0 0 0
+wait 20
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+
+dcir 194 130 5
+dcir 100 130 5
+drec 100 125 194 135
+   
+cpen 255 0 0
+cbru 255 0 0
+dcir 120 130 5
+cpen 0 0 0
+wait 20
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+
+dcir 190 130 5
+dcir 90 130 5
+drec 90 125 190 135
+   
+cpen 255 0 0
+cbru 255 0 0
+dcir 100 130 5
+cpen 0 0 0
+wait 20
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+
+dcir 188 130 5
+dcir 80 130 5
+drec 80 125 188 135
+   
+cpen 255 0 0
+cbru 255 0 0
+dcir 110 130 5
+cpen 0 0 0
+wait 20
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+
+dcir 186 130 5
+dcir 70 130 5
+drec 70 125 186 135
+   
+cpen 255 0 0
+cbru 255 0 0
+dcir 80 130 5
+cpen 0 0 0
+wait 20
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+
+dcir 188 130 5
+dcir 60 130 5
+drec 60 125 188 135
+   
+cpen 255 0 0
+cbru 255 0 0
+dcir 180 130 5
+cpen 0 0 0
+wait 20
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+
+dcir 190 130 5
+dcir 55 130 5
+drec 55 125 190 135
+   
+cpen 255 0 0
+cbru 255 0 0
+dcir 60 130 5
+cpen 0 0 0
+wait 20
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+
+dcir 192 130 5
+dcir 55 130 5
+drec 55 125 192 135
+   
+cpen 255 0 0
+cbru 255 0 0
+dcir 160 130 5
+cpen 0 0 0
+wait 20
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+
+dcir 196 130 5
+dcir 55 130 5
+drec 55 125 196 135
+   
+cpen 255 0 0
+cbru 255 0 0
+dcir 185 130 5
+cpen 0 0 0
+wait 20
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+
+dcir 200 130 5
+dcir 55 130 5
+drec 55 125 200 135
+   
+cpen 255 0 0
+cbru 255 0 0
+dcir 60 130 5
+cpen 0 0 0
+wait 20
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 225 200 200
+cbru 225 200 200
+
+dcir 205 130 5
+dcir 55 130 5
+drec 55 125 205 135
+   
+cpen 255 0 0
+cbru 255 0 0
+dcir 200 130 5
+cpen 0 0 0
+wait 20
+-------------------------------------------
+FRAME
+cpen 225 200 200
+cbru 225 200 200
+drec 50 125 210 135
+wait 700
+FRAME
+cpen 240 180 180
+cbru 240 180 180
+drec 50 125 210 135
+wait 700
+FRAME
+msnd scratch.wav
+FRAME
+cpen 255 150 150
+cbru 255 150 150
+drec 50 125 210 135
+wait 700
+FRAME
+cpen 255 0 0
+cbru 255 0 0
+drec 50 125 210 135
+wait 700
+FRAME
+cpen 220 100 100
+cbru 220 100 100
+drec 50 125 210 135
+wait 700
+FRAME
+cpen 200 100 100
+cbru 200 100 100
+drec 50 125 210 135
+wait 700
+FRAME
+cpen 0 0 0
+cbru 0 0 0
+drec 50 125 210 135
+wait 700
+
+FRAME
+wait 5100
+cpen 0 0 0
+cbru 0 0 0
+drec 50 125 210 135
+
+FRAME
+eras 255 255 255
+cpen 255 255 255
+cbru 255 255 255
+drec 50 125 210 135
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 0 0 0
+wait 20
+-------------------------------------------
+FRAME
+msnd broken glass 2.wav 
+cpen 0 0 0
+cbru 0 0 0
+FRAME
+dlin 50 130 75 132
+dlin 75 132 90 137
+dlin 90 137 105 134
+wait 100
+FRAME
+dlin 105 134 125 138
+dlin 125 138 138 135
+dlin 138 135 145 129
+wait 100
+FRAME
+dlin 145 129 150 132
+dlin 150 132 165 130
+dlin 165 130 185 127
+wait 100
+FRAME
+dlin 185 127 2150 100
+dlin 185 127 302 250
+dlin 50 130 25 115
+dlin 25 115 0 140
+wait 300
+FRAME
+dlin 302 250 500 323
+dlin 56 130 40 105
+dlin 80 132 70 150 
+dlin 115 135 127 156
+dlin 150 132 156 80
+dlin 180 130 210 200
+wait 50
+FRAME
+dlin 40 105 60 60
+dlin 70 150 40 180
+dlin 127 156 115 205
+dlin 156 80 210 20
+dlin 210 200 300 250
+wait 100
+FRAME
+dlin 60 60 0 30
+dlin 40 180 20 400
+dlin 115 205 200 400
+dlin 210 20 400 0
+dlin 300 250 500 180
+Wait 1000
+
+FRAME
+eras 255 255 255
+cbru 255 255 255
+cpen 0 0 0
+drec 30 30 230 230
+cbru 255 0 0
+drec 40	110 50 140
+cbru 0 0 255
+drec 210 110 220 140
+cpen 0 0 0
+wait 20
+FRAME
+eras 0 0 0 
+cbru 0 0 0
+cpen 255 255 255
+dtxt 150 150 THE END
+wait 1500
+END
+
+END

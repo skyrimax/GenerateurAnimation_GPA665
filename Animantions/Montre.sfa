@@ -1,0 +1,1372 @@
+MONTRE !!!
+INIT
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dtxt 20 20 LE DÉCOMPTE EST COMMENCÉ
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 250 90
+wait 1000
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dtxt 20 20 LE DÉCOMPTE EST COMMENCÉ
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 280 98
+msnd start.wav
+wait 1000
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dtxt 20 20 LE DÉCOMPTE EST COMMENCÉ
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 302 118
+msnd start.wav
+wait 1000
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dtxt 20 20 LE DÉCOMPTE EST COMMENCÉ
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 310 150
+msnd start.wav
+wait 1000
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dtxt 20 20 LE DÉCOMPTE EST COMMENCÉ
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 302 182
+msnd start.wav
+wait 1000
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dtxt 20 20 LE DÉCOMPTE EST COMMENCÉ
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 280 202
+msnd start.wav
+wait 1000
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dtxt 20 20 LE DÉCOMPTE EST COMMENCÉ
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 250 210
+msnd start.wav
+wait 1000
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dtxt 20 20 LE DÉCOMPTE EST COMMENCÉ
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 218 202
+msnd start.wav
+wait 1000
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dtxt 20 20 LE DÉCOMPTE EST COMMENCÉ
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 198 182
+msnd start.wav
+wait 1000
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dtxt 20 20 LE DÉCOMPTE EST COMMENCÉ
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 190 150
+msnd start.wav
+wait 1000
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dtxt 20 20 LE DÉCOMPTE EST COMMENCÉ
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 198 118
+msnd start.wav
+wait 1000
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dtxt 20 20 LE DÉCOMPTE EST COMMENCÉ
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 218 98
+msnd start.wav
+wait 1000
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 250 90
+msnd start.wav
+wait 500
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 280 98
+msnd start.wav
+wait 500
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 302 118
+msnd start.wav
+wait 500
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 310 150
+msnd start.wav
+wait 500
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 302 182
+msnd start.wav
+wait 500
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 280 202
+msnd start.wav
+wait 500
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 250 210
+msnd start.wav
+wait 500
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 218 202
+msnd start.wav
+wait 500
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 198 182
+msnd start.wav
+wait 500
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 190 150
+msnd start.wav
+wait 500
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 198 118
+msnd start.wav
+wait 500
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 218 98
+msnd start.wav
+wait 500
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 250 90
+msnd start.wav
+wait 150
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 280 98
+msnd start.wav
+wait 150
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 302 118
+msnd start.wav
+wait 150
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 310 150
+msnd start.wav
+wait 150
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 302 182
+msnd start.wav
+wait 150
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 280 202
+msnd start.wav
+wait 150
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 250 210
+msnd start.wav
+wait 150
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 218 202
+msnd start.wav
+wait 150
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 198 182
+msnd start.wav
+wait 150
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 190 150
+msnd start.wav
+wait 150
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 198 118
+msnd start.wav
+wait 150
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 218 98
+msnd start.wav
+wait 150
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 250 90
+msnd start.wav
+wait 50
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 280 98
+msnd start.wav
+wait 50
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 302 118
+msnd start.wav
+wait 50
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 310 150
+msnd start.wav
+wait 50
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 302 182
+msnd start.wav
+wait 50
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 280 202
+msnd start.wav
+wait 50
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 250 210
+msnd start.wav
+wait 50
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 218 202
+msnd start.wav
+wait 50
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 198 182
+msnd start.wav
+wait 50
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 190 150
+msnd start.wav
+wait 50
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 198 118
+msnd start.wav
+wait 50
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 218 98
+msnd start.wav
+wait 50
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 250 90
+msnd start.wav
+wait 20
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 280 98
+msnd start.wav
+wait 20
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 302 118
+msnd start.wav
+wait 20
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 310 150
+msnd start.wav
+wait 20
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 302 182
+msnd start.wav
+wait 20
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 280 202
+msnd start.wav
+wait 20
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 250 210
+msnd start.wav
+wait 20
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 218 202
+msnd start.wav
+wait 20
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 198 182
+msnd start.wav
+wait 20
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 190 150
+msnd start.wav
+wait 20
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 198 118
+msnd start.wav
+wait 20
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+dlin 250 80 250 60
+dtxt 243 80 12
+dlin 250 240 250 220
+dtxt 246 210 6
+dlin 320 150 340 150
+dtxt 310 140 3
+dlin 180 150 160 150
+dtxt 185 140 9
+cpen  20 7 252
+dlin 250 150 210 150
+dlin 250 150 250 205
+cpen  252 45 7
+dlin 250 150 218 98
+msnd start.wav
+wait 20
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  100
+dcir  250  150  90
+msnd chimes.wav
+wait 150
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  90
+dcir  250  150  80
+msnd chimes.wav
+wait 150
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  80
+dcir  250  150  70
+msnd chimes.wav
+wait 150
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  70
+dcir  250  150  60
+msnd chimes.wav
+wait 150
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  60
+dcir  250  150  50
+msnd chimes.wav
+wait 150
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  50
+dcir  250  150  40
+msnd chimes.wav
+wait 150
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  40
+dcir  250  150  30
+msnd chimes.wav
+wait 150
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  30
+dcir  250  150  20
+msnd chimes.wav
+wait 150
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  30
+dcir  250  150  20
+msnd chimes.wav
+wait 150
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  20
+dcir  250  150  10
+msnd chimes.wav
+wait 150
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dcir  250  150  10
+dcir  250  150  5
+msnd chimes.wav
+wait 150
+FRAME
+cbru  255 255 255
+cpen  0 0 0
+eras  255 255 255
+dtxt 190 150 FIN DU LAB#2
+msnd  TADA.wav
+wait 5000
+END

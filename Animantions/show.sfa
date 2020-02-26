@@ -1,0 +1,5169 @@
+Show!
+--------------------------------------------------------------------------
+////--------Musique et parole par Weird Al Yankovic, Eat it-----------////
+////--Concept et programme par Sylvain Lemieux et Yan Drolet Mihelic--////
+--------------------------------------------------------------------------
+INIT        
+cbru 255 255 255
+cpen 0 0 0
+eras 255 255 255
+FRAME
+msnd eat_it            
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 240 240
+drec 250 0 490 240
+wait 500
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 230 240
+drec 260 0 490 240
+wait 500
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 220 240
+drec 270 0 490 240
+wait 500
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 210 240
+drec 280 0 490 240
+wait 500
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 200 240
+drec 290 0 490 240
+wait 500
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 190 240
+drec 300 0 490 240
+wait 500
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 180 240
+drec 310 0 490 240
+wait 500
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 170 240
+drec 320 0 490 240
+wait 500
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 160 240
+drec 330 0 490 240
+wait 500
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 150 240
+drec 340 0 490 240
+wait 500
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 140 240
+drec 350 0 490 240
+wait 500
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 130 240
+drec 360 0 490 240
+wait 500
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 120 240
+drec 370 0 490 240
+wait 500
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 110 240
+drec 380 0 490 240
+wait 500
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 100 240
+drec 390 0 490 240
+wait 500
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 90 240
+drec 400 0 490 240
+wait 500
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 80 240
+drec 410 0 490 240
+wait 500
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 70 240
+drec 420 0 490 240
+wait 500
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 60 240
+drec 430 0 490 240
+wait 500
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 50 240
+drec 440 0 490 240
+wait 500
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//entrée---------------------------------------------------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 0 0 0 
+dcir 40 75 17 
+cbru 255 255 255 
+dcir 40 82 12 
+dcir 36 76 2 
+dcir 44 76 2 
+dlin 39 78 39 82
+dlin 39 82 41 82
+dlin 37 86 43 86
+dlin 35 92 35 100
+dlin 45 92 45 100
+dlin 43 96 33 100
+dlin 33 100 53 115
+dlin 53 115 45 130
+dlin 45 130 50 135
+dlin 50 135 60 115
+dlin 60 115 43 96
+dlin 46 131 42 135
+dlin 42 135 45 138
+dlin 45 138 49 133
+dlin 50 112 50 121
+dlin 50 135 50 150
+dlin 50 150 30 150
+dlin 30 150 30 110
+dlin 30 110 35 98
+dlin 30 115 17 131
+dlin 17 131 18 137
+dlin 20 135 30 125
+dlin 16 131 9 135
+dlin 9 135 14 135
+dlin 14 138 19 134   
+dlin 49 150 45 220
+dlin 45 220 26 220
+dlin 26 220 26 215
+dlin 26 215 36 215
+dlin 36 215 31 150
+//jambe2    
+dlin 32 160 25 180
+dlin 25 180 35 200
+dlin 47 196 55 215
+dlin 55 215 45 220
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+wait 320
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 0 0 0 
+dcir 50 75 17 
+cbru 255 255 255 
+dcir 50 82 12 
+dcir 46 76 2 
+dcir 54 76 2 
+dlin 49 78 49 82
+dlin 49 82 51 82
+dlin 47 86 53 86
+dlin 45 92 45 100
+dlin 55 92 55 100
+dlin 53 96 43 100
+dlin 43 100 63 115
+dlin 63 115 55 130
+dlin 55 130 60 135
+dlin 60 135 70 115
+dlin 70 115 53 96
+dlin 56 131 52 135
+dlin 52 135 55 138
+dlin 55 138 59 133
+dlin 60 112 60 121
+dlin 60 135 60 150
+dlin 60 150 40 150
+dlin 40 150 40 110
+dlin 40 110 45 98
+dlin 40 115 27 131
+dlin 27 131 28 137
+dlin 30 135 40 125
+dlin 26 131 19 135
+dlin 19 135 24 135
+dlin 24 138 29 134
+//jambe1    
+dlin 59 150 55 220
+dlin 55 220 36 220
+dlin 36 220 36 215
+dlin 36 215 46 215
+dlin 46 215 41 150
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+wait 300
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 0 0 0 
+dcir 60 75 17 
+cbru 255 255 255 
+dcir 60 82 12 
+dcir 56 76 2 
+dcir 64 76 2 
+dlin 59 78 59 82
+dlin 59 82 61 82
+dlin 57 86 63 86
+dlin 55 92 55 100
+dlin 65 92 65 100
+dlin 63 96 53 100
+dlin 53 100 73 115
+dlin 73 115 65 130
+dlin 65 130 70 135
+dlin 70 135 80 115
+dlin 80 115 63 96
+dlin 66 131 62 135
+dlin 62 135 65 138
+dlin 65 138 69 133
+dlin 70 112 70 121
+dlin 70 135 70 150
+dlin 70 150 50 150
+dlin 50 150 50 110
+dlin 50 110 55 98
+dlin 50 115 37 131
+dlin 37 131 38 137
+dlin 40 135 50 125
+dlin 36 131 29 135
+dlin 29 135 34 135
+dlin 34 138 39 134
+//jambe1b    
+dlin 50 150 45 180
+dlin 45 180 66 212
+dlin 66 212 65 215
+dlin 65 215 52 215
+dlin 52 215 52 220
+dlin 52 220 70 220
+dlin 70 220 75 215
+dlin 75 215 75 208
+dlin 75 208 57 180
+dlin 57 180 70 160
+dlin 70 160 70 150
+//jambe2b    
+dlin 66 165 66 195
+dlin 55 197 55 215
+dlin 55 215 45 215
+dlin 45 215 45 220
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+wait 300
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+cbru 0 0 0 
+dcir 70 75 17 
+cbru 255 255 255 
+dcir 70 82 12 
+dcir 66 76 2 
+dcir 74 76 2 
+dlin 69 78 69 82
+dlin 69 82 71 82
+dlin 67 86 73 86
+dlin 65 92 65 100
+dlin 75 92 75 100
+dlin 73 96 63 100
+dlin 63 100 83 115
+dlin 83 115 75 130
+dlin 75 130 80 135
+dlin 80 135 90 115
+dlin 90 115 73 96
+dlin 76 131 72 135
+dlin 72 135 75 138
+dlin 75 138 79 133
+dlin 80 112 80 121
+dlin 80 135 80 150
+dlin 80 150 60 150
+dlin 60 150 60 110
+dlin 60 110 65 98
+dlin 60 115 47 131
+dlin 47 131 48 137
+dlin 50 135 60 125
+dlin 46 131 39 135
+dlin 39 135 44 135
+dlin 44 138 49 134
+//jambe1    
+dlin 79 150 75 220
+dlin 75 220 56 220
+dlin 56 220 56 215
+dlin 56 215 66 215
+dlin 66 215 61 150
+wait 300
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+cbru 0 0 0 
+dcir 80 75 17 
+cbru 255 255 255 
+dcir 80 82 12 
+dcir 76 76 2 
+dcir 84 76 2 
+dlin 79 78 79 82
+dlin 79 82 81 82
+dlin 77 86 83 86
+dlin 75 92 75 100
+dlin 85 92 85 100
+dlin 83 96 73 100
+dlin 73 100 93 115
+dlin 93 115 85 130
+dlin 85 130 90 135
+dlin 90 135 100 115
+dlin 100 115 83 96
+dlin 86 131 82 135
+dlin 82 135 85 138
+dlin 85 138 89 133
+dlin 90 112 90 121
+dlin 90 135 90 150
+dlin 90 150 70 150
+dlin 70 150 70 110
+dlin 70 110 75 98
+dlin 70 115 57 131
+dlin 57 131 58 137
+dlin 60 135 70 125
+dlin 56 131 49 135
+dlin 49 135 54 135
+dlin 54 138 59 134
+//jambe1    
+dlin 89 150 85 220
+dlin 85 220 66 220
+dlin 66 220 66 215
+dlin 66 215 76 215
+dlin 76 215 71 150
+//jambe2    
+dlin 72 160 65 180
+dlin 65 180 75 200
+dlin 87 196 95 215
+dlin 95 215 85 220
+wait 300
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+cbru 0 0 0 
+dcir 90 75 17 
+cbru 255 255 255 
+dcir 90 82 12 
+dcir 86 76 2 
+dcir 94 76 2 
+dlin 89 78 89 82
+dlin 89 82 91 82
+dlin 87 86 93 86
+dlin 85 92 85 100
+dlin 95 92 95 100
+dlin 93 96 83 100
+dlin 83 100 103 115
+dlin 103 115 95 130
+dlin 95 130 100 135
+dlin 100 135 110 115
+dlin 110 115 93 96
+dlin 96 131 92 135
+dlin 92 135 95 138
+dlin 95 138 99 133
+dlin 100 112 100 121
+dlin 100 135 100 150
+dlin 100 150 80 150
+dlin 80 150 80 110
+dlin 80 110 85 98
+dlin 80 115 67 131
+dlin 67 131 68 137
+dlin 70 135 80 125
+dlin 66 131 59 135
+dlin 59 135 64 135
+dlin 64 138 69 134
+//jambe1    
+dlin 99 150 95 220
+dlin 95 220 76 220
+dlin 76 220 76 215
+dlin 76 215 86 215
+dlin 86 215 81 150
+wait 300
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+cbru 0 0 0 
+dcir 100 75 17 
+cbru 255 255 255 
+dcir 100 82 12 
+dcir 96 76 2 
+dcir 104 76 2 
+dlin 99 78 99 82
+dlin 99 82 101 82
+dlin 97 86 103 86
+dlin 95 92 95 100
+dlin 105 92 105 100
+dlin 103 96 93 100
+dlin 93 100 113 115
+dlin 113 115 105 130
+dlin 105 130 110 135
+dlin 110 135 120 115
+dlin 120 115 103 96
+dlin 106 131 102 135
+dlin 102 135 105 138
+dlin 105 138 109 133
+dlin 110 112 110 121
+dlin 110 135 110 150
+dlin 110 150 90 150
+dlin 90 150 90 110
+dlin 90 110 95 98
+dlin 90 115 77 131
+dlin 77 131 78 137
+dlin 80 135 90 125
+dlin 76 131 69 135
+dlin 69 135 74 135
+dlin 74 138 79 134
+//jambe1b    
+dlin 90 150 85 180
+dlin 85 180 106 212
+dlin 106 212 105 215
+dlin 105 215 92 215
+dlin 92 215 92 220
+dlin 92 220 110 220
+dlin 110 220 115 215
+dlin 115 215 115 208
+dlin 115 208 97 180
+dlin 97 180 110 160
+dlin 110 160 110 150
+//jambe2b    
+dlin 106 165 106 195
+dlin 95 197 95 215
+dlin 95 215 85 215
+dlin 85 215 85 220
+wait 300
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+cbru 0 0 0 
+dcir 110 75 17 
+cbru 255 255 255 
+dcir 110 82 12 
+dcir 106 76 2 
+dcir 114 76 2 
+dlin 109 78 109 82
+dlin 109 82 111 82
+dlin 107 86 113 86
+dlin 105 92 105 100
+dlin 115 92 115 100
+dlin 113 96 103 100
+dlin 103 100 123 115
+dlin 123 115 115 130
+dlin 115 130 120 135
+dlin 120 135 130 115
+dlin 130 115 113 96
+dlin 116 131 112 135
+dlin 112 135 115 138
+dlin 115 138 119 133
+dlin 120 112 120 121
+dlin 120 135 120 150
+dlin 120 150 100 150
+dlin 100 150 100 110
+dlin 100 110 105 98
+dlin 100 115 87 131
+dlin 87 131 88 137
+dlin 90 135 100 125
+dlin 86 131 79 135
+dlin 79 135 84 135
+dlin 84 138 89 134
+//jambe1    
+dlin 119 150 115 220
+dlin 115 220 96 220
+dlin 96 220 96 215
+dlin 96 215 106 215
+dlin 106 215 101 150
+wait 300
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+cbru 0 0 0 
+dcir 120 75 17 
+cbru 255 255 255 
+dcir 120 82 12 
+dcir 116 76 2 
+dcir 124 76 2 
+dlin 119 78 119 82
+dlin 119 82 121 82
+dlin 117 86 123 86
+dlin 115 92 115 100
+dlin 125 92 125 100
+dlin 123 96 113 100
+dlin 113 100 133 115
+dlin 133 115 125 130
+dlin 125 130 130 135
+dlin 130 135 140 115
+dlin 140 115 123 96
+dlin 126 131 122 135
+dlin 122 135 125 138
+dlin 125 138 129 133
+dlin 130 112 130 121
+dlin 130 135 130 150
+dlin 130 150 110 150
+dlin 110 150 110 110
+dlin 110 110 115 98
+dlin 110 115 97 131
+dlin 97 131 98 137
+dlin 100 135 110 125
+dlin 96 131 89 135
+dlin 89 135 94 135
+dlin 94 138 99 134
+//jambe1    
+dlin 129 150 125 220
+dlin 125 220 106 220
+dlin 106 220 106 215
+dlin 106 215 116 215
+dlin 116 215 111 150
+//jambe2    
+dlin 112 160 105 180
+dlin 105 180 115 200
+dlin 127 196 135 215
+dlin 135 215 125 220
+wait 300
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+cbru 0 0 0 
+dcir 130 75 17 
+cbru 255 255 255 
+dcir 130 82 12 
+dcir 126 76 2 
+dcir 134 76 2 
+dlin 129 78 129 82
+dlin 129 82 131 82
+dlin 127 86 133 86
+dlin 125 92 125 100
+dlin 135 92 135 100
+dlin 133 96 123 100
+dlin 123 100 143 115
+dlin 143 115 135 130
+dlin 135 130 140 135
+dlin 140 135 150 115
+dlin 150 115 133 96
+dlin 136 131 132 135
+dlin 132 135 135 138
+dlin 135 138 139 133
+dlin 140 112 140 121
+dlin 140 135 140 150
+dlin 140 150 120 150
+dlin 120 150 120 110
+dlin 120 110 125 98
+dlin 120 115 107 131
+dlin 107 131 108 137
+dlin 110 135 120 125
+dlin 106 131 99 135
+dlin 99 135 104 135
+dlin 104 138 109 134
+//jambe1    
+dlin 139 150 135 220
+dlin 135 220 116 220
+dlin 116 220 116 215
+dlin 116 215 126 215
+dlin 126 215 121 150
+wait 300
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+cbru 0 0 0 
+dcir 140 75 17 
+cbru 255 255 255 
+dcir 140 82 12 
+dcir 136 76 2 
+dcir 144 76 2 
+dlin 139 78 139 82
+dlin 139 82 141 82
+dlin 137 86 143 86
+dlin 135 92 135 100
+dlin 145 92 145 100
+dlin 143 96 133 100
+dlin 133 100 153 115
+dlin 153 115 145 130
+dlin 145 130 150 135
+dlin 150 135 160 115
+dlin 160 115 143 96
+dlin 146 131 142 135
+dlin 142 135 145 138
+dlin 145 138 149 133
+dlin 150 112 150 121
+dlin 150 135 150 150
+dlin 150 150 130 150
+dlin 130 150 130 110
+dlin 130 110 135 98
+dlin 130 115 117 131
+dlin 117 131 118 137
+dlin 120 135 130 125
+dlin 116 131 109 135
+dlin 109 135 114 135
+dlin 114 138 119 134
+//jambe1b    
+dlin 130 150 125 180
+dlin 125 180 146 212
+dlin 146 212 145 215
+dlin 145 215 132 215
+dlin 132 215 132 220
+dlin 132 220 150 220
+dlin 150 220 155 215
+dlin 155 215 155 208
+dlin 155 208 137 180
+dlin 137 180 150 160
+dlin 150 160 150 150
+//jambe2b    
+dlin 146 165 146 195
+dlin 135 197 135 215
+dlin 135 215 125 215
+dlin 125 215 125 220
+wait 300
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+cbru 0 0 0 
+dcir 150 75 17 
+cbru 255 255 255 
+dcir 150 82 12 
+dcir 146 76 2 
+dcir 154 76 2 
+dlin 149 78 149 82
+dlin 149 82 151 82
+dlin 147 86 153 86
+dlin 145 92 145 100
+dlin 155 92 155 100
+dlin 153 96 143 100
+dlin 143 100 163 115
+dlin 163 115 155 130
+dlin 155 130 160 135
+dlin 160 135 170 115
+dlin 170 115 153 96
+dlin 156 131 152 135
+dlin 152 135 155 138
+dlin 155 138 159 133
+dlin 160 112 160 121
+dlin 160 135 160 150
+dlin 160 150 140 150
+dlin 140 150 140 110
+dlin 140 110 145 98
+dlin 140 115 127 131
+dlin 127 131 128 137
+dlin 130 135 140 125
+dlin 126 131 119 135
+dlin 119 135 124 135
+dlin 124 138 129 134
+//jambe1    
+dlin 159 150 155 220
+dlin 155 220 136 220
+dlin 136 220 136 215
+dlin 136 215 146 215
+dlin 146 215 141 150
+wait 320
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+cbru 0 0 0 
+dcir 160 75 17 
+cbru 255 255 255 
+dcir 160 82 12 
+dcir 156 76 2 
+dcir 164 76 2 
+dlin 159 78 159 82
+dlin 159 82 161 82
+dlin 157 86 163 86
+dlin 155 92 155 100
+dlin 165 92 165 100
+dlin 163 96 153 100
+dlin 153 100 173 115
+dlin 173 115 165 130
+dlin 165 130 170 135
+dlin 170 135 180 115
+dlin 180 115 163 96
+dlin 166 131 162 135
+dlin 162 135 165 138
+dlin 165 138 169 133
+dlin 170 112 170 121
+dlin 170 135 170 150
+dlin 170 150 150 150
+dlin 150 150 150 110
+dlin 150 110 155 98
+dlin 150 115 137 131
+dlin 137 131 138 137
+dlin 140 135 150 125
+dlin 136 131 129 135
+dlin 129 135 134 135
+dlin 134 138 139 134
+//jambe1    
+dlin 169 150 165 220
+dlin 165 220 146 220
+dlin 146 220 146 215
+dlin 146 215 156 215
+dlin 156 215 151 150
+//jambe2    
+dlin 152 160 145 180
+dlin 145 180 155 200
+dlin 167 196 175 215
+dlin 175 215 165 220
+wait 300
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+cbru 0 0 0 
+dcir 170 75 17 
+cbru 255 255 255 
+dcir 170 82 12 
+dcir 166 76 2 
+dcir 174 76 2 
+dlin 169 78 169 82
+dlin 169 82 171 82
+dlin 167 86 173 86
+dlin 165 92 165 100
+dlin 175 92 175 100
+dlin 173 96 163 100
+dlin 163 100 183 115
+dlin 183 115 175 130
+dlin 175 130 180 135
+dlin 180 135 190 115
+dlin 190 115 173 96
+dlin 176 131 172 135
+dlin 172 135 175 138
+dlin 175 138 179 133
+dlin 180 112 180 121
+dlin 180 135 180 150
+dlin 180 150 160 150
+dlin 160 150 160 110
+dlin 160 110 165 98
+dlin 160 115 147 131
+dlin 147 131 148 137
+dlin 150 135 160 125
+dlin 146 131 139 135
+dlin 139 135 144 135
+dlin 144 138 149 134
+//jambe1    
+dlin 179 150 175 220
+dlin 175 220 156 220
+dlin 156 220 156 215
+dlin 156 215 166 215
+dlin 166 215 161 150
+wait 300
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+cbru 0 0 0 
+dcir 180 75 17 
+cbru 255 255 255 
+dcir 180 82 12 
+dcir 176 76 2 
+dcir 184 76 2 
+dlin 179 78 179 82
+dlin 179 82 181 82
+dlin 177 86 183 86
+dlin 175 92 175 100
+dlin 185 92 185 100
+dlin 183 96 173 100
+dlin 173 100 193 115
+dlin 193 115 185 130
+dlin 185 130 190 135
+dlin 190 135 200 115
+dlin 200 115 183 96
+dlin 186 131 182 135
+dlin 182 135 185 138
+dlin 185 138 189 133
+dlin 190 112 190 121
+dlin 190 135 190 150
+dlin 190 150 170 150
+dlin 170 150 170 110
+dlin 170 110 175 98
+dlin 170 115 157 131
+dlin 157 131 158 137
+dlin 160 135 170 125
+dlin 156 131 149 135
+dlin 149 135 154 135
+dlin 154 138 159 134
+//jambe1b    
+dlin 170 150 165 180
+dlin 165 180 186 212
+dlin 186 212 185 215
+dlin 185 215 172 215
+dlin 172 215 172 220
+dlin 172 220 190 220
+dlin 190 220 195 215
+dlin 195 215 195 208
+dlin 195 208 177 180
+dlin 177 180 190 160
+dlin 190 160 190 150
+//jambe2b    
+dlin 186 165 186 195
+dlin 175 197 175 215
+dlin 175 215 165 215
+dlin 165 215 165 220
+wait 320
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+cbru 0 0 0 
+dcir 190 75 17 
+cbru 255 255 255 
+dcir 190 82 12 
+dcir 186 76 2 
+dcir 194 76 2 
+dlin 189 78 189 82
+dlin 189 82 191 82
+dlin 187 86 193 86
+dlin 185 92 185 100
+dlin 195 92 195 100
+dlin 193 96 183 100
+dlin 183 100 203 115
+dlin 203 115 195 130
+dlin 195 130 200 135
+dlin 200 135 210 115
+dlin 210 115 193 96
+dlin 196 131 192 135
+dlin 192 135 195 138
+dlin 195 138 199 133
+dlin 200 112 200 121
+dlin 200 135 200 150
+dlin 200 150 180 150
+dlin 180 150 180 110
+dlin 180 110 185 98
+dlin 180 115 167 131
+dlin 167 131 168 137
+dlin 170 135 180 125
+dlin 166 131 159 135
+dlin 159 135 164 135
+dlin 164 138 169 134
+//jambe1    
+dlin 199 150 195 220
+dlin 195 220 176 220
+dlin 176 220 176 215
+dlin 176 215 186 215
+dlin 186 215 181 150
+wait 300
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+cbru 0 0 0 
+dcir 200 75 17 
+cbru 255 255 255 
+dcir 200 82 12 
+dcir 196 76 2 
+dcir 204 76 2 
+dlin 199 78 199 82
+dlin 199 82 201 82
+dlin 197 86 203 86
+dlin 195 92 195 100
+dlin 205 92 205 100
+dlin 203 96 193 100
+dlin 193 100 213 115
+dlin 213 115 205 130
+dlin 205 130 210 135
+dlin 210 135 220 115
+dlin 220 115 203 96
+dlin 206 131 202 135
+dlin 202 135 205 138
+dlin 205 138 209 133
+dlin 210 112 210 121
+dlin 210 135 210 150
+dlin 210 150 190 150
+dlin 190 150 190 110
+dlin 190 110 195 98
+dlin 190 115 177 131
+dlin 177 131 178 137
+dlin 180 135 190 125
+dlin 176 131 169 135
+dlin 169 135 174 135
+dlin 174 138 179 134
+//jambe1    
+dlin 209 150 205 220
+dlin 205 220 186 220
+dlin 186 220 186 215
+dlin 186 215 196 215
+dlin 196 215 191 150
+//jambe2    
+dlin 192 160 185 180
+dlin 185 180 195 200
+dlin 207 196 215 215
+dlin 215 215 205 220
+wait 320
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+cbru 0 0 0 
+dcir 210 75 17 
+cbru 255 255 255 
+dcir 210 82 12 
+dcir 206 76 2 
+dcir 214 76 2 
+dlin 209 78 209 82
+dlin 209 82 211 82
+dlin 207 86 213 86
+dlin 205 92 205 100
+dlin 215 92 215 100
+dlin 213 96 203 100
+dlin 203 100 223 115
+dlin 223 115 215 130
+dlin 215 130 220 135
+dlin 220 135 230 115
+dlin 230 115 213 96
+dlin 216 131 212 135
+dlin 212 135 215 138
+dlin 215 138 219 133
+dlin 220 112 220 121
+dlin 220 135 220 150
+dlin 220 150 200 150
+dlin 200 150 200 110
+dlin 200 110 205 98
+dlin 200 115 187 131
+dlin 187 131 188 137
+dlin 190 135 200 125
+dlin 186 131 179 135
+dlin 179 135 184 135
+dlin 184 138 189 134
+//jambe1    
+dlin 219 150 215 220
+dlin 215 220 196 220
+dlin 196 220 196 215
+dlin 196 215 206 215
+dlin 206 215 201 150
+wait 300
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+cbru 0 0 0 
+dcir 220 75 17 
+cbru 255 255 255 
+dcir 220 82 12 
+dcir 216 76 2 
+dcir 224 76 2 
+dlin 219 78 219 82
+dlin 219 82 221 82
+dlin 217 86 223 86
+dlin 215 92 215 100
+dlin 225 92 225 100
+dlin 223 96 213 100
+dlin 213 100 233 115
+dlin 233 115 225 130
+dlin 225 130 230 135
+dlin 230 135 240 115
+dlin 240 115 223 96
+dlin 226 131 222 135
+dlin 222 135 225 138
+dlin 225 138 229 133
+dlin 230 112 230 121
+dlin 230 135 230 150
+dlin 230 150 210 150
+dlin 210 150 210 110
+dlin 210 110 215 98
+dlin 210 115 197 131
+dlin 197 131 198 137
+dlin 200 135 210 125
+dlin 196 131 189 135
+dlin 189 135 194 135
+dlin 194 138 199 134
+//jambe1b    
+dlin 210 150 205 180
+dlin 205 180 226 212
+dlin 226 212 225 215
+dlin 225 215 212 215
+dlin 212 215 212 220
+dlin 212 220 230 220
+dlin 230 220 235 215
+dlin 235 215 235 208
+dlin 235 208 217 180
+dlin 217 180 230 160
+dlin 230 160 230 150
+//jambe2b    
+dlin 226 165 226 195
+dlin 215 197 215 215
+dlin 215 215 205 215
+dlin 205 215 205 220
+wait 300
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+cbru 0 0 0 
+dcir 230 75 17 
+cbru 255 255 255 
+dcir 230 82 12 
+dcir 226 76 2 
+dcir 234 76 2 
+dlin 229 78 229 82
+dlin 229 82 231 82
+dlin 227 86 233 86
+dlin 225 92 225 100
+dlin 235 92 235 100
+dlin 233 96 223 100
+dlin 223 100 243 115
+dlin 243 115 235 130
+dlin 235 130 240 135
+dlin 240 135 250 115
+dlin 250 115 233 96
+dlin 236 131 232 135
+dlin 232 135 235 138
+dlin 235 138 239 133
+dlin 240 112 240 121
+dlin 240 135 240 150
+dlin 240 150 220 150
+dlin 220 150 220 110
+dlin 220 110 225 98
+dlin 220 115 207 131
+dlin 207 131 208 137
+dlin 210 135 220 125
+dlin 206 131 199 135
+dlin 199 135 204 135
+dlin 204 138 209 134
+//jambe1    
+dlin 239 150 235 220
+dlin 235 220 216 220
+dlin 216 220 216 215
+dlin 216 215 226 215
+dlin 226 215 221 150
+wait 320
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+cbru 0 0 0
+dcir 240 75 17
+cbru 255 255 255
+dcir 240 82 12
+dcir 236 76 2
+dcir 244 76 2
+dlin 239 78 239 82
+dlin 239 82 241 82
+dlin 237 86 243 86
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 243 96 233 100
+dlin 233 100 253 115
+dlin 253 115 245 130
+dlin 245 130 250 135
+dlin 250 135 260 115
+dlin 260 115 243 96
+//main1
+dlin 246 131 242 135
+dlin 242 135 245 138
+dlin 245 138 249 133
+//corps
+dlin 250 112 250 121
+dlin 250 135 250 150
+dlin 250 150 230 150
+dlin 230 150 230 110
+dlin 230 110 235 98
+//bras2
+dlin 230 115 217 131
+dlin 217 131 218 137
+dlin 220 135 230 125
+//main2
+dlin 216 131 209 135
+dlin 209 135 214 135
+dlin 214 135 219 134
+//jambe1
+dlin 249 150 245 220
+dlin 245 220 226 220
+dlin 226 220 226 215
+dlin 226 215 236 215
+dlin 236 215 231 150
+//jambe2
+dlin 232 160 225 180
+dlin 225 180 235 200
+dlin 247 196 255 215
+dlin 255 215 245 220
+wait 300
+//Centre------------------------------------------------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 240 75 17
+cbru 255 255 255
+dcir 240 82 12
+dcir 236 76 2
+dcir 244 76 2
+dlin 239 78 239 82
+dlin 239 82 241 82
+dlin 237 86 243 86
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 265 105
+dlin 265 105 270 135
+dlin 270 135 270 160
+dlin 270 160 265 160
+dlin 265 160 260 135
+dlin 260 135 255 115
+//main1
+dlin 270 160 270 170
+dlin 270 170 267 170
+dlin 267 170 265 160
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 240 110
+dlin 240 110 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 220 220 220 210
+dlin 230 220 230 215
+//Danse au centre----------------------------------------------------
+//-------------------------------------------------------------------
+//Centre------------------------------------------------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 240 75 17
+cbru 255 255 255
+dcir 240 82 12
+dcir 236 76 2
+dcir 244 76 2
+dlin 239 78 239 82
+dlin 239 82 241 82
+dlin 237 86 243 86
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 265 105
+dlin 265 105 270 135
+dlin 270 135 270 160
+dlin 270 160 265 160
+dlin 265 160 260 135
+dlin 260 135 255 115
+//main1
+dlin 270 160 270 170
+dlin 270 170 267 170
+dlin 267 170 265 160
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 240 110
+dlin 240 110 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 220 220 220 210
+dlin 230 220 230 215
+wait 400
+FRAME  
+//droite ----------------------------------------------------               
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 245 75 17
+cbru 255 255 255
+dcir 245 82 12
+dcir 241 76 2
+dcir 249 76 2
+dlin 244 78 244 82
+dlin 244 82 246 82
+dlin 242 86 248 86
+//cou
+dlin 240 92 240 100
+dlin 250 92 250 100
+//bras1
+dlin 260 100 270 105
+dlin 270 105 273 125
+dlin 273 125 290 145
+dlin 290 145 285 150
+dlin 285 150 265 132
+dlin 265 132 260 115
+//main1
+dlin 290 145 297 153
+dlin 297 153 293 157
+dlin 293 157 285 150
+//corps
+dlin 250 100 260 100
+dlin 260 115 255 150
+dlin 255 150 225 150
+dlin 225 150 230 115
+dlin 230 100 240 100
+dlin 240 100 245 110
+dlin 245 110 250 100
+//bras2
+dlin 230 100 220 105
+dlin 220 105 215 135
+dlin 215 135 214 160
+dlin 215 160 220 160
+dlin 220 160 225 135
+dlin 225 135 230 115
+//main2
+dlin 215 160 215 170
+dlin 215 170 218 170
+dlin 218 170 220 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 265 215 265 220
+dlin 265 215 260 215
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 220 220 220 210
+dlin 235 220 235 215
+dlin 235 215 230 215
+wait 400
+//centre----------------------------------------------
+FRAME
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 240 75 17
+cbru 255 255 255
+dcir 240 82 12
+dcir 236 76 2
+dcir 244 76 2
+dlin 239 78 239 82
+dlin 239 82 241 82
+dlin 237 86 243 86
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 265 105
+dlin 265 105 270 135
+dlin 270 135 270 160
+dlin 270 160 265 160
+dlin 265 160 260 135
+dlin 260 135 255 115
+//main1
+dlin 270 160 270 170
+dlin 270 170 267 170
+dlin 267 170 265 160
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 240 110
+dlin 240 110 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 220 220 220 210
+dlin 230 220 230 215
+wait 400
+//gauche-----------------------------------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 235 75 17
+cbru 255 255 255
+dcir 235 82 12
+dcir 231 76 2
+dcir 239 76 2
+dlin 234 78 234 82
+dlin 234 82 236 82
+dlin 232 86 238 86
+//cou
+dlin 230 92 230 100
+dlin 240 92 240 100
+//bras1
+dlin 250 100 260 105
+dlin 260 105 265 135
+dlin 265 135 265 160
+dlin 265 160 260 160
+dlin 260 160 255 135
+dlin 255 135 250 115
+//main1
+dlin 265 160 265 170
+dlin 265 170 262 170
+dlin 262 170 260 160
+//corps
+dlin 240 100 250 100
+dlin 250 115 255 150
+dlin 255 150 225 150
+dlin 225 150 220 115
+dlin 220 100 230 100
+dlin 230 100 235 110
+dlin 235 110 240 100
+//bras2
+dlin 220 100 210 105
+dlin 210 105 207 125
+dlin 207 125 190 110
+dlin 190 110 185 115
+dlin 185 115 210 135
+dlin 210 135 220 115
+//main2
+dlin 190 110 182 104
+dlin 182 104 180 110
+dlin 180 110 185 115
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 245 220 245 215
+dlin 245 215 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 215 220 215 215
+dlin 215 215 220 215
+dlin 230 220 230 215
+wait 400
+//Centre------------------------------------------------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 240 75 17
+cbru 255 255 255
+dcir 240 82 12
+dcir 236 76 2
+dcir 244 76 2
+dlin 239 78 239 82
+dlin 239 82 241 82
+dlin 237 86 243 86
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 265 105
+dlin 265 105 270 135
+dlin 270 135 270 160
+dlin 270 160 265 160
+dlin 265 160 260 135
+dlin 260 135 255 115
+//main1
+dlin 270 160 270 170
+dlin 270 170 267 170
+dlin 267 170 265 160
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 240 110
+dlin 240 110 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 220 220 220 210
+dlin 230 220 230 215
+wait 400
+FRAME  
+//droite ----------------------------------------------------               
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 245 75 17
+cbru 255 255 255
+dcir 245 82 12
+dcir 241 76 2
+dcir 249 76 2
+dlin 244 78 244 82
+dlin 244 82 246 82
+dlin 242 86 248 86
+//cou
+dlin 240 92 240 100
+dlin 250 92 250 100
+//bras1
+dlin 260 100 270 105
+dlin 270 105 273 125
+dlin 273 125 290 145
+dlin 290 145 285 150
+dlin 285 150 265 132
+dlin 265 132 260 115
+//main1
+dlin 290 145 297 153
+dlin 297 153 293 157
+dlin 293 157 285 150
+//corps
+dlin 250 100 260 100
+dlin 260 115 255 150
+dlin 255 150 225 150
+dlin 225 150 230 115
+dlin 230 100 240 100
+dlin 240 100 245 110
+dlin 245 110 250 100
+//bras2
+dlin 230 100 220 105
+dlin 220 105 215 135
+dlin 215 135 214 160
+dlin 215 160 220 160
+dlin 220 160 225 135
+dlin 225 135 230 115
+//main2
+dlin 215 160 215 170
+dlin 215 170 218 170
+dlin 218 170 220 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 265 215 265 220
+dlin 265 215 260 215
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 220 220 220 210
+dlin 235 220 235 215
+dlin 235 215 230 215
+wait 400
+//centre----------------------------------------------
+FRAME
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 240 75 17
+cbru 255 255 255
+dcir 240 82 12
+dcir 236 76 2
+dcir 244 76 2
+dlin 239 78 239 82
+dlin 239 82 241 82
+dlin 237 86 243 86
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 265 105
+dlin 265 105 270 135
+dlin 270 135 270 160
+dlin 270 160 265 160
+dlin 265 160 260 135
+dlin 260 135 255 115
+//main1
+dlin 270 160 270 170
+dlin 270 170 267 170
+dlin 267 170 265 160
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 240 110
+dlin 240 110 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 220 220 220 210
+dlin 230 220 230 215
+wait 800
+//---------------------------------BREAK1----------------
+//gauche-----------------------------------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 235 75 17
+cbru 255 255 255
+dcir 235 82 12
+dcir 231 76 2
+dcir 239 76 2
+dlin 234 78 234 82
+dlin 234 82 236 82
+dlin 232 86 238 86
+//cou
+dlin 230 92 230 100
+dlin 240 92 240 100
+//bras1
+dlin 250 100 260 105
+dlin 260 105 265 135
+dlin 265 135 265 160
+dlin 265 160 260 160
+dlin 260 160 255 135
+dlin 255 135 250 115
+//main1
+dlin 265 160 265 170
+dlin 265 170 262 170
+dlin 262 170 260 160
+//corps
+dlin 240 100 250 100
+dlin 250 115 255 150
+dlin 255 150 225 150
+dlin 225 150 220 115
+dlin 220 100 230 100
+dlin 230 100 235 110
+dlin 235 110 240 100
+//bras2
+dlin 220 100 210 105
+dlin 210 105 207 125
+dlin 207 125 190 110
+dlin 190 110 185 115
+dlin 185 115 210 135
+dlin 210 135 220 115
+//main2
+dlin 190 110 182 104
+dlin 182 104 180 110
+dlin 180 110 185 115
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 245 220 245 215
+dlin 245 215 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 215 220 215 215
+dlin 215 215 220 215
+dlin 230 220 230 215
+wait 400
+//Centre------------------------------------------------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 240 75 17
+cbru 255 255 255
+dcir 240 82 12
+dcir 236 76 2
+dcir 244 76 2
+dlin 239 78 239 82
+dlin 239 82 241 82
+dlin 237 86 243 86
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 265 105
+dlin 265 105 270 135
+dlin 270 135 270 160
+dlin 270 160 265 160
+dlin 265 160 260 135
+dlin 260 135 255 115
+//main1
+dlin 270 160 270 170
+dlin 270 170 267 170
+dlin 267 170 265 160
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 240 110
+dlin 240 110 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 220 220 220 210
+dlin 230 220 230 215
+wait 400
+FRAME  
+//droite ----------------------------------------------------               
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 245 75 17
+cbru 255 255 255
+dcir 245 82 12
+dcir 241 76 2
+dcir 249 76 2
+dlin 244 78 244 82
+dlin 244 82 246 82
+dlin 242 86 248 86
+//cou
+dlin 240 92 240 100
+dlin 250 92 250 100
+//bras1
+dlin 260 100 270 105
+dlin 270 105 273 125
+dlin 273 125 290 145
+dlin 290 145 285 150
+dlin 285 150 265 132
+dlin 265 132 260 115
+//main1
+dlin 290 145 297 153
+dlin 297 153 293 157
+dlin 293 157 285 150
+//corps
+dlin 250 100 260 100
+dlin 260 115 255 150
+dlin 255 150 225 150
+dlin 225 150 230 115
+dlin 230 100 240 100
+dlin 240 100 245 110
+dlin 245 110 250 100
+//bras2
+dlin 230 100 220 105
+dlin 220 105 215 135
+dlin 215 135 214 160
+dlin 215 160 220 160
+dlin 220 160 225 135
+dlin 225 135 230 115
+//main2
+dlin 215 160 215 170
+dlin 215 170 218 170
+dlin 218 170 220 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 265 215 265 220
+dlin 265 215 260 215
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 220 220 220 210
+dlin 235 220 235 215
+dlin 235 215 230 215
+wait 400
+//centre----------------------------------------------
+FRAME
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 240 75 17
+cbru 255 255 255
+dcir 240 82 12
+dcir 236 76 2
+dcir 244 76 2
+dlin 239 78 239 82
+dlin 239 82 241 82
+dlin 237 86 243 86
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 265 105
+dlin 265 105 270 135
+dlin 270 135 270 160
+dlin 270 160 265 160
+dlin 265 160 260 135
+dlin 260 135 255 115
+//main1
+dlin 270 160 270 170
+dlin 270 170 267 170
+dlin 267 170 265 160
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 240 110
+dlin 240 110 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 220 220 220 210
+dlin 230 220 230 215
+wait 400
+//gauche-----------------------------------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 235 75 17
+cbru 255 255 255
+dcir 235 82 12
+dcir 231 76 2
+dcir 239 76 2
+dlin 234 78 234 82
+dlin 234 82 236 82
+dlin 232 86 238 86
+//cou
+dlin 230 92 230 100
+dlin 240 92 240 100
+//bras1
+dlin 250 100 260 105
+dlin 260 105 265 135
+dlin 265 135 265 160
+dlin 265 160 260 160
+dlin 260 160 255 135
+dlin 255 135 250 115
+//main1
+dlin 265 160 265 170
+dlin 265 170 262 170
+dlin 262 170 260 160
+//corps
+dlin 240 100 250 100
+dlin 250 115 255 150
+dlin 255 150 225 150
+dlin 225 150 220 115
+dlin 220 100 230 100
+dlin 230 100 235 110
+dlin 235 110 240 100
+//bras2
+dlin 220 100 210 105
+dlin 210 105 207 125
+dlin 207 125 190 110
+dlin 190 110 185 115
+dlin 185 115 210 135
+dlin 210 135 220 115
+//main2
+dlin 190 110 182 104
+dlin 182 104 180 110
+dlin 180 110 185 115
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 245 220 245 215
+dlin 245 215 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 215 220 215 215
+dlin 215 215 220 215
+dlin 230 220 230 215
+wait 400
+//centre----------------------------------------------
+FRAME
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 240 75 17
+cbru 255 255 255
+dcir 240 82 12
+dcir 236 76 2
+dcir 244 76 2
+dlin 239 78 239 82
+dlin 239 82 241 82
+dlin 237 86 243 86
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 265 105
+dlin 265 105 270 135
+dlin 270 135 270 160
+dlin 270 160 265 160
+dlin 265 160 260 135
+dlin 260 135 255 115
+//main1
+dlin 270 160 270 170
+dlin 270 170 267 170
+dlin 267 170 265 160
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 240 110
+dlin 240 110 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 220 220 220 210
+dlin 230 220 230 215
+wait 700
+//-------------------BREAK2--------------
+//------------côté gauche----------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+cbru 0 0 0
+dcir 240 75 17
+cbru 255 255 255
+dcir 240 82 12
+dcir 236 76 2
+dcir 244 76 2
+dlin 239 78 239 82
+dlin 239 82 241 82
+dlin 237 86 243 86
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 243 96 233 100
+dlin 233 100 253 115
+dlin 253 115 245 130
+dlin 245 130 250 135
+dlin 250 135 260 115
+dlin 260 115 243 96
+//main1
+dlin 246 131 242 135
+dlin 242 135 245 138
+dlin 245 138 249 133
+//corps
+dlin 250 112 250 121
+dlin 250 135 250 150
+dlin 250 150 230 150
+dlin 230 150 230 110
+dlin 230 110 235 98
+//bras2
+dlin 230 115 217 131
+dlin 217 131 218 137
+dlin 220 135 230 125
+//main2
+dlin 216 131 209 135
+dlin 209 135 214 135
+dlin 214 135 219 134
+//jambe1
+dlin 249 150 245 220
+dlin 245 220 226 220
+dlin 226 220 226 215
+dlin 226 215 236 215
+dlin 236 215 231 150
+//jambe2
+dlin 232 160 225 180
+dlin 225 180 235 200
+dlin 247 196 255 215
+dlin 255 215 245 220
+wait 200
+//Centre arriere------------------------------------------------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru  0 0 0
+dcir 240 75 17
+cbru 0 0 0
+dcir 240 82 12
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 265 105
+dlin 265 105 270 135
+dlin 270 135 270 160
+dlin 270 160 265 160
+dlin 265 160 260 135
+dlin 260 135 255 115
+//main1
+dlin 270 160 270 170
+dlin 270 170 267 170
+dlin 267 170 265 160
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 220 220 220 210
+dlin 230 220 230 215
+wait 400
+FRAME  
+//droite arrière----------------------------------------------------               
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru  0 0 0
+dcir 245 75 17
+cbru 0 0 0
+dcir 245 82 12
+//cou
+dlin 240 92 240 100
+dlin 250 92 250 100
+//bras1
+dlin 260 100 270 105
+dlin 270 105 273 125
+dlin 273 125 290 145
+dlin 290 145 285 150
+dlin 285 150 265 132
+dlin 265 132 260 115
+//main1
+dlin 290 145 297 153
+dlin 297 153 293 157
+dlin 293 157 285 150
+//corps
+dlin 250 100 260 100
+dlin 260 115 255 150
+dlin 255 150 225 150
+dlin 225 150 230 115
+dlin 230 100 240 100
+dlin 240 100 250 100
+//bras2
+dlin 230 100 220 105
+dlin 220 105 215 135
+dlin 215 135 214 160
+dlin 215 160 220 160
+dlin 220 160 225 135
+dlin 225 135 230 115
+//main2
+dlin 215 160 215 170
+dlin 215 170 218 170
+dlin 218 170 220 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 265 215 265 220
+dlin 265 215 260 215
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 220 220 220 210
+dlin 235 220 235 215
+dlin 235 215 230 215
+wait 400
+//centre arrière----------------------------------------------
+FRAME
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru  0 0 0
+dcir 240 75 17
+cbru 0 0 0
+dcir 240 82 12
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 265 105
+dlin 265 105 270 135
+dlin 270 135 270 160
+dlin 270 160 265 160
+dlin 265 160 260 135
+dlin 260 135 255 115
+//main1
+dlin 270 160 270 170
+dlin 270 170 267 170
+dlin 267 170 265 160
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 220 220 220 210
+dlin 230 220 230 215
+wait 400
+//gauche arrière-----------------------------------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru  0 0 0
+dcir 235 75 17
+cbru 0 0 0
+dcir 235 82 12
+//cou
+dlin 230 92 230 100
+dlin 240 92 240 100
+//bras1
+dlin 250 100 260 105
+dlin 260 105 265 135
+dlin 265 135 265 160
+dlin 265 160 260 160
+dlin 260 160 255 135
+dlin 255 135 250 115
+//main1
+dlin 265 160 265 170
+dlin 265 170 262 170
+dlin 262 170 260 160
+//corps
+dlin 240 100 250 100
+dlin 250 115 255 150
+dlin 255 150 225 150
+dlin 225 150 220 115
+dlin 220 100 230 100
+dlin 230 100 240 100
+//bras2
+dlin 220 100 210 105
+dlin 210 105 207 125
+dlin 207 125 190 110
+dlin 190 110 185 115
+dlin 185 115 210 135
+dlin 210 135 220 115
+//main2
+dlin 190 110 182 104
+dlin 182 104 180 110
+dlin 180 110 185 115
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 245 220 245 215
+dlin 245 215 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 215 220 215 215
+dlin 215 215 220 215
+dlin 230 220 230 215
+wait 400
+//Centre arriere------------------------------------------------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru  0 0 0
+dcir 240 75 17
+cbru 0 0 0
+dcir 240 82 12
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 265 105
+dlin 265 105 270 135
+dlin 270 135 270 160
+dlin 270 160 265 160
+dlin 265 160 260 135
+dlin 260 135 255 115
+//main1
+dlin 270 160 270 170
+dlin 270 170 267 170
+dlin 267 170 265 160
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 220 220 220 210
+dlin 230 220 230 215
+wait 400
+FRAME  
+//droite arrière----------------------------------------------------               
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru  0 0 0
+dcir 245 75 17
+cbru 0 0 0
+dcir 245 82 12
+//cou
+dlin 240 92 240 100
+dlin 250 92 250 100
+//bras1
+dlin 260 100 270 105
+dlin 270 105 273 125
+dlin 273 125 290 145
+dlin 290 145 285 150
+dlin 285 150 265 132
+dlin 265 132 260 115
+//main1
+dlin 290 145 297 153
+dlin 297 153 293 157
+dlin 293 157 285 150
+//corps
+dlin 250 100 260 100
+dlin 260 115 255 150
+dlin 255 150 225 150
+dlin 225 150 230 115
+dlin 230 100 240 100
+dlin 240 100 250 100
+//bras2
+dlin 230 100 220 105
+dlin 220 105 215 135
+dlin 215 135 214 160
+dlin 215 160 220 160
+dlin 220 160 225 135
+dlin 225 135 230 115
+//main2
+dlin 215 160 215 170
+dlin 215 170 218 170
+dlin 218 170 220 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 265 215 265 220
+dlin 265 215 260 215
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 220 220 220 210
+dlin 235 220 235 215
+dlin 235 215 230 215
+wait 400
+//centre arrière----------------------------------------------
+FRAME
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru  0 0 0
+dcir 240 75 17
+cbru 0 0 0
+dcir 240 82 12
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 265 105
+dlin 265 105 270 135
+dlin 270 135 270 160
+dlin 270 160 265 160
+dlin 265 160 260 135
+dlin 260 135 255 115
+//main1
+dlin 270 160 270 170
+dlin 270 170 267 170
+dlin 267 170 265 160
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 220 220 220 210
+dlin 230 220 230 215
+wait 400
+//gauche arrière-----------------------------------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru  0 0 0
+dcir 235 75 17
+cbru 0 0 0
+dcir 235 82 12
+//cou
+dlin 230 92 230 100
+dlin 240 92 240 100
+//bras1
+dlin 250 100 260 105
+dlin 260 105 265 135
+dlin 265 135 265 160
+dlin 265 160 260 160
+dlin 260 160 255 135
+dlin 255 135 250 115
+//main1
+dlin 265 160 265 170
+dlin 265 170 262 170
+dlin 262 170 260 160
+//corps
+dlin 240 100 250 100
+dlin 250 115 255 150
+dlin 255 150 225 150
+dlin 225 150 220 115
+dlin 220 100 230 100
+dlin 230 100 240 100
+//bras2
+dlin 220 100 210 105
+dlin 210 105 207 125
+dlin 207 125 190 110
+dlin 190 110 185 115
+dlin 185 115 210 135
+dlin 210 135 220 115
+//main2
+dlin 190 110 182 104
+dlin 182 104 180 110
+dlin 180 110 185 115
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 245 220 245 215
+dlin 245 215 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 215 220 215 215
+dlin 215 215 220 215
+dlin 230 220 230 215
+wait 800
+//-----------------------------------------
+//-------------Break arrière---------------
+//Centre arriere------------------------------------------------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru  0 0 0
+dcir 240 75 17
+cbru 0 0 0
+dcir 240 82 12
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 265 105
+dlin 265 105 270 135
+dlin 270 135 270 160
+dlin 270 160 265 160
+dlin 265 160 260 135
+dlin 260 135 255 115
+//main1
+dlin 270 160 270 170
+dlin 270 170 267 170
+dlin 267 170 265 160
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 220 220 220 210
+dlin 230 220 230 215
+wait 400
+FRAME  
+//droite arrière----------------------------------------------------               
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru  0 0 0
+dcir 245 75 17
+cbru 0 0 0
+dcir 245 82 12
+//cou
+dlin 240 92 240 100
+dlin 250 92 250 100
+//bras1
+dlin 260 100 270 105
+dlin 270 105 273 125
+dlin 273 125 290 145
+dlin 290 145 285 150
+dlin 285 150 265 132
+dlin 265 132 260 115
+//main1
+dlin 290 145 297 153
+dlin 297 153 293 157
+dlin 293 157 285 150
+//corps
+dlin 250 100 260 100
+dlin 260 115 255 150
+dlin 255 150 225 150
+dlin 225 150 230 115
+dlin 230 100 240 100
+dlin 240 100 250 100
+//bras2
+dlin 230 100 220 105
+dlin 220 105 215 135
+dlin 215 135 214 160
+dlin 215 160 220 160
+dlin 220 160 225 135
+dlin 225 135 230 115
+//main2
+dlin 215 160 215 170
+dlin 215 170 218 170
+dlin 218 170 220 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 265 215 265 220
+dlin 265 215 260 215
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 220 220 220 210
+dlin 235 220 235 215
+dlin 235 215 230 215
+wait 400
+//centre arrière----------------------------------------------
+FRAME
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru  0 0 0
+dcir 240 75 17
+cbru 0 0 0
+dcir 240 82 12
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 265 105
+dlin 265 105 270 135
+dlin 270 135 270 160
+dlin 270 160 265 160
+dlin 265 160 260 135
+dlin 260 135 255 115
+//main1
+dlin 270 160 270 170
+dlin 270 170 267 170
+dlin 267 170 265 160
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 220 220 220 210
+dlin 230 220 230 215
+wait 400
+//gauche arrière-----------------------------------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru  0 0 0
+dcir 235 75 17
+cbru 0 0 0
+dcir 235 82 12
+//cou
+dlin 230 92 230 100
+dlin 240 92 240 100
+//bras1
+dlin 250 100 260 105
+dlin 260 105 265 135
+dlin 265 135 265 160
+dlin 265 160 260 160
+dlin 260 160 255 135
+dlin 255 135 250 115
+//main1
+dlin 265 160 265 170
+dlin 265 170 262 170
+dlin 262 170 260 160
+//corps
+dlin 240 100 250 100
+dlin 250 115 255 150
+dlin 255 150 225 150
+dlin 225 150 220 115
+dlin 220 100 230 100
+dlin 230 100 240 100
+//bras2
+dlin 220 100 210 105
+dlin 210 105 207 125
+dlin 207 125 190 110
+dlin 190 110 185 115
+dlin 185 115 210 135
+dlin 210 135 220 115
+//main2
+dlin 190 110 182 104
+dlin 182 104 180 110
+dlin 180 110 185 115
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 245 220 245 215
+dlin 245 215 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 215 220 215 215
+dlin 215 215 220 215
+dlin 230 220 230 215
+wait 400
+--------------PIROUETTE------------------
+//Centre--droit-------------------------------------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+cbru 0 0 0
+dcir 240 75 17
+cbru 255 255 255
+dcir 240 82 12
+dcir 236 76 2
+dcir 244 76 2
+dlin 239 78 239 82
+dlin 239 82 241 82
+dlin 237 86 243 86
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1 gauche
+dlin 235 98 215 115
+dlin 215 115 230 135
+dlin 230 135 235 130
+dlin 235 130 225 115
+dlin 225 115 230 112
+//main1 droite
+dlin 230 135 238 138
+dlin 238 138 240 135
+dlin 240 135 235 130
+//corps
+dlin 230 112 230 121
+dlin 250 110 250 150
+dlin 250 150 230 150
+dlin 250 110 245 98
+dlin 230 135 230 150
+//dlin 230 110 235 98
+//bras2 gauche
+dlin 250 115 265 130
+dlin 265 130 262 134
+dlin 262 134 250 125
+//main2 gauche
+dlin 265 130 272 135
+dlin 272 135 270 137
+dlin 270 137 262 134
+//jambe1
+dlin 249 150 245 215
+dlin 255 220 255 215
+dlin 255 215 245 215
+dlin 236 220 231 150
+//jambe2
+dlin 249 160 256 180
+dlin 256 180 245 200
+dlin 234 207 230 215
+dlin 230 215 236 220
+wait 300
+//Centre avant------------------------------------------------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 240 75 17
+cbru 255 255 255
+dcir 240 82 12
+dcir 236 76 2
+dcir 244 76 2
+dlin 239 78 239 82
+dlin 239 82 241 82
+dlin 237 86 243 86
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 265 105
+dlin 265 105 270 135
+dlin 270 135 270 160
+dlin 270 160 265 160
+dlin 265 160 260 135
+dlin 260 135 255 115
+//main1
+dlin 270 160 270 170
+dlin 270 170 267 170
+dlin 267 170 265 160
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 240 110
+dlin 240 110 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 220 220 220 210
+dlin 230 220 230 215
+wait 300
+//------------côté gauche----------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+cbru 0 0 0
+dcir 240 75 17
+cbru 255 255 255
+dcir 240 82 12
+dcir 236 76 2
+dcir 244 76 2
+dlin 239 78 239 82
+dlin 239 82 241 82
+dlin 237 86 243 86
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 243 96 233 100
+dlin 233 100 253 115
+dlin 253 115 245 130
+dlin 245 130 250 135
+dlin 250 135 260 115
+dlin 260 115 243 96
+//main1
+dlin 246 131 242 135
+dlin 242 135 245 138
+dlin 245 138 249 133
+//corps
+dlin 250 112 250 121
+dlin 250 135 250 150
+dlin 250 150 230 150
+dlin 230 150 230 110
+dlin 230 110 235 98
+//bras2
+dlin 230 115 217 131
+dlin 217 131 218 137
+dlin 220 135 230 125
+//main2
+dlin 216 131 209 135
+dlin 209 135 214 135
+dlin 214 135 219 134
+//jambe1
+dlin 249 150 245 220
+dlin 245 220 226 220
+dlin 226 220 226 215
+dlin 226 215 236 215
+dlin 236 215 231 150
+//jambe2
+dlin 232 160 225 180
+dlin 225 180 235 200
+dlin 247 196 255 215
+dlin 255 215 245 220
+wait 300
+//Centre arriere------------------------------------------------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru  0 0 0
+dcir 240 75 17
+cbru 0 0 0
+dcir 240 82 12
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 265 105
+dlin 265 105 270 135
+dlin 270 135 270 160
+dlin 270 160 265 160
+dlin 265 160 260 135
+dlin 260 135 255 115
+//main1
+dlin 270 160 270 170
+dlin 270 170 267 170
+dlin 267 170 265 160
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 220 220 220 210
+dlin 230 220 230 215
+wait 300
+//Centre--droit-------------------------------------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+cbru 0 0 0
+dcir 240 75 17
+cbru 255 255 255
+dcir 240 82 12
+dcir 236 76 2
+dcir 244 76 2
+dlin 239 78 239 82
+dlin 239 82 241 82
+dlin 237 86 243 86
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1 gauche
+dlin 235 98 215 115
+dlin 215 115 230 135
+dlin 230 135 235 130
+dlin 235 130 225 115
+dlin 225 115 230 112
+//main1 droite
+dlin 230 135 238 138
+dlin 238 138 240 135
+dlin 240 135 235 130
+//corps
+dlin 230 112 230 121
+dlin 250 110 250 150
+dlin 250 150 230 150
+dlin 250 110 245 98
+dlin 230 135 230 150
+//dlin 230 110 235 98
+//bras2 gauche
+dlin 250 115 265 130
+dlin 265 130 262 134
+dlin 262 134 250 125
+//main2 gauche
+dlin 265 130 272 135
+dlin 272 135 270 137
+dlin 270 137 262 134
+//jambe1
+dlin 249 150 245 215
+dlin 255 220 255 215
+dlin 255 215 245 215
+dlin 236 220 231 150
+//jambe2
+dlin 249 160 256 180
+dlin 256 180 245 200
+dlin 234 207 230 215
+dlin 230 215 236 220
+wait 250
+//Centre avant------------------------------------------------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 240 75 17
+cbru 255 255 255
+dcir 240 82 12
+dcir 236 76 2
+dcir 244 76 2
+dlin 239 78 239 82
+dlin 239 82 241 82
+dlin 237 86 243 86
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 265 105
+dlin 265 105 270 135
+dlin 270 135 270 160
+dlin 270 160 265 160
+dlin 265 160 260 135
+dlin 260 135 255 115
+//main1
+dlin 270 160 270 170
+dlin 270 170 267 170
+dlin 267 170 265 160
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 240 110
+dlin 240 110 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 220 220 220 210
+dlin 230 220 230 215
+wait 100
+////////////////////////////////////////////////////
+////////////////////////////////////////////////////
+------------------DEBUT VOCAL-----------------------
+//Centre avant---------------bras demi---------------------------------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 240 75 17
+cbru 255 255 255
+dcir 240 82 12
+dcir 236 76 2
+dcir 244 76 2
+dlin 239 78 239 82
+dlin 239 82 241 82
+dlin 237 86 243 86
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 265 105
+dlin 265 105 267 125
+dlin 267 125 285 145
+dlin 285 145 280 150
+dlin 280 150 260 132
+dlin 260 132 255 115
+//main1
+dlin 280 150 287 157
+dlin 287 157 292 152
+dlin 292 152 285 145
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 240 110
+dlin 240 110 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 220 220 220 210
+dlin 230 220 230 215
+wait 200
+//Centre avant---------BRAS LEVÉ---------------------------------------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 240 75 17
+cbru 255 255 255
+dcir 240 82 12
+dcir 236 76 2
+dcir 244 76 2
+dlin 239 78 239 82
+dlin 239 82 241 82
+dell 237 86 243 90
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 280 110
+dlin 280 110 300 100
+dlin 300 100 305 105
+dlin 305 105 280 120
+dlin 280 120 255 115
+//main1
+dlin 300 100 306 89
+dlin 306 89 310 95
+dlin 310 95 305 105
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 240 110
+dlin 240 110 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 220 220 220 210
+dlin 230 220 230 215
+wait 1600
+//Centre avant------------------------------------------------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 240 75 17
+cbru 255 255 255
+dcir 240 82 12
+dcir 236 76 2
+dcir 244 76 2
+dlin 239 78 239 82
+dlin 239 82 241 82
+dlin 237 86 243 86
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 265 105
+dlin 265 105 267 125
+dlin 267 125 285 145
+dlin 285 145 280 150
+dlin 280 150 260 132
+dlin 260 132 255 115
+//main1
+dlin 280 150 287 157
+dlin 287 157 292 152
+dlin 292 152 285 145
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 240 110
+dlin 240 110 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 220 220 220 210
+dlin 230 220 230 215
+wait 400
+//Centre avant---------BRAS LEVÉ----jambe demi bouche fermé------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 240 75 17
+cbru 255 255 255
+dcir 240 82 12
+dcir 236 76 2
+dcir 244 76 2
+dlin 239 78 239 82
+dlin 239 82 241 82
+dlin 237 88 243 88
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 280 110
+dlin 280 110 300 100
+dlin 300 100 305 105
+dlin 305 105 280 120
+dlin 280 120 255 115
+//main1
+dlin 300 100 306 89
+dlin 306 89 310 95
+dlin 310 95 305 105
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 240 110
+dlin 240 110 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 202 215
+dlin 202 215 212 218
+dlin 212 218 240 165
+//pied2
+dlin 205 210 216 213
+wait 400
+//Centre avant---------BRAS LEVÉ----jambe elevé------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 240 75 17
+cbru 255 255 255
+dcir 240 82 12
+dcir 236 76 2
+dcir 244 76 2
+dlin 239 78 239 82
+dlin 239 82 241 82
+dell 237 86 243 90
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 280 110
+dlin 280 110 300 100
+dlin 300 100 305 105
+dlin 305 105 280 120
+dlin 280 120 255 115
+//main1
+dlin 300 100 306 89
+dlin 306 89 310 95
+dlin 310 95 305 105
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 240 110
+dlin 240 110 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 213 193
+dlin 213 193 190 200
+dlin 190 200 195 208
+dlin 195 208 225 195
+dlin 225 195 240 165
+//pied2
+dlin 198 198 201 206
+wait 400
+//Centre avant---------BRAS LEVÉ----jambe demi bouche fermé------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 240 75 17
+cbru 255 255 255
+dcir 240 82 12
+dcir 236 76 2
+dcir 244 76 2
+dlin 239 78 239 82
+dlin 239 82 241 82
+dlin 237 88 243 88
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 280 110
+dlin 280 110 300 100
+dlin 300 100 305 105
+dlin 305 105 280 120
+dlin 280 120 255 115
+//main1
+dlin 300 100 306 89
+dlin 306 89 310 95
+dlin 310 95 305 105
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 240 110
+dlin 240 110 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 202 215
+dlin 202 215 212 218
+dlin 212 218 240 165
+//pied2
+dlin 205 210 216 213
+wait 400
+//Centre avant---------BRAS LEVÉ---------------------------------------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 240 75 17
+cbru 255 255 255
+dcir 240 82 12
+dcir 236 76 2
+dcir 244 76 2
+dlin 239 78 239 82
+dlin 239 82 241 82
+dell 237 86 243 90
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 280 110
+dlin 280 110 300 100
+dlin 300 100 305 105
+dlin 305 105 280 120
+dlin 280 120 255 115
+//main1
+dlin 300 100 306 89
+dlin 306 89 310 95
+dlin 310 95 305 105
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 240 110
+dlin 240 110 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 220 220 220 210
+dlin 230 220 230 215
+wait 1200
+Centre avant------------------------------------------------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 240 75 17
+cbru 255 255 255
+dcir 240 82 12
+dcir 236 76 2
+dcir 244 76 2
+dlin 239 78 239 82
+dlin 239 82 241 82
+dlin 237 86 243 86
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 265 105
+dlin 265 105 267 125
+dlin 267 125 285 145
+dlin 285 145 280 150
+dlin 280 150 260 132
+dlin 260 132 255 115
+//main1
+dlin 280 150 287 157
+dlin 287 157 292 152
+dlin 292 152 285 145
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 240 110
+dlin 240 110 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 220 220 220 210
+dlin 230 220 230 215
+wait 400
+//Centre avant---------BRAS LEVÉ----jambe demi bouche fermé------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 240 75 17
+cbru 255 255 255
+dcir 240 82 12
+dcir 236 76 2
+dcir 244 76 2
+dlin 239 78 239 82
+dlin 239 82 241 82
+dlin 237 88 243 88
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 280 110
+dlin 280 110 300 100
+dlin 300 100 305 105
+dlin 305 105 280 120
+dlin 280 120 255 115
+//main1
+dlin 300 100 306 89
+dlin 306 89 310 95
+dlin 310 95 305 105
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 240 110
+dlin 240 110 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 202 215
+dlin 202 215 212 218
+dlin 212 218 240 165
+//pied2
+dlin 205 210 216 213
+wait 400
+//Centre avant---------BRAS LEVÉ----jambe elevé------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 240 75 17
+cbru 255 255 255
+dcir 240 82 12
+dcir 236 76 2
+dcir 244 76 2
+dlin 239 78 239 82
+dlin 239 82 241 82
+dell 237 86 243 90
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 280 110
+dlin 280 110 300 100
+dlin 300 100 305 105
+dlin 305 105 280 120
+dlin 280 120 255 115
+//main1
+dlin 300 100 306 89
+dlin 306 89 310 95
+dlin 310 95 305 105
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 240 110
+dlin 240 110 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 213 193
+dlin 213 193 190 200
+dlin 190 200 195 208
+dlin 195 208 225 195
+dlin 225 195 240 165
+//pied2
+dlin 198 198 201 206
+wait 400
+//Centre avant---------BRAS LEVÉ----jambe demi bouche fermé------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 240 75 17
+cbru 255 255 255
+dcir 240 82 12
+dcir 236 76 2
+dcir 244 76 2
+dlin 239 78 239 82
+dlin 239 82 241 82
+dlin 237 88 243 88
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 280 110
+dlin 280 110 300 100
+dlin 300 100 305 105
+dlin 305 105 280 120
+dlin 280 120 255 115
+//main1
+dlin 300 100 306 89
+dlin 306 89 310 95
+dlin 310 95 305 105
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 240 110
+dlin 240 110 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 202 215
+dlin 202 215 212 218
+dlin 212 218 240 165
+//pied2
+dlin 205 210 216 213
+wait 400
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 240 75 17
+cbru 255 255 255
+dcir 240 82 12
+dcir 236 76 2
+dcir 244 76 2
+dlin 239 78 239 82
+dlin 239 82 241 82
+dlin 237 86 243 86
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 265 105
+dlin 265 105 267 125
+dlin 267 125 285 145
+dlin 285 145 280 150
+dlin 280 150 260 132
+dlin 260 132 255 115
+//main1
+dlin 280 150 287 157
+dlin 287 157 292 152
+dlin 292 152 285 145
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 240 110
+dlin 240 110 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 220 220 220 210
+dlin 230 220 230 215
+wait 400
+//Centre avant---------BRAS LEVÉ---------------------------------------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 240 75 17
+cbru 255 255 255
+dcir 240 82 12
+dcir 236 76 2
+dcir 244 76 2
+dlin 239 78 239 82
+dlin 239 82 241 82
+dell 237 86 243 90
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 280 110
+dlin 280 110 300 100
+dlin 300 100 305 105
+dlin 305 105 280 120
+dlin 280 120 255 115
+//main1
+dlin 300 100 306 89
+dlin 306 89 310 95
+dlin 310 95 305 105
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 240 110
+dlin 240 110 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 220 220 220 210
+dlin 230 220 230 215
+wait 1600
+//Centre avant---------BRAS LEVÉ----jambe demi bouche fermé------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 240 75 17
+cbru 255 255 255
+dcir 240 82 12
+dcir 236 76 2
+dcir 244 76 2
+dlin 239 78 239 82
+dlin 239 82 241 82
+dlin 237 88 243 88
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 280 110
+dlin 280 110 300 100
+dlin 300 100 305 105
+dlin 305 105 280 120
+dlin 280 120 255 115
+//main1
+dlin 300 100 306 89
+dlin 306 89 310 95
+dlin 310 95 305 105
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 240 110
+dlin 240 110 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 202 215
+dlin 202 215 212 218
+dlin 212 218 240 165
+//pied2
+dlin 205 210 216 213
+wait 400
+//Centre avant---------BRAS LEVÉ----jambe elevé------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 240 75 17
+cbru 255 255 255
+dcir 240 82 12
+dcir 236 76 2
+dcir 244 76 2
+dlin 239 78 239 82
+dlin 239 82 241 82
+dell 237 86 243 90
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 280 110
+dlin 280 110 300 100
+dlin 300 100 305 105
+dlin 305 105 280 120
+dlin 280 120 255 115
+//main1
+dlin 300 100 306 89
+dlin 306 89 310 95
+dlin 310 95 305 105
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 240 110
+dlin 240 110 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 213 193
+dlin 213 193 190 200
+dlin 190 200 195 208
+dlin 195 208 225 195
+dlin 225 195 240 165
+//pied2
+dlin 198 198 201 206
+wait 400
+//Centre avant---------BRAS LEVÉ----jambe demi bouche fermé------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 240 75 17
+cbru 255 255 255
+dcir 240 82 12
+dcir 236 76 2
+dcir 244 76 2
+dlin 239 78 239 82
+dlin 239 82 241 82
+dlin 237 88 243 88
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 280 110
+dlin 280 110 300 100
+dlin 300 100 305 105
+dlin 305 105 280 120
+dlin 280 120 255 115
+//main1
+dlin 300 100 306 89
+dlin 306 89 310 95
+dlin 310 95 305 105
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 240 110
+dlin 240 110 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 202 215
+dlin 202 215 212 218
+dlin 212 218 240 165
+//pied2
+dlin 205 210 216 213
+wait 400
+//Centre avant---------BRAS LEVÉ---------------------------------------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 240 75 17
+cbru 255 255 255
+dcir 240 82 12
+dcir 236 76 2
+dcir 244 76 2
+dlin 239 78 239 82
+dlin 239 82 241 82
+dell 237 86 243 90
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 280 110
+dlin 280 110 300 100
+dlin 300 100 305 105
+dlin 305 105 280 120
+dlin 280 120 255 115
+//main1
+dlin 300 100 306 89
+dlin 306 89 310 95
+dlin 310 95 305 105
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 240 110
+dlin 240 110 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 220 220 220 210
+dlin 230 220 230 215
+wait 600
+//Centre avant---------BRAS LEVÉ---------------------------------------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 240 75 17
+cbru 255 255 255
+dcir 240 82 12
+dcir 236 76 2
+dcir 244 76 2
+dlin 239 78 239 82
+dlin 239 82 241 82
+dlin 237 88 243 88
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 280 110
+dlin 280 110 300 100
+dlin 300 100 305 105
+dlin 305 105 280 120
+dlin 280 120 255 115
+//main1
+dlin 300 100 306 89
+dlin 306 89 310 95
+dlin 310 95 305 105
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 240 110
+dlin 240 110 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 220 220 220 210
+dlin 230 220 230 215
+wait 1000
+//Centre avant---------BRAS LEVÉ---------------------------------------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 240 75 17
+cbru 255 255 255
+dcir 240 82 12
+dcir 236 76 2
+dcir 244 76 2
+dlin 239 78 239 82
+dlin 239 82 241 82
+dell 237 86 243 90
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 280 110
+dlin 280 110 300 100
+dlin 300 100 305 105
+dlin 305 105 280 120
+dlin 280 120 255 115
+//main1
+dlin 300 100 306 89
+dlin 306 89 310 95
+dlin 310 95 305 105
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 240 110
+dlin 240 110 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 220 220 220 210
+dlin 230 220 230 215
+wait 1000
+//Centre avant---------BRAS LEVÉ---------------------------------------------------------
+FRAME                 
+eras 255 255 255
+cbru 100 0 255
+drec 0 260 490 305
+cbru 100 100 100
+drec 0 220 490 260
+dtxt 130 280 Blacksun_Production_Present_EAT_IT
+cbru 255 0 0
+drec 0 0 40 240
+drec 450 0 490 240
+//tete
+cbru 0 0 0
+dcir 240 75 17
+cbru 255 255 255
+dcir 240 82 12
+dcir 236 76 2
+dcir 244 76 2
+dlin 239 78 239 82
+dlin 239 82 241 82
+dlin 237 88 243 88
+//cou
+dlin 235 92 235 100
+dlin 245 92 245 100
+//bras1
+dlin 255 100 280 110
+dlin 280 110 300 100
+dlin 300 100 305 105
+dlin 305 105 280 120
+dlin 280 120 255 115
+//main1
+dlin 300 100 306 89
+dlin 306 89 310 95
+dlin 310 95 305 105
+//corps
+dlin 245 100 255 100
+dlin 255 115 255 150
+dlin 255 150 225 150
+dlin 225 150 225 115
+dlin 225 100 235 100
+dlin 235 100 240 110
+dlin 240 110 245 100
+//bras2
+dlin 225 100 215 105
+dlin 215 105 210 135
+dlin 210 135 210 160
+dlin 210 160 215 160
+dlin 215 160 220 135
+dlin 220 135 225 115
+//main2
+dlin 210 160 210 170
+dlin 210 170 213 170
+dlin 213 170 215 160
+//jambe1
+dlin 255 150 255 160
+dlin 255 160 260 190
+dlin 260 190 260 215
+dlin 260 215 250 215
+dlin 250 215 250 195
+dlin 250 195 240 165
+//pied1
+dlin 250 220 250 215
+dlin 260 215 260 220
+//jambe2
+dlin 225 150 225 160
+dlin 225 160 220 190
+dlin 220 190 220 215
+dlin 220 215 230 215
+dlin 230 215 230 195
+dlin 230 195 240 165
+//pied2
+dlin 220 220 220 210
+dlin 230 220 230 215
+END

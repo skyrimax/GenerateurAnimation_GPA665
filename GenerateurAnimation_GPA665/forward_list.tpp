@@ -235,15 +235,35 @@ void forward_list<T>::pop_back()
 }
 
 template<class T>
-forward_list<T>::iterator forward_list<T>::begin()
+void forward_list<T>::clear()
 {
-	return iterator(m_begin);
+	Node* tempNode;
+
+	while (m_head) {
+		tempNode = m_head;
+		m_head = m_head->next;
+		delete tempNode;
+	}
 }
 
 template<class T>
-forward_list<T>::iterator forward_list<T>::end()
+typename forward_list<T>::iterator forward_list<T>::begin()
 {
-	return iterator(m_end);
+	iterator* begin = new iterator;
+
+	begin->m_node = m_head;
+	
+	return *begin;
+}
+
+template<class T>
+typename forward_list<T>::iterator forward_list<T>::end()
+{
+	iterator* end = new iterator();
+
+	end->m_node = nullptr;
+
+	return *end;
 }
 
 template<class T>
@@ -264,7 +284,7 @@ forward_list<T>::iterator::~iterator()
 }
 
 template<class T>
-forward_list<T>::iterator & forward_list<T>::iterator::operator=(const iterator & it)
+typename forward_list<T>::iterator & forward_list<T>::iterator::operator=(const iterator & it)
 {
 	m_node = it.m_node;
 
@@ -284,7 +304,7 @@ bool forward_list<T>::iterator::operator!=(const iterator & it) const
 }
 
 template<class T>
-forward_list<T>::iterator & forward_list<T>::iterator::operator++()
+typename forward_list<T>::iterator & forward_list<T>::iterator::operator++()
 {
 	if (m_node) {
 		m_node = m_node->next;
@@ -294,7 +314,7 @@ forward_list<T>::iterator & forward_list<T>::iterator::operator++()
 }
 
 template<class T>
-forward_list<T>::iterator forward_list<T>::iterator::operator++(int)
+typename forward_list<T>::iterator forward_list<T>::iterator::operator++(int)
 {
 	iterator* it = new iterator(*this);
 
@@ -308,11 +328,11 @@ forward_list<T>::iterator forward_list<T>::iterator::operator++(int)
 template<class T>
 T & forward_list<T>::iterator::operator*() const
 {
-	return *m_node
+	return m_node->data;
 }
 
 template<class T>
 T * forward_list<T>::iterator::operator->() const
 {
-	return m_node;
+	return &m_node->data;
 }

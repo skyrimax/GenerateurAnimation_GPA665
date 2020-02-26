@@ -1,0 +1,7204 @@
+e:\gpa-665\lab2\test.sfa
+INIT
+eras 255 255 255
+cpen 200 50 0
+dpnt 349 143
+wait 1
+cpen 200 50 0
+dpnt 349 145
+wait 1
+cpen 200 50 0
+dpnt 349 146
+wait 1
+cpen 200 50 0
+dpnt 349 148
+wait 1
+cpen 200 50 0
+dpnt 349 150
+wait 1
+cpen 200 50 0
+dpnt 348 152
+wait 1
+cpen 200 50 0
+dpnt 348 153
+wait 1
+cpen 200 50 0
+dpnt 348 155
+wait 1
+cpen 200 50 0
+dpnt 347 157
+wait 1
+cpen 200 50 0
+dpnt 347 158
+wait 1
+cpen 200 50 0
+dpnt 347 160
+wait 1
+cpen 200 50 0
+dpnt 346 162
+wait 1
+cpen 200 50 0
+dpnt 346 163
+wait 1
+cpen 200 50 0
+dpnt 345 165
+wait 1
+cpen 200 50 0
+dpnt 345 167
+wait 1
+cpen 200 50 0
+dpnt 344 168
+wait 1
+cpen 200 50 0
+dpnt 343 170
+wait 1
+cpen 200 50 0
+dpnt 343 172
+wait 1
+cpen 200 50 0
+dpnt 342 173
+wait 1
+cpen 200 50 0
+dpnt 342 175
+wait 1
+cpen 200 50 0
+dpnt 341 176
+wait 1
+cpen 255 255 255
+dpnt 349 143
+cpen 200 50 0
+dpnt 340 178
+wait 1
+cpen 255 255 255
+dpnt 349 145
+cpen 200 50 0
+dpnt 339 180
+wait 1
+cpen 255 255 255
+dpnt 349 146
+cpen 200 50 0
+dpnt 339 181
+wait 1
+cpen 255 255 255
+dpnt 349 148
+cpen 200 50 0
+dpnt 338 183
+wait 1
+cpen 255 255 255
+dpnt 349 150
+cpen 200 50 0
+dpnt 337 184
+wait 1
+cpen 255 255 255
+dpnt 348 152
+cpen 200 50 0
+dpnt 336 186
+wait 1
+cpen 255 255 255
+dpnt 348 153
+cpen 200 50 0
+dpnt 335 187
+wait 1
+cpen 255 255 255
+dpnt 348 155
+cpen 200 50 0
+dpnt 334 188
+wait 1
+cpen 255 255 255
+dpnt 347 157
+cpen 200 50 0
+dpnt 333 190
+wait 1
+cpen 255 255 255
+dpnt 347 158
+cpen 200 50 0
+dpnt 332 191
+wait 1
+cpen 255 255 255
+dpnt 347 160
+cpen 200 50 0
+dpnt 332 193
+wait 1
+cpen 255 255 255
+dpnt 346 162
+cpen 200 50 0
+dpnt 331 194
+wait 1
+cpen 255 255 255
+dpnt 346 163
+cpen 200 50 0
+dpnt 329 196
+wait 1
+cpen 255 255 255
+dpnt 345 165
+cpen 200 50 0
+dpnt 328 197
+wait 1
+cpen 255 255 255
+dpnt 345 167
+cpen 200 50 0
+dpnt 327 198
+wait 1
+cpen 255 255 255
+dpnt 344 168
+cpen 200 50 0
+dpnt 326 199
+wait 1
+cpen 255 255 255
+dpnt 343 170
+cpen 200 50 0
+dpnt 325 201
+wait 1
+cpen 255 255 255
+dpnt 343 172
+cpen 200 50 0
+dpnt 324 202
+wait 1
+cpen 255 255 255
+dpnt 342 173
+cpen 200 50 0
+dpnt 323 203
+wait 1
+cpen 255 255 255
+dpnt 342 175
+cpen 200 50 0
+dpnt 322 205
+wait 1
+cpen 255 255 255
+dpnt 341 176
+cpen 200 50 0
+dpnt 321 206
+wait 1
+cpen 255 255 255
+dpnt 340 178
+cpen 200 50 0
+dpnt 319 207
+wait 1
+cpen 255 255 255
+dpnt 339 180
+cpen 200 50 0
+dpnt 318 208
+wait 1
+cpen 255 255 255
+dpnt 339 181
+cpen 200 50 0
+dpnt 317 209
+wait 1
+cpen 255 255 255
+dpnt 338 183
+cpen 200 50 0
+dpnt 316 210
+wait 1
+cpen 255 255 255
+dpnt 337 184
+cpen 200 50 0
+dpnt 314 211
+wait 1
+cpen 255 255 255
+dpnt 336 186
+cpen 200 50 0
+dpnt 313 212
+wait 1
+cpen 255 255 255
+dpnt 335 187
+cpen 200 50 0
+dpnt 312 213
+wait 1
+cpen 255 255 255
+dpnt 334 188
+cpen 200 50 0
+dpnt 310 215
+wait 1
+cpen 255 255 255
+dpnt 333 190
+cpen 200 50 0
+dpnt 309 216
+wait 1
+cpen 255 255 255
+dpnt 332 191
+cpen 200 50 0
+dpnt 308 216
+wait 1
+cpen 255 255 255
+dpnt 332 193
+cpen 200 50 0
+dpnt 306 217
+wait 1
+cpen 255 255 255
+dpnt 331 194
+cpen 200 50 0
+dpnt 305 218
+wait 1
+cpen 255 255 255
+dpnt 329 196
+cpen 200 50 0
+dpnt 303 219
+wait 1
+cpen 255 255 255
+dpnt 328 197
+cpen 200 50 0
+dpnt 302 220
+wait 1
+cpen 255 255 255
+dpnt 327 198
+cpen 200 50 0
+dpnt 300 221
+wait 1
+cpen 255 255 255
+dpnt 326 199
+cpen 200 50 0
+dpnt 299 222
+wait 1
+cpen 255 255 255
+dpnt 325 201
+cpen 200 50 0
+dpnt 297 223
+wait 1
+cpen 255 255 255
+dpnt 324 202
+cpen 200 50 0
+dpnt 296 223
+wait 1
+cpen 255 255 255
+dpnt 323 203
+cpen 200 50 0
+dpnt 294 224
+wait 1
+cpen 255 255 255
+dpnt 322 205
+cpen 200 50 0
+dpnt 293 225
+wait 1
+cpen 255 255 255
+dpnt 321 206
+cpen 200 50 0
+dpnt 291 225
+wait 1
+cpen 255 255 255
+dpnt 319 207
+cpen 200 50 0
+dpnt 290 226
+wait 1
+cpen 255 255 255
+dpnt 318 208
+cpen 200 50 0
+dpnt 288 227
+wait 1
+cpen 255 255 255
+dpnt 317 209
+cpen 200 50 0
+dpnt 287 227
+wait 1
+cpen 255 255 255
+dpnt 316 210
+cpen 200 50 0
+dpnt 285 228
+wait 1
+cpen 255 255 255
+dpnt 314 211
+cpen 200 50 0
+dpnt 284 228
+wait 1
+cpen 255 255 255
+dpnt 313 212
+cpen 200 50 0
+dpnt 282 229
+wait 1
+cpen 255 255 255
+dpnt 312 213
+cpen 200 50 0
+dpnt 280 229
+wait 1
+cpen 255 255 255
+dpnt 310 215
+cpen 200 50 0
+dpnt 279 230
+wait 1
+cpen 255 255 255
+dpnt 309 216
+cpen 200 50 0
+dpnt 277 230
+wait 1
+cpen 255 255 255
+dpnt 308 216
+cpen 200 50 0
+dpnt 276 231
+wait 1
+cpen 255 255 255
+dpnt 306 217
+cpen 200 50 0
+dpnt 274 231
+wait 1
+cpen 255 255 255
+dpnt 305 218
+cpen 200 50 0
+dpnt 272 231
+wait 1
+cpen 255 255 255
+dpnt 303 219
+cpen 200 50 0
+dpnt 271 232
+wait 1
+cpen 255 255 255
+dpnt 302 220
+cpen 200 50 0
+dpnt 269 232
+wait 1
+cpen 255 255 255
+dpnt 300 221
+cpen 200 50 0
+dpnt 268 232
+wait 1
+cpen 255 255 255
+dpnt 299 222
+cpen 200 50 0
+dpnt 266 233
+wait 1
+cpen 255 255 255
+dpnt 297 223
+cpen 200 50 0
+dpnt 264 233
+wait 1
+cpen 255 255 255
+dpnt 296 223
+cpen 200 50 0
+dpnt 263 233
+wait 1
+cpen 255 255 255
+dpnt 294 224
+cpen 200 50 0
+dpnt 261 233
+wait 1
+cpen 255 255 255
+dpnt 293 225
+cpen 200 50 0
+dpnt 259 233
+wait 1
+cpen 255 255 255
+dpnt 291 225
+cpen 200 50 0
+dpnt 258 233
+wait 1
+cpen 255 255 255
+dpnt 290 226
+cpen 200 50 0
+dpnt 256 233
+wait 1
+cpen 255 255 255
+dpnt 288 227
+cpen 200 50 0
+dpnt 254 233
+wait 1
+cpen 255 255 255
+dpnt 287 227
+cpen 200 50 0
+dpnt 253 233
+wait 1
+cpen 255 255 255
+dpnt 285 228
+cpen 200 50 0
+dpnt 251 233
+wait 1
+cpen 255 255 255
+dpnt 284 228
+cpen 200 50 0
+dpnt 250 233
+wait 1
+cpen 255 255 255
+dpnt 282 229
+cpen 200 50 0
+dpnt 248 233
+wait 1
+cpen 255 255 255
+dpnt 280 229
+cpen 200 50 0
+dpnt 246 233
+wait 1
+cpen 255 255 255
+dpnt 279 230
+cpen 200 50 0
+dpnt 245 233
+wait 1
+cpen 255 255 255
+dpnt 277 230
+cpen 200 50 0
+dpnt 243 233
+wait 1
+cpen 255 255 255
+dpnt 276 231
+cpen 200 50 0
+dpnt 241 233
+wait 1
+cpen 255 255 255
+dpnt 274 231
+cpen 200 50 0
+dpnt 240 232
+wait 1
+cpen 255 255 255
+dpnt 272 231
+cpen 200 50 0
+dpnt 238 232
+wait 1
+cpen 255 255 255
+dpnt 271 232
+cpen 200 50 0
+dpnt 237 232
+wait 1
+cpen 255 255 255
+dpnt 269 232
+cpen 200 50 0
+dpnt 235 232
+wait 1
+cpen 255 255 255
+dpnt 268 232
+cpen 200 50 0
+dpnt 233 231
+wait 1
+cpen 255 255 255
+dpnt 266 233
+cpen 200 50 0
+dpnt 232 231
+wait 1
+cpen 255 255 255
+dpnt 264 233
+cpen 200 50 0
+dpnt 230 230
+wait 1
+cpen 255 255 255
+dpnt 263 233
+cpen 200 50 0
+dpnt 229 230
+wait 1
+cpen 255 255 255
+dpnt 261 233
+cpen 200 50 0
+dpnt 227 230
+wait 1
+cpen 255 255 255
+dpnt 259 233
+cpen 200 50 0
+dpnt 225 229
+wait 1
+cpen 255 255 255
+dpnt 258 233
+cpen 200 50 0
+dpnt 224 229
+wait 1
+cpen 255 255 255
+dpnt 256 233
+cpen 200 50 0
+dpnt 222 228
+wait 1
+cpen 255 255 255
+dpnt 254 233
+cpen 200 50 0
+dpnt 221 228
+wait 1
+cpen 255 255 255
+dpnt 253 233
+cpen 200 50 0
+dpnt 219 227
+wait 1
+cpen 255 255 255
+dpnt 251 233
+cpen 200 50 0
+dpnt 218 226
+wait 1
+cpen 255 255 255
+dpnt 250 233
+cpen 200 50 0
+dpnt 216 226
+wait 1
+cpen 255 255 255
+dpnt 248 233
+cpen 200 50 0
+dpnt 215 225
+wait 1
+cpen 255 255 255
+dpnt 246 233
+cpen 200 50 0
+dpnt 213 224
+wait 1
+cpen 255 255 255
+dpnt 245 233
+cpen 200 50 0
+dpnt 212 224
+wait 1
+cpen 255 255 255
+dpnt 243 233
+cpen 200 50 0
+dpnt 211 223
+wait 1
+cpen 255 255 255
+dpnt 241 233
+cpen 200 50 0
+dpnt 209 222
+wait 1
+cpen 255 255 255
+dpnt 240 232
+cpen 200 50 0
+dpnt 208 221
+wait 1
+cpen 255 255 255
+dpnt 238 232
+cpen 200 50 0
+dpnt 206 221
+wait 1
+cpen 255 255 255
+dpnt 237 232
+cpen 200 50 0
+dpnt 205 220
+wait 1
+cpen 255 255 255
+dpnt 235 232
+cpen 200 50 0
+dpnt 204 219
+wait 1
+cpen 255 255 255
+dpnt 233 231
+cpen 200 50 0
+dpnt 202 218
+wait 1
+cpen 255 255 255
+dpnt 232 231
+cpen 200 50 0
+dpnt 201 217
+wait 1
+cpen 255 255 255
+dpnt 230 230
+cpen 200 50 0
+dpnt 200 216
+wait 1
+cpen 255 255 255
+dpnt 229 230
+cpen 200 50 0
+dpnt 198 215
+wait 1
+cpen 255 255 255
+dpnt 227 230
+cpen 200 50 0
+dpnt 197 214
+wait 1
+cpen 255 255 255
+dpnt 225 229
+cpen 200 50 0
+dpnt 196 213
+wait 1
+cpen 255 255 255
+dpnt 224 229
+cpen 200 50 0
+dpnt 195 212
+wait 1
+cpen 255 255 255
+dpnt 222 228
+cpen 200 50 0
+dpnt 193 211
+wait 1
+cpen 255 255 255
+dpnt 221 228
+cpen 200 50 0
+dpnt 192 210
+wait 1
+cpen 255 255 255
+dpnt 219 227
+cpen 200 50 0
+dpnt 191 209
+wait 1
+cpen 255 255 255
+dpnt 218 226
+cpen 200 50 0
+dpnt 190 208
+wait 1
+cpen 255 255 255
+dpnt 216 226
+cpen 200 50 0
+dpnt 189 207
+wait 1
+cpen 255 255 255
+dpnt 215 225
+cpen 200 50 0
+dpnt 188 206
+wait 1
+cpen 255 255 255
+dpnt 213 224
+cpen 200 50 0
+dpnt 186 205
+wait 1
+cpen 255 255 255
+dpnt 212 224
+cpen 200 50 0
+dpnt 185 204
+wait 1
+cpen 255 255 255
+dpnt 211 223
+cpen 200 50 0
+dpnt 184 202
+wait 1
+cpen 255 255 255
+dpnt 209 222
+cpen 200 50 0
+dpnt 183 201
+wait 1
+cpen 255 255 255
+dpnt 208 221
+cpen 200 50 0
+dpnt 182 200
+wait 1
+cpen 255 255 255
+dpnt 206 221
+cpen 200 50 0
+dpnt 181 199
+wait 1
+cpen 255 255 255
+dpnt 205 220
+cpen 200 50 0
+dpnt 180 198
+wait 1
+cpen 255 255 255
+dpnt 204 219
+cpen 200 50 0
+dpnt 179 196
+wait 1
+cpen 255 255 255
+dpnt 202 218
+cpen 200 50 0
+dpnt 178 195
+wait 1
+cpen 255 255 255
+dpnt 201 217
+cpen 200 50 0
+dpnt 178 194
+wait 1
+cpen 255 255 255
+dpnt 200 216
+cpen 200 50 0
+dpnt 177 192
+wait 1
+cpen 255 255 255
+dpnt 198 215
+cpen 200 50 0
+dpnt 176 191
+wait 1
+cpen 255 255 255
+dpnt 197 214
+cpen 200 50 0
+dpnt 175 190
+wait 1
+cpen 255 255 255
+dpnt 196 213
+cpen 200 50 0
+dpnt 174 188
+wait 1
+cpen 255 255 255
+dpnt 195 212
+cpen 200 50 0
+dpnt 173 187
+wait 1
+cpen 255 255 255
+dpnt 193 211
+cpen 200 50 0
+dpnt 173 186
+wait 1
+cpen 255 255 255
+dpnt 192 210
+cpen 200 50 0
+dpnt 172 184
+wait 1
+cpen 255 255 255
+dpnt 191 209
+cpen 200 50 0
+dpnt 171 183
+wait 1
+cpen 255 255 255
+dpnt 190 208
+cpen 200 50 0
+dpnt 170 182
+wait 1
+cpen 255 255 255
+dpnt 189 207
+cpen 200 50 0
+dpnt 170 180
+wait 1
+cpen 255 255 255
+dpnt 188 206
+cpen 200 50 0
+dpnt 169 179
+wait 1
+cpen 255 255 255
+dpnt 186 205
+cpen 200 50 0
+dpnt 169 177
+wait 1
+cpen 255 255 255
+dpnt 185 204
+cpen 200 50 0
+dpnt 168 176
+wait 1
+cpen 255 255 255
+dpnt 184 202
+cpen 200 50 0
+dpnt 167 174
+wait 1
+cpen 255 255 255
+dpnt 183 201
+cpen 200 50 0
+dpnt 167 173
+wait 1
+cpen 255 255 255
+dpnt 182 200
+cpen 200 50 0
+dpnt 166 171
+wait 1
+cpen 255 255 255
+dpnt 181 199
+cpen 200 50 0
+dpnt 166 170
+wait 1
+cpen 255 255 255
+dpnt 180 198
+cpen 200 50 0
+dpnt 165 168
+wait 1
+cpen 255 255 255
+dpnt 179 196
+cpen 200 50 0
+dpnt 165 167
+wait 1
+cpen 255 255 255
+dpnt 178 195
+cpen 200 50 0
+dpnt 165 165
+wait 1
+cpen 255 255 255
+dpnt 178 194
+cpen 200 50 0
+dpnt 164 164
+wait 1
+cpen 255 255 255
+dpnt 177 192
+cpen 200 50 0
+dpnt 164 162
+wait 1
+cpen 255 255 255
+dpnt 176 191
+cpen 200 50 0
+dpnt 164 161
+wait 1
+cpen 255 255 255
+dpnt 175 190
+cpen 200 50 0
+dpnt 163 159
+wait 1
+cpen 255 255 255
+dpnt 174 188
+cpen 200 50 0
+dpnt 163 158
+wait 1
+cpen 255 255 255
+dpnt 173 187
+cpen 200 50 0
+dpnt 163 156
+wait 1
+cpen 255 255 255
+dpnt 173 186
+cpen 200 50 0
+dpnt 163 155
+wait 1
+cpen 255 255 255
+dpnt 172 184
+cpen 200 50 0
+dpnt 162 153
+wait 1
+cpen 255 255 255
+dpnt 171 183
+cpen 200 50 0
+dpnt 162 152
+wait 1
+cpen 255 255 255
+dpnt 170 182
+cpen 200 50 0
+dpnt 162 150
+wait 1
+cpen 255 255 255
+dpnt 170 180
+cpen 200 50 0
+dpnt 162 149
+wait 1
+cpen 255 255 255
+dpnt 169 179
+cpen 200 50 0
+dpnt 162 147
+wait 1
+cpen 255 255 255
+dpnt 169 177
+cpen 200 50 0
+dpnt 162 146
+wait 1
+cpen 255 255 255
+dpnt 168 176
+cpen 200 50 0
+dpnt 162 144
+wait 1
+cpen 255 255 255
+dpnt 167 174
+cpen 200 50 0
+dpnt 162 143
+wait 1
+cpen 255 255 255
+dpnt 167 173
+cpen 200 50 0
+dpnt 162 141
+wait 1
+cpen 255 255 255
+dpnt 166 171
+cpen 200 50 0
+dpnt 162 140
+wait 1
+cpen 255 255 255
+dpnt 166 170
+cpen 200 50 0
+dpnt 162 138
+wait 1
+cpen 255 255 255
+dpnt 165 168
+cpen 200 50 0
+dpnt 162 136
+wait 1
+cpen 255 255 255
+dpnt 165 167
+cpen 200 50 0
+dpnt 162 135
+wait 1
+cpen 255 255 255
+dpnt 165 165
+cpen 200 50 0
+dpnt 162 133
+wait 1
+cpen 255 255 255
+dpnt 164 164
+cpen 200 50 0
+dpnt 163 132
+wait 1
+cpen 255 255 255
+dpnt 164 162
+cpen 200 50 0
+dpnt 163 130
+wait 1
+cpen 255 255 255
+dpnt 164 161
+cpen 200 50 0
+dpnt 163 129
+wait 1
+cpen 255 255 255
+dpnt 163 159
+cpen 200 50 0
+dpnt 163 127
+wait 1
+cpen 255 255 255
+dpnt 163 158
+cpen 200 50 0
+dpnt 164 126
+wait 1
+cpen 255 255 255
+dpnt 163 156
+cpen 200 50 0
+dpnt 164 124
+wait 1
+cpen 255 255 255
+dpnt 163 155
+cpen 200 50 0
+dpnt 164 123
+wait 1
+cpen 255 255 255
+dpnt 162 153
+cpen 200 50 0
+dpnt 165 121
+wait 1
+cpen 255 255 255
+dpnt 162 152
+cpen 200 50 0
+dpnt 165 120
+wait 1
+cpen 255 255 255
+dpnt 162 150
+cpen 200 50 0
+dpnt 165 119
+wait 1
+cpen 255 255 255
+dpnt 162 149
+cpen 200 50 0
+dpnt 166 117
+wait 1
+cpen 255 255 255
+dpnt 162 147
+cpen 200 50 0
+dpnt 166 116
+wait 1
+cpen 255 255 255
+dpnt 162 146
+cpen 200 50 0
+dpnt 167 114
+wait 1
+cpen 255 255 255
+dpnt 162 144
+cpen 200 50 0
+dpnt 167 113
+wait 1
+cpen 255 255 255
+dpnt 162 143
+cpen 200 50 0
+dpnt 168 111
+wait 1
+cpen 255 255 255
+dpnt 162 141
+cpen 200 50 0
+dpnt 169 110
+wait 1
+cpen 255 255 255
+dpnt 162 140
+cpen 200 50 0
+dpnt 169 109
+wait 1
+cpen 255 255 255
+dpnt 162 138
+cpen 200 50 0
+dpnt 170 107
+wait 1
+cpen 255 255 255
+dpnt 162 136
+cpen 200 50 0
+dpnt 170 106
+wait 1
+cpen 255 255 255
+dpnt 162 135
+cpen 200 50 0
+dpnt 171 105
+wait 1
+cpen 255 255 255
+dpnt 162 133
+cpen 200 50 0
+dpnt 172 103
+wait 1
+cpen 255 255 255
+dpnt 163 132
+cpen 200 50 0
+dpnt 172 102
+wait 1
+cpen 255 255 255
+dpnt 163 130
+cpen 200 50 0
+dpnt 173 101
+wait 1
+cpen 255 255 255
+dpnt 163 129
+cpen 200 50 0
+dpnt 174 99
+wait 1
+cpen 255 255 255
+dpnt 163 127
+cpen 200 50 0
+dpnt 175 98
+wait 1
+cpen 255 255 255
+dpnt 164 126
+cpen 200 50 0
+dpnt 175 97
+wait 1
+cpen 255 255 255
+dpnt 164 124
+cpen 200 50 0
+dpnt 176 96
+wait 1
+cpen 255 255 255
+dpnt 164 123
+cpen 200 50 0
+dpnt 177 94
+wait 1
+cpen 255 255 255
+dpnt 165 121
+cpen 200 50 0
+dpnt 178 93
+wait 1
+cpen 255 255 255
+dpnt 165 120
+cpen 200 50 0
+dpnt 179 92
+wait 1
+cpen 255 255 255
+dpnt 165 119
+cpen 200 50 0
+dpnt 180 91
+wait 1
+cpen 255 255 255
+dpnt 166 117
+cpen 200 50 0
+dpnt 181 89
+wait 1
+cpen 255 255 255
+dpnt 166 116
+cpen 200 50 0
+dpnt 182 88
+wait 1
+cpen 255 255 255
+dpnt 167 114
+cpen 200 50 0
+dpnt 183 87
+wait 1
+cpen 255 255 255
+dpnt 167 113
+cpen 200 50 0
+dpnt 184 86
+wait 1
+cpen 255 255 255
+dpnt 168 111
+cpen 200 50 0
+dpnt 185 85
+wait 1
+cpen 255 255 255
+dpnt 169 110
+cpen 200 50 0
+dpnt 186 84
+wait 1
+cpen 255 255 255
+dpnt 169 109
+cpen 200 50 0
+dpnt 187 83
+wait 1
+cpen 255 255 255
+dpnt 170 107
+cpen 200 50 0
+dpnt 188 82
+wait 1
+cpen 255 255 255
+dpnt 170 106
+cpen 200 50 0
+dpnt 189 81
+wait 1
+cpen 255 255 255
+dpnt 171 105
+cpen 200 50 0
+dpnt 190 80
+wait 1
+cpen 255 255 255
+dpnt 172 103
+cpen 200 50 0
+dpnt 191 79
+wait 1
+cpen 255 255 255
+dpnt 172 102
+cpen 200 50 0
+dpnt 192 78
+wait 1
+cpen 255 255 255
+dpnt 173 101
+cpen 200 50 0
+dpnt 193 77
+wait 1
+cpen 255 255 255
+dpnt 174 99
+cpen 200 50 0
+dpnt 194 76
+wait 1
+cpen 255 255 255
+dpnt 175 98
+cpen 200 50 0
+dpnt 195 75
+wait 1
+cpen 255 255 255
+dpnt 175 97
+cpen 200 50 0
+dpnt 197 74
+wait 1
+cpen 255 255 255
+dpnt 176 96
+cpen 200 50 0
+dpnt 198 73
+wait 1
+cpen 255 255 255
+dpnt 177 94
+cpen 200 50 0
+dpnt 199 73
+wait 1
+cpen 255 255 255
+dpnt 178 93
+cpen 200 50 0
+dpnt 200 72
+wait 1
+cpen 255 255 255
+dpnt 179 92
+cpen 200 50 0
+dpnt 201 71
+wait 1
+cpen 255 255 255
+dpnt 180 91
+cpen 200 50 0
+dpnt 203 70
+wait 1
+cpen 255 255 255
+dpnt 181 89
+cpen 200 50 0
+dpnt 204 69
+wait 1
+cpen 255 255 255
+dpnt 182 88
+cpen 200 50 0
+dpnt 205 69
+wait 1
+cpen 255 255 255
+dpnt 183 87
+cpen 200 50 0
+dpnt 207 68
+wait 1
+cpen 255 255 255
+dpnt 184 86
+cpen 200 50 0
+dpnt 208 67
+wait 1
+cpen 255 255 255
+dpnt 185 85
+cpen 200 50 0
+dpnt 209 67
+wait 1
+cpen 255 255 255
+dpnt 186 84
+cpen 200 50 0
+dpnt 210 66
+wait 1
+cpen 255 255 255
+dpnt 187 83
+cpen 200 50 0
+dpnt 212 65
+wait 1
+cpen 255 255 255
+dpnt 188 82
+cpen 200 50 0
+dpnt 213 65
+wait 1
+cpen 255 255 255
+dpnt 189 81
+cpen 200 50 0
+dpnt 214 64
+wait 1
+cpen 255 255 255
+dpnt 190 80
+cpen 200 50 0
+dpnt 216 64
+wait 1
+cpen 255 255 255
+dpnt 191 79
+cpen 200 50 0
+dpnt 217 63
+wait 1
+cpen 255 255 255
+dpnt 192 78
+cpen 200 50 0
+dpnt 218 63
+wait 1
+cpen 255 255 255
+dpnt 193 77
+cpen 200 50 0
+dpnt 220 62
+wait 1
+cpen 255 255 255
+dpnt 194 76
+cpen 200 50 0
+dpnt 221 62
+wait 1
+cpen 255 255 255
+dpnt 195 75
+cpen 200 50 0
+dpnt 223 61
+wait 1
+cpen 255 255 255
+dpnt 197 74
+cpen 200 50 0
+dpnt 224 61
+wait 1
+cpen 255 255 255
+dpnt 198 73
+cpen 200 50 0
+dpnt 225 61
+wait 1
+cpen 255 255 255
+dpnt 199 73
+cpen 200 50 0
+dpnt 227 60
+wait 1
+cpen 255 255 255
+dpnt 200 72
+cpen 200 50 0
+dpnt 228 60
+wait 1
+cpen 255 255 255
+dpnt 201 71
+cpen 200 50 0
+dpnt 230 60
+wait 1
+cpen 255 255 255
+dpnt 203 70
+cpen 200 50 0
+dpnt 231 59
+wait 1
+cpen 255 255 255
+dpnt 204 69
+cpen 200 50 0
+dpnt 232 59
+wait 1
+cpen 255 255 255
+dpnt 205 69
+cpen 200 50 0
+dpnt 234 59
+wait 1
+cpen 255 255 255
+dpnt 207 68
+cpen 200 50 0
+dpnt 235 59
+wait 1
+cpen 255 255 255
+dpnt 208 67
+cpen 200 50 0
+dpnt 237 59
+wait 1
+cpen 255 255 255
+dpnt 209 67
+cpen 200 50 0
+dpnt 238 58
+wait 1
+cpen 255 255 255
+dpnt 210 66
+cpen 200 50 0
+dpnt 240 58
+wait 1
+cpen 255 255 255
+dpnt 212 65
+cpen 200 50 0
+dpnt 241 58
+wait 1
+cpen 255 255 255
+dpnt 213 65
+cpen 200 50 0
+dpnt 242 58
+wait 1
+cpen 255 255 255
+dpnt 214 64
+cpen 200 50 0
+dpnt 244 58
+wait 1
+cpen 255 255 255
+dpnt 216 64
+cpen 200 50 0
+dpnt 245 58
+wait 1
+cpen 255 255 255
+dpnt 217 63
+cpen 200 50 0
+dpnt 247 58
+wait 1
+cpen 255 255 255
+dpnt 218 63
+cpen 200 50 0
+dpnt 248 58
+wait 1
+cpen 255 255 255
+dpnt 220 62
+cpen 200 50 0
+dpnt 249 58
+wait 1
+cpen 255 255 255
+dpnt 221 62
+cpen 200 50 0
+dpnt 251 58
+wait 1
+cpen 255 255 255
+dpnt 223 61
+cpen 200 50 0
+dpnt 252 58
+wait 1
+cpen 255 255 255
+dpnt 224 61
+cpen 200 50 0
+dpnt 254 59
+wait 1
+cpen 255 255 255
+dpnt 225 61
+cpen 200 50 0
+dpnt 255 59
+wait 1
+cpen 255 255 255
+dpnt 227 60
+cpen 200 50 0
+dpnt 257 59
+wait 1
+cpen 255 255 255
+dpnt 228 60
+cpen 200 50 0
+dpnt 258 59
+wait 1
+cpen 255 255 255
+dpnt 230 60
+cpen 200 50 0
+dpnt 259 59
+wait 1
+cpen 255 255 255
+dpnt 231 59
+cpen 200 50 0
+dpnt 261 60
+wait 1
+cpen 255 255 255
+dpnt 232 59
+cpen 200 50 0
+dpnt 262 60
+wait 1
+cpen 255 255 255
+dpnt 234 59
+cpen 200 50 0
+dpnt 264 60
+wait 1
+cpen 255 255 255
+dpnt 235 59
+cpen 200 50 0
+dpnt 265 60
+wait 1
+cpen 255 255 255
+dpnt 237 59
+cpen 200 50 0
+dpnt 266 61
+wait 1
+cpen 255 255 255
+dpnt 238 58
+cpen 200 50 0
+dpnt 268 61
+wait 1
+cpen 255 255 255
+dpnt 240 58
+cpen 200 50 0
+dpnt 269 62
+wait 1
+cpen 255 255 255
+dpnt 241 58
+cpen 200 50 0
+dpnt 270 62
+wait 1
+cpen 255 255 255
+dpnt 242 58
+cpen 200 50 0
+dpnt 272 62
+wait 1
+cpen 255 255 255
+dpnt 244 58
+cpen 200 50 0
+dpnt 273 63
+wait 1
+cpen 255 255 255
+dpnt 245 58
+cpen 200 50 0
+dpnt 274 63
+wait 1
+cpen 255 255 255
+dpnt 247 58
+cpen 200 50 0
+dpnt 276 64
+wait 1
+cpen 255 255 255
+dpnt 248 58
+cpen 200 50 0
+dpnt 277 64
+wait 1
+cpen 255 255 255
+dpnt 249 58
+cpen 200 50 0
+dpnt 278 65
+wait 1
+cpen 255 255 255
+dpnt 251 58
+cpen 200 50 0
+dpnt 279 66
+wait 1
+cpen 255 255 255
+dpnt 252 58
+cpen 200 50 0
+dpnt 281 66
+wait 1
+cpen 255 255 255
+dpnt 254 59
+cpen 200 50 0
+dpnt 282 67
+wait 1
+cpen 255 255 255
+dpnt 255 59
+cpen 200 50 0
+dpnt 283 67
+wait 1
+cpen 255 255 255
+dpnt 257 59
+cpen 200 50 0
+dpnt 284 68
+wait 1
+cpen 255 255 255
+dpnt 258 59
+cpen 200 50 0
+dpnt 286 69
+wait 1
+cpen 255 255 255
+dpnt 259 59
+cpen 200 50 0
+dpnt 287 69
+wait 1
+cpen 255 255 255
+dpnt 261 60
+cpen 200 50 0
+dpnt 288 70
+wait 1
+cpen 255 255 255
+dpnt 262 60
+cpen 200 50 0
+dpnt 289 71
+wait 1
+cpen 255 255 255
+dpnt 264 60
+cpen 200 50 0
+dpnt 290 72
+wait 1
+cpen 255 255 255
+dpnt 265 60
+cpen 200 50 0
+dpnt 291 72
+wait 1
+cpen 255 255 255
+dpnt 266 61
+cpen 200 50 0
+dpnt 293 73
+wait 1
+cpen 255 255 255
+dpnt 268 61
+cpen 200 50 0
+dpnt 294 74
+wait 1
+cpen 255 255 255
+dpnt 269 62
+cpen 200 50 0
+dpnt 295 75
+wait 1
+cpen 255 255 255
+dpnt 270 62
+cpen 200 50 0
+dpnt 296 76
+wait 1
+cpen 255 255 255
+dpnt 272 62
+cpen 200 50 0
+dpnt 297 77
+wait 1
+cpen 255 255 255
+dpnt 273 63
+cpen 200 50 0
+dpnt 298 77
+wait 1
+cpen 255 255 255
+dpnt 274 63
+cpen 200 50 0
+dpnt 299 78
+wait 1
+cpen 255 255 255
+dpnt 276 64
+cpen 200 50 0
+dpnt 300 79
+wait 1
+cpen 255 255 255
+dpnt 277 64
+cpen 200 50 0
+dpnt 301 80
+wait 1
+cpen 255 255 255
+dpnt 278 65
+cpen 200 50 0
+dpnt 302 81
+wait 1
+cpen 255 255 255
+dpnt 279 66
+cpen 200 50 0
+dpnt 303 82
+wait 1
+cpen 255 255 255
+dpnt 281 66
+cpen 200 50 0
+dpnt 304 83
+wait 1
+cpen 255 255 255
+dpnt 282 67
+cpen 200 50 0
+dpnt 305 84
+wait 1
+cpen 255 255 255
+dpnt 283 67
+cpen 200 50 0
+dpnt 306 85
+wait 1
+cpen 255 255 255
+dpnt 284 68
+cpen 200 50 0
+dpnt 307 86
+wait 1
+cpen 255 255 255
+dpnt 286 69
+cpen 200 50 0
+dpnt 307 87
+wait 1
+cpen 255 255 255
+dpnt 287 69
+cpen 200 50 0
+dpnt 308 88
+wait 1
+cpen 255 255 255
+dpnt 288 70
+cpen 200 50 0
+dpnt 309 89
+wait 1
+cpen 255 255 255
+dpnt 289 71
+cpen 200 50 0
+dpnt 310 91
+wait 1
+cpen 255 255 255
+dpnt 290 72
+cpen 200 50 0
+dpnt 311 92
+wait 1
+cpen 255 255 255
+dpnt 291 72
+cpen 200 50 0
+dpnt 312 93
+wait 1
+cpen 255 255 255
+dpnt 293 73
+cpen 200 50 0
+dpnt 312 94
+wait 1
+cpen 255 255 255
+dpnt 294 74
+cpen 200 50 0
+dpnt 313 95
+wait 1
+cpen 255 255 255
+dpnt 295 75
+cpen 200 50 0
+dpnt 314 96
+wait 1
+cpen 255 255 255
+dpnt 296 76
+cpen 200 50 0
+dpnt 314 97
+wait 1
+cpen 255 255 255
+dpnt 297 77
+cpen 200 50 0
+dpnt 315 99
+wait 1
+cpen 255 255 255
+dpnt 298 77
+cpen 200 50 0
+dpnt 316 100
+wait 1
+cpen 255 255 255
+dpnt 299 78
+cpen 200 50 0
+dpnt 316 101
+wait 1
+cpen 255 255 255
+dpnt 300 79
+cpen 200 50 0
+dpnt 317 102
+wait 1
+cpen 255 255 255
+dpnt 301 80
+cpen 200 50 0
+dpnt 317 103
+wait 1
+cpen 255 255 255
+dpnt 302 81
+cpen 200 50 0
+dpnt 318 105
+wait 1
+cpen 255 255 255
+dpnt 303 82
+cpen 200 50 0
+dpnt 319 106
+wait 1
+cpen 255 255 255
+dpnt 304 83
+cpen 200 50 0
+dpnt 319 107
+wait 1
+cpen 255 255 255
+dpnt 305 84
+cpen 200 50 0
+dpnt 320 108
+wait 1
+cpen 255 255 255
+dpnt 306 85
+cpen 200 50 0
+dpnt 320 110
+wait 1
+cpen 255 255 255
+dpnt 307 86
+cpen 200 50 0
+dpnt 321 111
+wait 1
+cpen 255 255 255
+dpnt 307 87
+cpen 200 50 0
+dpnt 321 112
+wait 1
+cpen 255 255 255
+dpnt 308 88
+cpen 200 50 0
+dpnt 321 113
+wait 1
+cpen 255 255 255
+dpnt 309 89
+cpen 200 50 0
+dpnt 322 115
+wait 1
+cpen 255 255 255
+dpnt 310 91
+cpen 200 50 0
+dpnt 322 116
+wait 1
+cpen 255 255 255
+dpnt 311 92
+cpen 200 50 0
+dpnt 322 117
+wait 1
+cpen 255 255 255
+dpnt 312 93
+cpen 200 50 0
+dpnt 323 119
+wait 1
+cpen 255 255 255
+dpnt 312 94
+cpen 200 50 0
+dpnt 323 120
+wait 1
+cpen 255 255 255
+dpnt 313 95
+cpen 200 50 0
+dpnt 323 121
+wait 1
+cpen 255 255 255
+dpnt 314 96
+cpen 200 50 0
+dpnt 324 122
+wait 1
+cpen 255 255 255
+dpnt 314 97
+cpen 200 50 0
+dpnt 324 124
+wait 1
+cpen 255 255 255
+dpnt 315 99
+cpen 200 50 0
+dpnt 324 125
+wait 1
+cpen 255 255 255
+dpnt 316 100
+cpen 200 50 0
+dpnt 324 126
+wait 1
+cpen 255 255 255
+dpnt 316 101
+cpen 200 50 0
+dpnt 324 128
+wait 1
+cpen 255 255 255
+dpnt 317 102
+cpen 200 50 0
+dpnt 324 129
+wait 1
+cpen 255 255 255
+dpnt 317 103
+cpen 200 50 0
+dpnt 324 130
+wait 1
+cpen 255 255 255
+dpnt 318 105
+cpen 200 50 0
+dpnt 325 132
+wait 1
+cpen 255 255 255
+dpnt 319 106
+cpen 200 50 0
+dpnt 325 133
+wait 1
+cpen 255 255 255
+dpnt 319 107
+cpen 200 50 0
+dpnt 325 134
+wait 1
+cpen 255 255 255
+dpnt 320 108
+cpen 200 50 0
+dpnt 325 136
+wait 1
+cpen 255 255 255
+dpnt 320 110
+cpen 200 50 0
+dpnt 325 137
+wait 1
+cpen 255 255 255
+dpnt 321 111
+cpen 200 50 0
+dpnt 325 138
+wait 1
+cpen 255 255 255
+dpnt 321 112
+cpen 200 50 0
+dpnt 325 139
+wait 1
+cpen 255 255 255
+dpnt 321 113
+cpen 200 50 0
+dpnt 324 141
+wait 1
+cpen 255 255 255
+dpnt 322 115
+cpen 200 50 0
+dpnt 324 142
+wait 1
+cpen 255 255 255
+dpnt 322 116
+cpen 200 50 0
+dpnt 324 143
+wait 1
+cpen 255 255 255
+dpnt 322 117
+cpen 200 50 0
+dpnt 324 145
+wait 1
+cpen 255 255 255
+dpnt 323 119
+cpen 200 50 0
+dpnt 324 146
+wait 1
+cpen 255 255 255
+dpnt 323 120
+cpen 200 50 0
+dpnt 324 147
+wait 1
+cpen 255 255 255
+dpnt 323 121
+cpen 200 50 0
+dpnt 324 149
+wait 1
+cpen 255 255 255
+dpnt 324 122
+cpen 200 50 0
+dpnt 323 150
+wait 1
+cpen 255 255 255
+dpnt 324 124
+cpen 200 50 0
+dpnt 323 151
+wait 1
+cpen 255 255 255
+dpnt 324 125
+cpen 200 50 0
+dpnt 323 152
+wait 1
+cpen 255 255 255
+dpnt 324 126
+cpen 200 50 0
+dpnt 322 154
+wait 1
+cpen 255 255 255
+dpnt 324 128
+cpen 200 50 0
+dpnt 322 155
+wait 1
+cpen 255 255 255
+dpnt 324 129
+cpen 200 50 0
+dpnt 322 156
+wait 1
+cpen 255 255 255
+dpnt 324 130
+cpen 200 50 0
+dpnt 321 157
+wait 1
+cpen 255 255 255
+dpnt 325 132
+cpen 200 50 0
+dpnt 321 159
+wait 1
+cpen 255 255 255
+dpnt 325 133
+cpen 200 50 0
+dpnt 321 160
+wait 1
+cpen 255 255 255
+dpnt 325 134
+cpen 200 50 0
+dpnt 320 161
+wait 1
+cpen 255 255 255
+dpnt 325 136
+cpen 200 50 0
+dpnt 320 162
+wait 1
+cpen 255 255 255
+dpnt 325 137
+cpen 200 50 0
+dpnt 319 164
+wait 1
+cpen 255 255 255
+dpnt 325 138
+cpen 200 50 0
+dpnt 319 165
+wait 1
+cpen 255 255 255
+dpnt 325 139
+cpen 200 50 0
+dpnt 318 166
+wait 1
+cpen 255 255 255
+dpnt 324 141
+cpen 200 50 0
+dpnt 318 167
+wait 1
+cpen 255 255 255
+dpnt 324 142
+cpen 200 50 0
+dpnt 317 168
+wait 1
+cpen 255 255 255
+dpnt 324 143
+cpen 200 50 0
+dpnt 317 169
+wait 1
+cpen 255 255 255
+dpnt 324 145
+cpen 200 50 0
+dpnt 316 170
+wait 1
+cpen 255 255 255
+dpnt 324 146
+cpen 200 50 0
+dpnt 315 172
+wait 1
+cpen 255 255 255
+dpnt 324 147
+cpen 200 50 0
+dpnt 315 173
+wait 1
+cpen 255 255 255
+dpnt 324 149
+cpen 200 50 0
+dpnt 314 174
+wait 1
+cpen 255 255 255
+dpnt 323 150
+cpen 200 50 0
+dpnt 313 175
+wait 1
+cpen 255 255 255
+dpnt 323 151
+cpen 200 50 0
+dpnt 313 176
+wait 1
+cpen 255 255 255
+dpnt 323 152
+cpen 200 50 0
+dpnt 312 177
+wait 1
+cpen 255 255 255
+dpnt 322 154
+cpen 200 50 0
+dpnt 311 178
+wait 1
+cpen 255 255 255
+dpnt 322 155
+cpen 200 50 0
+dpnt 311 179
+wait 1
+cpen 255 255 255
+dpnt 322 156
+cpen 200 50 0
+dpnt 310 180
+wait 1
+cpen 255 255 255
+dpnt 321 157
+cpen 200 50 0
+dpnt 309 181
+wait 1
+cpen 255 255 255
+dpnt 321 159
+cpen 200 50 0
+dpnt 308 182
+wait 1
+cpen 255 255 255
+dpnt 321 160
+cpen 200 50 0
+dpnt 307 183
+wait 1
+cpen 255 255 255
+dpnt 320 161
+cpen 200 50 0
+dpnt 307 184
+wait 1
+cpen 255 255 255
+dpnt 320 162
+cpen 200 50 0
+dpnt 306 185
+wait 1
+cpen 255 255 255
+dpnt 319 164
+cpen 200 50 0
+dpnt 305 186
+wait 1
+cpen 255 255 255
+dpnt 319 165
+cpen 200 50 0
+dpnt 304 187
+wait 1
+cpen 255 255 255
+dpnt 318 166
+cpen 200 50 0
+dpnt 303 188
+wait 1
+cpen 255 255 255
+dpnt 318 167
+cpen 200 50 0
+dpnt 302 189
+wait 1
+cpen 255 255 255
+dpnt 317 168
+cpen 200 50 0
+dpnt 301 190
+wait 1
+cpen 255 255 255
+dpnt 317 169
+cpen 200 50 0
+dpnt 300 190
+wait 1
+cpen 255 255 255
+dpnt 316 170
+cpen 200 50 0
+dpnt 299 191
+wait 1
+cpen 255 255 255
+dpnt 315 172
+cpen 200 50 0
+dpnt 298 192
+wait 1
+cpen 255 255 255
+dpnt 315 173
+cpen 200 50 0
+dpnt 298 193
+wait 1
+cpen 255 255 255
+dpnt 314 174
+cpen 200 50 0
+dpnt 297 194
+wait 1
+cpen 255 255 255
+dpnt 313 175
+cpen 200 50 0
+dpnt 296 194
+wait 1
+cpen 255 255 255
+dpnt 313 176
+cpen 200 50 0
+dpnt 295 195
+wait 1
+cpen 255 255 255
+dpnt 312 177
+cpen 200 50 0
+dpnt 293 196
+wait 1
+cpen 255 255 255
+dpnt 311 178
+cpen 200 50 0
+dpnt 292 197
+wait 1
+cpen 255 255 255
+dpnt 311 179
+cpen 200 50 0
+dpnt 291 197
+wait 1
+cpen 255 255 255
+dpnt 310 180
+cpen 200 50 0
+dpnt 290 198
+wait 1
+cpen 255 255 255
+dpnt 309 181
+cpen 200 50 0
+dpnt 289 199
+wait 1
+cpen 255 255 255
+dpnt 308 182
+cpen 200 50 0
+dpnt 288 199
+wait 1
+cpen 255 255 255
+dpnt 307 183
+cpen 200 50 0
+dpnt 287 200
+wait 1
+cpen 255 255 255
+dpnt 307 184
+cpen 200 50 0
+dpnt 286 200
+wait 1
+cpen 255 255 255
+dpnt 306 185
+cpen 200 50 0
+dpnt 285 201
+wait 1
+cpen 255 255 255
+dpnt 305 186
+cpen 200 50 0
+dpnt 284 201
+wait 1
+cpen 255 255 255
+dpnt 304 187
+cpen 200 50 0
+dpnt 283 202
+wait 1
+cpen 255 255 255
+dpnt 303 188
+cpen 200 50 0
+dpnt 282 202
+wait 1
+cpen 255 255 255
+dpnt 302 189
+cpen 200 50 0
+dpnt 280 203
+wait 1
+cpen 255 255 255
+dpnt 301 190
+cpen 200 50 0
+dpnt 279 203
+wait 1
+cpen 255 255 255
+dpnt 300 190
+cpen 200 50 0
+dpnt 278 204
+wait 1
+cpen 255 255 255
+dpnt 299 191
+cpen 200 50 0
+dpnt 277 204
+wait 1
+cpen 255 255 255
+dpnt 298 192
+cpen 200 50 0
+dpnt 276 205
+wait 1
+cpen 255 255 255
+dpnt 298 193
+cpen 200 50 0
+dpnt 275 205
+wait 1
+cpen 255 255 255
+dpnt 297 194
+cpen 200 50 0
+dpnt 274 205
+wait 1
+cpen 255 255 255
+dpnt 296 194
+cpen 200 50 0
+dpnt 272 206
+wait 1
+cpen 255 255 255
+dpnt 295 195
+cpen 200 50 0
+dpnt 271 206
+wait 1
+cpen 255 255 255
+dpnt 293 196
+cpen 200 50 0
+dpnt 270 206
+wait 1
+cpen 255 255 255
+dpnt 292 197
+cpen 200 50 0
+dpnt 269 207
+wait 1
+cpen 255 255 255
+dpnt 291 197
+cpen 200 50 0
+dpnt 268 207
+wait 1
+cpen 255 255 255
+dpnt 290 198
+cpen 200 50 0
+dpnt 266 207
+wait 1
+cpen 255 255 255
+dpnt 289 199
+cpen 200 50 0
+dpnt 265 207
+wait 1
+cpen 255 255 255
+dpnt 288 199
+cpen 200 50 0
+dpnt 264 208
+wait 1
+cpen 255 255 255
+dpnt 287 200
+cpen 200 50 0
+dpnt 263 208
+wait 1
+cpen 255 255 255
+dpnt 286 200
+cpen 200 50 0
+dpnt 262 208
+wait 1
+cpen 255 255 255
+dpnt 285 201
+cpen 200 50 0
+dpnt 260 208
+wait 1
+cpen 255 255 255
+dpnt 284 201
+cpen 200 50 0
+dpnt 259 208
+wait 1
+cpen 255 255 255
+dpnt 283 202
+cpen 200 50 0
+dpnt 258 208
+wait 1
+cpen 255 255 255
+dpnt 282 202
+cpen 200 50 0
+dpnt 257 208
+wait 1
+cpen 255 255 255
+dpnt 280 203
+cpen 200 50 0
+dpnt 256 208
+wait 1
+cpen 255 255 255
+dpnt 279 203
+cpen 200 50 0
+dpnt 254 208
+wait 1
+cpen 255 255 255
+dpnt 278 204
+cpen 200 50 0
+dpnt 253 208
+wait 1
+cpen 255 255 255
+dpnt 277 204
+cpen 200 50 0
+dpnt 252 208
+wait 1
+cpen 255 255 255
+dpnt 276 205
+cpen 200 50 0
+dpnt 251 208
+wait 1
+cpen 255 255 255
+dpnt 275 205
+cpen 200 50 0
+dpnt 250 208
+wait 1
+cpen 255 255 255
+dpnt 274 205
+cpen 200 50 0
+dpnt 248 208
+wait 1
+cpen 255 255 255
+dpnt 272 206
+cpen 200 50 0
+dpnt 247 208
+wait 1
+cpen 255 255 255
+dpnt 271 206
+cpen 200 50 0
+dpnt 246 208
+wait 1
+cpen 255 255 255
+dpnt 270 206
+cpen 200 50 0
+dpnt 245 208
+wait 1
+cpen 255 255 255
+dpnt 269 207
+cpen 200 50 0
+dpnt 244 208
+wait 1
+cpen 255 255 255
+dpnt 268 207
+cpen 200 50 0
+dpnt 242 208
+wait 1
+cpen 255 255 255
+dpnt 266 207
+cpen 200 50 0
+dpnt 241 207
+wait 1
+cpen 255 255 255
+dpnt 265 207
+cpen 200 50 0
+dpnt 240 207
+wait 1
+cpen 255 255 255
+dpnt 264 208
+cpen 200 50 0
+dpnt 239 207
+wait 1
+cpen 255 255 255
+dpnt 263 208
+cpen 200 50 0
+dpnt 238 207
+wait 1
+cpen 255 255 255
+dpnt 262 208
+cpen 200 50 0
+dpnt 237 206
+wait 1
+cpen 255 255 255
+dpnt 260 208
+cpen 200 50 0
+dpnt 235 206
+wait 1
+cpen 255 255 255
+dpnt 259 208
+cpen 200 50 0
+dpnt 234 206
+wait 1
+cpen 255 255 255
+dpnt 258 208
+cpen 200 50 0
+dpnt 233 205
+wait 1
+cpen 255 255 255
+dpnt 257 208
+cpen 200 50 0
+dpnt 232 205
+wait 1
+cpen 255 255 255
+dpnt 256 208
+cpen 200 50 0
+dpnt 231 205
+wait 1
+cpen 255 255 255
+dpnt 254 208
+cpen 200 50 0
+dpnt 230 204
+wait 1
+cpen 255 255 255
+dpnt 253 208
+cpen 200 50 0
+dpnt 229 204
+wait 1
+cpen 255 255 255
+dpnt 252 208
+cpen 200 50 0
+dpnt 228 203
+wait 1
+cpen 255 255 255
+dpnt 251 208
+cpen 200 50 0
+dpnt 226 203
+wait 1
+cpen 255 255 255
+dpnt 250 208
+cpen 200 50 0
+dpnt 225 202
+wait 1
+cpen 255 255 255
+dpnt 248 208
+cpen 200 50 0
+dpnt 224 202
+wait 1
+cpen 255 255 255
+dpnt 247 208
+cpen 200 50 0
+dpnt 223 201
+wait 1
+cpen 255 255 255
+dpnt 246 208
+cpen 200 50 0
+dpnt 222 201
+wait 1
+cpen 255 255 255
+dpnt 245 208
+cpen 200 50 0
+dpnt 221 200
+wait 1
+cpen 255 255 255
+dpnt 244 208
+cpen 200 50 0
+dpnt 220 200
+wait 1
+cpen 255 255 255
+dpnt 242 208
+cpen 200 50 0
+dpnt 219 199
+wait 1
+cpen 255 255 255
+dpnt 241 207
+cpen 200 50 0
+dpnt 218 199
+wait 1
+cpen 255 255 255
+dpnt 240 207
+cpen 200 50 0
+dpnt 217 198
+wait 1
+cpen 255 255 255
+dpnt 239 207
+cpen 200 50 0
+dpnt 216 197
+wait 1
+cpen 255 255 255
+dpnt 238 207
+cpen 200 50 0
+dpnt 215 197
+wait 1
+cpen 255 255 255
+dpnt 237 206
+cpen 200 50 0
+dpnt 214 196
+wait 1
+cpen 255 255 255
+dpnt 235 206
+cpen 200 50 0
+dpnt 213 195
+wait 1
+cpen 255 255 255
+dpnt 234 206
+cpen 200 50 0
+dpnt 212 195
+wait 1
+cpen 255 255 255
+dpnt 233 205
+cpen 200 50 0
+dpnt 211 194
+wait 1
+cpen 255 255 255
+dpnt 232 205
+cpen 200 50 0
+dpnt 211 193
+wait 1
+cpen 255 255 255
+dpnt 231 205
+cpen 200 50 0
+dpnt 210 192
+wait 1
+cpen 255 255 255
+dpnt 230 204
+cpen 200 50 0
+dpnt 209 192
+wait 1
+cpen 255 255 255
+dpnt 229 204
+cpen 200 50 0
+dpnt 208 191
+wait 1
+cpen 255 255 255
+dpnt 228 203
+cpen 200 50 0
+dpnt 207 190
+wait 1
+cpen 255 255 255
+dpnt 226 203
+cpen 200 50 0
+dpnt 206 189
+wait 1
+cpen 255 255 255
+dpnt 225 202
+cpen 200 50 0
+dpnt 205 188
+wait 1
+cpen 255 255 255
+dpnt 224 202
+cpen 200 50 0
+dpnt 205 188
+wait 1
+cpen 255 255 255
+dpnt 223 201
+cpen 200 50 0
+dpnt 204 187
+wait 1
+cpen 255 255 255
+dpnt 222 201
+cpen 200 50 0
+dpnt 203 186
+wait 1
+cpen 255 255 255
+dpnt 221 200
+cpen 200 50 0
+dpnt 202 185
+wait 1
+cpen 255 255 255
+dpnt 220 200
+cpen 200 50 0
+dpnt 202 184
+wait 1
+cpen 255 255 255
+dpnt 219 199
+cpen 200 50 0
+dpnt 201 183
+wait 1
+cpen 255 255 255
+dpnt 218 199
+cpen 200 50 0
+dpnt 200 182
+wait 1
+cpen 255 255 255
+dpnt 217 198
+cpen 200 50 0
+dpnt 199 182
+wait 1
+cpen 255 255 255
+dpnt 216 197
+cpen 200 50 0
+dpnt 199 181
+wait 1
+cpen 255 255 255
+dpnt 215 197
+cpen 200 50 0
+dpnt 198 180
+wait 1
+cpen 255 255 255
+dpnt 214 196
+cpen 200 50 0
+dpnt 197 179
+wait 1
+cpen 255 255 255
+dpnt 213 195
+cpen 200 50 0
+dpnt 197 178
+wait 1
+cpen 255 255 255
+dpnt 212 195
+cpen 200 50 0
+dpnt 196 177
+wait 1
+cpen 255 255 255
+dpnt 211 194
+cpen 200 50 0
+dpnt 196 176
+wait 1
+cpen 255 255 255
+dpnt 211 193
+cpen 200 50 0
+dpnt 195 175
+wait 1
+cpen 255 255 255
+dpnt 210 192
+cpen 200 50 0
+dpnt 195 174
+wait 1
+cpen 255 255 255
+dpnt 209 192
+cpen 200 50 0
+dpnt 194 173
+wait 1
+cpen 255 255 255
+dpnt 208 191
+cpen 200 50 0
+dpnt 194 172
+wait 1
+cpen 255 255 255
+dpnt 207 190
+cpen 200 50 0
+dpnt 193 171
+wait 1
+cpen 255 255 255
+dpnt 206 189
+cpen 200 50 0
+dpnt 193 170
+wait 1
+cpen 255 255 255
+dpnt 205 188
+cpen 200 50 0
+dpnt 192 169
+wait 1
+cpen 255 255 255
+dpnt 205 188
+cpen 200 50 0
+dpnt 192 168
+wait 1
+cpen 255 255 255
+dpnt 204 187
+cpen 200 50 0
+dpnt 191 167
+wait 1
+cpen 255 255 255
+dpnt 203 186
+cpen 200 50 0
+dpnt 191 166
+wait 1
+cpen 255 255 255
+dpnt 202 185
+cpen 200 50 0
+dpnt 190 165
+wait 1
+cpen 255 255 255
+dpnt 202 184
+cpen 200 50 0
+dpnt 190 164
+wait 1
+cpen 255 255 255
+dpnt 201 183
+cpen 200 50 0
+dpnt 190 162
+wait 1
+cpen 255 255 255
+dpnt 200 182
+cpen 200 50 0
+dpnt 189 161
+wait 1
+cpen 255 255 255
+dpnt 199 182
+cpen 200 50 0
+dpnt 189 160
+wait 1
+cpen 255 255 255
+dpnt 199 181
+cpen 200 50 0
+dpnt 189 159
+wait 1
+cpen 255 255 255
+dpnt 198 180
+cpen 200 50 0
+dpnt 189 158
+wait 1
+cpen 255 255 255
+dpnt 197 179
+cpen 200 50 0
+dpnt 188 157
+wait 1
+cpen 255 255 255
+dpnt 197 178
+cpen 200 50 0
+dpnt 188 156
+wait 1
+cpen 255 255 255
+dpnt 196 177
+cpen 200 50 0
+dpnt 188 155
+wait 1
+cpen 255 255 255
+dpnt 196 176
+cpen 200 50 0
+dpnt 188 154
+wait 1
+cpen 255 255 255
+dpnt 195 175
+cpen 200 50 0
+dpnt 187 153
+wait 1
+cpen 255 255 255
+dpnt 195 174
+cpen 200 50 0
+dpnt 187 152
+wait 1
+cpen 255 255 255
+dpnt 194 173
+cpen 200 50 0
+dpnt 187 150
+wait 1
+cpen 255 255 255
+dpnt 194 172
+cpen 200 50 0
+dpnt 187 149
+wait 1
+cpen 255 255 255
+dpnt 193 171
+cpen 200 50 0
+dpnt 187 148
+wait 1
+cpen 255 255 255
+dpnt 193 170
+cpen 200 50 0
+dpnt 187 147
+wait 1
+cpen 255 255 255
+dpnt 192 169
+cpen 200 50 0
+dpnt 187 146
+wait 1
+cpen 255 255 255
+dpnt 192 168
+cpen 200 50 0
+dpnt 187 145
+wait 1
+cpen 255 255 255
+dpnt 191 167
+cpen 200 50 0
+dpnt 187 144
+wait 1
+cpen 255 255 255
+dpnt 191 166
+cpen 200 50 0
+dpnt 187 143
+wait 1
+cpen 255 255 255
+dpnt 190 165
+cpen 200 50 0
+dpnt 187 142
+wait 1
+cpen 255 255 255
+dpnt 190 164
+cpen 200 50 0
+dpnt 187 141
+wait 1
+cpen 255 255 255
+dpnt 190 162
+cpen 200 50 0
+dpnt 187 140
+wait 1
+cpen 255 255 255
+dpnt 189 161
+cpen 200 50 0
+dpnt 187 138
+wait 1
+cpen 255 255 255
+dpnt 189 160
+cpen 200 50 0
+dpnt 187 137
+wait 1
+cpen 255 255 255
+dpnt 189 159
+cpen 200 50 0
+dpnt 187 136
+wait 1
+cpen 255 255 255
+dpnt 189 158
+cpen 200 50 0
+dpnt 187 135
+wait 1
+cpen 255 255 255
+dpnt 188 157
+cpen 200 50 0
+dpnt 188 134
+wait 1
+cpen 255 255 255
+dpnt 188 156
+cpen 200 50 0
+dpnt 188 133
+wait 1
+cpen 255 255 255
+dpnt 188 155
+cpen 200 50 0
+dpnt 188 132
+wait 1
+cpen 255 255 255
+dpnt 188 154
+cpen 200 50 0
+dpnt 188 131
+wait 1
+cpen 255 255 255
+dpnt 187 153
+cpen 200 50 0
+dpnt 188 130
+wait 1
+cpen 255 255 255
+dpnt 187 152
+cpen 200 50 0
+dpnt 189 129
+wait 1
+cpen 255 255 255
+dpnt 187 150
+cpen 200 50 0
+dpnt 189 128
+wait 1
+cpen 255 255 255
+dpnt 187 149
+cpen 200 50 0
+dpnt 189 127
+wait 1
+cpen 255 255 255
+dpnt 187 148
+cpen 200 50 0
+dpnt 189 126
+wait 1
+cpen 255 255 255
+dpnt 187 147
+cpen 200 50 0
+dpnt 190 125
+wait 1
+cpen 255 255 255
+dpnt 187 146
+cpen 200 50 0
+dpnt 190 124
+wait 1
+cpen 255 255 255
+dpnt 187 145
+cpen 200 50 0
+dpnt 190 123
+wait 1
+cpen 255 255 255
+dpnt 187 144
+cpen 200 50 0
+dpnt 191 122
+wait 1
+cpen 255 255 255
+dpnt 187 143
+cpen 200 50 0
+dpnt 191 121
+wait 1
+cpen 255 255 255
+dpnt 187 142
+cpen 200 50 0
+dpnt 192 120
+wait 1
+cpen 255 255 255
+dpnt 187 141
+cpen 200 50 0
+dpnt 192 119
+wait 1
+cpen 255 255 255
+dpnt 187 140
+cpen 200 50 0
+dpnt 192 118
+wait 1
+cpen 255 255 255
+dpnt 187 138
+cpen 200 50 0
+dpnt 193 117
+wait 1
+cpen 255 255 255
+dpnt 187 137
+cpen 200 50 0
+dpnt 193 116
+wait 1
+cpen 255 255 255
+dpnt 187 136
+cpen 200 50 0
+dpnt 194 115
+wait 1
+cpen 255 255 255
+dpnt 187 135
+cpen 200 50 0
+dpnt 194 114
+wait 1
+cpen 255 255 255
+dpnt 188 134
+cpen 200 50 0
+dpnt 195 113
+wait 1
+cpen 255 255 255
+dpnt 188 133
+cpen 200 50 0
+dpnt 195 112
+wait 1
+cpen 255 255 255
+dpnt 188 132
+cpen 200 50 0
+dpnt 196 111
+wait 1
+cpen 255 255 255
+dpnt 188 131
+cpen 200 50 0
+dpnt 197 110
+wait 1
+cpen 255 255 255
+dpnt 188 130
+cpen 200 50 0
+dpnt 197 109
+wait 1
+cpen 255 255 255
+dpnt 189 129
+cpen 200 50 0
+dpnt 198 108
+wait 1
+cpen 255 255 255
+dpnt 189 128
+cpen 200 50 0
+dpnt 198 108
+wait 1
+cpen 255 255 255
+dpnt 189 127
+cpen 200 50 0
+dpnt 199 107
+wait 1
+cpen 255 255 255
+dpnt 189 126
+cpen 200 50 0
+dpnt 200 106
+wait 1
+cpen 255 255 255
+dpnt 190 125
+cpen 200 50 0
+dpnt 200 105
+wait 1
+cpen 255 255 255
+dpnt 190 124
+cpen 200 50 0
+dpnt 201 104
+wait 1
+cpen 255 255 255
+dpnt 190 123
+cpen 200 50 0
+dpnt 202 103
+wait 1
+cpen 255 255 255
+dpnt 191 122
+cpen 200 50 0
+dpnt 202 103
+wait 1
+cpen 255 255 255
+dpnt 191 121
+cpen 200 50 0
+dpnt 203 102
+wait 1
+cpen 255 255 255
+dpnt 192 120
+cpen 200 50 0
+dpnt 204 101
+wait 1
+cpen 255 255 255
+dpnt 192 119
+cpen 200 50 0
+dpnt 204 100
+wait 1
+cpen 255 255 255
+dpnt 192 118
+cpen 200 50 0
+dpnt 205 100
+wait 1
+cpen 255 255 255
+dpnt 193 117
+cpen 200 50 0
+dpnt 206 99
+wait 1
+cpen 255 255 255
+dpnt 193 116
+cpen 200 50 0
+dpnt 207 98
+wait 1
+cpen 255 255 255
+dpnt 194 115
+cpen 200 50 0
+dpnt 207 97
+wait 1
+cpen 255 255 255
+dpnt 194 114
+cpen 200 50 0
+dpnt 208 97
+wait 1
+cpen 255 255 255
+dpnt 195 113
+cpen 200 50 0
+dpnt 209 96
+wait 1
+cpen 255 255 255
+dpnt 195 112
+cpen 200 50 0
+dpnt 210 95
+wait 1
+cpen 255 255 255
+dpnt 196 111
+cpen 200 50 0
+dpnt 211 95
+wait 1
+cpen 255 255 255
+dpnt 197 110
+cpen 200 50 0
+dpnt 212 94
+wait 1
+cpen 255 255 255
+dpnt 197 109
+cpen 200 50 0
+dpnt 212 94
+wait 1
+cpen 255 255 255
+dpnt 198 108
+cpen 200 50 0
+dpnt 213 93
+wait 1
+cpen 255 255 255
+dpnt 198 108
+cpen 200 50 0
+dpnt 214 92
+wait 1
+cpen 255 255 255
+dpnt 199 107
+cpen 200 50 0
+dpnt 215 92
+wait 1
+cpen 255 255 255
+dpnt 200 106
+cpen 200 50 0
+dpnt 216 91
+wait 1
+cpen 255 255 255
+dpnt 200 105
+cpen 200 50 0
+dpnt 217 91
+wait 1
+cpen 255 255 255
+dpnt 201 104
+cpen 200 50 0
+dpnt 218 90
+wait 1
+cpen 255 255 255
+dpnt 202 103
+cpen 200 50 0
+dpnt 218 90
+wait 1
+cpen 255 255 255
+dpnt 202 103
+cpen 200 50 0
+dpnt 219 89
+wait 1
+cpen 255 255 255
+dpnt 203 102
+cpen 200 50 0
+dpnt 220 89
+wait 1
+cpen 255 255 255
+dpnt 204 101
+cpen 200 50 0
+dpnt 221 88
+wait 1
+cpen 255 255 255
+dpnt 204 100
+cpen 200 50 0
+dpnt 222 88
+wait 1
+cpen 255 255 255
+dpnt 205 100
+cpen 200 50 0
+dpnt 223 88
+wait 1
+cpen 255 255 255
+dpnt 206 99
+cpen 200 50 0
+dpnt 224 87
+wait 1
+cpen 255 255 255
+dpnt 207 98
+cpen 200 50 0
+dpnt 225 87
+wait 1
+cpen 255 255 255
+dpnt 207 97
+cpen 200 50 0
+dpnt 226 87
+wait 1
+cpen 255 255 255
+dpnt 208 97
+cpen 200 50 0
+dpnt 227 86
+wait 1
+cpen 255 255 255
+dpnt 209 96
+cpen 200 50 0
+dpnt 228 86
+wait 1
+cpen 255 255 255
+dpnt 210 95
+cpen 200 50 0
+dpnt 229 86
+wait 1
+cpen 255 255 255
+dpnt 211 95
+cpen 200 50 0
+dpnt 230 85
+wait 1
+cpen 255 255 255
+dpnt 212 94
+cpen 200 50 0
+dpnt 231 85
+wait 1
+cpen 255 255 255
+dpnt 212 94
+cpen 200 50 0
+dpnt 232 85
+wait 1
+cpen 255 255 255
+dpnt 213 93
+cpen 200 50 0
+dpnt 233 85
+wait 1
+cpen 255 255 255
+dpnt 214 92
+cpen 200 50 0
+dpnt 234 84
+wait 1
+cpen 255 255 255
+dpnt 215 92
+cpen 200 50 0
+dpnt 235 84
+wait 1
+cpen 255 255 255
+dpnt 216 91
+cpen 200 50 0
+dpnt 236 84
+wait 1
+cpen 255 255 255
+dpnt 217 91
+cpen 200 50 0
+dpnt 237 84
+wait 1
+cpen 255 255 255
+dpnt 218 90
+cpen 200 50 0
+dpnt 238 84
+wait 1
+cpen 255 255 255
+dpnt 218 90
+cpen 200 50 0
+dpnt 239 83
+wait 1
+cpen 255 255 255
+dpnt 219 89
+cpen 200 50 0
+dpnt 240 83
+wait 1
+cpen 255 255 255
+dpnt 220 89
+cpen 200 50 0
+dpnt 241 83
+wait 1
+cpen 255 255 255
+dpnt 221 88
+cpen 200 50 0
+dpnt 242 83
+wait 1
+cpen 255 255 255
+dpnt 222 88
+cpen 200 50 0
+dpnt 243 83
+wait 1
+cpen 255 255 255
+dpnt 223 88
+cpen 200 50 0
+dpnt 244 83
+wait 1
+cpen 255 255 255
+dpnt 224 87
+cpen 200 50 0
+dpnt 245 83
+wait 1
+cpen 255 255 255
+dpnt 225 87
+cpen 200 50 0
+dpnt 246 83
+wait 1
+cpen 255 255 255
+dpnt 226 87
+cpen 200 50 0
+dpnt 247 83
+wait 1
+cpen 255 255 255
+dpnt 227 86
+cpen 200 50 0
+dpnt 248 83
+wait 1
+cpen 255 255 255
+dpnt 228 86
+cpen 200 50 0
+dpnt 249 83
+wait 1
+cpen 255 255 255
+dpnt 229 86
+cpen 200 50 0
+dpnt 250 83
+wait 1
+cpen 255 255 255
+dpnt 230 85
+cpen 200 50 0
+dpnt 250 83
+wait 1
+cpen 255 255 255
+dpnt 231 85
+cpen 200 50 0
+dpnt 251 83
+wait 1
+cpen 255 255 255
+dpnt 232 85
+cpen 200 50 0
+dpnt 252 83
+wait 1
+cpen 255 255 255
+dpnt 233 85
+cpen 200 50 0
+dpnt 253 84
+wait 1
+cpen 255 255 255
+dpnt 234 84
+cpen 200 50 0
+dpnt 254 84
+wait 1
+cpen 255 255 255
+dpnt 235 84
+cpen 200 50 0
+dpnt 255 84
+wait 1
+cpen 255 255 255
+dpnt 236 84
+cpen 200 50 0
+dpnt 256 84
+wait 1
+cpen 255 255 255
+dpnt 237 84
+cpen 200 50 0
+dpnt 257 84
+wait 1
+cpen 255 255 255
+dpnt 238 84
+cpen 200 50 0
+dpnt 258 84
+wait 1
+cpen 255 255 255
+dpnt 239 83
+cpen 200 50 0
+dpnt 259 85
+wait 1
+cpen 255 255 255
+dpnt 240 83
+cpen 200 50 0
+dpnt 260 85
+wait 1
+cpen 255 255 255
+dpnt 241 83
+cpen 200 50 0
+dpnt 261 85
+wait 1
+cpen 255 255 255
+dpnt 242 83
+cpen 200 50 0
+dpnt 262 86
+wait 1
+cpen 255 255 255
+dpnt 243 83
+cpen 200 50 0
+dpnt 263 86
+wait 1
+cpen 255 255 255
+dpnt 244 83
+cpen 200 50 0
+dpnt 264 86
+wait 1
+cpen 255 255 255
+dpnt 245 83
+cpen 200 50 0
+dpnt 265 86
+wait 1
+cpen 255 255 255
+dpnt 246 83
+cpen 200 50 0
+dpnt 266 87
+wait 1
+cpen 255 255 255
+dpnt 247 83
+cpen 200 50 0
+dpnt 267 87
+wait 1
+cpen 255 255 255
+dpnt 248 83
+cpen 200 50 0
+dpnt 267 87
+wait 1
+cpen 255 255 255
+dpnt 249 83
+cpen 200 50 0
+dpnt 268 88
+wait 1
+cpen 255 255 255
+dpnt 250 83
+cpen 200 50 0
+dpnt 269 88
+wait 1
+cpen 255 255 255
+dpnt 250 83
+cpen 200 50 0
+dpnt 270 89
+wait 1
+cpen 255 255 255
+dpnt 251 83
+cpen 200 50 0
+dpnt 271 89
+wait 1
+cpen 255 255 255
+dpnt 252 83
+cpen 200 50 0
+dpnt 272 90
+wait 1
+cpen 255 255 255
+dpnt 253 84
+cpen 200 50 0
+dpnt 273 90
+wait 1
+cpen 255 255 255
+dpnt 254 84
+cpen 200 50 0
+dpnt 273 91
+wait 1
+cpen 255 255 255
+dpnt 255 84
+cpen 200 50 0
+dpnt 274 91
+wait 1
+cpen 255 255 255
+dpnt 256 84
+cpen 200 50 0
+dpnt 275 91
+wait 1
+cpen 255 255 255
+dpnt 257 84
+cpen 200 50 0
+dpnt 276 92
+wait 1
+cpen 255 255 255
+dpnt 258 84
+cpen 200 50 0
+dpnt 277 93
+wait 1
+cpen 255 255 255
+dpnt 259 85
+cpen 200 50 0
+dpnt 277 93
+wait 1
+cpen 255 255 255
+dpnt 260 85
+cpen 200 50 0
+dpnt 278 94
+wait 1
+cpen 255 255 255
+dpnt 261 85
+cpen 200 50 0
+dpnt 279 94
+wait 1
+cpen 255 255 255
+dpnt 262 86
+cpen 200 50 0
+dpnt 280 95
+wait 1
+cpen 255 255 255
+dpnt 263 86
+cpen 200 50 0
+dpnt 280 95
+wait 1
+cpen 255 255 255
+dpnt 264 86
+cpen 200 50 0
+dpnt 281 96
+wait 1
+cpen 255 255 255
+dpnt 265 86
+cpen 200 50 0
+dpnt 282 97
+wait 1
+cpen 255 255 255
+dpnt 266 87
+cpen 200 50 0
+dpnt 283 97
+wait 1
+cpen 255 255 255
+dpnt 267 87
+cpen 200 50 0
+dpnt 283 98
+wait 1
+cpen 255 255 255
+dpnt 267 87
+cpen 200 50 0
+dpnt 284 98
+wait 1
+cpen 255 255 255
+dpnt 268 88
+cpen 200 50 0
+dpnt 285 99
+wait 1
+cpen 255 255 255
+dpnt 269 88
+cpen 200 50 0
+dpnt 285 100
+wait 1
+cpen 255 255 255
+dpnt 270 89
+cpen 200 50 0
+dpnt 286 100
+wait 1
+cpen 255 255 255
+dpnt 271 89
+cpen 200 50 0
+dpnt 287 101
+wait 1
+cpen 255 255 255
+dpnt 272 90
+cpen 200 50 0
+dpnt 287 102
+wait 1
+cpen 255 255 255
+dpnt 273 90
+cpen 200 50 0
+dpnt 288 103
+wait 1
+cpen 255 255 255
+dpnt 273 91
+cpen 200 50 0
+dpnt 288 103
+wait 1
+cpen 255 255 255
+dpnt 274 91
+cpen 200 50 0
+dpnt 289 104
+wait 1
+cpen 255 255 255
+dpnt 275 91
+cpen 200 50 0
+dpnt 289 105
+wait 1
+cpen 255 255 255
+dpnt 276 92
+cpen 200 50 0
+dpnt 290 106
+wait 1
+cpen 255 255 255
+dpnt 277 93
+cpen 200 50 0
+dpnt 291 106
+wait 1
+cpen 255 255 255
+dpnt 277 93
+cpen 200 50 0
+dpnt 291 107
+wait 1
+cpen 255 255 255
+dpnt 278 94
+cpen 200 50 0
+dpnt 292 108
+wait 1
+cpen 255 255 255
+dpnt 279 94
+cpen 200 50 0
+dpnt 292 109
+wait 1
+cpen 255 255 255
+dpnt 280 95
+cpen 200 50 0
+dpnt 293 109
+wait 1
+cpen 255 255 255
+dpnt 280 95
+cpen 200 50 0
+dpnt 293 110
+wait 1
+cpen 255 255 255
+dpnt 281 96
+cpen 200 50 0
+dpnt 293 111
+wait 1
+cpen 255 255 255
+dpnt 282 97
+cpen 200 50 0
+dpnt 294 112
+wait 1
+cpen 255 255 255
+dpnt 283 97
+cpen 200 50 0
+dpnt 294 113
+wait 1
+cpen 255 255 255
+dpnt 283 98
+cpen 200 50 0
+dpnt 295 113
+wait 1
+cpen 255 255 255
+dpnt 284 98
+cpen 200 50 0
+dpnt 295 114
+wait 1
+cpen 255 255 255
+dpnt 285 99
+cpen 200 50 0
+dpnt 295 115
+wait 1
+cpen 255 255 255
+dpnt 285 100
+cpen 200 50 0
+dpnt 296 116
+wait 1
+cpen 255 255 255
+dpnt 286 100
+cpen 200 50 0
+dpnt 296 117
+wait 1
+cpen 255 255 255
+dpnt 287 101
+cpen 200 50 0
+dpnt 296 118
+wait 1
+cpen 255 255 255
+dpnt 287 102
+cpen 200 50 0
+dpnt 297 118
+wait 1
+cpen 255 255 255
+dpnt 288 103
+cpen 200 50 0
+dpnt 297 119
+wait 1
+cpen 255 255 255
+dpnt 288 103
+cpen 200 50 0
+dpnt 297 120
+wait 1
+cpen 255 255 255
+dpnt 289 104
+cpen 200 50 0
+dpnt 298 121
+wait 1
+cpen 255 255 255
+dpnt 289 105
+cpen 200 50 0
+dpnt 298 122
+wait 1
+cpen 255 255 255
+dpnt 290 106
+cpen 200 50 0
+dpnt 298 123
+wait 1
+cpen 255 255 255
+dpnt 291 106
+cpen 200 50 0
+dpnt 298 124
+wait 1
+cpen 255 255 255
+dpnt 291 107
+cpen 200 50 0
+dpnt 299 125
+wait 1
+cpen 255 255 255
+dpnt 292 108
+cpen 200 50 0
+dpnt 299 125
+wait 1
+cpen 255 255 255
+dpnt 292 109
+cpen 200 50 0
+dpnt 299 126
+wait 1
+cpen 255 255 255
+dpnt 293 109
+cpen 200 50 0
+dpnt 299 127
+wait 1
+cpen 255 255 255
+dpnt 293 110
+cpen 200 50 0
+dpnt 299 128
+wait 1
+cpen 255 255 255
+dpnt 293 111
+cpen 200 50 0
+dpnt 299 129
+wait 1
+cpen 255 255 255
+dpnt 294 112
+cpen 200 50 0
+dpnt 299 130
+wait 1
+cpen 255 255 255
+dpnt 294 113
+cpen 200 50 0
+dpnt 299 131
+wait 1
+cpen 255 255 255
+dpnt 295 113
+cpen 200 50 0
+dpnt 300 132
+wait 1
+cpen 255 255 255
+dpnt 295 114
+cpen 200 50 0
+dpnt 300 132
+wait 1
+cpen 255 255 255
+dpnt 295 115
+cpen 200 50 0
+dpnt 300 133
+wait 1
+cpen 255 255 255
+dpnt 296 116
+cpen 200 50 0
+dpnt 300 134
+wait 1
+cpen 255 255 255
+dpnt 296 117
+cpen 200 50 0
+dpnt 300 135
+wait 1
+cpen 255 255 255
+dpnt 296 118
+cpen 200 50 0
+dpnt 300 136
+wait 1
+cpen 255 255 255
+dpnt 297 118
+cpen 200 50 0
+dpnt 300 137
+wait 1
+cpen 255 255 255
+dpnt 297 119
+cpen 200 50 0
+dpnt 300 138
+wait 1
+cpen 255 255 255
+dpnt 297 120
+cpen 200 50 0
+dpnt 300 139
+wait 1
+cpen 255 255 255
+dpnt 298 121
+cpen 200 50 0
+dpnt 300 140
+wait 1
+cpen 255 255 255
+dpnt 298 122
+cpen 200 50 0
+dpnt 299 140
+wait 1
+cpen 255 255 255
+dpnt 298 123
+cpen 200 50 0
+dpnt 299 141
+wait 1
+cpen 255 255 255
+dpnt 298 124
+cpen 200 50 0
+dpnt 299 142
+wait 1
+cpen 255 255 255
+dpnt 299 125
+cpen 200 50 0
+dpnt 299 143
+wait 1
+cpen 255 255 255
+dpnt 299 125
+cpen 200 50 0
+dpnt 299 144
+wait 1
+cpen 255 255 255
+dpnt 299 126
+cpen 200 50 0
+dpnt 299 145
+wait 1
+cpen 255 255 255
+dpnt 299 127
+cpen 200 50 0
+dpnt 299 146
+wait 1
+cpen 255 255 255
+dpnt 299 128
+cpen 200 50 0
+dpnt 299 146
+wait 1
+cpen 255 255 255
+dpnt 299 129
+cpen 200 50 0
+dpnt 298 147
+wait 1
+cpen 255 255 255
+dpnt 299 130
+cpen 200 50 0
+dpnt 298 148
+wait 1
+cpen 255 255 255
+dpnt 299 131
+cpen 200 50 0
+dpnt 298 149
+wait 1
+cpen 255 255 255
+dpnt 300 132
+cpen 200 50 0
+dpnt 298 150
+wait 1
+cpen 255 255 255
+dpnt 300 132
+cpen 200 50 0
+dpnt 297 151
+wait 1
+cpen 255 255 255
+dpnt 300 133
+cpen 200 50 0
+dpnt 297 151
+wait 1
+cpen 255 255 255
+dpnt 300 134
+cpen 200 50 0
+dpnt 297 152
+wait 1
+cpen 255 255 255
+dpnt 300 135
+cpen 200 50 0
+dpnt 297 153
+wait 1
+cpen 255 255 255
+dpnt 300 136
+cpen 200 50 0
+dpnt 296 154
+wait 1
+cpen 255 255 255
+dpnt 300 137
+cpen 200 50 0
+dpnt 296 155
+wait 1
+cpen 255 255 255
+dpnt 300 138
+cpen 200 50 0
+dpnt 296 155
+wait 1
+cpen 255 255 255
+dpnt 300 139
+cpen 200 50 0
+dpnt 295 156
+wait 1
+cpen 255 255 255
+dpnt 300 140
+cpen 200 50 0
+dpnt 295 157
+wait 1
+cpen 255 255 255
+dpnt 299 140
+cpen 200 50 0
+dpnt 295 158
+wait 1
+cpen 255 255 255
+dpnt 299 141
+cpen 200 50 0
+dpnt 294 158
+wait 1
+cpen 255 255 255
+dpnt 299 142
+cpen 200 50 0
+dpnt 294 159
+wait 1
+cpen 255 255 255
+dpnt 299 143
+cpen 200 50 0
+dpnt 293 160
+wait 1
+cpen 255 255 255
+dpnt 299 144
+cpen 200 50 0
+dpnt 293 161
+wait 1
+cpen 255 255 255
+dpnt 299 145
+cpen 200 50 0
+dpnt 292 161
+wait 1
+cpen 255 255 255
+dpnt 299 146
+cpen 200 50 0
+dpnt 292 162
+wait 1
+cpen 255 255 255
+dpnt 299 146
+cpen 200 50 0
+dpnt 292 163
+wait 1
+cpen 255 255 255
+dpnt 298 147
+cpen 200 50 0
+dpnt 291 163
+wait 1
+cpen 255 255 255
+dpnt 298 148
+cpen 200 50 0
+dpnt 291 164
+wait 1
+cpen 255 255 255
+dpnt 298 149
+cpen 200 50 0
+dpnt 290 165
+wait 1
+cpen 255 255 255
+dpnt 298 150
+cpen 200 50 0
+dpnt 290 166
+wait 1
+cpen 255 255 255
+dpnt 297 151
+cpen 200 50 0
+dpnt 289 166
+wait 1
+cpen 255 255 255
+dpnt 297 151
+cpen 200 50 0
+dpnt 289 167
+wait 1
+cpen 255 255 255
+dpnt 297 152
+cpen 200 50 0
+dpnt 288 167
+wait 1
+cpen 255 255 255
+dpnt 297 153
+cpen 200 50 0
+dpnt 287 168
+wait 1
+cpen 255 255 255
+dpnt 296 154
+cpen 200 50 0
+dpnt 287 169
+wait 1
+cpen 255 255 255
+dpnt 296 155
+cpen 200 50 0
+dpnt 286 169
+wait 1
+cpen 255 255 255
+dpnt 296 155
+cpen 200 50 0
+dpnt 286 170
+wait 1
+cpen 255 255 255
+dpnt 295 156
+cpen 200 50 0
+dpnt 285 170
+wait 1
+cpen 255 255 255
+dpnt 295 157
+cpen 200 50 0
+dpnt 285 171
+wait 1
+cpen 255 255 255
+dpnt 295 158
+cpen 200 50 0
+dpnt 284 172
+wait 1
+cpen 255 255 255
+dpnt 294 158
+cpen 200 50 0
+dpnt 283 172
+wait 1
+cpen 255 255 255
+dpnt 294 159
+cpen 200 50 0
+dpnt 283 173
+wait 1
+cpen 255 255 255
+dpnt 293 160
+cpen 200 50 0
+dpnt 282 173
+wait 1
+cpen 255 255 255
+dpnt 293 161
+cpen 200 50 0
+dpnt 281 174
+wait 1
+cpen 255 255 255
+dpnt 292 161
+cpen 200 50 0
+dpnt 281 174
+wait 1
+cpen 255 255 255
+dpnt 292 162
+cpen 200 50 0
+dpnt 280 175
+wait 1
+cpen 255 255 255
+dpnt 292 163
+cpen 200 50 0
+dpnt 279 175
+wait 1
+cpen 255 255 255
+dpnt 291 163
+cpen 200 50 0
+dpnt 279 176
+wait 1
+cpen 255 255 255
+dpnt 291 164
+cpen 200 50 0
+dpnt 278 176
+wait 1
+cpen 255 255 255
+dpnt 290 165
+cpen 200 50 0
+dpnt 277 177
+wait 1
+cpen 255 255 255
+dpnt 290 166
+cpen 200 50 0
+dpnt 277 177
+wait 1
+cpen 255 255 255
+dpnt 289 166
+cpen 200 50 0
+dpnt 276 177
+wait 1
+cpen 255 255 255
+dpnt 289 167
+cpen 200 50 0
+dpnt 275 178
+wait 1
+cpen 255 255 255
+dpnt 288 167
+cpen 200 50 0
+dpnt 275 178
+wait 1
+cpen 255 255 255
+dpnt 287 168
+cpen 200 50 0
+dpnt 274 179
+wait 1
+cpen 255 255 255
+dpnt 287 169
+cpen 200 50 0
+dpnt 273 179
+wait 1
+cpen 255 255 255
+dpnt 286 169
+cpen 200 50 0
+dpnt 272 179
+wait 1
+cpen 255 255 255
+dpnt 286 170
+cpen 200 50 0
+dpnt 272 180
+wait 1
+cpen 255 255 255
+dpnt 285 170
+cpen 200 50 0
+dpnt 271 180
+wait 1
+cpen 255 255 255
+dpnt 285 171
+cpen 200 50 0
+dpnt 270 180
+wait 1
+cpen 255 255 255
+dpnt 284 172
+cpen 200 50 0
+dpnt 270 181
+wait 1
+cpen 255 255 255
+dpnt 283 172
+cpen 200 50 0
+dpnt 269 181
+wait 1
+cpen 255 255 255
+dpnt 283 173
+cpen 200 50 0
+dpnt 268 181
+wait 1
+cpen 255 255 255
+dpnt 282 173
+cpen 200 50 0
+dpnt 267 181
+wait 1
+cpen 255 255 255
+dpnt 281 174
+cpen 200 50 0
+dpnt 266 182
+wait 1
+cpen 255 255 255
+dpnt 281 174
+cpen 200 50 0
+dpnt 266 182
+wait 1
+cpen 255 255 255
+dpnt 280 175
+cpen 200 50 0
+dpnt 265 182
+wait 1
+cpen 255 255 255
+dpnt 279 175
+cpen 200 50 0
+dpnt 264 182
+wait 1
+cpen 255 255 255
+dpnt 279 176
+cpen 200 50 0
+dpnt 263 182
+wait 1
+cpen 255 255 255
+dpnt 278 176
+cpen 200 50 0
+dpnt 263 183
+wait 1
+cpen 255 255 255
+dpnt 277 177
+cpen 200 50 0
+dpnt 262 183
+wait 1
+cpen 255 255 255
+dpnt 277 177
+cpen 200 50 0
+dpnt 261 183
+wait 1
+cpen 255 255 255
+dpnt 276 177
+cpen 200 50 0
+dpnt 260 183
+wait 1
+cpen 255 255 255
+dpnt 275 178
+cpen 200 50 0
+dpnt 260 183
+wait 1
+cpen 255 255 255
+dpnt 275 178
+cpen 200 50 0
+dpnt 259 183
+wait 1
+cpen 255 255 255
+dpnt 274 179
+cpen 200 50 0
+dpnt 258 183
+wait 1
+cpen 255 255 255
+dpnt 273 179
+cpen 200 50 0
+dpnt 257 183
+wait 1
+cpen 255 255 255
+dpnt 272 179
+cpen 200 50 0
+dpnt 256 183
+wait 1
+cpen 255 255 255
+dpnt 272 180
+cpen 200 50 0
+dpnt 256 183
+wait 1
+cpen 255 255 255
+dpnt 271 180
+cpen 200 50 0
+dpnt 255 183
+wait 1
+cpen 255 255 255
+dpnt 270 180
+cpen 200 50 0
+dpnt 254 183
+wait 1
+cpen 255 255 255
+dpnt 270 181
+cpen 200 50 0
+dpnt 253 183
+wait 1
+cpen 255 255 255
+dpnt 269 181
+cpen 200 50 0
+dpnt 253 183
+wait 1
+cpen 255 255 255
+dpnt 268 181
+cpen 200 50 0
+dpnt 252 183
+wait 1
+cpen 255 255 255
+dpnt 267 181
+cpen 200 50 0
+dpnt 251 183
+wait 1
+cpen 255 255 255
+dpnt 266 182
+cpen 200 50 0
+dpnt 250 183
+wait 1
+cpen 255 255 255
+dpnt 266 182
+cpen 200 50 0
+dpnt 250 183
+wait 1
+cpen 255 255 255
+dpnt 265 182
+cpen 200 50 0
+dpnt 249 183
+wait 1
+cpen 255 255 255
+dpnt 264 182
+cpen 200 50 0
+dpnt 248 183
+wait 1
+cpen 255 255 255
+dpnt 263 182
+cpen 200 50 0
+dpnt 247 183
+wait 1
+cpen 255 255 255
+dpnt 263 183
+cpen 200 50 0
+dpnt 246 183
+wait 1
+cpen 255 255 255
+dpnt 262 183
+cpen 200 50 0
+dpnt 246 183
+wait 1
+cpen 255 255 255
+dpnt 261 183
+cpen 200 50 0
+dpnt 245 183
+wait 1
+cpen 255 255 255
+dpnt 260 183
+cpen 200 50 0
+dpnt 244 183
+wait 1
+cpen 255 255 255
+dpnt 260 183
+cpen 200 50 0
+dpnt 243 182
+wait 1
+cpen 255 255 255
+dpnt 259 183
+cpen 200 50 0
+dpnt 243 182
+wait 1
+cpen 255 255 255
+dpnt 258 183
+cpen 200 50 0
+dpnt 242 182
+wait 1
+cpen 255 255 255
+dpnt 257 183
+cpen 200 50 0
+dpnt 241 182
+wait 1
+cpen 255 255 255
+dpnt 256 183
+cpen 200 50 0
+dpnt 241 182
+wait 1
+cpen 255 255 255
+dpnt 256 183
+cpen 200 50 0
+dpnt 240 181
+wait 1
+cpen 255 255 255
+dpnt 255 183
+cpen 200 50 0
+dpnt 239 181
+wait 1
+cpen 255 255 255
+dpnt 254 183
+cpen 200 50 0
+dpnt 238 181
+wait 1
+cpen 255 255 255
+dpnt 253 183
+cpen 200 50 0
+dpnt 238 181
+wait 1
+cpen 255 255 255
+dpnt 253 183
+cpen 200 50 0
+dpnt 237 180
+wait 1
+cpen 255 255 255
+dpnt 252 183
+cpen 200 50 0
+dpnt 236 180
+wait 1
+cpen 255 255 255
+dpnt 251 183
+cpen 200 50 0
+dpnt 236 180
+wait 1
+cpen 255 255 255
+dpnt 250 183
+cpen 200 50 0
+dpnt 235 179
+wait 1
+cpen 255 255 255
+dpnt 250 183
+cpen 200 50 0
+dpnt 234 179
+wait 1
+cpen 255 255 255
+dpnt 249 183
+cpen 200 50 0
+dpnt 234 179
+wait 1
+cpen 255 255 255
+dpnt 248 183
+cpen 200 50 0
+dpnt 233 178
+wait 1
+cpen 255 255 255
+dpnt 247 183
+cpen 200 50 0
+dpnt 232 178
+wait 1
+cpen 255 255 255
+dpnt 246 183
+cpen 200 50 0
+dpnt 232 178
+wait 1
+cpen 255 255 255
+dpnt 246 183
+cpen 200 50 0
+dpnt 231 177
+wait 1
+cpen 255 255 255
+dpnt 245 183
+cpen 200 50 0
+dpnt 230 177
+wait 1
+cpen 255 255 255
+dpnt 244 183
+cpen 200 50 0
+dpnt 230 176
+wait 1
+cpen 255 255 255
+dpnt 243 182
+cpen 200 50 0
+dpnt 229 176
+wait 1
+cpen 255 255 255
+dpnt 243 182
+cpen 200 50 0
+dpnt 229 176
+wait 1
+cpen 255 255 255
+dpnt 242 182
+cpen 200 50 0
+dpnt 228 175
+wait 1
+cpen 255 255 255
+dpnt 241 182
+cpen 200 50 0
+dpnt 227 175
+wait 1
+cpen 255 255 255
+dpnt 241 182
+cpen 200 50 0
+dpnt 227 174
+wait 1
+cpen 255 255 255
+dpnt 240 181
+cpen 200 50 0
+dpnt 226 174
+wait 1
+cpen 255 255 255
+dpnt 239 181
+cpen 200 50 0
+dpnt 226 173
+wait 1
+cpen 255 255 255
+dpnt 238 181
+cpen 200 50 0
+dpnt 225 173
+wait 1
+cpen 255 255 255
+dpnt 238 181
+cpen 200 50 0
+dpnt 225 172
+wait 1
+cpen 255 255 255
+dpnt 237 180
+cpen 200 50 0
+dpnt 224 172
+wait 1
+cpen 255 255 255
+dpnt 236 180
+cpen 200 50 0
+dpnt 224 171
+wait 1
+cpen 255 255 255
+dpnt 236 180
+cpen 200 50 0
+dpnt 223 171
+wait 1
+cpen 255 255 255
+dpnt 235 179
+cpen 200 50 0
+dpnt 223 170
+wait 1
+cpen 255 255 255
+dpnt 234 179
+cpen 200 50 0
+dpnt 222 170
+wait 1
+cpen 255 255 255
+dpnt 234 179
+cpen 200 50 0
+dpnt 222 169
+wait 1
+cpen 255 255 255
+dpnt 233 178
+cpen 200 50 0
+dpnt 221 169
+wait 1
+cpen 255 255 255
+dpnt 232 178
+cpen 200 50 0
+dpnt 221 168
+wait 1
+cpen 255 255 255
+dpnt 232 178
+cpen 200 50 0
+dpnt 220 168
+wait 1
+cpen 255 255 255
+dpnt 231 177
+cpen 200 50 0
+dpnt 220 167
+wait 1
+cpen 255 255 255
+dpnt 230 177
+cpen 200 50 0
+dpnt 219 167
+wait 1
+cpen 255 255 255
+dpnt 230 176
+cpen 200 50 0
+dpnt 219 166
+wait 1
+cpen 255 255 255
+dpnt 229 176
+cpen 200 50 0
+dpnt 219 165
+wait 1
+cpen 255 255 255
+dpnt 229 176
+cpen 200 50 0
+dpnt 218 165
+wait 1
+cpen 255 255 255
+dpnt 228 175
+cpen 200 50 0
+dpnt 218 164
+wait 1
+cpen 255 255 255
+dpnt 227 175
+cpen 200 50 0
+dpnt 217 164
+wait 1
+cpen 255 255 255
+dpnt 227 174
+cpen 200 50 0
+dpnt 217 163
+wait 1
+cpen 255 255 255
+dpnt 226 174
+cpen 200 50 0
+dpnt 217 162
+wait 1
+cpen 255 255 255
+dpnt 226 173
+cpen 200 50 0
+dpnt 216 162
+wait 1
+cpen 255 255 255
+dpnt 225 173
+cpen 200 50 0
+dpnt 216 161
+wait 1
+cpen 255 255 255
+dpnt 225 172
+cpen 200 50 0
+dpnt 216 161
+wait 1
+cpen 255 255 255
+dpnt 224 172
+cpen 200 50 0
+dpnt 215 160
+wait 1
+cpen 255 255 255
+dpnt 224 171
+cpen 200 50 0
+dpnt 215 159
+wait 1
+cpen 255 255 255
+dpnt 223 171
+cpen 200 50 0
+dpnt 215 159
+wait 1
+cpen 255 255 255
+dpnt 223 170
+cpen 200 50 0
+dpnt 215 158
+wait 1
+cpen 255 255 255
+dpnt 222 170
+cpen 200 50 0
+dpnt 214 157
+wait 1
+cpen 255 255 255
+dpnt 222 169
+cpen 200 50 0
+dpnt 214 157
+wait 1
+cpen 255 255 255
+dpnt 221 169
+cpen 200 50 0
+dpnt 214 156
+wait 1
+cpen 255 255 255
+dpnt 221 168
+cpen 200 50 0
+dpnt 214 155
+wait 1
+cpen 255 255 255
+dpnt 220 168
+cpen 200 50 0
+dpnt 213 155
+wait 1
+cpen 255 255 255
+dpnt 220 167
+cpen 200 50 0
+dpnt 213 154
+wait 1
+cpen 255 255 255
+dpnt 219 167
+cpen 200 50 0
+dpnt 213 153
+wait 1
+cpen 255 255 255
+dpnt 219 166
+cpen 200 50 0
+dpnt 213 153
+wait 1
+cpen 255 255 255
+dpnt 219 165
+cpen 200 50 0
+dpnt 213 152
+wait 1
+cpen 255 255 255
+dpnt 218 165
+cpen 200 50 0
+dpnt 213 151
+wait 1
+cpen 255 255 255
+dpnt 218 164
+cpen 200 50 0
+dpnt 212 151
+wait 1
+cpen 255 255 255
+dpnt 217 164
+cpen 200 50 0
+dpnt 212 150
+wait 1
+cpen 255 255 255
+dpnt 217 163
+cpen 200 50 0
+dpnt 212 149
+wait 1
+cpen 255 255 255
+dpnt 217 162
+cpen 200 50 0
+dpnt 212 149
+wait 1
+cpen 255 255 255
+dpnt 216 162
+cpen 200 50 0
+dpnt 212 148
+wait 1
+cpen 255 255 255
+dpnt 216 161
+cpen 200 50 0
+dpnt 212 147
+wait 1
+cpen 255 255 255
+dpnt 216 161
+cpen 200 50 0
+dpnt 212 147
+wait 1
+cpen 255 255 255
+dpnt 215 160
+cpen 200 50 0
+dpnt 212 146
+wait 1
+cpen 255 255 255
+dpnt 215 159
+cpen 200 50 0
+dpnt 212 145
+wait 1
+cpen 255 255 255
+dpnt 215 159
+cpen 200 50 0
+dpnt 212 145
+wait 1
+cpen 255 255 255
+dpnt 215 158
+cpen 200 50 0
+dpnt 212 144
+wait 1
+cpen 255 255 255
+dpnt 214 157
+cpen 200 50 0
+dpnt 212 143
+wait 1
+cpen 255 255 255
+dpnt 214 157
+cpen 200 50 0
+dpnt 212 143
+wait 1
+cpen 255 255 255
+dpnt 214 156
+cpen 200 50 0
+dpnt 212 142
+wait 1
+cpen 255 255 255
+dpnt 214 155
+cpen 200 50 0
+dpnt 212 141
+wait 1
+cpen 255 255 255
+dpnt 213 155
+cpen 200 50 0
+dpnt 212 141
+wait 1
+cpen 255 255 255
+dpnt 213 154
+cpen 200 50 0
+dpnt 212 140
+wait 1
+cpen 255 255 255
+dpnt 213 153
+cpen 200 50 0
+dpnt 212 140
+wait 1
+cpen 255 255 255
+dpnt 213 153
+cpen 200 50 0
+dpnt 212 139
+wait 1
+cpen 255 255 255
+dpnt 213 152
+cpen 200 50 0
+dpnt 212 138
+wait 1
+cpen 255 255 255
+dpnt 213 151
+cpen 200 50 0
+dpnt 212 138
+wait 1
+cpen 255 255 255
+dpnt 212 151
+cpen 200 50 0
+dpnt 212 137
+wait 1
+cpen 255 255 255
+dpnt 212 150
+cpen 200 50 0
+dpnt 212 136
+wait 1
+cpen 255 255 255
+dpnt 212 149
+cpen 200 50 0
+dpnt 213 136
+wait 1
+cpen 255 255 255
+dpnt 212 149
+cpen 200 50 0
+dpnt 213 135
+wait 1
+cpen 255 255 255
+dpnt 212 148
+cpen 200 50 0
+dpnt 213 134
+wait 1
+cpen 255 255 255
+dpnt 212 147
+cpen 200 50 0
+dpnt 213 134
+wait 1
+cpen 255 255 255
+dpnt 212 147
+cpen 200 50 0
+dpnt 213 133
+wait 1
+cpen 255 255 255
+dpnt 212 146
+cpen 200 50 0
+dpnt 213 132
+wait 1
+cpen 255 255 255
+dpnt 212 145
+cpen 200 50 0
+dpnt 214 132
+wait 1
+cpen 255 255 255
+dpnt 212 145
+cpen 200 50 0
+dpnt 214 131
+wait 1
+cpen 255 255 255
+dpnt 212 144
+cpen 200 50 0
+dpnt 214 131
+wait 1
+cpen 255 255 255
+dpnt 212 143
+cpen 200 50 0
+dpnt 214 130
+wait 1
+cpen 255 255 255
+dpnt 212 143
+cpen 200 50 0
+dpnt 214 129
+wait 1
+cpen 255 255 255
+dpnt 212 142
+cpen 200 50 0
+dpnt 215 129
+wait 1
+cpen 255 255 255
+dpnt 212 141
+cpen 200 50 0
+dpnt 215 128
+wait 1
+cpen 255 255 255
+dpnt 212 141
+cpen 200 50 0
+dpnt 215 128
+wait 1
+cpen 255 255 255
+dpnt 212 140
+cpen 200 50 0
+dpnt 216 127
+wait 1
+cpen 255 255 255
+dpnt 212 140
+cpen 200 50 0
+dpnt 216 127
+wait 1
+cpen 255 255 255
+dpnt 212 139
+cpen 200 50 0
+dpnt 216 126
+wait 1
+cpen 255 255 255
+dpnt 212 138
+cpen 200 50 0
+dpnt 216 125
+wait 1
+cpen 255 255 255
+dpnt 212 138
+cpen 200 50 0
+dpnt 217 125
+wait 1
+cpen 255 255 255
+dpnt 212 137
+cpen 200 50 0
+dpnt 217 124
+wait 1
+cpen 255 255 255
+dpnt 212 136
+cpen 200 50 0
+dpnt 217 124
+wait 1
+cpen 255 255 255
+dpnt 213 136
+cpen 200 50 0
+dpnt 218 123
+wait 1
+cpen 255 255 255
+dpnt 213 135
+cpen 200 50 0
+dpnt 218 123
+wait 1
+cpen 255 255 255
+dpnt 213 134
+cpen 200 50 0
+dpnt 218 122
+wait 1
+cpen 255 255 255
+dpnt 213 134
+cpen 200 50 0
+dpnt 219 122
+wait 1
+cpen 255 255 255
+dpnt 213 133
+cpen 200 50 0
+dpnt 219 121
+wait 1
+cpen 255 255 255
+dpnt 213 132
+cpen 200 50 0
+dpnt 220 121
+wait 1
+cpen 255 255 255
+dpnt 214 132
+cpen 200 50 0
+dpnt 220 120
+wait 1
+cpen 255 255 255
+dpnt 214 131
+cpen 200 50 0
+dpnt 220 120
+wait 1
+cpen 255 255 255
+dpnt 214 131
+cpen 200 50 0
+dpnt 221 119
+wait 1
+cpen 255 255 255
+dpnt 214 130
+cpen 200 50 0
+dpnt 221 119
+wait 1
+cpen 255 255 255
+dpnt 214 129
+cpen 200 50 0
+dpnt 222 118
+wait 1
+cpen 255 255 255
+dpnt 215 129
+cpen 200 50 0
+dpnt 222 118
+wait 1
+cpen 255 255 255
+dpnt 215 128
+cpen 200 50 0
+dpnt 222 118
+wait 1
+cpen 255 255 255
+dpnt 215 128
+cpen 200 50 0
+dpnt 223 117
+wait 1
+cpen 255 255 255
+dpnt 216 127
+cpen 200 50 0
+dpnt 223 117
+wait 1
+cpen 255 255 255
+dpnt 216 127
+cpen 200 50 0
+dpnt 224 116
+wait 1
+cpen 255 255 255
+dpnt 216 126
+cpen 200 50 0
+dpnt 224 116
+wait 1
+cpen 255 255 255
+dpnt 216 125
+cpen 200 50 0
+dpnt 225 116
+wait 1
+cpen 255 255 255
+dpnt 217 125
+cpen 200 50 0
+dpnt 225 115
+wait 1
+cpen 255 255 255
+dpnt 217 124
+cpen 200 50 0
+dpnt 226 115
+wait 1
+cpen 255 255 255
+dpnt 217 124
+cpen 200 50 0
+dpnt 226 114
+wait 1
+cpen 255 255 255
+dpnt 218 123
+cpen 200 50 0
+dpnt 227 114
+wait 1
+cpen 255 255 255
+dpnt 218 123
+cpen 200 50 0
+dpnt 227 114
+wait 1
+cpen 255 255 255
+dpnt 218 122
+cpen 200 50 0
+dpnt 228 113
+wait 1
+cpen 255 255 255
+dpnt 219 122
+cpen 200 50 0
+dpnt 228 113
+wait 1
+cpen 255 255 255
+dpnt 219 121
+cpen 200 50 0
+dpnt 229 113
+wait 1
+cpen 255 255 255
+dpnt 220 121
+cpen 200 50 0
+dpnt 229 112
+wait 1
+cpen 255 255 255
+dpnt 220 120
+cpen 200 50 0
+dpnt 230 112
+wait 1
+cpen 255 255 255
+dpnt 220 120
+cpen 200 50 0
+dpnt 230 112
+wait 1
+cpen 255 255 255
+dpnt 221 119
+cpen 200 50 0
+dpnt 231 112
+wait 1
+cpen 255 255 255
+dpnt 221 119
+cpen 200 50 0
+dpnt 231 111
+wait 1
+cpen 255 255 255
+dpnt 222 118
+cpen 200 50 0
+dpnt 232 111
+wait 1
+cpen 255 255 255
+dpnt 222 118
+cpen 200 50 0
+dpnt 232 111
+wait 1
+cpen 255 255 255
+dpnt 222 118
+cpen 200 50 0
+dpnt 233 111
+wait 1
+cpen 255 255 255
+dpnt 223 117
+cpen 200 50 0
+dpnt 233 110
+wait 1
+cpen 255 255 255
+dpnt 223 117
+cpen 200 50 0
+dpnt 234 110
+wait 1
+cpen 255 255 255
+dpnt 224 116
+cpen 200 50 0
+dpnt 234 110
+wait 1
+cpen 255 255 255
+dpnt 224 116
+cpen 200 50 0
+dpnt 235 110
+wait 1
+cpen 255 255 255
+dpnt 225 116
+cpen 200 50 0
+dpnt 236 110
+wait 1
+cpen 255 255 255
+dpnt 225 115
+cpen 200 50 0
+dpnt 236 109
+wait 1
+cpen 255 255 255
+dpnt 226 115
+cpen 200 50 0
+dpnt 237 109
+wait 1
+cpen 255 255 255
+dpnt 226 114
+cpen 200 50 0
+dpnt 237 109
+wait 1
+cpen 255 255 255
+dpnt 227 114
+cpen 200 50 0
+dpnt 238 109
+wait 1
+cpen 255 255 255
+dpnt 227 114
+cpen 200 50 0
+dpnt 238 109
+wait 1
+cpen 255 255 255
+dpnt 228 113
+cpen 200 50 0
+dpnt 239 109
+wait 1
+cpen 255 255 255
+dpnt 228 113
+cpen 200 50 0
+dpnt 239 109
+wait 1
+cpen 255 255 255
+dpnt 229 113
+cpen 200 50 0
+dpnt 240 108
+wait 1
+cpen 255 255 255
+dpnt 229 112
+cpen 200 50 0
+dpnt 241 108
+wait 1
+cpen 255 255 255
+dpnt 230 112
+cpen 200 50 0
+dpnt 241 108
+wait 1
+cpen 255 255 255
+dpnt 230 112
+cpen 200 50 0
+dpnt 242 108
+wait 1
+cpen 255 255 255
+dpnt 231 112
+cpen 200 50 0
+dpnt 242 108
+wait 1
+cpen 255 255 255
+dpnt 231 111
+cpen 200 50 0
+dpnt 243 108
+wait 1
+cpen 255 255 255
+dpnt 232 111
+cpen 200 50 0
+dpnt 243 108
+wait 1
+cpen 255 255 255
+dpnt 232 111
+cpen 200 50 0
+dpnt 244 108
+wait 1
+cpen 255 255 255
+dpnt 233 111
+cpen 200 50 0
+dpnt 245 108
+wait 1
+cpen 255 255 255
+dpnt 233 110
+cpen 200 50 0
+dpnt 245 108
+wait 1
+cpen 255 255 255
+dpnt 234 110
+cpen 200 50 0
+dpnt 246 108
+wait 1
+cpen 255 255 255
+dpnt 234 110
+cpen 200 50 0
+dpnt 246 108
+wait 1
+cpen 255 255 255
+dpnt 235 110
+cpen 200 50 0
+dpnt 247 108
+wait 1
+cpen 255 255 255
+dpnt 236 110
+cpen 200 50 0
+dpnt 247 108
+wait 1
+cpen 255 255 255
+dpnt 236 109
+cpen 200 50 0
+dpnt 248 108
+wait 1
+cpen 255 255 255
+dpnt 237 109
+cpen 200 50 0
+dpnt 248 108
+wait 1
+cpen 255 255 255
+dpnt 237 109
+cpen 200 50 0
+dpnt 249 108
+wait 1
+cpen 255 255 255
+dpnt 238 109
+cpen 200 50 0
+dpnt 250 108
+wait 1
+cpen 255 255 255
+dpnt 238 109
+cpen 200 50 0
+dpnt 250 108
+wait 1
+cpen 255 255 255
+dpnt 239 109
+cpen 200 50 0
+dpnt 251 108
+wait 1
+cpen 255 255 255
+dpnt 239 109
+cpen 200 50 0
+dpnt 251 108
+wait 1
+cpen 255 255 255
+dpnt 240 108
+cpen 200 50 0
+dpnt 252 109
+wait 1
+cpen 255 255 255
+dpnt 241 108
+cpen 200 50 0
+dpnt 252 109
+wait 1
+cpen 255 255 255
+dpnt 241 108
+cpen 200 50 0
+dpnt 253 109
+wait 1
+cpen 255 255 255
+dpnt 242 108
+cpen 200 50 0
+dpnt 253 109
+wait 1
+cpen 255 255 255
+dpnt 242 108
+cpen 200 50 0
+dpnt 254 109
+wait 1
+cpen 255 255 255
+dpnt 243 108
+cpen 200 50 0
+dpnt 254 109
+wait 1
+cpen 255 255 255
+dpnt 243 108
+cpen 200 50 0
+dpnt 255 109
+wait 1
+cpen 255 255 255
+dpnt 244 108
+cpen 200 50 0
+dpnt 255 110
+wait 1
+cpen 255 255 255
+dpnt 245 108
+cpen 200 50 0
+dpnt 256 110
+wait 1
+cpen 255 255 255
+dpnt 245 108
+cpen 200 50 0
+dpnt 256 110
+wait 1
+cpen 255 255 255
+dpnt 246 108
+cpen 200 50 0
+dpnt 257 110
+wait 1
+cpen 255 255 255
+dpnt 246 108
+cpen 200 50 0
+dpnt 257 110
+wait 1
+cpen 255 255 255
+dpnt 247 108
+cpen 200 50 0
+dpnt 258 110
+wait 1
+cpen 255 255 255
+dpnt 247 108
+cpen 200 50 0
+dpnt 258 111
+wait 1
+cpen 255 255 255
+dpnt 248 108
+cpen 200 50 0
+dpnt 259 111
+wait 1
+cpen 255 255 255
+dpnt 248 108
+cpen 200 50 0
+dpnt 259 111
+wait 1
+cpen 255 255 255
+dpnt 249 108
+cpen 200 50 0
+dpnt 260 111
+wait 1
+cpen 255 255 255
+dpnt 250 108
+cpen 200 50 0
+dpnt 260 112
+wait 1
+cpen 255 255 255
+dpnt 250 108
+cpen 200 50 0
+dpnt 261 112
+wait 1
+cpen 255 255 255
+dpnt 251 108
+cpen 200 50 0
+dpnt 261 112
+wait 1
+cpen 255 255 255
+dpnt 251 108
+cpen 200 50 0
+dpnt 262 112
+wait 1
+cpen 255 255 255
+dpnt 252 109
+cpen 200 50 0
+dpnt 262 113
+wait 1
+cpen 255 255 255
+dpnt 252 109
+cpen 200 50 0
+dpnt 262 113
+wait 1
+cpen 255 255 255
+dpnt 253 109
+cpen 200 50 0
+dpnt 263 113
+wait 1
+cpen 255 255 255
+dpnt 253 109
+cpen 200 50 0
+dpnt 263 114
+wait 1
+cpen 255 255 255
+dpnt 254 109
+cpen 200 50 0
+dpnt 264 114
+wait 1
+cpen 255 255 255
+dpnt 254 109
+cpen 200 50 0
+dpnt 264 114
+wait 1
+cpen 255 255 255
+dpnt 255 109
+cpen 200 50 0
+dpnt 265 114
+wait 1
+cpen 255 255 255
+dpnt 255 110
+cpen 200 50 0
+dpnt 265 115
+wait 1
+cpen 255 255 255
+dpnt 256 110
+cpen 200 50 0
+dpnt 265 115
+wait 1
+cpen 255 255 255
+dpnt 256 110
+cpen 200 50 0
+dpnt 266 115
+wait 1
+cpen 255 255 255
+dpnt 257 110
+cpen 200 50 0
+dpnt 266 116
+wait 1
+cpen 255 255 255
+dpnt 257 110
+cpen 200 50 0
+dpnt 266 116
+wait 1
+cpen 255 255 255
+dpnt 258 110
+cpen 200 50 0
+dpnt 267 117
+wait 1
+cpen 255 255 255
+dpnt 258 111
+cpen 200 50 0
+dpnt 267 117
+wait 1
+cpen 255 255 255
+dpnt 259 111
+cpen 200 50 0
+dpnt 268 117
+wait 1
+cpen 255 255 255
+dpnt 259 111
+cpen 200 50 0
+dpnt 268 118
+wait 1
+cpen 255 255 255
+dpnt 260 111
+cpen 200 50 0
+dpnt 268 118
+wait 1
+cpen 255 255 255
+dpnt 260 112
+cpen 200 50 0
+dpnt 269 118
+wait 1
+cpen 255 255 255
+dpnt 261 112
+cpen 200 50 0
+dpnt 269 119
+wait 1
+cpen 255 255 255
+dpnt 261 112
+cpen 200 50 0
+dpnt 269 119
+wait 1
+cpen 255 255 255
+dpnt 262 112
+cpen 200 50 0
+dpnt 269 120
+wait 1
+cpen 255 255 255
+dpnt 262 113
+cpen 200 50 0
+dpnt 270 120
+wait 1
+cpen 255 255 255
+dpnt 262 113
+cpen 200 50 0
+dpnt 270 120
+wait 1
+cpen 255 255 255
+dpnt 263 113
+cpen 200 50 0
+dpnt 270 121
+wait 1
+cpen 255 255 255
+dpnt 263 114
+cpen 200 50 0
+dpnt 271 121
+wait 1
+cpen 255 255 255
+dpnt 264 114
+cpen 200 50 0
+dpnt 271 122
+wait 1
+cpen 255 255 255
+dpnt 264 114
+cpen 200 50 0
+dpnt 271 122
+wait 1
+cpen 255 255 255
+dpnt 265 114
+cpen 200 50 0
+dpnt 271 122
+wait 1
+cpen 255 255 255
+dpnt 265 115
+cpen 200 50 0
+dpnt 272 123
+wait 1
+cpen 255 255 255
+dpnt 265 115
+cpen 200 50 0
+dpnt 272 123
+wait 1
+cpen 255 255 255
+dpnt 266 115
+cpen 200 50 0
+dpnt 272 124
+wait 1
+cpen 255 255 255
+dpnt 266 116
+cpen 200 50 0
+dpnt 272 124
+wait 1
+cpen 255 255 255
+dpnt 266 116
+cpen 200 50 0
+dpnt 272 125
+wait 1
+cpen 255 255 255
+dpnt 267 117
+cpen 200 50 0
+dpnt 273 125
+wait 1
+cpen 255 255 255
+dpnt 267 117
+cpen 200 50 0
+dpnt 273 125
+wait 1
+cpen 255 255 255
+dpnt 268 117
+cpen 200 50 0
+dpnt 273 126
+wait 1
+cpen 255 255 255
+dpnt 268 118
+cpen 200 50 0
+dpnt 273 126
+wait 1
+cpen 255 255 255
+dpnt 268 118
+cpen 200 50 0
+dpnt 273 127
+wait 1
+cpen 255 255 255
+dpnt 269 118
+cpen 200 50 0
+dpnt 274 127
+wait 1
+cpen 255 255 255
+dpnt 269 119
+cpen 200 50 0
+dpnt 274 128
+wait 1
+cpen 255 255 255
+dpnt 269 119
+cpen 200 50 0
+dpnt 274 128
+wait 1
+cpen 255 255 255
+dpnt 269 120
+cpen 200 50 0
+dpnt 274 129
+wait 1
+cpen 255 255 255
+dpnt 270 120
+cpen 200 50 0
+dpnt 274 129
+wait 1
+cpen 255 255 255
+dpnt 270 120
+cpen 200 50 0
+dpnt 274 130
+wait 1
+cpen 255 255 255
+dpnt 270 121
+cpen 200 50 0
+dpnt 274 130
+wait 1
+cpen 255 255 255
+dpnt 271 121
+cpen 200 50 0
+dpnt 274 130
+wait 1
+cpen 255 255 255
+dpnt 271 122
+cpen 200 50 0
+dpnt 274 131
+wait 1
+cpen 255 255 255
+dpnt 271 122
+cpen 200 50 0
+dpnt 275 131
+wait 1
+cpen 255 255 255
+dpnt 271 122
+cpen 200 50 0
+dpnt 275 132
+wait 1
+cpen 255 255 255
+dpnt 272 123
+cpen 200 50 0
+dpnt 275 132
+wait 1
+cpen 255 255 255
+dpnt 272 123
+cpen 200 50 0
+dpnt 275 133
+wait 1
+cpen 255 255 255
+dpnt 272 124
+cpen 200 50 0
+dpnt 275 133
+wait 1
+cpen 255 255 255
+dpnt 272 124
+cpen 200 50 0
+dpnt 275 134
+wait 1
+cpen 255 255 255
+dpnt 272 125
+cpen 200 50 0
+dpnt 275 134
+wait 1
+cpen 255 255 255
+dpnt 273 125
+cpen 200 50 0
+dpnt 275 135
+wait 1
+cpen 255 255 255
+dpnt 273 125
+cpen 200 50 0
+dpnt 275 135
+wait 1
+cpen 255 255 255
+dpnt 273 126
+cpen 200 50 0
+dpnt 275 135
+wait 1
+cpen 255 255 255
+dpnt 273 126
+cpen 200 50 0
+dpnt 275 136
+wait 1
+cpen 255 255 255
+dpnt 273 127
+cpen 200 50 0
+dpnt 275 136
+wait 1
+cpen 255 255 255
+dpnt 274 127
+cpen 200 50 0
+dpnt 275 137
+wait 1
+cpen 255 255 255
+dpnt 274 128
+cpen 200 50 0
+dpnt 275 137
+wait 1
+cpen 255 255 255
+dpnt 274 128
+cpen 200 50 0
+dpnt 275 138
+wait 1
+cpen 255 255 255
+dpnt 274 129
+cpen 200 50 0
+dpnt 275 138
+wait 1
+cpen 255 255 255
+dpnt 274 129
+cpen 200 50 0
+dpnt 275 139
+wait 1
+cpen 255 255 255
+dpnt 274 130
+cpen 200 50 0
+dpnt 275 139
+wait 1
+cpen 255 255 255
+dpnt 274 130
+cpen 200 50 0
+dpnt 275 140
+wait 1
+cpen 255 255 255
+dpnt 274 130
+cpen 200 50 0
+dpnt 274 140
+wait 1
+cpen 255 255 255
+dpnt 274 131
+cpen 200 50 0
+dpnt 274 140
+wait 1
+cpen 255 255 255
+dpnt 275 131
+cpen 200 50 0
+dpnt 274 141
+wait 1
+cpen 255 255 255
+dpnt 275 132
+cpen 200 50 0
+dpnt 274 141
+wait 1
+cpen 255 255 255
+dpnt 275 132
+cpen 200 50 0
+dpnt 274 142
+wait 1
+cpen 255 255 255
+dpnt 275 133
+cpen 200 50 0
+dpnt 274 142
+wait 1
+cpen 255 255 255
+dpnt 275 133
+cpen 200 50 0
+dpnt 274 142
+wait 1
+cpen 255 255 255
+dpnt 275 134
+cpen 200 50 0
+dpnt 274 143
+wait 1
+cpen 255 255 255
+dpnt 275 134
+cpen 200 50 0
+dpnt 274 143
+wait 1
+cpen 255 255 255
+dpnt 275 135
+cpen 200 50 0
+dpnt 274 144
+wait 1
+cpen 255 255 255
+dpnt 275 135
+cpen 200 50 0
+dpnt 273 144
+wait 1
+cpen 255 255 255
+dpnt 275 135
+cpen 200 50 0
+dpnt 273 145
+wait 1
+cpen 255 255 255
+dpnt 275 136
+cpen 200 50 0
+dpnt 273 145
+wait 1
+cpen 255 255 255
+dpnt 275 136
+cpen 200 50 0
+dpnt 273 145
+wait 1
+cpen 255 255 255
+dpnt 275 137
+cpen 200 50 0
+dpnt 273 146
+wait 1
+cpen 255 255 255
+dpnt 275 137
+cpen 200 50 0
+dpnt 273 146
+wait 1
+cpen 255 255 255
+dpnt 275 138
+cpen 200 50 0
+dpnt 272 146
+wait 1
+cpen 255 255 255
+dpnt 275 138
+cpen 200 50 0
+dpnt 272 147
+wait 1
+cpen 255 255 255
+dpnt 275 139
+cpen 200 50 0
+dpnt 272 147
+wait 1
+cpen 255 255 255
+dpnt 275 139
+cpen 200 50 0
+dpnt 272 148
+wait 1
+cpen 255 255 255
+dpnt 275 140
+cpen 200 50 0
+dpnt 272 148
+wait 1
+cpen 255 255 255
+dpnt 274 140
+cpen 200 50 0
+dpnt 271 148
+wait 1
+cpen 255 255 255
+dpnt 274 140
+cpen 200 50 0
+dpnt 271 149
+wait 1
+cpen 255 255 255
+dpnt 274 141
+cpen 200 50 0
+dpnt 271 149
+wait 1
+cpen 255 255 255
+dpnt 274 141
+cpen 200 50 0
+dpnt 271 149
+wait 1
+cpen 255 255 255
+dpnt 274 142
+cpen 200 50 0
+dpnt 270 150
+wait 1
+cpen 255 255 255
+dpnt 274 142
+cpen 200 50 0
+dpnt 270 150
+wait 1
+cpen 255 255 255
+dpnt 274 142
+cpen 200 50 0
+dpnt 270 150
+wait 1
+cpen 255 255 255
+dpnt 274 143
+cpen 200 50 0
+dpnt 270 151
+wait 1
+cpen 255 255 255
+dpnt 274 143
+cpen 200 50 0
+dpnt 269 151
+wait 1
+cpen 255 255 255
+dpnt 274 144
+cpen 200 50 0
+dpnt 269 151
+wait 1
+cpen 255 255 255
+dpnt 273 144
+cpen 200 50 0
+dpnt 269 152
+wait 1
+cpen 255 255 255
+dpnt 273 145
+cpen 200 50 0
+dpnt 269 152
+wait 1
+cpen 255 255 255
+dpnt 273 145
+cpen 200 50 0
+dpnt 268 152
+wait 1
+cpen 255 255 255
+dpnt 273 145
+cpen 200 50 0
+dpnt 268 152
+wait 1
+cpen 255 255 255
+dpnt 273 146
+cpen 200 50 0
+dpnt 268 153
+wait 1
+cpen 255 255 255
+dpnt 273 146
+cpen 200 50 0
+dpnt 267 153
+wait 1
+cpen 255 255 255
+dpnt 272 146
+cpen 200 50 0
+dpnt 267 153
+wait 1
+cpen 255 255 255
+dpnt 272 147
+cpen 200 50 0
+dpnt 267 154
+wait 1
+cpen 255 255 255
+dpnt 272 147
+cpen 200 50 0
+dpnt 267 154
+wait 1
+cpen 255 255 255
+dpnt 272 148
+cpen 200 50 0
+dpnt 266 154
+wait 1
+cpen 255 255 255
+dpnt 272 148
+cpen 200 50 0
+dpnt 266 154
+wait 1
+cpen 255 255 255
+dpnt 271 148
+cpen 200 50 0
+dpnt 266 155
+wait 1
+cpen 255 255 255
+dpnt 271 149
+cpen 200 50 0
+dpnt 265 155
+wait 1
+cpen 255 255 255
+dpnt 271 149
+cpen 200 50 0
+dpnt 265 155
+wait 1
+cpen 255 255 255
+dpnt 271 149
+cpen 200 50 0
+dpnt 265 155
+wait 1
+cpen 255 255 255
+dpnt 270 150
+cpen 200 50 0
+dpnt 264 155
+wait 1
+cpen 255 255 255
+dpnt 270 150
+cpen 200 50 0
+dpnt 264 156
+wait 1
+cpen 255 255 255
+dpnt 270 150
+cpen 200 50 0
+dpnt 264 156
+wait 1
+cpen 255 255 255
+dpnt 270 151
+cpen 200 50 0
+dpnt 263 156
+wait 1
+cpen 255 255 255
+dpnt 269 151
+cpen 200 50 0
+dpnt 263 156
+wait 1
+cpen 255 255 255
+dpnt 269 151
+cpen 200 50 0
+dpnt 263 156
+wait 1
+cpen 255 255 255
+dpnt 269 152
+cpen 200 50 0
+dpnt 262 157
+wait 1
+cpen 255 255 255
+dpnt 269 152
+cpen 200 50 0
+dpnt 262 157
+wait 1
+cpen 255 255 255
+dpnt 268 152
+cpen 200 50 0
+dpnt 262 157
+wait 1
+cpen 255 255 255
+dpnt 268 152
+cpen 200 50 0
+dpnt 261 157
+wait 1
+cpen 255 255 255
+dpnt 268 153
+cpen 200 50 0
+dpnt 261 157
+wait 1
+cpen 255 255 255
+dpnt 267 153
+cpen 200 50 0
+dpnt 261 157
+wait 1
+cpen 255 255 255
+dpnt 267 153
+cpen 200 50 0
+dpnt 260 157
+wait 1
+cpen 255 255 255
+dpnt 267 154
+cpen 200 50 0
+dpnt 260 158
+wait 1
+cpen 255 255 255
+dpnt 267 154
+cpen 200 50 0
+dpnt 260 158
+wait 1
+cpen 255 255 255
+dpnt 266 154
+cpen 200 50 0
+dpnt 259 158
+wait 1
+cpen 255 255 255
+dpnt 266 154
+cpen 200 50 0
+dpnt 259 158
+wait 1
+cpen 255 255 255
+dpnt 266 155
+cpen 200 50 0
+dpnt 259 158
+wait 1
+cpen 255 255 255
+dpnt 265 155
+cpen 200 50 0
+dpnt 258 158
+wait 1
+cpen 255 255 255
+dpnt 265 155
+cpen 200 50 0
+dpnt 258 158
+wait 1
+cpen 255 255 255
+dpnt 265 155
+cpen 200 50 0
+dpnt 257 158
+wait 1
+cpen 255 255 255
+dpnt 264 155
+cpen 200 50 0
+dpnt 257 158
+wait 1
+cpen 255 255 255
+dpnt 264 156
+cpen 200 50 0
+dpnt 257 158
+wait 1
+cpen 255 255 255
+dpnt 264 156
+cpen 200 50 0
+dpnt 256 158
+wait 1
+cpen 255 255 255
+dpnt 263 156
+cpen 200 50 0
+dpnt 256 159
+wait 1
+cpen 255 255 255
+dpnt 263 156
+cpen 200 50 0
+dpnt 256 159
+wait 1
+cpen 255 255 255
+dpnt 263 156
+cpen 200 50 0
+dpnt 255 159
+wait 1
+cpen 255 255 255
+dpnt 262 157
+cpen 200 50 0
+dpnt 255 159
+wait 1
+cpen 255 255 255
+dpnt 262 157
+cpen 200 50 0
+dpnt 255 159
+wait 1
+cpen 255 255 255
+dpnt 262 157
+cpen 200 50 0
+dpnt 254 159
+wait 1
+cpen 255 255 255
+dpnt 261 157
+cpen 200 50 0
+dpnt 254 159
+wait 1
+cpen 255 255 255
+dpnt 261 157
+cpen 200 50 0
+dpnt 254 159
+wait 1
+cpen 255 255 255
+dpnt 261 157
+cpen 200 50 0
+dpnt 253 159
+wait 1
+cpen 255 255 255
+dpnt 260 157
+cpen 200 50 0
+dpnt 253 159
+wait 1
+cpen 255 255 255
+dpnt 260 158
+cpen 200 50 0
+dpnt 253 159
+wait 1
+cpen 255 255 255
+dpnt 260 158
+cpen 200 50 0
+dpnt 252 159
+wait 1
+cpen 255 255 255
+dpnt 259 158
+cpen 200 50 0
+dpnt 252 159
+wait 1
+cpen 255 255 255
+dpnt 259 158
+cpen 200 50 0
+dpnt 252 159
+wait 1
+cpen 255 255 255
+dpnt 259 158
+cpen 200 50 0
+dpnt 251 159
+wait 1
+cpen 255 255 255
+dpnt 258 158
+cpen 200 50 0
+dpnt 251 159
+wait 1
+cpen 255 255 255
+dpnt 258 158
+cpen 200 50 0
+dpnt 250 159
+wait 1
+cpen 255 255 255
+dpnt 257 158
+cpen 200 50 0
+dpnt 250 158
+wait 1
+cpen 255 255 255
+dpnt 257 158
+cpen 200 50 0
+dpnt 250 158
+wait 1
+cpen 255 255 255
+dpnt 257 158
+cpen 200 50 0
+dpnt 250 158
+wait 1
+cpen 255 255 255
+dpnt 256 158
+cpen 200 50 0
+dpnt 249 158
+wait 1
+cpen 255 255 255
+dpnt 256 159
+cpen 200 50 0
+dpnt 249 158
+wait 1
+cpen 255 255 255
+dpnt 256 159
+cpen 200 50 0
+dpnt 249 158
+wait 1
+cpen 255 255 255
+dpnt 255 159
+cpen 200 50 0
+dpnt 248 158
+wait 1
+cpen 255 255 255
+dpnt 255 159
+cpen 200 50 0
+dpnt 248 158
+wait 1
+cpen 255 255 255
+dpnt 255 159
+cpen 200 50 0
+dpnt 248 158
+wait 1
+cpen 255 255 255
+dpnt 254 159
+cpen 200 50 0
+dpnt 247 158
+wait 1
+cpen 255 255 255
+dpnt 254 159
+cpen 200 50 0
+dpnt 247 158
+wait 1
+cpen 255 255 255
+dpnt 254 159
+cpen 200 50 0
+dpnt 247 157
+wait 1
+cpen 255 255 255
+dpnt 253 159
+cpen 200 50 0
+dpnt 246 157
+wait 1
+cpen 255 255 255
+dpnt 253 159
+cpen 200 50 0
+dpnt 246 157
+wait 1
+cpen 255 255 255
+dpnt 253 159
+cpen 200 50 0
+dpnt 246 157
+wait 1
+cpen 255 255 255
+dpnt 252 159
+cpen 200 50 0
+dpnt 245 157
+wait 1
+cpen 255 255 255
+dpnt 252 159
+cpen 200 50 0
+dpnt 245 157
+wait 1
+cpen 255 255 255
+dpnt 252 159
+cpen 200 50 0
+dpnt 245 157
+wait 1
+cpen 255 255 255
+dpnt 251 159
+cpen 200 50 0
+dpnt 245 157
+wait 1
+cpen 255 255 255
+dpnt 251 159
+cpen 200 50 0
+dpnt 244 156
+wait 1
+cpen 255 255 255
+dpnt 250 159
+cpen 200 50 0
+dpnt 244 156
+wait 1
+cpen 255 255 255
+dpnt 250 158
+cpen 200 50 0
+dpnt 244 156
+wait 1
+cpen 255 255 255
+dpnt 250 158
+cpen 200 50 0
+dpnt 244 156
+wait 1
+cpen 255 255 255
+dpnt 250 158
+cpen 200 50 0
+dpnt 243 156
+wait 1
+cpen 255 255 255
+dpnt 249 158
+cpen 200 50 0
+dpnt 243 156
+wait 1
+cpen 255 255 255
+dpnt 249 158
+cpen 200 50 0
+dpnt 243 155
+wait 1
+cpen 255 255 255
+dpnt 249 158
+cpen 200 50 0
+dpnt 243 155
+wait 1
+cpen 255 255 255
+dpnt 248 158
+cpen 200 50 0
+dpnt 242 155
+wait 1
+cpen 255 255 255
+dpnt 248 158
+cpen 200 50 0
+dpnt 242 155
+wait 1
+cpen 255 255 255
+dpnt 248 158
+cpen 200 50 0
+dpnt 242 155
+wait 1
+cpen 255 255 255
+dpnt 247 158
+cpen 200 50 0
+dpnt 242 154
+wait 1
+cpen 255 255 255
+dpnt 247 158
+cpen 200 50 0
+dpnt 241 154
+wait 1
+cpen 255 255 255
+dpnt 247 157
+cpen 200 50 0
+dpnt 241 154
+wait 1
+cpen 255 255 255
+dpnt 246 157
+cpen 200 50 0
+dpnt 241 154
+wait 1
+cpen 255 255 255
+dpnt 246 157
+cpen 200 50 0
+dpnt 241 154
+wait 1
+cpen 255 255 255
+dpnt 246 157
+cpen 200 50 0
+dpnt 240 153
+wait 1
+cpen 255 255 255
+dpnt 245 157
+cpen 200 50 0
+dpnt 240 153
+wait 1
+cpen 255 255 255
+dpnt 245 157
+cpen 200 50 0
+dpnt 240 153
+wait 1
+cpen 255 255 255
+dpnt 245 157
+cpen 200 50 0
+dpnt 240 153
+wait 1
+cpen 255 255 255
+dpnt 245 157
+cpen 200 50 0
+dpnt 240 152
+wait 1
+cpen 255 255 255
+dpnt 244 156
+cpen 200 50 0
+dpnt 240 152
+wait 1
+cpen 255 255 255
+dpnt 244 156
+cpen 200 50 0
+dpnt 239 152
+wait 1
+cpen 255 255 255
+dpnt 244 156
+cpen 200 50 0
+dpnt 239 152
+wait 1
+cpen 255 255 255
+dpnt 244 156
+cpen 200 50 0
+dpnt 239 152
+wait 1
+cpen 255 255 255
+dpnt 243 156
+cpen 200 50 0
+dpnt 239 151
+wait 1
+cpen 255 255 255
+dpnt 243 156
+cpen 200 50 0
+dpnt 239 151
+wait 1
+cpen 255 255 255
+dpnt 243 155
+cpen 200 50 0
+dpnt 239 151
+wait 1
+cpen 255 255 255
+dpnt 243 155
+cpen 200 50 0
+dpnt 238 151
+wait 1
+cpen 255 255 255
+dpnt 242 155
+cpen 200 50 0
+dpnt 238 150
+wait 1
+cpen 255 255 255
+dpnt 242 155
+cpen 200 50 0
+dpnt 238 150
+wait 1
+cpen 255 255 255
+dpnt 242 155
+cpen 200 50 0
+dpnt 238 150
+wait 1
+cpen 255 255 255
+dpnt 242 154
+cpen 200 50 0
+dpnt 238 150
+wait 1
+cpen 255 255 255
+dpnt 241 154
+cpen 200 50 0
+dpnt 238 149
+wait 1
+cpen 255 255 255
+dpnt 241 154
+cpen 200 50 0
+dpnt 238 149
+wait 1
+cpen 255 255 255
+dpnt 241 154
+cpen 200 50 0
+dpnt 238 149
+wait 1
+cpen 255 255 255
+dpnt 241 154
+cpen 200 50 0
+dpnt 237 149
+wait 1
+cpen 255 255 255
+dpnt 240 153
+cpen 200 50 0
+dpnt 237 148
+wait 1
+cpen 255 255 255
+dpnt 240 153
+cpen 200 50 0
+dpnt 237 148
+wait 1
+cpen 255 255 255
+dpnt 240 153
+cpen 200 50 0
+dpnt 237 148
+wait 1
+cpen 255 255 255
+dpnt 240 153
+cpen 200 50 0
+dpnt 237 148
+wait 1
+cpen 255 255 255
+dpnt 240 152
+cpen 200 50 0
+dpnt 237 147
+wait 1
+cpen 255 255 255
+dpnt 240 152
+cpen 200 50 0
+dpnt 237 147
+wait 1
+cpen 255 255 255
+dpnt 239 152
+cpen 200 50 0
+dpnt 237 147
+wait 1
+cpen 255 255 255
+dpnt 239 152
+cpen 200 50 0
+dpnt 237 147
+wait 1
+cpen 255 255 255
+dpnt 239 152
+cpen 200 50 0
+dpnt 237 146
+wait 1
+cpen 255 255 255
+dpnt 239 151
+cpen 200 50 0
+dpnt 237 146
+wait 1
+cpen 255 255 255
+dpnt 239 151
+cpen 200 50 0
+dpnt 237 146
+wait 1
+cpen 255 255 255
+dpnt 239 151
+cpen 200 50 0
+dpnt 237 146
+wait 1
+cpen 255 255 255
+dpnt 238 151
+cpen 200 50 0
+dpnt 236 145
+wait 1
+cpen 255 255 255
+dpnt 238 150
+cpen 200 50 0
+dpnt 236 145
+wait 1
+cpen 255 255 255
+dpnt 238 150
+cpen 200 50 0
+dpnt 236 145
+wait 1
+cpen 255 255 255
+dpnt 238 150
+cpen 200 50 0
+dpnt 236 145
+wait 1
+cpen 255 255 255
+dpnt 238 150
+cpen 200 50 0
+dpnt 236 144
+wait 1
+cpen 255 255 255
+dpnt 238 149
+cpen 200 50 0
+dpnt 236 144
+wait 1
+cpen 255 255 255
+dpnt 238 149
+cpen 200 50 0
+dpnt 236 144
+wait 1
+cpen 255 255 255
+dpnt 238 149
+cpen 200 50 0
+dpnt 236 144
+wait 1
+cpen 255 255 255
+dpnt 237 149
+cpen 200 50 0
+dpnt 236 143
+wait 1
+cpen 255 255 255
+dpnt 237 148
+cpen 200 50 0
+dpnt 236 143
+wait 1
+cpen 255 255 255
+dpnt 237 148
+cpen 200 50 0
+dpnt 236 143
+wait 1
+cpen 255 255 255
+dpnt 237 148
+cpen 200 50 0
+dpnt 236 143
+wait 1
+cpen 255 255 255
+dpnt 237 148
+cpen 200 50 0
+dpnt 236 142
+wait 1
+cpen 255 255 255
+dpnt 237 147
+cpen 200 50 0
+dpnt 236 142
+wait 1
+cpen 255 255 255
+dpnt 237 147
+cpen 200 50 0
+dpnt 236 142
+wait 1
+cpen 255 255 255
+dpnt 237 147
+cpen 200 50 0
+dpnt 236 142
+wait 1
+cpen 255 255 255
+dpnt 237 147
+cpen 200 50 0
+dpnt 237 141
+wait 1
+cpen 255 255 255
+dpnt 237 146
+cpen 200 50 0
+dpnt 237 141
+wait 1
+cpen 255 255 255
+dpnt 237 146
+cpen 200 50 0
+dpnt 237 141
+wait 1
+cpen 255 255 255
+dpnt 237 146
+cpen 200 50 0
+dpnt 237 141
+wait 1
+cpen 255 255 255
+dpnt 237 146
+cpen 200 50 0
+dpnt 237 140
+wait 1
+cpen 255 255 255
+dpnt 236 145
+cpen 200 50 0
+dpnt 237 140
+wait 1
+cpen 255 255 255
+dpnt 236 145
+cpen 200 50 0
+dpnt 237 140
+wait 1
+cpen 255 255 255
+dpnt 236 145
+cpen 200 50 0
+dpnt 237 140
+wait 1
+cpen 255 255 255
+dpnt 236 145
+cpen 200 50 0
+dpnt 237 140
+wait 1
+cpen 255 255 255
+dpnt 236 144
+cpen 200 50 0
+dpnt 237 139
+wait 1
+cpen 255 255 255
+dpnt 236 144
+cpen 200 50 0
+dpnt 237 139
+wait 1
+cpen 255 255 255
+dpnt 236 144
+cpen 200 50 0
+dpnt 237 139
+wait 1
+cpen 255 255 255
+dpnt 236 144
+cpen 200 50 0
+dpnt 237 139
+wait 1
+cpen 255 255 255
+dpnt 236 143
+cpen 200 50 0
+dpnt 237 138
+wait 1
+cpen 255 255 255
+dpnt 236 143
+cpen 200 50 0
+dpnt 237 138
+wait 1
+cpen 255 255 255
+dpnt 236 143
+cpen 200 50 0
+dpnt 238 138
+wait 1
+cpen 255 255 255
+dpnt 236 143
+cpen 200 50 0
+dpnt 238 138
+wait 1
+cpen 255 255 255
+dpnt 236 142
+cpen 200 50 0
+dpnt 238 138
+wait 1
+cpen 255 255 255
+dpnt 236 142
+cpen 200 50 0
+dpnt 238 137
+wait 1
+cpen 255 255 255
+dpnt 236 142
+cpen 200 50 0
+dpnt 238 137
+wait 1
+cpen 255 255 255
+dpnt 236 142
+cpen 200 50 0
+dpnt 238 137
+wait 1
+cpen 255 255 255
+dpnt 237 141
+cpen 200 50 0
+dpnt 238 137
+wait 1
+cpen 255 255 255
+dpnt 237 141
+cpen 200 50 0
+dpnt 238 137
+wait 1
+cpen 255 255 255
+dpnt 237 141
+cpen 200 50 0
+dpnt 238 137
+wait 1
+cpen 255 255 255
+dpnt 237 141
+cpen 200 50 0
+dpnt 238 136
+wait 1
+cpen 255 255 255
+dpnt 237 140
+cpen 200 50 0
+dpnt 239 136
+wait 1
+cpen 255 255 255
+dpnt 237 140
+cpen 200 50 0
+dpnt 239 136
+wait 1
+cpen 255 255 255
+dpnt 237 140
+cpen 200 50 0
+dpnt 239 136
+wait 1
+cpen 255 255 255
+dpnt 237 140
+cpen 200 50 0
+dpnt 239 136
+wait 1
+cpen 255 255 255
+dpnt 237 140
+cpen 200 50 0
+dpnt 239 136
+wait 1
+cpen 255 255 255
+dpnt 237 139
+cpen 200 50 0
+dpnt 239 135
+wait 1
+cpen 255 255 255
+dpnt 237 139
+cpen 200 50 0
+dpnt 239 135
+wait 1
+cpen 255 255 255
+dpnt 237 139
+cpen 200 50 0
+dpnt 240 135
+wait 1
+cpen 255 255 255
+dpnt 237 139
+cpen 200 50 0
+dpnt 240 135
+wait 1
+cpen 255 255 255
+dpnt 237 138
+cpen 200 50 0
+dpnt 240 135
+wait 1
+cpen 255 255 255
+dpnt 237 138
+cpen 200 50 0
+dpnt 240 135
+wait 1
+cpen 255 255 255
+dpnt 238 138
+cpen 200 50 0
+dpnt 240 135
+wait 1
+cpen 255 255 255
+dpnt 238 138
+cpen 200 50 0
+dpnt 240 134
+wait 1
+cpen 255 255 255
+dpnt 238 138
+cpen 200 50 0
+dpnt 240 134
+wait 1
+cpen 255 255 255
+dpnt 238 137
+cpen 200 50 0
+dpnt 241 134
+wait 1
+cpen 255 255 255
+dpnt 238 137
+cpen 200 50 0
+dpnt 241 134
+wait 1
+cpen 255 255 255
+dpnt 238 137
+cpen 200 50 0
+dpnt 241 134
+wait 1
+cpen 255 255 255
+dpnt 238 137
+cpen 200 50 0
+dpnt 241 134
+wait 1
+cpen 255 255 255
+dpnt 238 137
+cpen 200 50 0
+dpnt 241 134
+wait 1
+cpen 255 255 255
+dpnt 238 137
+cpen 200 50 0
+dpnt 241 134
+wait 1
+cpen 255 255 255
+dpnt 238 136
+cpen 200 50 0
+dpnt 242 133
+wait 1
+cpen 255 255 255
+dpnt 239 136
+cpen 200 50 0
+dpnt 242 133
+wait 1
+cpen 255 255 255
+dpnt 239 136
+cpen 200 50 0
+dpnt 242 133
+wait 1
+cpen 255 255 255
+dpnt 239 136
+cpen 200 50 0
+dpnt 242 133
+wait 1
+cpen 255 255 255
+dpnt 239 136
+cpen 200 50 0
+dpnt 242 133
+wait 1
+cpen 255 255 255
+dpnt 239 136
+cpen 200 50 0
+dpnt 242 133
+wait 1
+cpen 255 255 255
+dpnt 239 135
+cpen 200 50 0
+dpnt 242 133
+wait 1
+cpen 255 255 255
+dpnt 239 135
+cpen 200 50 0
+dpnt 243 133
+wait 1
+cpen 255 255 255
+dpnt 240 135
+cpen 200 50 0
+dpnt 243 133
+wait 1
+cpen 255 255 255
+dpnt 240 135
+cpen 200 50 0
+dpnt 243 133
+wait 1
+cpen 255 255 255
+dpnt 240 135
+cpen 200 50 0
+dpnt 243 133
+wait 1
+cpen 255 255 255
+dpnt 240 135
+cpen 200 50 0
+dpnt 243 133
+wait 1
+cpen 255 255 255
+dpnt 240 135
+cpen 200 50 0
+dpnt 243 133
+wait 1
+cpen 255 255 255
+dpnt 240 134
+cpen 200 50 0
+dpnt 244 133
+wait 1
+cpen 255 255 255
+dpnt 240 134
+cpen 200 50 0
+dpnt 244 132
+wait 1
+cpen 255 255 255
+dpnt 241 134
+cpen 200 50 0
+dpnt 244 132
+wait 1
+cpen 255 255 255
+dpnt 241 134
+cpen 200 50 0
+dpnt 244 132
+wait 1
+cpen 255 255 255
+dpnt 241 134
+cpen 200 50 0
+dpnt 244 132
+wait 1
+cpen 255 255 255
+dpnt 241 134
+cpen 200 50 0
+dpnt 244 132
+wait 1
+cpen 255 255 255
+dpnt 241 134
+cpen 200 50 0
+dpnt 245 132
+wait 1
+cpen 255 255 255
+dpnt 241 134
+cpen 200 50 0
+dpnt 245 132
+wait 1
+cpen 255 255 255
+dpnt 242 133
+cpen 200 50 0
+dpnt 245 132
+wait 1
+cpen 255 255 255
+dpnt 242 133
+cpen 200 50 0
+dpnt 245 132
+wait 1
+cpen 255 255 255
+dpnt 242 133
+cpen 200 50 0
+dpnt 245 132
+wait 1
+cpen 255 255 255
+dpnt 242 133
+cpen 200 50 0
+dpnt 245 132
+wait 1
+cpen 255 255 255
+dpnt 242 133
+cpen 200 50 0
+dpnt 246 132
+wait 1
+cpen 255 255 255
+dpnt 242 133
+cpen 200 50 0
+dpnt 246 132
+wait 1
+cpen 255 255 255
+dpnt 242 133
+cpen 200 50 0
+dpnt 246 132
+wait 1
+cpen 255 255 255
+dpnt 243 133
+cpen 200 50 0
+dpnt 246 132
+wait 1
+cpen 255 255 255
+dpnt 243 133
+cpen 200 50 0
+dpnt 246 132
+wait 1
+cpen 255 255 255
+dpnt 243 133
+cpen 200 50 0
+dpnt 246 132
+wait 1
+cpen 255 255 255
+dpnt 243 133
+cpen 200 50 0
+dpnt 247 132
+wait 1
+cpen 255 255 255
+dpnt 243 133
+cpen 200 50 0
+dpnt 247 132
+wait 1
+cpen 255 255 255
+dpnt 243 133
+cpen 200 50 0
+dpnt 247 132
+wait 1
+cpen 255 255 255
+dpnt 244 133
+cpen 200 50 0
+dpnt 247 132
+wait 1
+cpen 255 255 255
+dpnt 244 132
+cpen 200 50 0
+dpnt 247 132
+wait 1
+cpen 255 255 255
+dpnt 244 132
+cpen 200 50 0
+dpnt 247 132
+wait 1
+cpen 255 255 255
+dpnt 244 132
+cpen 200 50 0
+dpnt 247 132
+wait 1
+cpen 255 255 255
+dpnt 244 132
+cpen 200 50 0
+dpnt 248 132
+wait 1
+cpen 255 255 255
+dpnt 244 132
+cpen 200 50 0
+dpnt 248 132
+wait 1
+cpen 255 255 255
+dpnt 245 132
+cpen 200 50 0
+dpnt 248 132
+wait 1
+cpen 255 255 255
+dpnt 245 132
+cpen 200 50 0
+dpnt 248 133
+wait 1
+cpen 255 255 255
+dpnt 245 132
+cpen 200 50 0
+dpnt 248 133
+wait 1
+cpen 255 255 255
+dpnt 245 132
+cpen 200 50 0
+dpnt 248 133
+wait 1
+cpen 255 255 255
+dpnt 245 132
+cpen 200 50 0
+dpnt 248 133
+wait 1
+cpen 255 255 255
+dpnt 245 132
+cpen 200 50 0
+dpnt 249 133
+wait 1
+cpen 255 255 255
+dpnt 246 132
+cpen 200 50 0
+dpnt 249 133
+wait 1
+cpen 255 255 255
+dpnt 246 132
+cpen 200 50 0
+dpnt 249 133
+wait 1
+cpen 255 255 255
+dpnt 246 132
+cpen 200 50 0
+dpnt 249 133
+wait 1
+cpen 255 255 255
+dpnt 246 132
+cpen 200 50 0
+dpnt 249 133
+wait 1
+cpen 255 255 255
+dpnt 246 132
+cpen 200 50 0
+dpnt 249 133
+wait 1
+cpen 255 255 255
+dpnt 246 132
+cpen 200 50 0
+dpnt 249 133
+wait 1
+cpen 255 255 255
+dpnt 247 132
+cpen 200 50 0
+dpnt 249 133
+wait 1
+cpen 255 255 255
+dpnt 247 132
+cpen 200 50 0
+dpnt 250 133
+wait 1
+cpen 255 255 255
+dpnt 247 132
+cpen 200 50 0
+dpnt 250 133
+wait 1
+cpen 255 255 255
+dpnt 247 132
+cpen 200 50 0
+dpnt 250 133
+wait 1
+cpen 255 255 255
+dpnt 247 132
+cpen 200 50 0
+dpnt 250 133
+wait 1
+cpen 255 255 255
+dpnt 247 132
+cpen 200 50 0
+dpnt 250 133
+wait 1
+cpen 255 255 255
+dpnt 247 132
+cpen 200 50 0
+dpnt 250 134
+wait 1
+cpen 255 255 255
+dpnt 248 132
+cpen 200 50 0
+dpnt 250 134
+wait 1
+cpen 255 255 255
+dpnt 248 132
+cpen 200 50 0
+dpnt 250 134
+wait 1
+cpen 255 255 255
+dpnt 248 132
+cpen 200 50 0
+dpnt 250 134
+wait 1
+cpen 255 255 255
+dpnt 248 133
+cpen 200 50 0
+dpnt 250 134
+wait 1
+cpen 255 255 255
+dpnt 248 133
+cpen 200 50 0
+dpnt 250 134
+wait 1
+cpen 255 255 255
+dpnt 248 133
+cpen 200 50 0
+dpnt 251 134
+wait 1
+cpen 255 255 255
+dpnt 248 133
+cpen 200 50 0
+dpnt 251 134
+wait 1
+cpen 255 255 255
+dpnt 249 133
+cpen 200 50 0
+dpnt 251 134
+wait 1
+cpen 255 255 255
+dpnt 249 133
+cpen 200 50 0
+dpnt 251 134
+wait 1
+cpen 255 255 255
+dpnt 249 133
+cpen 200 50 0
+dpnt 251 134
+wait 1
+cpen 255 255 255
+dpnt 249 133
+cpen 200 50 0
+dpnt 251 134
+wait 1
+cpen 255 255 255
+dpnt 249 133
+cpen 200 50 0
+dpnt 251 135
+wait 1
+cpen 255 255 255
+dpnt 249 133
+cpen 200 50 0
+dpnt 251 135
+wait 1
+cpen 255 255 255
+dpnt 249 133
+cpen 200 50 0
+dpnt 251 135
+wait 1
+cpen 255 255 255
+dpnt 249 133
+cpen 200 50 0
+dpnt 251 135
+wait 1
+cpen 255 255 255
+dpnt 250 133
+cpen 200 50 0
+dpnt 251 135
+wait 1
+cpen 255 255 255
+dpnt 250 133
+cpen 200 50 0
+dpnt 251 135
+wait 1
+cpen 255 255 255
+dpnt 250 133
+cpen 200 50 0
+dpnt 251 135
+wait 1
+cpen 255 255 255
+dpnt 250 133
+cpen 200 50 0
+dpnt 251 135
+wait 1
+cpen 255 255 255
+dpnt 250 133
+cpen 200 50 0
+dpnt 251 135
+wait 1
+cpen 255 255 255
+dpnt 250 134
+cpen 200 50 0
+dpnt 251 135
+wait 1
+cpen 255 255 255
+dpnt 250 134
+cpen 200 50 0
+dpnt 252 136
+wait 1
+cpen 255 255 255
+dpnt 250 134
+cpen 200 50 0
+dpnt 252 136
+wait 1
+cpen 255 255 255
+dpnt 250 134
+cpen 200 50 0
+dpnt 252 136
+wait 1
+cpen 255 255 255
+dpnt 250 134
+cpen 200 50 0
+dpnt 252 136
+wait 1
+cpen 255 255 255
+dpnt 250 134
+cpen 200 50 0
+dpnt 252 136
+wait 1
+cpen 255 255 255
+dpnt 251 134
+cpen 200 50 0
+dpnt 252 136
+wait 1
+cpen 255 255 255
+dpnt 251 134
+cpen 200 50 0
+dpnt 252 136
+wait 1
+cpen 255 255 255
+dpnt 251 134
+cpen 200 50 0
+dpnt 252 136
+wait 1
+cpen 255 255 255
+dpnt 251 134
+cpen 200 50 0
+dpnt 252 136
+wait 1
+cpen 255 255 255
+dpnt 251 134
+cpen 200 50 0
+dpnt 252 136
+wait 1
+cpen 255 255 255
+dpnt 251 134
+cpen 200 50 0
+dpnt 252 137
+wait 1
+cpen 255 255 255
+dpnt 251 135
+cpen 200 50 0
+dpnt 252 137
+wait 1
+cpen 255 255 255
+dpnt 251 135
+cpen 200 50 0
+dpnt 252 137
+wait 1
+cpen 255 255 255
+dpnt 251 135
+cpen 200 50 0
+dpnt 252 137
+wait 1
+cpen 255 255 255
+dpnt 251 135
+cpen 200 50 0
+dpnt 252 137
+wait 1
+cpen 255 255 255
+dpnt 251 135
+cpen 200 50 0
+dpnt 252 137
+wait 1
+cpen 255 255 255
+dpnt 251 135
+cpen 200 50 0
+dpnt 252 137
+wait 1
+cpen 255 255 255
+dpnt 251 135
+cpen 200 50 0
+dpnt 252 137
+wait 1
+cpen 255 255 255
+dpnt 251 135
+cpen 200 50 0
+dpnt 252 137
+wait 1
+cpen 255 255 255
+dpnt 251 135
+cpen 200 50 0
+dpnt 252 137
+wait 1
+cpen 255 255 255
+dpnt 251 135
+cpen 200 50 0
+dpnt 252 137
+wait 1
+cpen 255 255 255
+dpnt 252 136
+cpen 200 50 0
+dpnt 252 138
+wait 1
+cpen 255 255 255
+dpnt 252 136
+cpen 200 50 0
+dpnt 252 138
+wait 1
+cpen 255 255 255
+dpnt 252 136
+cpen 200 50 0
+dpnt 252 138
+wait 1
+cpen 255 255 255
+dpnt 252 136
+cpen 200 50 0
+dpnt 252 138
+wait 1
+cpen 255 255 255
+dpnt 252 136
+cpen 200 50 0
+dpnt 252 138
+wait 1
+cpen 255 255 255
+dpnt 252 136
+cpen 200 50 0
+dpnt 252 138
+wait 1
+cpen 255 255 255
+dpnt 252 136
+cpen 200 50 0
+dpnt 252 138
+wait 1
+cpen 255 255 255
+dpnt 252 136
+cpen 200 50 0
+dpnt 252 138
+wait 1
+cpen 255 255 255
+dpnt 252 136
+cpen 200 50 0
+dpnt 252 138
+wait 1
+cpen 255 255 255
+dpnt 252 136
+cpen 200 50 0
+dpnt 251 138
+wait 1
+cpen 255 255 255
+dpnt 252 137
+cpen 200 50 0
+dpnt 251 138
+wait 1
+cpen 255 255 255
+dpnt 252 137
+cpen 200 50 0
+dpnt 251 138
+wait 1
+cpen 255 255 255
+dpnt 252 137
+cpen 200 50 0
+dpnt 251 138
+wait 1
+cpen 255 255 255
+dpnt 252 137
+cpen 200 50 0
+dpnt 251 138
+wait 1
+cpen 255 255 255
+dpnt 252 137
+cpen 200 50 0
+dpnt 251 139
+wait 1
+cpen 255 255 255
+dpnt 252 137
+cpen 200 50 0
+dpnt 251 139
+wait 1
+cpen 255 255 255
+dpnt 252 137
+cpen 200 50 0
+dpnt 251 139
+wait 1
+cpen 255 255 255
+dpnt 252 137
+cpen 200 50 0
+dpnt 251 139
+wait 1
+cpen 255 255 255
+dpnt 252 137
+cpen 200 50 0
+dpnt 251 139
+wait 1
+cpen 255 255 255
+dpnt 252 137
+cpen 200 50 0
+dpnt 251 139
+wait 1
+cpen 255 255 255
+dpnt 252 137
+cpen 200 50 0
+dpnt 251 139
+wait 1
+cpen 255 255 255
+dpnt 252 138
+cpen 200 50 0
+dpnt 251 139
+wait 1
+cpen 255 255 255
+dpnt 252 138
+cpen 200 50 0
+dpnt 251 139
+wait 1
+cpen 255 255 255
+dpnt 252 138
+cpen 200 50 0
+dpnt 251 139
+wait 1
+cpen 255 255 255
+dpnt 252 138
+cpen 200 50 0
+dpnt 251 139
+wait 1
+cpen 255 255 255
+dpnt 252 138
+cpen 200 50 0
+dpnt 251 139
+wait 1
+cpen 255 255 255
+dpnt 252 138
+cpen 200 50 0
+dpnt 251 139
+wait 1
+cpen 255 255 255
+dpnt 252 138
+cpen 200 50 0
+dpnt 251 139
+wait 1
+cpen 255 255 255
+dpnt 252 138
+cpen 200 50 0
+dpnt 251 139
+wait 1
+cpen 255 255 255
+dpnt 252 138
+cpen 200 50 0
+dpnt 250 139
+wait 1
+cpen 255 255 255
+dpnt 251 138
+cpen 200 50 0
+dpnt 250 139
+wait 1
+cpen 255 255 255
+dpnt 251 138
+cpen 200 50 0
+dpnt 250 139
+wait 1
+cpen 255 255 255
+dpnt 251 138
+cpen 200 50 0
+dpnt 250 139
+wait 1
+cpen 255 255 255
+dpnt 251 138
+cpen 200 50 0
+dpnt 250 139
+wait 1
+cpen 255 255 255
+dpnt 251 138
+cpen 200 50 0
+dpnt 250 139
+wait 1
+cpen 255 255 255
+dpnt 251 139
+cpen 200 50 0
+dpnt 250 139
+wait 1
+cpen 255 255 255
+dpnt 251 139
+cpen 200 50 0
+dpnt 250 139
+wait 1
+cpen 255 255 255
+dpnt 251 139
+cpen 200 50 0
+dpnt 250 139
+wait 1
+cpen 255 255 255
+dpnt 251 139
+cpen 200 50 0
+dpnt 250 139
+wait 1
+cpen 255 255 255
+dpnt 251 139
+cpen 200 50 0
+dpnt 250 139
+wait 1
+cpen 255 255 255
+dpnt 251 139
+cpen 200 50 0
+dpnt 250 139
+wait 1
+cpen 255 255 255
+dpnt 251 139
+cpen 200 50 0
+dpnt 250 139
+wait 1
+cpen 255 255 255
+dpnt 251 139
+cpen 200 50 0
+dpnt 250 140
+wait 1
+cpen 255 255 255
+dpnt 251 139
+cpen 200 50 0
+dpnt 250 140
+wait 1
+cpen 255 255 255
+dpnt 251 139
+cpen 255 255 255
+dpnt 251 139
+cpen 255 255 255
+dpnt 251 139
+cpen 255 255 255
+dpnt 251 139
+cpen 255 255 255
+dpnt 251 139
+cpen 255 255 255
+dpnt 251 139
+cpen 255 255 255
+dpnt 250 139
+cpen 255 255 255
+dpnt 250 139
+cpen 255 255 255
+dpnt 250 139
+cpen 255 255 255
+dpnt 250 139
+cpen 255 255 255
+dpnt 250 139
+cpen 255 255 255
+dpnt 250 139
+cpen 255 255 255
+dpnt 250 139
+cpen 255 255 255
+dpnt 250 139
+cpen 255 255 255
+dpnt 250 139
+cpen 255 255 255
+dpnt 250 139
+cpen 255 255 255
+dpnt 250 139
+cpen 255 255 255
+dpnt 250 139
+cpen 255 255 255
+dpnt 250 139
+cpen 255 255 255
+dpnt 250 140
+cpen 255 255 255
+dpnt 250 140
+END

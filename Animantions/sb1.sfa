@@ -1,0 +1,91 @@
+Animation_SB1
+INIT
+cpen 0 0 0
+cbru 0 0 0
+eras 255 255 255
+FRAME
+dcir 250 150 1
+wait 200
+FRAME
+eras 255 255 255
+dcir 250 150 5
+wait 200
+FRAME
+eras 255 255 255
+dcir 250 150 10
+wait 175
+FRAME
+eras 255 255 255
+dcir 250 150 15
+wait 175
+FRAME
+eras 255 255 255
+dcir 250 150 20
+wait 150
+FRAME
+eras 255 255 255
+dcir 250 150 30
+wait 150
+FRAME
+eras 255 255 255
+dcir 250 150 40
+wait 125
+FRAME
+eras 255 255 255
+dcir 250 150 50
+wait 125
+FRAME
+eras 255 255 255
+dcir 250 150 60
+wait 125
+FRAME
+eras 255 255 255
+dcir 250 150 70
+wait 100
+FRAME
+eras 255 255 255
+dcir 250 150 80
+wait 100
+FRAME
+eras 255 255 255
+dcir 250 150 90
+wait 75
+FRAME
+eras 255 255 255
+dcir 250 150 100
+wait 50
+FRAME
+eras 255 255 255
+dcir 250 150 110
+wait 50
+FRAME
+eras 255 255 255
+dcir 250 150 120
+wait 50
+FRAME
+eras 255 255 255
+dcir 250 150 130
+wait 50
+FRAME
+eras 255 255 255
+dcir 250 150 140
+wait 75
+cpen 250 250 250
+msnd broken glass.wav
+dlin 250 150 300 180
+dlin 300 180 350 270
+wait 75
+dlin 300 180 320 170
+dlin 250 150 320 100
+wait 75
+dlin 320 100 400 50
+dlin 250 150 180 180
+wait 75
+dlin 180 180 50 300
+dlin 250 150 180 120
+wait 75
+dlin 180 120 50 20
+dlin 250 150 220 100
+wait 75
+dlin 220 100 180 0
+END

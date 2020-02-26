@@ -1,0 +1,86 @@
+Feu de circulation
+INIT        
+cbru 255 255 255
+cpen 0 0 0
+eras 255 255 255
+FRAME                 
+eras 255 255 255
+cbru 55 55 70
+drec 180 23 300 275
+cbru 221 0 0
+dcir 240 65 35
+cbru 100 85 0
+dcir 240 145 35
+cbru 0 71 0
+dcir 240 225 35
+wait 2000
+FRAME                 
+eras 255 255 255
+cbru 55 55 70
+drec 180 23 300 275
+cbru 79 0 0
+dcir 240 65 35
+cbru 100 85 0
+dcir 240 145 35
+cbru 0 228 0
+dcir 240 225 35
+dtxt 10 10 Vroummm!!
+wait 2000
+FRAME
+eras 255 255 255
+cbru 55 55 70
+drec 180 23 300 275
+cbru 79 0 0
+dcir 240 65 35
+cbru 255 216 0
+dcir 240 145 35
+cbru 0 71 0
+dcir 240 225 35
+wait 1000
+FRAME                 
+eras 255 255 255
+cbru 55 55 70
+drec 180 23 300 275
+cbru 221 0 0
+dcir 240 65 35
+cbru 100 85 0
+dcir 240 145 35
+cbru 0 71 0
+dcir 240 225 35
+wait 2000
+FRAME                 
+eras 255 255 255
+cbru 55 55 70
+drec 180 23 300 275
+cbru 79 0 0
+dcir 240 65 35
+cbru 100 85 0
+dcir 240 145 35
+cbru 0 228 0
+dcir 240 225 35
+dtxt 10 10 Vroummm!!
+wait 2000
+FRAME
+eras 255 255 255
+cbru 55 55 70
+drec 180 23 300 275
+cbru 79 0 0
+dcir 240 65 35
+cbru 255 216 0
+dcir 240 145 35
+cbru 0 71 0
+dcir 240 225 35
+wait 1000
+FRAME                 
+eras 255 255 255
+cbru 55 55 70
+drec 180 23 300 275
+cbru 221 0 0
+dcir 240 65 35
+cbru 100 85 0
+dcir 240 145 35
+cbru 0 71 0
+dcir 240 225 35
+dtxt 10 10 Pouf !!
+wait 2000
+end

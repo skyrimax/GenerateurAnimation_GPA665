@@ -1,0 +1,290 @@
+stickdeath
+INIT
+cpen 0 0 0
+cbru 0 0 0
+eras 32 32 32
+FRAME
+cpen 0 255 0
+wait 250
+dlin 110 150 135 120
+dlin 135 120 160 150
+dell 115 80 155 120
+dlin 135 120 135 180
+dlin 110 210 135 180
+dlin 135 180 160 210
+FRAME
+wait 250
+cpen 0 0 255
+dlin 210 150 235 120
+dlin 235 120 260 150
+dell 215 80 255 120
+dlin 235 120 235 180
+dlin 210 210 235 180
+dlin 235 180 260 210
+FRAME
+cpen 225 100 40
+dell 205 140 210 165
+dell 185 138 213 145
+FRAME
+wait 600
+cpen 0 0 255
+darc 220 75 250 115 215 110 245 100
+wait 600
+FRAME
+cpen 0 0 0
+drec 175 132 185 147
+FRAME
+wait 400
+cpen 225 225 40
+dlin 180 135 185 140 
+dlin 180 140 185 140 
+dlin 180 145 185 140
+FRAME
+cpen 255 0 0
+dell 125 90 135 100
+FRAME
+wait 200
+cpen 0 0 0
+drec 175 132 185 147
+FRAME
+wait 400
+cpen 225 225 40
+dlin 180 135 185 140 
+dlin 180 140 185 140 
+dlin 180 145 185 140
+FRAME
+cpen 255 0 0
+dell 135 95 145 105
+FRAME
+wait 200
+cpen 0 0 0
+drec 175 132 185 147
+wait 400
+cpen 225 225 40
+dlin 180 135 185 140 
+dlin 180 140 185 140 
+dlin 180 145 185 140
+FRAME
+cpen 255 0 0
+dell 115 100 125 110
+FRAME
+wait 200
+cpen 0 0 0
+drec 175 132 185 147
+wait 400
+cpen 225 225 40
+dlin 180 135 185 140 
+dlin 180 140 185 140 
+dlin 180 145 185 140
+FRAME
+cpen 255 0 0
+dell 130 140 140 150
+FRAME
+wait 200
+cpen 0 0 0
+drec 175 132 185 147
+wait 400
+cpen 225 225 40
+dlin 180 135 185 140 
+dlin 180 140 185 140 
+dlin 180 145 185 140
+FRAME
+cpen 255 0 0
+dell 130 170 140 180
+FRAME
+wait 200
+cpen 0 0 0
+drec 175 132 185 147
+wait 400
+cpen 225 225 40
+dlin 180 135 185 140 
+dlin 180 140 185 140 
+dlin 180 145 185 140
+FRAME
+cpen 255 0 0
+dell 115 130 125 140
+FRAME
+wait 200
+cpen 0 0 0
+drec 175 132 185 147
+FRAME
+wait 150
+cpen 0 0 0 
+drec 100 155 120 135
+FRAME
+wait 150
+cpen 0 255 0
+dlin 100 120 115 130
+FRAME
+wait 150
+cpen 0 0 0 
+dlin 100 120 115 130
+FRAME
+wait 150
+cpen 0 255 0
+dlin 100 120 105 135
+FRAME
+wait 150
+cpen 0 0 0 
+dlin 100 120 105 135
+FRAME
+wait 150
+cpen 0 255 0
+dlin 95 140 105 125
+FRAME
+wait 150
+cpen 0 0 0 
+dlin 95 140 105 125
+FRAME
+wait 150
+cpen 0 255 0
+dlin 100 150 100 135
+FRAME
+wait 150
+cpen 0 0 0 
+dlin 100 150 100 135
+FRAME
+wait 150
+cpen 0 255 0
+dlin 90 150 106 150
+FRAME
+wait 150
+cpen 0 0 0 
+dlin 90 150 106 150
+FRAME
+wait 150
+cpen 0 255 0
+dlin 90 150 106 165
+FRAME
+wait 150
+cpen 0 0 0 
+dlin 90 150 106 165
+FRAME
+wait 150
+cpen 0 255 0
+dlin 90 185 106 170
+FRAME
+wait 150
+cpen 0 0 0 
+dlin 90 185 106 170
+FRAME
+wait 150
+cpen 0 255 0
+dlin 90 200 100 185
+FRAME
+wait 150
+cpen 0 0 0 
+dlin 90 200 100 185
+FRAME
+wait 150
+cpen 0 255 0
+dlin 75 210 95 210
+FRAME
+cpen 255 0 0
+dpnt 95 207
+dpnt 95 208
+dpnt 95 209
+dpnt 95 210
+dpnt 95 211
+dpnt 95 212
+dpnt 95 213
+dpnt 96 207
+dpnt 96 208
+dpnt 96 209
+dpnt 96 210
+dpnt 96 211
+dpnt 96 212
+dpnt 96 213
+dpnt 94 209
+dpnt 94 211
+dpnt 97 209
+dpnt 97 211
+FRAME
+wait 400
+cpen 225 225 40
+dlin 180 135 185 140 
+dlin 180 140 185 140 
+dlin 180 145 185 140
+cpen 255 0 0 
+dell 125 185 135 195
+FRAME
+wait 200
+cpen 0 0 0
+drec 175 132 185 147
+FRAME
+wait 400
+cpen 225 225 40
+dlin 180 135 185 140 
+dlin 180 140 185 140 
+dlin 180 145 185 140
+cpen 255 0 0
+dell 140 185 150 195
+FRAME
+wait 200
+cpen 0 0 0
+drec 175 132 185 147
+FRAME
+wait 200
+cpen 0 0 0 
+drec 98 223 175 50
+FRAME
+cpen 0 255 0
+dlin 125 160 135 150
+dlin 135 150 160 180
+dell 115 110 155 150
+dlin 135 150 135 210
+cpen 255 0 0
+dell 125 120 135 130
+dell 135 125 145 135
+dell 115 130 125 140
+dell 130 170 140 180
+dell 130 200 140 210
+dell 115 160 125 170
+cpen 0 0 0 
+drec 115 170 121 164
+drec 130 205 140 210
+FRAME
+cpen 0 255 0
+dlin 98 220 125 208
+dlin 145 208 175 215
+FRAME
+cpen 255 0 0
+dpnt 125 205
+dpnt 125 206
+dpnt 125 207
+dpnt 125 208
+dpnt 125 207
+dpnt 125 206
+dpnt 125 205
+dpnt 126 205
+dpnt 126 206
+dpnt 126 207
+dpnt 126 208
+dpnt 126 207
+dpnt 126 206
+dpnt 126 205
+dpnt 124 207
+dpnt 124 209
+dpnt 127 209
+dpnt 127 207
+FRAME
+cpen 255 0 0
+dpnt 145 205
+dpnt 145 206
+dpnt 145 207
+dpnt 145 208
+dpnt 145 207
+dpnt 145 206
+dpnt 145 205
+dpnt 144 205
+dpnt 144 206
+dpnt 144 207
+dpnt 144 208
+dpnt 144 207
+dpnt 144 206
+dpnt 144 205
+dpnt 143 207
+dpnt 143 209
+dpnt 146 209
+dpnt 146 207
+END

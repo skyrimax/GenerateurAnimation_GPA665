@@ -1,0 +1,31 @@
+Jack Frost! hahaha!
+INIT        
+eras 255 255 255
+FRAME 
+cbru 255 255 255
+cpen 0 0 0          
+dsqr 250 150 150
+wait 500
+dtxt 100 100 Pas trop compliqé
+FRAME       
+cbru 0 255 255
+cpen 255 0 0          
+dsqr 275 175 140
+wait 500
+FRAME       
+cbru 255 0 255
+cpen 0 255 0          
+dsqr 300 200 130
+wait 500
+FRAME       
+cbru 255 255 0
+cpen 0 0 255          
+dsqr 325 225 120
+wait 500
+FRAME       
+cbru 0 0 0
+cpen 255 255 255         
+dsqr 350 250 110
+wait 500
+dtxt 100 100 Pas trop compliqé
+END

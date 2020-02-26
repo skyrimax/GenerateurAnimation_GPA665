@@ -35,6 +35,9 @@ public:
 
 	// Remove last element
 	void pop_back();
+	
+	// Method to empty the structure
+	void clear();
 
 	class iterator
 	{
@@ -55,7 +58,9 @@ public:
 		T* operator->() const;
 
 	private:
-		Node* m_node;
+		typename  forward_list::Node* m_node;
+
+		friend class forward_list;
 	};
 
 	// Iterator methods
