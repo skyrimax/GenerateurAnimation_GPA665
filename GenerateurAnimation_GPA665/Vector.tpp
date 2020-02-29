@@ -56,7 +56,7 @@ Vector<T>::Vector(const Vector<T>& vector)
 	m_data = new T[m_capacity];
 
 	//Filling array with copies of the elemenents present in the other array
-	for (int i = 0; i < m_size; ++i) {
+	for (size_type i = 0; i < m_size; ++i) {
 		m_data[i] = vector.m_data[i];
 	}
 }
@@ -181,13 +181,13 @@ void Vector<T>::reserve(size_type n)
 	//Operation will only be executed if desired capacity n is smaller then current capacity
 	if (n > m_capacity) {
 		//Determining necessary capacity
-		size_type newCapacity = pow(2, ceil(log2((double)n)));
+		size_type newCapacity = (size_type) pow(2, ceil(log2((double)n)));
 
 		//Allocating new array of determined capacity
 		T* newArray = new T[newCapacity];
 
 		//Copy of elements from previous array to new array
-		for (int i = 0; i < m_size; ++i) {
+		for (size_type i = 0; i < m_size; ++i) {
 			newArray[i] = m_data[i];
 		}
 
@@ -395,7 +395,7 @@ void Vector<T>::swap(Vector<T>& vector)
 template<class T>
 void Vector<T>::clear()
 {
-	for (int i = 0; i < m_size; ++i) {
+	for (size_type i = 0; i < m_size; ++i) {
 		m_data[i] = T();
 	}
 

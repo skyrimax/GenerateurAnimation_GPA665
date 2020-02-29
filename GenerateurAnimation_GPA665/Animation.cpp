@@ -15,20 +15,22 @@ Animation::~Animation()
 {
 }
 
-void Animation::load(const char * sScriptFile)
+bool Animation::load(const char * sScriptFile)
 {
 	std::fstream script(sScriptFile);
 	std::string line;
 	Vector<std::string>lines;
+	Frame fr;
 
 	FSTParserState state = FSTParserState::Start;
+	bool ret = false;
 
 	std::string init("INIT");
 	std::string frame("FRAME");
 	std::string end("END");
 
 	if (!script.is_open()) {
-		return;
+		return false;
 	}
 
 	while (state!=FSTParserState::Err && state!=FSTParserState::End && std::getline(script, line)) {
@@ -57,9 +59,13 @@ void Animation::load(const char * sScriptFile)
 				state = FSTParserState::Err;
 			}
 			else if (line.find(frame) != std::string::npos) {
-				state = FSTParserState::Frame;
-				m_initFrame.load(lines);
-				lines.clear();
+				if (m_initFrame.load(lines)) {
+					state = FSTParserState::Frame;
+					lines.clear();
+				}
+				else {
+					state = FSTParserState::Err;
+				}
 			}
 			else {
 				lines.push_back(line);
@@ -70,11 +76,23 @@ void Animation::load(const char * sScriptFile)
 				state = FSTParserState::Err;
 			}
 			else if (line.find(frame) != std::string::npos) {
-				m_frames.push_back(Frame(lines));
-				lines.clear();
+				if (fr.load(lines)) {
+					m_frames.push_back(fr);
+					lines.clear();
+				}
+				else {
+					state = FSTParserState::Err;
+				}
 			}
 			else if (line.find(end) != std::string::npos) {
-				state = FSTParserState::End;
+				if (fr.load(lines)) {
+					m_frames.push_back(Frame(lines));
+					ret = true;
+					state = FSTParserState::End;
+				}
+				else {
+					state = FSTParserState::Err;
+				}
 			}
 			else {
 				lines.push_back(line);
@@ -89,29 +107,44 @@ void Animation::load(const char * sScriptFile)
 			break;
 		}
 	}
+
+	return ret;
 }
 
-void Animation::unload()
+bool Animation::unload()
 {
 	m_frames.clear();
-
 	m_initFrame.unload();
+
+	return true;
 }
 
-void Animation::playForward()
+bool Animation::playForward()
 {
-	m_initFrame.display();
+	if (!m_initFrame.display()) {
+		return false;
+	}
 
 	for (list<Frame>::iterator it = m_frames.begin(); it != m_frames.end(); it++) {
-		it->display();
+		if (!it->display()) {
+			return false;
+		}
 	}
+
+	return true;
 }
 
-void Animation::playBackward()
+bool Animation::playBackward()
 {
-	m_initFrame.display();
+	if (!m_initFrame.display()) {
+		return false;
+	}
 
 	for (list<Frame>::backward_iterator it = m_frames.rbegin(); it != m_frames.rend(); it++) {
-		it->display();
+		if (!it->display()) {
+			return false;
+		}
 	}
+
+	return true;
 }

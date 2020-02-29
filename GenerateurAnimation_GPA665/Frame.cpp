@@ -30,6 +30,8 @@ bool Frame::load(Vector<std::string> frameStr)
 			return false;
 		}
 	}
+
+	return true;
 }
 
 bool Frame::unload()

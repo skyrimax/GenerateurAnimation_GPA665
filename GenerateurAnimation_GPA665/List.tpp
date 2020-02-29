@@ -271,6 +271,8 @@ void list<T>::clear()
 		m_head = m_head->next;
 		delete tempNode;
 	}
+
+	m_tail = nullptr;
 }
 
 template<class T>

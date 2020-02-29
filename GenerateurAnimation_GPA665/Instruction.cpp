@@ -27,6 +27,8 @@ Instruction::~Instruction()
 
 bool Instruction::load(std::string line)
 {
+	unload();
+
 	std::string data;
 
 	std::stringstream stream(line);
@@ -96,6 +98,7 @@ bool Instruction::exec()
 
 bool dummyFunc(Parameters* params)
 {
+	return true;
 }
 
 bool Instruction::setcbru(std::stringstream & stream)
@@ -116,7 +119,7 @@ bool Instruction::setcbru(std::stringstream & stream)
 		}
 	}
 
-	if (!stream.rdbuf()->in_avail()) {
+	if (!stream.eof()) {
 		return false;
 	}
 
@@ -141,7 +144,7 @@ bool Instruction::setcpen(std::stringstream & stream)
 		}
 	}
 
-	if (!stream.rdbuf()->in_avail()) {
+	if (!stream.eof()) {
 		return false;
 	}
 
@@ -168,7 +171,7 @@ bool Instruction::setdcir(std::stringstream & stream)
 
 	m_params.Val[3] = m_params.Val[2];
 
-	if (!stream.rdbuf()->in_avail()) {
+	if (!stream.eof()) {
 		return false;
 	}
 
@@ -193,7 +196,7 @@ bool Instruction::setdell(std::stringstream & stream)
 		}
 	}
 
-	if (!stream.rdbuf()->in_avail()) {
+	if (!stream.eof()) {
 		return false;
 	}
 
@@ -218,7 +221,7 @@ bool Instruction::setdlin(std::stringstream & stream)
 		}
 	}
 
-	if (!stream.rdbuf()->in_avail()) {
+	if (!stream.eof()) {
 		return false;
 	}
 
@@ -243,7 +246,7 @@ bool Instruction::setdpnt(std::stringstream & stream)
 		}
 	}
 
-	if (!stream.rdbuf()->in_avail()) {
+	if (!stream.eof()) {
 		return false;
 	}
 
@@ -268,7 +271,7 @@ bool Instruction::setdrec(std::stringstream & stream)
 		}
 	}
 
-	if (!stream.rdbuf()->in_avail()) {
+	if (!stream.eof()) {
 		return false;
 	}
 
@@ -295,7 +298,7 @@ bool Instruction::setdsqr(std::stringstream & stream)
 
 	m_params.Val[3] = m_params.Val[2];
 
-	if (!stream.rdbuf()->in_avail()) {
+	if (!stream.eof()) {
 		return false;
 	}
 
@@ -322,14 +325,14 @@ bool Instruction::setdtxt(std::stringstream & stream)
 
 	try {
 		stream >> data;
-		strcpy(m_params.String, data.c_str());
+		strcpy_s(m_params.String, sizeof m_params.String, data.c_str());
 	}
 	catch (std::exception& e) {
 		std::cerr << e.what() << '\n';
 		return false;
 	}
 
-	if (!stream.rdbuf()->in_avail()) {
+	if (!stream.eof()) {
 		return false;
 	}
 
@@ -354,7 +357,7 @@ bool Instruction::seteras(std::stringstream & stream)
 		}
 	}
 
-	if (!stream.rdbuf()->in_avail()) {
+	if (!stream.eof()) {
 		return false;
 	}
 
@@ -370,14 +373,14 @@ bool Instruction::setmsnd(std::stringstream & stream)
 
 	try {
 		stream >> data;
-		strcpy(m_params.String, data.c_str());
+		strcpy_s(m_params.String, sizeof m_params.String, data.c_str());
 	}
 	catch (std::exception& e) {
 		std::cerr << e.what() << '\n';
 		return false;
 	}
 
-	if (!stream.rdbuf()->in_avail()) {
+	if (!stream.eof()) {
 		return false;
 	}
 
@@ -389,7 +392,7 @@ bool Instruction::setwait(std::stringstream & stream)
 	std::string data;
 	m_params.NbrParam = 1;
 
-	func = Media_PlaySound;
+	func = Media_Delay;
 
 	try {
 		stream >> data;
@@ -400,7 +403,7 @@ bool Instruction::setwait(std::stringstream & stream)
 		return false;
 	}
 
-	if (!stream.rdbuf()->in_avail()) {
+	if (!stream.eof()) {
 		return false;
 	}
 

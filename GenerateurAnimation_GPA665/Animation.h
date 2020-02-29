@@ -9,11 +9,11 @@ public:
 	Animation(const char *sScriptFile);
 	~Animation();
 
-	void load(const char *sScriptFile);
-	void unload();
+	bool load(const char *sScriptFile);
+	bool unload();
 
-	void playForward();
-	void playBackward();
+	bool playForward();
+	bool playBackward();
 
 private:
 	enum class FSTParserState {

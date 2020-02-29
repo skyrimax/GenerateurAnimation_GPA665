@@ -76,9 +76,6 @@ private:
 
 	Node* m_head;
 	Node* m_tail;
-
-	iterator m_begin;
-	iterator m_end;
 };
 
 #include "forward_list.tpp"

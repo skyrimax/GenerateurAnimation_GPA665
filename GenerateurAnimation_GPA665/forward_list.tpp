@@ -7,8 +7,6 @@ template<class T>
 forward_list<T>::forward_list()
 	: m_head(nullptr), m_tail(nullptr)
 {
-	m_begin.m_node = m_head;
-	m_begin.m_node = nullptr;
 }
 
 template<class T>
@@ -244,6 +242,8 @@ void forward_list<T>::clear()
 		m_head = m_head->next;
 		delete tempNode;
 	}
+
+	m_tail = nullptr;
 }
 
 template<class T>
