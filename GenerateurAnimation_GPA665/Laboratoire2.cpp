@@ -41,7 +41,12 @@ void Execute(ExecuteMode ExecMode, const char *sScriptFile)
 //------------------------------------------------------------
 int OpenScript(Animation *Anim, const char *sScriptFile)
 {
-	return Anim->load(sScriptFile);
+	if (Anim->unload()) {
+		return Anim->load(sScriptFile);
+	}
+	else {
+		return false;
+	}
 }
 //------------------------------------------------------------
 

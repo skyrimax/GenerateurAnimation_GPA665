@@ -11,10 +11,10 @@ public:
 	Frame(Vector<std::string> frameStr);
 	~Frame();
 
-	void load(Vector<std::string> frameStr);
-	void unload();
+	bool load(Vector<std::string> frameStr);
+	bool unload();
 
-	void display();
+	bool display();
 
 private:
 	forward_list<Instruction> m_instructions;

@@ -13,23 +13,39 @@ Frame::~Frame()
 {
 }
 
-void Frame::load(Vector<std::string> frameStr)
+bool Frame::load(Vector<std::string> frameStr)
 {
+	if (!unload()) {
+		return false;
+	}
+
 	size_t size = frameStr.size();
+	Instruction inst;
 
 	for (size_t i = 0; i < size; ++i) {
-		m_instructions.push_back(Instruction(frameStr[i]));
+		if (inst.load(frameStr[i])) {
+			m_instructions.push_back(inst);
+		}
+		else {
+			return false;
+		}
 	}
 }
 
-void Frame::unload()
+bool Frame::unload()
 {
 	m_instructions.clear();
+
+	return true;
 }
 
-void Frame::display()
+bool Frame::display()
 {
 	for (forward_list<Instruction>::iterator it = m_instructions.begin(); it != m_instructions.end(); it++) {
-		it->exec();
+		if (!it->exec()) {
+			return false;
+		}
 	}
+
+	return true;
 }

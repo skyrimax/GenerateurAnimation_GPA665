@@ -10,15 +10,28 @@ public:
 	Instruction(std::string line);
 	~Instruction();
 
-	void load(std::string line);
-	void unload();
+	bool load(std::string line);
+	bool unload();
 
-	void exec();
+	bool exec();
 
 private:
+	bool setcbru(std::stringstream& stream);
+	bool setcpen(std::stringstream& stream);
+	bool setdcir(std::stringstream& stream);
+	bool setdell(std::stringstream& stream);
+	bool setdlin(std::stringstream& stream);
+	bool setdpnt(std::stringstream& stream);
+	bool setdrec(std::stringstream& stream);
+	bool setdsqr(std::stringstream& stream);
+	bool setdtxt(std::stringstream& stream);
+	bool seteras(std::stringstream& stream);
+	bool setmsnd(std::stringstream& stream);
+	bool setwait(std::stringstream& stream);
+	bool setdummy(std::stringstream& stream);
 
-	void (*func)(Parameters params);
+	bool (*func)(Parameters* params);
 	Parameters m_params;
 };
 
-	void dummyFunc(Parameters params);
+	bool dummyFunc(Parameters* params);
