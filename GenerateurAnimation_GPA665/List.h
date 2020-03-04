@@ -5,7 +5,12 @@ class list
 {
 public:
 	list();
+	list(const list<T>& x);
+	list(list<T>&& x);
 	~list();
+
+	list<T>& operator=(const list<T>& x);
+	list<T>& operator=(list<T>&& x);
 
 	bool empty();
 	size_t size();

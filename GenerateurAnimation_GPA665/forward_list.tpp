@@ -10,6 +10,82 @@ forward_list<T>::forward_list()
 }
 
 template<class T>
+forward_list<T>::forward_list(const forward_list<T>& x)
+{
+	Node* tempNode = x.m_head;
+	Node* newNode;
+	Node* previousNode=nullptr;
+
+	while (tempNode != nullptr) {
+		newNode = new Node;
+		newNode->next = nullptr;
+
+		if (previousNode) {
+			previousNode->next = newNode;
+		}
+		else {
+			m_head = newNode;
+		}
+
+		newNode->data = tempNode->data;
+
+		tempNode = tempNode->next;
+	}
+
+	m_tail = newNode;
+}
+
+template<class T>
+forward_list<T>::forward_list(forward_list<T>&& x)
+{
+	m_head = x.m_head;
+	m_tail = x.m_tail;
+
+	x.m_head = nullptr;
+	x.m_tail = nullptr;
+}
+
+template<class T>
+forward_list<T>& forward_list<T>::operator=(const forward_list<T>& x)
+{
+	Node* tempNode = x.m_head;
+	Node* newNode;
+	Node* previousNode = nullptr;
+
+	while (tempNode != nullptr) {
+		newNode = new Node;
+		newNode->next = nullptr;
+
+		if (previousNode) {
+			previousNode->next = newNode;
+		}
+		else {
+			m_head = newNode;
+		}
+
+		newNode->data = tempNode->data;
+
+		tempNode = tempNode->next;
+	}
+
+	m_tail = newNode;
+
+	return *this;
+}
+
+template<class T>
+forward_list<T>& forward_list<T>::operator=(forward_list<T>&& x)
+{
+	m_head = x.m_head;
+	m_tail = x.m_tail;
+
+	x.m_head = nullptr;
+	x.m_tail = nullptr;
+
+	return *this;
+}
+
+template<class T>
 forward_list<T>::~forward_list()
 {
 	Node* tempNode;
@@ -249,21 +325,21 @@ void forward_list<T>::clear()
 template<class T>
 typename forward_list<T>::iterator forward_list<T>::begin()
 {
-	iterator* begin = new iterator;
+	iterator begin;
 
-	begin->m_node = m_head;
+	begin.m_node = m_head;
 	
-	return *begin;
+	return begin;
 }
 
 template<class T>
 typename forward_list<T>::iterator forward_list<T>::end()
 {
-	iterator* end = new iterator();
+	iterator end;
 
-	end->m_node = nullptr;
+	end.m_node = nullptr;
 
-	return *end;
+	return end;
 }
 
 template<class T>

@@ -4,7 +4,7 @@ Frame::Frame()
 {
 }
 
-Frame::Frame(Vector<std::string> frameStr)
+Frame::Frame(const Vector<std::string>& frameStr)
 {
 	load(frameStr);
 }
@@ -13,7 +13,7 @@ Frame::~Frame()
 {
 }
 
-bool Frame::load(Vector<std::string> frameStr)
+bool Frame::load(const Vector<std::string>& frameStr)
 {
 	if (!unload()) {
 		return false;

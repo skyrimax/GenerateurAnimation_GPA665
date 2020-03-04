@@ -7,10 +7,10 @@ class Instruction
 {
 public:
 	Instruction();
-	Instruction(std::string line);
+	Instruction(const std::string& line);
 	~Instruction();
 
-	bool load(std::string line);
+	bool load(const std::string& line);
 	bool unload();
 
 	bool exec();

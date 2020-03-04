@@ -8,10 +8,10 @@ class Frame
 {
 public:
 	Frame();
-	Frame(Vector<std::string> frameStr);
+	Frame(const Vector<std::string>& frameStr);
 	~Frame();
 
-	bool load(Vector<std::string> frameStr);
+	bool load(const Vector<std::string>& frameStr);
 	bool unload();
 
 	bool display();

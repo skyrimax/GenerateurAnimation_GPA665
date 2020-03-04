@@ -16,7 +16,7 @@ Instruction::Instruction()
 	}
 }
 
-Instruction::Instruction(std::string line)
+Instruction::Instruction(const std::string& line)
 {
 	load(line);
 }
@@ -25,7 +25,7 @@ Instruction::~Instruction()
 {
 }
 
-bool Instruction::load(std::string line)
+bool Instruction::load(const std::string& line)
 {
 	unload();
 

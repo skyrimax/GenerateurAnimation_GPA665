@@ -6,7 +6,12 @@ class forward_list
 public:
 	// Basic constructor and destructor
 	forward_list();
+	forward_list(const forward_list<T>& x);
+	forward_list(forward_list<T>&& x);
 	~forward_list();
+
+	forward_list<T>& operator=(const forward_list<T>& x);
+	forward_list<T>& operator=(forward_list<T>&& x);
 
 	bool empty();
 	size_t size();

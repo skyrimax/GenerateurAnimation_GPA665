@@ -10,6 +10,43 @@ list<T>::list()
 }
 
 template<class T>
+list<T>::list(const list<T>& x)
+{
+	Node* tempNode=x.m_head;
+	Node* newNode;
+	Node* previousNode=nullptr;
+
+	while (tempNode != nullptr) {
+		newNode = new Node;
+		newNode->next = nullptr;
+		newNode->previous = previousNode;
+
+		if (previousNode) {
+			previousNode->next = newNode;
+		}
+		else {
+			m_head = newNode;
+		}
+
+		newNode->data = tempNode->data;
+
+		tempNode = tempNode->next;
+	}
+
+	m_tail = newNode;
+}
+
+template<class T>
+list<T>::list(list<T>&& x)
+{
+	m_head = x.m_head;
+	m_tail = x.m_tail;
+
+	x.m_head = nullptr;
+	x.m_tail = nullptr;
+}
+
+template<class T>
 list<T>::~list()
 {
 	Node* tempNode;
@@ -19,6 +56,49 @@ list<T>::~list()
 		m_head = m_head->next;
 		delete tempNode;
 	}
+}
+
+template<class T>
+list<T>& list<T>::operator=(const list<T>& x)
+{
+	clear();
+
+	Node* tempNode = x.m_head;
+	Node* newNode;
+	Node* previousNode = nullptr;
+
+	while (tempNode != nullptr) {
+		newNode = new Node;
+		newNode->next = nullptr;
+		newNode->previous = previousNode;
+
+		if (previousNode) {
+			previousNode->next = newNode;
+		}
+		else {
+			m_head = newNode;
+		}
+
+		newNode->data = tempNode->data;
+	}
+
+	m_tail = newNode;
+
+	return *this;
+}
+
+template<class T>
+list<T>& list<T>::operator=(list<T>&& x)
+{
+	clear();
+
+	m_head = x.m_head;
+	m_tail = x.m_tail;
+
+	x.m_head = nullptr;
+	x.m_tail = nullptr;
+
+	return *this;
 }
 
 template<class T>
@@ -278,41 +358,41 @@ void list<T>::clear()
 template<class T>
 typename list<T>::iterator list<T>::begin()
 {
-	iterator* begin = new iterator();
+	iterator begin;
 
-	begin->m_node = m_head;
+	begin.m_node = m_head;
 
-	return *begin;
+	return begin;
 }
 
 template<class T>
 typename list<T>::iterator list<T>::end()
 {
-	iterator* end = new iterator();
+	iterator end;
 
-	end->m_node = nullptr;
+	end.m_node = nullptr;
 
-	return *end;
+	return end;
 }
 
 template<class T>
 typename list<T>::backward_iterator list<T>::rbegin()
 {
-	backward_iterator* rbegin = new backward_iterator();
+	backward_iterator rbegin;
 
-	rbegin->m_node = m_tail;
+	rbegin.m_node = m_tail;
 
-	return *rbegin;
+	return rbegin;
 }
 
 template<class T>
 typename list<T>::backward_iterator list<T>::rend()
 {
-	backward_iterator* rend = new backward_iterator();
+	backward_iterator rend;
 
-	rend->m_node = nullptr;
+	rend.m_node = nullptr;
 	
-	return *rend;
+	return rend;
 }
 
 template<class T>
