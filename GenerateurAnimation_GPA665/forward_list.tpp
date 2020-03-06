@@ -30,6 +30,7 @@ forward_list<T>::forward_list(const forward_list<T>& x)
 		newNode->data = tempNode->data;
 
 		tempNode = tempNode->next;
+		previousNode = newNode;
 	}
 
 	m_tail = newNode;
@@ -66,6 +67,7 @@ forward_list<T>& forward_list<T>::operator=(const forward_list<T>& x)
 		newNode->data = tempNode->data;
 
 		tempNode = tempNode->next;
+		previousNode = newNode;
 	}
 
 	m_tail = newNode;

@@ -31,6 +31,7 @@ list<T>::list(const list<T>& x)
 		newNode->data = tempNode->data;
 
 		tempNode = tempNode->next;
+		previousNode = newNode;
 	}
 
 	m_tail = newNode;
@@ -80,6 +81,7 @@ list<T>& list<T>::operator=(const list<T>& x)
 		}
 
 		newNode->data = tempNode->data;
+		previousNode = newNode;
 	}
 
 	m_tail = newNode;
@@ -439,7 +441,7 @@ typename list<T>::iterator & list<T>::iterator::operator++()
 		m_node = m_node->next;
 	}
 
-	return *this
+	return *this;
 }
 
 template<class T>
@@ -529,7 +531,7 @@ template<class T>
 typename list<T>::backward_iterator & list<T>::backward_iterator::operator++()
 {
 	if (m_node) {
-		m_node = m_node.previous;
+		m_node = m_node->previous;
 	}
 
 	return *this;

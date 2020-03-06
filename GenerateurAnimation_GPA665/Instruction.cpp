@@ -50,7 +50,7 @@ Instruction & Instruction::operator=(Instruction && instruction)
 	func = instruction.func;
 	m_params = instruction.m_params;
 
-	*this;
+	return *this;
 }
 
 bool Instruction::load(const std::string& line)
