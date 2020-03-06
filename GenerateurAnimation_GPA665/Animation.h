@@ -7,7 +7,12 @@ class Animation
 public:
 	Animation();
 	Animation(const char *sScriptFile);
+	Animation(const Animation& animation);
+	Animation(Animation&& animation);
 	~Animation();
+
+	Animation& operator=(const Animation& animation);
+	Animation& operator=(Animation&& animation);
 
 	bool load(const char *sScriptFile);
 	bool unload();

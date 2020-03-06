@@ -9,7 +9,12 @@ class Frame
 public:
 	Frame();
 	Frame(const Vector<std::string>& frameStr);
+	Frame(const Frame& frame);
+	Frame(Frame&& frame);
 	~Frame();
+
+	Frame& operator=(const Frame& frame);
+	Frame& operator=(Frame&& frame);
 
 	bool load(const Vector<std::string>& frameStr);
 	bool unload();

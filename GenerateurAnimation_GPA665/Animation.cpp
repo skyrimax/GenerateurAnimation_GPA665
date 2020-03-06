@@ -11,8 +11,36 @@ Animation::Animation(const char * sScriptFile)
 	load(sScriptFile);
 }
 
+Animation::Animation(const Animation & animation)
+{
+	m_frames = animation.m_frames;
+	m_initFrame = animation.m_initFrame;
+}
+
+Animation::Animation(Animation && animation)
+{
+	m_frames = std::move(animation.m_frames);
+	m_initFrame = std::move(animation.m_initFrame);
+}
+
 Animation::~Animation()
 {
+}
+
+Animation & Animation::operator=(const Animation & animation)
+{
+	m_frames = animation.m_frames;
+	m_initFrame = animation.m_initFrame;
+
+	return *this;
+}
+
+Animation & Animation::operator=(Animation && animation)
+{
+	m_frames = std::move(animation.m_frames);
+	m_initFrame = std::move(animation.m_initFrame);
+
+	return *this;
 }
 
 bool Animation::load(const char * sScriptFile)

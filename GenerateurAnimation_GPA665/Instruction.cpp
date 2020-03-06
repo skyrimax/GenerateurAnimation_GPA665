@@ -21,8 +21,36 @@ Instruction::Instruction(const std::string& line)
 	load(line);
 }
 
+Instruction::Instruction(const Instruction & instruction)
+{
+	func = instruction.func;
+	m_params = instruction.m_params;
+}
+
+Instruction::Instruction(Instruction && instruction)
+{
+	func = instruction.func;
+	m_params = instruction.m_params;
+}
+
 Instruction::~Instruction()
 {
+}
+
+Instruction & Instruction::operator=(const Instruction & instruction)
+{
+	func = instruction.func;
+	m_params = instruction.m_params;
+
+	return *this;
+}
+
+Instruction & Instruction::operator=(Instruction && instruction)
+{
+	func = instruction.func;
+	m_params = instruction.m_params;
+
+	*this;
 }
 
 bool Instruction::load(const std::string& line)

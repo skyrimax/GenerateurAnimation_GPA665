@@ -9,8 +9,32 @@ Frame::Frame(const Vector<std::string>& frameStr)
 	load(frameStr);
 }
 
+Frame::Frame(const Frame & frame)
+{
+	m_instructions = frame.m_instructions;
+}
+
+Frame::Frame(Frame && frame)
+{
+	m_instructions = std::move(frame.m_instructions);
+}
+
 Frame::~Frame()
 {
+}
+
+Frame & Frame::operator=(const Frame & frame)
+{
+	m_instructions = frame.m_instructions;
+
+	return *this;
+}
+
+Frame & Frame::operator=(Frame && frame)
+{
+	m_instructions = std::move(frame.m_instructions);
+
+	return *this;
 }
 
 bool Frame::load(const Vector<std::string>& frameStr)

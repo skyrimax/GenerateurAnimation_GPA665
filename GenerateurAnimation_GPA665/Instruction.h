@@ -8,7 +8,12 @@ class Instruction
 public:
 	Instruction();
 	Instruction(const std::string& line);
+	Instruction(const Instruction& instruction);
+	Instruction(Instruction&& instruction);
 	~Instruction();
+
+	Instruction& operator=(const Instruction& instruction);
+	Instruction& operator=(Instruction&& instruction);
 
 	bool load(const std::string& line);
 	bool unload();
