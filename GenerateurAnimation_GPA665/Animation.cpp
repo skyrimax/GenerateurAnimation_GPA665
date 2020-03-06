@@ -153,7 +153,7 @@ bool Animation::playForward()
 		return false;
 	}
 
-	for (list<Frame>::iterator it = m_frames.begin(); it != m_frames.end(); it++) {
+	for (list<Frame>::iterator it = m_frames.begin(); it != m_frames.end(); ++it) {
 		if (!it->display()) {
 			return false;
 		}
@@ -168,7 +168,7 @@ bool Animation::playBackward()
 		return false;
 	}
 
-	for (list<Frame>::backward_iterator it = m_frames.rbegin(); it != m_frames.rend(); it++) {
+	for (list<Frame>::backward_iterator it = m_frames.rbegin(); it != m_frames.rend(); ++it) {
 		if (!it->display()) {
 			return false;
 		}

@@ -67,7 +67,7 @@ bool Frame::unload()
 
 bool Frame::display()
 {
-	for (forward_list<Instruction>::iterator it = m_instructions.begin(); it != m_instructions.end(); it++) {
+	for (forward_list<Instruction>::iterator it = m_instructions.begin(); it != m_instructions.end(); ++it) {
 		if (!it->exec()) {
 			return false;
 		}
