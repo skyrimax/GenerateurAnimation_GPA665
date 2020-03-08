@@ -10,6 +10,7 @@ public:
 	forward_list(forward_list<T>&& x);
 	~forward_list();
 
+	// Assignment operators
 	forward_list<T>& operator=(const forward_list<T>& x);
 	forward_list<T>& operator=(forward_list<T>&& x);
 
@@ -47,18 +48,23 @@ public:
 	class iterator
 	{
 	public:
+		// Basic constructors and destructor
 		iterator();
 		iterator(const iterator& it);
 		~iterator();
 
+		// Assignment operator
 		iterator& operator=(const iterator& it);
 
+		// Comparation operators
 		bool operator==(const iterator& it) const;
 		bool operator!=(const iterator& it) const;
 
+		// Pre and post incrementation operators
 		iterator& operator++();
 		iterator operator++(int);
 
+		// Dereference operators
 		T& operator*() const;
 		T* operator->() const;
 

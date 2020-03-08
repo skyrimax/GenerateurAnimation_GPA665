@@ -50,20 +50,25 @@ public:
 	class iterator
 	{
 	public:
+		// Basic constructors and destructor
 		iterator();
 		iterator(const iterator& it);
 		~iterator();
 
+		// Assignment operator
 		iterator& operator=(const iterator& it);
 
+		// Comparation operators
 		bool operator==(const iterator& it) const;
 		bool operator!=(const iterator& it) const;
 
+		// Pre and post incrementation and decrement operators
 		iterator& operator++();
 		iterator operator++(int);
 		iterator& operator--();
 		iterator operator--(int);
 
+		// Dereference operators
 		T& operator*() const;
 		T* operator->() const;
 
@@ -76,20 +81,25 @@ public:
 	class backward_iterator
 	{
 	public:
+		// Basic constructors and destructor
 		backward_iterator();
 		backward_iterator(const backward_iterator& it);
 		~backward_iterator();
 
+		// Assignment operator
 		backward_iterator& operator=(const backward_iterator& it);
 
+		// Comparation operators
 		bool operator==(const backward_iterator& it) const;
 		bool operator!=(const backward_iterator& it) const;
 
+		// Pre and post incrementation and decrement operators
 		backward_iterator& operator++();
 		backward_iterator operator++(int);
 		backward_iterator& operator--();
 		backward_iterator operator--(int);
 
+		// Dereference operators
 		T& operator*() const;
 		T* operator->() const;
 

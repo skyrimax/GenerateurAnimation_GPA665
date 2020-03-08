@@ -107,12 +107,12 @@ Vector<T>& Vector<T>::operator=(Vector<T>&& vector)
 	if (this != &vector) {
 		delete[] m_data;
 
-		//Transfert of the other vector's internal data to the calling object
+		// Transfert of the other vector's internal data to the calling object
 		m_size = vector.m_size;
 		m_capacity = vector.m_capacity;
 		m_data = vector.m_data;
 
-		//Removing ownership of data from other object
+		// Removing ownership of data from other object
 		vector.m_data = nullptr;
 		vector.m_size = 0;
 		vector.m_capacity = 0;
@@ -227,18 +227,21 @@ void Vector<T>::shrink_to_fit()
 	}
 }
 
+// Return element at index n
 template<class T>
 T & Vector<T>::operator[](size_type n)
 {
 	return m_data[n];
 }
 
+// Return element at index n
 template<class T>
 const T & Vector<T>::operator[](size_type n) const
 {
 	return m_data[n];
 }
 
+// Return element at index n, throw exception if index is out of range
 template<class T>
 T & Vector<T>::at(size_type n)
 {
@@ -250,6 +253,7 @@ T & Vector<T>::at(size_type n)
 	}
 }
 
+// Return element at index n, throw exception if index is out of range
 template<class T>
 const T & Vector<T>::at(size_type n) const
 {
@@ -261,6 +265,7 @@ const T & Vector<T>::at(size_type n) const
 	}
 }
 
+// Return first element, throw exception if index is out of range
 template<class T>
 T & Vector<T>::front()
 {
@@ -272,6 +277,7 @@ T & Vector<T>::front()
 	}
 }
 
+// Return first element, throw exception if index is out of range
 template<class T>
 const T & Vector<T>::front() const
 {
@@ -283,6 +289,7 @@ const T & Vector<T>::front() const
 	}
 }
 
+// Return last element, throw exception if index is out of range
 template<class T>
 T & Vector<T>::back()
 {
@@ -294,6 +301,7 @@ T & Vector<T>::back()
 	}
 }
 
+// Return last element, throw exception if index is out of range
 template<class T>
 const T & Vector<T>::back() const
 {
@@ -301,107 +309,137 @@ const T & Vector<T>::back() const
 		return m_data[m_size - 1];
 	}
 	else {
-		rthrow std::out_of_range("vector::_M_range_check");
+		throw std::out_of_range("vector::_M_range_check");
 	}
 }
 
+// Return raw data array
 template<class T>
 T * Vector<T>::data()
 {
 	return m_data;
 }
 
+// Return raw data array
 template<class T>
 const T * Vector<T>::data() const
 {
 	return m_data;
 }
 
+// The container is recreated with only the specified value
 template<class T>
 void Vector<T>::assign(size_type n, const T & val)
 {
+	// CLear container
 	delete[] m_data;
 
+	// Calculate new requiered capacity
 	m_capacity = pow(2, ceil(log2((double)n)));
 	m_size = n;
 
+	// Allocate memory for the container
 	m_data = new[m_capacity];
 
+	// Assign each element to the desired value
 	for (int i = 0; i < m_size; ++i) {
 		m_data[i] = T(val);
 	}
 }
 
+// Add value to the end of the container
 template<class T>
 void Vector<T>::push_back(const T & val)
 {
+	// Enlage container if necessary
 	reserve(m_size + 1);
 
+	// Assign value to past last element
 	m_data[m_size] = val;
 
+	// Add one element to the size
 	++m_size;
 }
 
+// Move value to the end of the container
 template<class T>
 void Vector<T>::push_back(T && val)
 {
+	// Enlage container if necessary
 	reserve(m_size + 1);
 
+	// Move value to past last element
 	m_data[m_size] = std::move(val);
 
+	// Add one element to the size
 	++m_size;
 }
 
+//Remove last element from the container
 template<class T>
 void Vector<T>::pop_back()
 {
+	// Decrease size by one element
 	--m_size;
 
+	// Reset last element
 	m_data[m_size] = T();
 }
 
+// Remove n element starting at index pos
 template<class T>
 void Vector<T>::erase(size_type pos, size_type n)
 {
 	int i;
 
+	// Move the data past limit over data to be erased
 	for (i = pos; i < pos + n && i + n < m_size; ++i) {
 		m_data[i] = m_data[i + n];
 	}
 
+	// Reset remaining data
 	for (; i < m_size, ++i) {
 		m_data[i] = T();
 	}
 
+	// Reduce sizer by n elements
 	m_size -= n;
 }
 
+// This container and vector swap content
 template<class T>
 void Vector<T>::swap(Vector<T>& vector)
 {
+	// Save data from this container for swap
 	size_type holdSize = m_size;
 	size_type holdCapacity = m_capacity;
 	T* holdArray = m_data;
 
+	// Overwrite this container's data with the one from vector
 	m_size = vector.m_size;
 	m_capacity = vector.m_capacity;
 	m_data = vector.m_data;
 
+	// Overwrite vector's data with the one from this container's data save in local variables
 	vector.m_size = holdSize;
 	vector.m_capacity = holdCapacity;
 	vector.m_data = holdArray;
 }
 
+// Remove all data from container
 template<class T>
 void Vector<T>::clear()
 {
+	// Reset all elements
 	for (size_type i = 0; i < m_size; ++i) {
 		m_data[i] = T();
 	}
 
+	// Size is set to 0
 	m_size = 0;
 }
 
+// Convenience fonction to swap data from 2 containers
 template<class T>
 inline void swap(Vector<T>& x, Vector<T>& y)
 {
