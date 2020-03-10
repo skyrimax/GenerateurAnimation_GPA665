@@ -17,7 +17,6 @@ bool	Media_Delay(Parameters *Param);
 bool	Media_DrawLine(Parameters *Param);
 bool	Media_DrawPixel(Parameters *Param);
 bool	Media_DrawRect(Parameters *Param);
-bool	Media_DrawPixel(Parameters *Param);
 bool	Media_DrawEllipse(Parameters *Param);
 bool	Media_DrawArc(Parameters *Param);
 bool	Media_SetBrushColor(Parameters *Param);

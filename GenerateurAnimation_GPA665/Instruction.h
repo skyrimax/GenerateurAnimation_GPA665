@@ -6,21 +6,26 @@
 class Instruction
 {
 public:
+	// Constructors and destructor
 	Instruction();
 	Instruction(const std::string& line);
 	Instruction(const Instruction& instruction);
 	Instruction(Instruction&& instruction);
 	~Instruction();
 
+	// Assignment operators
 	Instruction& operator=(const Instruction& instruction);
 	Instruction& operator=(Instruction&& instruction);
 
+	// Load and unload methods
 	bool load(const std::string& line);
 	bool unload();
 
+	// Method to execute the instruction with the parameters
 	bool exec();
 
 private:
+	// Convenience functions load each instruction and it's parameters
 	bool setcbru(std::stringstream& stream);
 	bool setcpen(std::stringstream& stream);
 	bool setdcir(std::stringstream& stream);
