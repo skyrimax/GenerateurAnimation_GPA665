@@ -8,7 +8,7 @@ class Instruction
 public:
 	// Constructors and destructor
 	Instruction();
-	Instruction(const std::string& line);
+	Instruction(const std::string& line, const std::string& path);
 	Instruction(const Instruction& instruction);
 	Instruction(Instruction&& instruction);
 	~Instruction();
@@ -18,7 +18,7 @@ public:
 	Instruction& operator=(Instruction&& instruction);
 
 	// Load and unload methods
-	bool load(const std::string& line);
+	bool load(const std::string& line, const std::string& path);
 	bool unload();
 
 	// Method to execute the instruction with the parameters
@@ -26,19 +26,19 @@ public:
 
 private:
 	// Convenience functions load each instruction and it's parameters
-	bool setcbru(std::stringstream& stream);
-	bool setcpen(std::stringstream& stream);
-	bool setdcir(std::stringstream& stream);
-	bool setdell(std::stringstream& stream);
-	bool setdlin(std::stringstream& stream);
-	bool setdpnt(std::stringstream& stream);
-	bool setdrec(std::stringstream& stream);
-	bool setdsqr(std::stringstream& stream);
-	bool setdtxt(std::stringstream& stream);
-	bool seteras(std::stringstream& stream);
-	bool setmsnd(std::stringstream& stream);
-	bool setwait(std::stringstream& stream);
-	bool setdummy(std::stringstream& stream);
+	bool setcbru(std::stringstream& stream, const std::string& path);
+	bool setcpen(std::stringstream& stream, const std::string& path);
+	bool setdcir(std::stringstream& stream, const std::string& path);
+	bool setdell(std::stringstream& stream, const std::string& path);
+	bool setdlin(std::stringstream& stream, const std::string& path);
+	bool setdpnt(std::stringstream& stream, const std::string& path);
+	bool setdrec(std::stringstream& stream, const std::string& path);
+	bool setdsqr(std::stringstream& stream, const std::string& path);
+	bool setdtxt(std::stringstream& stream, const std::string& path);
+	bool seteras(std::stringstream& stream, const std::string& path);
+	bool setmsnd(std::stringstream& stream, const std::string& path);
+	bool setwait(std::stringstream& stream, const std::string& path);
+	bool setdummy(std::stringstream& stream, const std::string& path);
 
 	bool (*func)(Parameters* params);
 	Parameters m_params;

@@ -65,6 +65,17 @@ bool Animation::load(const char * sScriptFile)
 	// The parse used to load the animation is based on a
 	// finite state transducer
 
+	// Get path to parent folder, will be used to load
+	// additionnal files if necessary
+	std::string filename(sScriptFile);
+	std::string directory;
+
+	const size_t last_slash_idx = filename.rfind('\\');
+	if (std::string::npos != last_slash_idx)
+	{
+		directory = filename.substr(0, last_slash_idx);
+	}
+
 	// Open the script file
 	std::fstream script(sScriptFile);
 
@@ -135,7 +146,7 @@ bool Animation::load(const char * sScriptFile)
 			// Else if the line is "FRAME" (end of init frame is reached)
 			else if (line.find(frame) != std::string::npos) {
 				// Load the init frame with the lines composing it
-				if (m_initFrame.load(lines)) {
+				if (m_initFrame.load(lines, directory)) {
 					// If it was successful, move the parser to Frame state
 					state = FSTParserState::Frame;
 					// Clear the lines that were used to create the init frame
@@ -162,7 +173,7 @@ bool Animation::load(const char * sScriptFile)
 			// Else if the line is "FRAME" (the end of the current frame was reached)
 			else if (line.find(frame) != std::string::npos) {
 				// Load the frame with the lines composing it
-				if (fr.load(lines)) {
+				if (fr.load(lines, directory)) {
 					// If it was successful, add the frame to the animation
 					m_frames.push_back(fr);
 					// Clear the lines that were used to create the current frame
@@ -176,9 +187,9 @@ bool Animation::load(const char * sScriptFile)
 			// Else if the line is "END" (the end of the script was reached)
 			else if (line.find(end) != std::string::npos) {
 				// Load the last frame with the lines composing it
-				if (fr.load(lines)) {
+				if (fr.load(lines, directory)) {
 					// If it was successful, add the frame to the animation
-					m_frames.push_back(Frame(lines));
+					m_frames.push_back(fr);
 					// No error occurred during the parsing
 					ret = true;
 					// Move the parser to the End state

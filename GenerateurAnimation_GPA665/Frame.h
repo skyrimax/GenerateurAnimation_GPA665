@@ -9,7 +9,7 @@ class Frame
 public:
 	// Constructors and destructor
 	Frame();
-	Frame(const Vector<std::string>& frameStr);
+	Frame(const Vector<std::string>& frameStr, const std::string& path);
 	Frame(const Frame& frame);
 	Frame(Frame&& frame);
 	~Frame();
@@ -19,7 +19,7 @@ public:
 	Frame& operator=(Frame&& frame);
 
 	// Load and unload methods
-	bool load(const Vector<std::string>& frameStr);
+	bool load(const Vector<std::string>& frameStr, const std::string& path);
 	bool unload();
 
 	// Methods to display the frame

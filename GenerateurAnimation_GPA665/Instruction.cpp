@@ -20,10 +20,10 @@ Instruction::Instruction()
 }
 
 // Constructor allowing the loading of an intructions at construction
-Instruction::Instruction(const std::string& line)
+Instruction::Instruction(const std::string& line, const std::string& path)
 {
 	// Load the instruction from a line
-	load(line);
+	load(line, path);
 }
 
 // Copy constructor
@@ -72,7 +72,7 @@ Instruction & Instruction::operator=(Instruction && instruction)
 }
 
 // Load the instruction from a line
-bool Instruction::load(const std::string& line)
+bool Instruction::load(const std::string& line, const std::string& path)
 {
 	// Unload the instruction if it is not already empty
 	unload();
@@ -88,44 +88,44 @@ bool Instruction::load(const std::string& line)
 	// Based on the instruction, select the appropriate
 	// loading function for it and it's parameters
 	if (data == std::string("cbru")) {
-		return setcbru(stream);
+		return setcbru(stream, path);
 	}
 	else if (data == std::string("cpen")) {
-		return setcpen(stream);
+		return setcpen(stream, path);
 	}
 	else if (data == std::string("dcir")) {
-		return setdcir(stream);
+		return setdcir(stream, path);
 	}
 	else if (data == std::string("dell")) {
-		return setdell(stream);
+		return setdell(stream, path);
 	}
 	else if (data == std::string("dlin")) {
-		return setdlin(stream);
+		return setdlin(stream, path);
 	}
 	else if (data == std::string("dpnt")) {
-		return setdpnt(stream);
+		return setdpnt(stream, path);
 	}
 	else if (data == std::string("drec")) {
-		return setdrec(stream);
+		return setdrec(stream, path);
 	}
 	else if (data == std::string("dsqr")) {
-		return setdsqr(stream);
+		return setdsqr(stream, path);
 	}
 	else if (data == std::string("dtxt")) {
-		return setdtxt(stream);
+		return setdtxt(stream, path);
 	}
 	else if (data == std::string("eras")) {
-		return seteras(stream);
+		return seteras(stream, path);
 	}
 	else if (data == std::string("msnd")) {
-		return setmsnd(stream);
+		return setmsnd(stream, path);
 	}
 	else if (data == std::string("wait")) {
-		return setwait(stream);
+		return setwait(stream, path);
 	}
 	// if the instruction is not recognized, load a dummy function
 	else {
-		return setdummy(stream);
+		return setdummy(stream, path);
 	}
 
 	// if an error occured, signal so
@@ -163,7 +163,7 @@ bool dummyFunc(Parameters* params)
 }
 
 // Set function and parameters for cbru
-bool Instruction::setcbru(std::stringstream & stream)
+bool Instruction::setcbru(std::stringstream & stream, const std::string& path)
 {
 	std::string data;
 	m_params.NbrParam = 3;
@@ -195,7 +195,7 @@ bool Instruction::setcbru(std::stringstream & stream)
 }
 
 // Set function and parameters for cpen
-bool Instruction::setcpen(std::stringstream & stream)
+bool Instruction::setcpen(std::stringstream & stream, const std::string& path)
 {
 	std::string data;
 	m_params.NbrParam = 3;
@@ -227,7 +227,7 @@ bool Instruction::setcpen(std::stringstream & stream)
 }
 
 // Set function and parameters for dcir
-bool Instruction::setdcir(std::stringstream & stream)
+bool Instruction::setdcir(std::stringstream & stream, const std::string& path)
 {
 	int val[3];
 	std::string data;
@@ -267,7 +267,7 @@ bool Instruction::setdcir(std::stringstream & stream)
 }
 
 // Set function and parameters for dell
-bool Instruction::setdell(std::stringstream & stream)
+bool Instruction::setdell(std::stringstream & stream, const std::string& path)
 {
 	std::string data;
 	m_params.NbrParam = 4;
@@ -299,7 +299,7 @@ bool Instruction::setdell(std::stringstream & stream)
 }
 
 // Set function and parameters for dlin
-bool Instruction::setdlin(std::stringstream & stream)
+bool Instruction::setdlin(std::stringstream & stream, const std::string& path)
 {
 	std::string data;
 	m_params.NbrParam = 4;
@@ -331,7 +331,7 @@ bool Instruction::setdlin(std::stringstream & stream)
 }
 
 // Set function and parameters for dpnt
-bool Instruction::setdpnt(std::stringstream & stream)
+bool Instruction::setdpnt(std::stringstream & stream, const std::string& path)
 {
 	std::string data;
 	m_params.NbrParam = 2;
@@ -363,7 +363,7 @@ bool Instruction::setdpnt(std::stringstream & stream)
 }
 
 // Set function and parameters for drect
-bool Instruction::setdrec(std::stringstream & stream)
+bool Instruction::setdrec(std::stringstream & stream, const std::string& path)
 {
 	std::string data;
 	m_params.NbrParam = 4;
@@ -395,7 +395,7 @@ bool Instruction::setdrec(std::stringstream & stream)
 }
 
 // Set function and parameters for dsqr
-bool Instruction::setdsqr(std::stringstream & stream)
+bool Instruction::setdsqr(std::stringstream & stream, const std::string& path)
 {
 	int val[3];
 	std::string data;
@@ -435,7 +435,7 @@ bool Instruction::setdsqr(std::stringstream & stream)
 }
 
 // Set function and parameters for dtxt
-bool Instruction::setdtxt(std::stringstream & stream)
+bool Instruction::setdtxt(std::stringstream & stream, const std::string& path)
 {
 	std::string data;
 	m_params.NbrParam = 3;
@@ -478,7 +478,7 @@ bool Instruction::setdtxt(std::stringstream & stream)
 }
 
 // Set function and parameters for eras
-bool Instruction::seteras(std::stringstream & stream)
+bool Instruction::seteras(std::stringstream & stream, const std::string& path)
 {
 	std::string data;
 	m_params.NbrParam = 3;
@@ -510,7 +510,7 @@ bool Instruction::seteras(std::stringstream & stream)
 }
 
 // Set function and parameters for msnd
-bool Instruction::setmsnd(std::stringstream & stream)
+bool Instruction::setmsnd(std::stringstream & stream, const std::string& path)
 {
 	std::string data;
 	m_params.NbrParam = 1;
@@ -521,7 +521,7 @@ bool Instruction::setmsnd(std::stringstream & stream)
 	try {
 		// Extract the name of the sound file to be played and store in the string of m_params
 		stream >> data;
-		strcpy_s(m_params.String, sizeof m_params.String, data.c_str());
+		strcpy_s(m_params.String, sizeof m_params.String, (path + "\\" + data).c_str());
 	}
 	catch (std::exception& e) {
 		// if the parameters is not available, return that an error occured
@@ -539,7 +539,7 @@ bool Instruction::setmsnd(std::stringstream & stream)
 }
 
 // Set function and parameters for wait
-bool Instruction::setwait(std::stringstream & stream)
+bool Instruction::setwait(std::stringstream & stream, const std::string& path)
 {
 	std::string data;
 	m_params.NbrParam = 1;
@@ -568,7 +568,7 @@ bool Instruction::setwait(std::stringstream & stream)
 }
 
 // Set function and parameters for dummy function
-bool Instruction::setdummy(std::stringstream & stream)
+bool Instruction::setdummy(std::stringstream & stream, const std::string& path)
 {
 	// set function
 	func = dummyFunc;

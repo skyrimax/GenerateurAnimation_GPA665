@@ -7,10 +7,10 @@ Frame::Frame()
 
 // Constructor allowing the loading of a frame
 // from a list of lines at creation
-Frame::Frame(const Vector<std::string>& frameStr)
+Frame::Frame(const Vector<std::string>& frameStr, const std::string& path)
 {
 	// Load frame from list of lines
-	load(frameStr);
+	load(frameStr, path);
 }
 
 // Copy constructor
@@ -51,7 +51,7 @@ Frame & Frame::operator=(Frame && frame)
 }
 
 // Load frame with instrtuctions from a list of lines
-bool Frame::load(const Vector<std::string>& frameStr)
+bool Frame::load(const Vector<std::string>& frameStr, const std::string& path)
 {
 	// Unload the frame of it is no already empty
 	if (!unload()) {
@@ -65,7 +65,7 @@ bool Frame::load(const Vector<std::string>& frameStr)
 	// Run through each line...
 	for (size_t i = 0; i < size; ++i) {
 		// and load the next instruction with it
-		if (inst.load(frameStr[i])) {
+		if (inst.load(frameStr[i], path)) {
 			// If it is successful, add to this frame's instructions
 			m_instructions.push_back(inst);
 		}
