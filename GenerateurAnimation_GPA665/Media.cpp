@@ -50,7 +50,7 @@ bool Media_PlaySound(Parameters *Param)
 {
 	if(!Param)
 		return false; 
-	return PlaySound(Param->String,NULL , SND_ASYNC)?true:false;
+	return PlaySound(Param->String,NULL , SND_FILENAME | SND_ASYNC)?true:false;
 }
 
 

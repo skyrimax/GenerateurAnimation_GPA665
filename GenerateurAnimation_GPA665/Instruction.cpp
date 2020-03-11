@@ -457,21 +457,41 @@ bool Instruction::setdtxt(std::stringstream & stream, const std::string& path)
 		}
 	}
 
-	try {
-		// Extract the message to be displayed and store in the string of m_params
-		stream >> data;
-		strcpy_s(m_params.String, sizeof m_params.String, data.c_str());
-	}
-	catch (std::exception& e) {
-		// if the parameters is not available, return that an error occured
-		std::cerr << e.what() << '\n';
-		return false;
+	//try {
+	//	// Extract the message to be displayed and store in the string of m_params
+	//	stream >> data;
+	//	strcpy_s(m_params.String, sizeof m_params.String, data.c_str());
+	//}
+	//catch (std::exception& e) {
+	//	// if the parameters is not available, return that an error occured
+	//	std::cerr << e.what() << '\n';
+	//	return false;
+	//}
+
+	std::string word;
+	data.clear();
+
+	// Extract the rest of the line
+	while (!stream.eof())
+	{
+		try {
+			// Extract the next word and append it to the line with space
+			stream >> word;
+			data += std::string(" ") += word;
+		}
+		catch (std::exception& e) {
+			// if a parameters is not available, return that an error occured
+			std::cerr << e.what() << '\n';
+			return false;
+		}
 	}
 
+	strcpy_s(m_params.String, sizeof m_params.String, data.c_str());
+
 	// Return an error if there are parameters remaining in the line
-	if (!stream.eof()) {
+	/*if (!stream.eof()) {
 		return false;
-	}
+	}*/
 
 	// If all goes well, signal that no error occured
 	return true;
@@ -518,21 +538,42 @@ bool Instruction::setmsnd(std::stringstream & stream, const std::string& path)
 	// set function
 	func = Media_PlaySound;
 
-	try {
-		// Extract the name of the sound file to be played and store in the string of m_params
-		stream >> data;
-		strcpy_s(m_params.String, sizeof m_params.String, (path + "\\" + data).c_str());
-	}
-	catch (std::exception& e) {
-		// if the parameters is not available, return that an error occured
-		std::cerr << e.what() << '\n';
-		return false;
+	//try {
+	//	// Extract the name of the sound file to be played and store in the string of m_params
+	//	stream >> data;
+	//	strcpy_s(m_params.String, sizeof m_params.String, (path + "\\" + data).c_str());
+	//}
+	//catch (std::exception& e) {
+	//	// if the parameters is not available, return that an error occured
+	//	std::cerr << e.what() << '\n';
+	//	return false;
+	//}
+
+	std::string word;
+
+	// Extract the rest of the line
+	while (!stream.eof())
+	{
+		try {
+			// Extract the next word and append it to the line with space
+			stream >> word;
+			data += std::string(" ") += word;
+		}
+		catch (std::exception& e) {
+			// if a parameters is not available, return that an error occured
+			std::cerr << e.what() << '\n';
+			return false;
+		}
 	}
 
+	// Copy the full path of the sound file
+	strcpy_s(m_params.String, sizeof m_params.String, (path + "\\" + data).c_str());
+	//strcpy_s(m_params.String, sizeof m_params.String, data.c_str());
+
 	// Return an error if there are parameters remaining in the line
-	if (!stream.eof()) {
+	/*if (!stream.eof()) {
 		return false;
-	}
+	}*/
 
 	// If all goes well, signal that no error occured
 	return true;
