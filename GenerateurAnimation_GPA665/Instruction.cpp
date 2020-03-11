@@ -477,7 +477,13 @@ bool Instruction::setdtxt(std::stringstream & stream, const std::string& path)
 		try {
 			// Extract the next word and append it to the line with space
 			stream >> word;
-			data += std::string(" ") += word;
+			if (!data.empty()) {
+				data += std::string(" ") += word;
+			}
+			else
+			{
+				data = word;
+			}
 		}
 		catch (std::exception& e) {
 			// if a parameters is not available, return that an error occured
@@ -557,7 +563,13 @@ bool Instruction::setmsnd(std::stringstream & stream, const std::string& path)
 		try {
 			// Extract the next word and append it to the line with space
 			stream >> word;
-			data += std::string(" ") += word;
+			if (!data.empty()) {
+				data += std::string(" ") += word;
+			}
+			else
+			{
+				data = word;
+			}
 		}
 		catch (std::exception& e) {
 			// if a parameters is not available, return that an error occured
@@ -568,7 +580,6 @@ bool Instruction::setmsnd(std::stringstream & stream, const std::string& path)
 
 	// Copy the full path of the sound file
 	strcpy_s(m_params.String, sizeof m_params.String, (path + "\\" + data).c_str());
-	//strcpy_s(m_params.String, sizeof m_params.String, data.c_str());
 
 	// Return an error if there are parameters remaining in the line
 	/*if (!stream.eof()) {
