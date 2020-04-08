@@ -1,0 +1,28 @@
+TEST
+INIT
+cbru 255 255 255
+cpen 0 0 0
+eras 255 255 255
+FRAME
+eras 255 255 255
+dlin 1000 0 1000 200
+dlin 0 200 1000 200
+dtxt 5 50 0
+dtxt 25 0 vx(m/s)
+dtxt 980 55 t(s)
+dlin 15 5 15 95
+dlin 15 5 10 10
+dlin 15 5 20 10
+dlin 5 50 995 50
+dlin 995 50 990 45
+dlin 995 50 990 55
+dtxt 5 150 0
+dtxt 25 100 vy(m/s)
+dtxt 980 155 t(s)
+dlin 15 105 15 195
+dlin 15 105 10 110
+dlin 15 105 20 110
+dlin 5 150 995 150
+dlin 995 150 990 145
+dlin 995 150 990 155
+END

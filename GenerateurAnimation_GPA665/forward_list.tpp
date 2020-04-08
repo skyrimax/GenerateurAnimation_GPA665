@@ -15,7 +15,7 @@ template<class T>
 forward_list<T>::forward_list(const forward_list<T>& x)
 {
 	Node* tempNode = x.m_head;
-	Node* newNode;
+	Node* newNode=nullptr;
 	Node* previousNode=nullptr;
 
 	// Do untile the end of the container is reached
@@ -81,7 +81,7 @@ template<class T>
 forward_list<T>& forward_list<T>::operator=(const forward_list<T>& x)
 {
 	Node* tempNode = x.m_head;
-	Node* newNode;
+	Node* newNode=nullptr;
 	Node* previousNode = nullptr;
 
 	// Empty the current structure
